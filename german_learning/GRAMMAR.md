@@ -29,7 +29,7 @@ Format per topic:
 - **Basic prepositions** (A1) — NOT_STARTED
 - **Word order: verb-second** (A1) — NOT_STARTED
 - **Yes/no questions** (A1) — NOT_STARTED
-- **W-questions** (A1) — NOT_STARTED
+- **W-questions** (A1) — INTRODUCED | understanding: good | production: mostly correct, one du/haben conjugation slip | common mistakes: du+haben conjugated as haben instead of hast | last revision: 2026-08-29 | next revision: 2026-08-30 | retest: yes
 - **Imperative** (A1) — NOT_STARTED
 - **Basic conjunctions (und, aber, oder, denn)** (A1) — NOT_STARTED
 

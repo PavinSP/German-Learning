@@ -39,6 +39,15 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29
 - Status: ACTIVE — needs a dedicated short lesson (not yet formally taught)
 
+### [conjugation] du + haben conjugated as haben instead of hast
+- Incorrect: Was haben du?
+- Correct:   Was hast du?
+- Why:       du always takes hast (haben) / bist (sein), not the wir/sie base form.
+             Likely just a slip since ich/du forms were correct earlier — watch for recurrence.
+- Frequency: 1
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE — light, retest in next revision cycle
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
