@@ -17,3 +17,16 @@ same, disambiguated by capitalization mid-sentence and by context.
 
 Yes. *ihr* = informal plural "you" (friends, family, kids) — never formal.
 Formal "you", singular or plural, is always *Sie* + *sind*.
+
+### 2026-08-29 — Q3: "We have no time" — keine Zeit vs nicht viel Zeit — which is correct?
+
+Both are correct, but they mean different things, not interchangeable versions of
+the same sentence:
+- **Wir haben keine Zeit.** — "We have no time (at all)." Complete negation, zero time.
+- **Wir haben nicht viel Zeit.** — "We don't have much time." Some time exists, just
+  not a lot.
+
+Why *nicht* works in the second one despite the "nicht negates verbs/adjectives,
+kein/keine negates nouns" rule: nicht isn't negating the noun *Zeit* here — it's
+negating the adjective/quantifier *viel* ("much"). That's consistent with the rule,
+not an exception to it.
