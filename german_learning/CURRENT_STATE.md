@@ -23,9 +23,9 @@ CURRENT REVISION:
 None yet (nothing taught before today)
 
 NEXT ACTION:
-Continue/complete Lesson 1 (greetings, sein, personal pronouns) if not finished this
-session. Otherwise begin Lesson 2 with a quick retrieval check on Lesson 1 material first.
+Lesson 1 (greetings, sein, haben, first nouns/articles) fully produced correctly by
+learner. Start next session with a brief retrieval check on Lesson 1, then move to
+Lesson 2: accusative case intro + more vocabulary (food/family), or negation.
 
 DO NOT START NEW TOPIC UNTIL:
-Lesson 1 core material (sein conjugation + basic greetings) has been actively produced
-correctly by the learner at least once.
+Retrieval check on Lesson 1 (sein, haben, greetings, der/die/das nouns) passes.
