@@ -1,32 +1,31 @@
 # CURRENT STATE
 
 CURRENT LEVEL:
-UNASSESSED (assumed forgotten beginner — diagnostic pending)
+PRE-A1 / Foundation (confirmed true beginner — diagnostic returned zero prior knowledge)
 
 CURRENT MODULE:
-Diagnostic
+Foundation
 
 CURRENT LESSON:
-Diagnostic Assessment (Session 1)
+Lesson 1 — Greetings, sein (to be), personal pronouns
 
 CURRENT TOPIC:
-Determining actual starting point
+Basic greetings and introductions
 
 LAST SESSION:
-2026-08-28 — System initialized. Diagnostic issued but learner postponed it to 2026-08-29.
-No German material has been taught or assessed yet.
+2026-08-29 — Diagnostic completed: learner answered "no idea" to all 10 questions.
+Confirmed genuine restart from zero. Beginning Foundation module, Lesson 1.
 
 KNOWN WEAKNESSES:
-UNCERTAIN — not yet assessed
+Everything is new — no specific weak points yet, whole foundation to be built.
 
 CURRENT REVISION:
-None yet
+None yet (nothing taught before today)
 
 NEXT ACTION:
-Re-issue the Session 1 diagnostic (10 questions: greetings, sein/haben, articles, basic
-vocabulary, word order, numbers, short self-intro). Learner answers it, grade honestly,
-record results in SESSION_LOG.md and MASTER_PROGRESS.md, determine starting point,
-then build Lesson 1. Planned resume date: 2026-08-29.
+Continue/complete Lesson 1 (greetings, sein, personal pronouns) if not finished this
+session. Otherwise begin Lesson 2 with a quick retrieval check on Lesson 1 material first.
 
 DO NOT START NEW TOPIC UNTIL:
-The diagnostic is completed and graded.
+Lesson 1 core material (sein conjugation + basic greetings) has been actively produced
+correctly by the learner at least once.
