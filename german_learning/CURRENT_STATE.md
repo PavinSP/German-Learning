@@ -7,25 +7,32 @@ CURRENT MODULE:
 Foundation
 
 CURRENT LESSON:
-Lesson 1 — Greetings, sein (to be), personal pronouns
+Lesson 1 — COMPLETE (greetings, sein, haben, articles/nouns, nicht, kein/keine, W-questions)
 
 CURRENT TOPIC:
-Basic greetings and introductions
+Session closed. Next: retrieval check, then either basic conjunctions (aber/und/oder)
+or accusative case intro.
 
 LAST SESSION:
-2026-08-29 — Diagnostic completed: learner answered "no idea" to all 10 questions.
-Confirmed genuine restart from zero. Beginning Foundation module, Lesson 1.
+2026-08-29 (Session 2) — Full Lesson 1 taught and correctly produced, including two
+retries after real errors. See daily_notes/2026-08-29.md for full detail.
 
 KNOWN WEAKNESSES:
-Everything is new — no specific weak points yet, whole foundation to be built.
+- du + haben conjugation (said "haben" instead of "hast") — occurred once, then
+  self-corrected in the same session's later exercises. Worth a light retest, not
+  a serious gap.
+- ein/eine gender agreement with das-words (said "eine Buch" instead of "ein Buch")
+- Minor EN-spelling leakage on ist/bist (is/bust) — cosmetic, not conceptual
 
 CURRENT REVISION:
-None yet (nothing taught before today)
+sein, haben, nicht, kein/keine, W-questions — all due for retrieval check next session
+(same-day-of-next-session interval per spaced repetition schedule)
 
 NEXT ACTION:
-Lesson 1 (greetings, sein, haben, first nouns/articles) fully produced correctly by
-learner. Start next session with a brief retrieval check on Lesson 1, then move to
-Lesson 2: accusative case intro + more vocabulary (food/family), or negation.
+Start next session with a short retrieval check covering: sein/haben conjugation
+(especially du forms), nicht vs kein/keine, W-question word order, and ein/eine
+gender for das-words. If it passes cleanly, introduce basic conjunctions (aber, und,
+oder) as the next small step — keep pace slow per learner's stated preference.
 
 DO NOT START NEW TOPIC UNTIL:
-Retrieval check on Lesson 1 (sein, haben, greetings, der/die/das nouns) passes.
+Retrieval check above passes.

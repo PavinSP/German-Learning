@@ -48,6 +48,15 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29
 - Status: ACTIVE — light, retest in next revision cycle
 
+### [article] ein/eine gender mismatch with das-words
+- Incorrect: Ich habe eine Buch.
+- Correct:   Ich habe ein Buch.
+- Why:       Buch is a das-word (neuter). eine is only for die-words (feminine);
+             das-words and der-words both take ein in the indefinite article.
+- Frequency: 1
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE — light, retest with more das-word nouns
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
