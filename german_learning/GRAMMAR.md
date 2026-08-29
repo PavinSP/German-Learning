@@ -30,7 +30,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Yes/no questions | NOT_STARTED | — | — | — | — | — | — |
 | W-questions | FUNCTIONAL | Good | Correct across sessions, including self-generated question | Earlier du/haben slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
 | Imperative | NOT_STARTED | — | — | — | — | — | — |
-| Basic conjunctions (und, aber, oder, denn) | NOT_STARTED | — | — | — | — | — | — |
+| Basic conjunctions (und, aber, oder, denn) | LEARNING | Good | Correct, including a 3-clause self-generated sentence with 2 conjunctions | sie/Sie capitalization mid-sentence (not a conjunction error itself, but surfaced here) | 2026-08-29 | 2026-09-01 | Yes |
 
 ## A2
 

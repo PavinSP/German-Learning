@@ -57,6 +57,17 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29
 - Status: ACTIVE — light, retest with more das-word nouns
 
+### [other] sie vs Sie capitalization mid-sentence
+- Incorrect: Die Frau ist glücklich, denn Sie hat ein Buch.
+- Correct:   Die Frau ist glücklich, denn sie hat ein Buch.
+- Why:       sie (lowercase) = "she"; Sie (capitalized) = formal "you". Mid-sentence,
+             capitalizing it makes it read as formal "you" instead of "she". Same
+             underlying point as ANSWERS.md Q1 (2026-08-29) — first time it appeared
+             in the learner's own production rather than just being asked about.
+- Frequency: 1
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE — watch for recurrence, since the concept was already explained once
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
