@@ -12,10 +12,10 @@
 |---|---|
 | Current CEFR level | PRE-A1 / Foundation |
 | Current module | Foundation |
-| Current lesson | Lesson 1 — COMPLETE |
-| Current topic | Retrieval check pending, then conjunctions or accusative |
+| Current lesson | Lesson 3 (Plurals) — COMPLETE |
+| Current topic | Retrieval check pending, then accusative case or possessive articles |
 | Last session date | 2026-08-29 |
-| Session count | 2 |
+| Session count | 2 (extended session) |
 
 ## Completed Topics
 - Greetings (Hallo, Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen)
@@ -26,27 +26,36 @@
 - Negation: nicht
 - Negation: kein/keine
 - W-questions (wer/was/wo/wann/warum/wie) + verb-second word order
+- Basic conjunctions (und/aber/oder/denn)
+- Plurals (die + memorized singular/plural pairs)
 
-Note: "completed" = introduced and correctly produced at least once — not yet MASTERED
-(needs correct spontaneous use across multiple future sessions per mastery criteria).
+Note: "completed" = introduced and correctly produced at least once. sein, haben,
+articles, nicht, kein/keine, and W-questions have since passed a same-day retrieval
+check and are now FUNCTIONAL (see GRAMMAR.md). Conjunctions and plurals are LEARNING —
+correct so far but not yet retested. None are MASTERED yet (needs correct spontaneous
+use across multiple future sessions).
 
 ## Topics In Progress
-- None new started — session ended on consolidation/retrieval, not new material
+- Conjunctions and plurals — introduced and correctly produced today, awaiting a
+  future-session retrieval check to confirm retention
 
 ## Topics Requiring Revision
-- du + haben conjugation (one slip, self-corrected same session — light retest)
-- ein/eine gender agreement with das-words (one slip — retest)
-- sein vs haben pairing with adjectives vs nouns (one early slip, corrected on retry)
+- sie vs Sie capitalization (she vs formal you) — appeared twice now, once as a
+  question and once in the learner's own production. This is the main watch-item
+  for next session.
+- du + haben conjugation and ein/eine gender — both retested clean today (FUNCTIONAL),
+  keep on normal spaced schedule, no longer urgent
 
 ## Weak Areas
-- Conjugation consistency for "du" forms across verbs (watch, not yet a confirmed pattern)
-- Gender-based article agreement (ein vs eine)
+- sie/Sie capitalization mid-sentence — recurring, needs a dedicated check next session
 
 ## Strong Areas
-- sein and haben conjugation overall (wir/sie forms, most persons) — consistently correct
-- W-question word order (verb-second) — correct including in a self-generated sentence
-- nicht vs kein/keine — correct on retry, and the underlying rule (verbs/adjectives vs
-  nouns) was applied correctly in a new context (Q3 in ANSWERS.md)
+- sein and haben conjugation, all persons, including du — retested clean
+- W-question word order (verb-second) — consistently correct
+- nicht vs kein/keine — consistently correct, rule applied correctly in new contexts
+- ein/eine gender agreement — retested clean after one earlier slip
+- Conjunctions — handled a 3-clause self-generated sentence with 2 conjunctions correctly
+- Plurals — "always die" rule and a brand-new word (zwei) both correct on first attempt
 
 ## Skill Progress
 
@@ -60,24 +69,28 @@ Note: "completed" = introduced and correctly produced at least once — not yet 
 | Speaking | Not yet practiced (voice mode workflow discussed but not used) |
 
 ## Recurring Mistakes
-- See ERROR_LOG.md — 5 entries logged 2026-08-29, none yet at "recurring" frequency (all count=1)
+- See ERROR_LOG.md — 6 entries logged 2026-08-29. sie/Sie capitalization is the only
+  one that's appeared twice (frequency 1 each but same underlying concept) — watch closely.
 
 ## Recent Assessment Results
 - 2026-08-28: Diagnostic — "no idea" to all 10 questions → confirmed true beginner, PRE-A1
-- 2026-08-29: Lesson 1 exercises (5 sets) — strong performance, errors corrected on retry
+- 2026-08-29 (morning): Lesson 1 exercises (5 sets) — strong performance, errors corrected on retry
+- 2026-08-29 (post-breakfast): Retrieval check — 5/5 correct, all earlier weak points resolved.
+  Lesson 2 (conjunctions) and Lesson 3 (plurals) — both 5/5 correct, one sie/Sie slip.
 
 ## Last Session Summary
-2026-08-29 (Session 2): Full Lesson 1 delivered slowly and in depth per learner's
-explicit preference for foundation over speed. Covered sein, haben, articles/nouns,
-nicht, kein/keine, W-questions. All material correctly produced by session end,
-including self-correction of an earlier du+haben slip. See daily_notes/2026-08-29.md.
+2026-08-29 (Session 2, extended across two sittings): Full Lesson 1 delivered slowly
+and in depth. Retrieval check after a break confirmed retention (5/5, no errors).
+Went on to introduce conjunctions and plurals, both handled well including
+self-generated multi-clause sentences. One recurring soft spot identified: sie/Sie
+capitalization. See daily_notes/2026-08-29.md for full detail.
 
 ## Exact Next Step
-Next session: retrieval check on all of Lesson 1, especially du-conjugation and
-ein/eine gender agreement. If solid, introduce basic conjunctions (aber/und/oder) —
-small, slow step per learner's pacing preference.
+Next session: retrieval check on conjunctions, plurals, and specifically sie/Sie
+capitalization (targeted check, since it's recurred twice). If solid, introduce
+accusative case or possessive articles (mein/dein) — one new small step, keep pace slow.
 
 ## Recommended Revision Schedule
-- Lesson 1 material (sein, haben, nicht, kein/keine, W-questions): review at start of
-  next session (same/next-day interval), then +3d, +7d, +14d, +30d per standard schedule,
-  adjusted based on performance.
+- sein, haben, nicht, kein/keine, W-questions, articles: FUNCTIONAL, next check 2026-09-01 (+3d)
+- Conjunctions, plurals: LEARNING, check again next session before extending interval
+- sie/Sie capitalization: needs explicit attention next session regardless of schedule

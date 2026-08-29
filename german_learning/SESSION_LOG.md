@@ -31,6 +31,26 @@ Newest entries at the top.
   practice), and discussed live voice practice (not available in Claude Code;
   pointed to Claude app voice mode with a context blurb, not yet used).
 
+### Session 2 continued (same day, post-breakfast)
+
+- **Topics:** Retrieval check on Lesson 1 → basic conjunctions (und/aber/oder/denn)
+  → plurals
+- **Vocabulary learned:** und, aber, oder, denn, zwei
+- **Exercises completed:** retrieval check (5/5), conjunctions set (5/5, 1 slip),
+  plurals set (5/5)
+- **Mistakes:** sie/Sie capitalization mid-sentence (Sie hat → sie hat) — appeared
+  in own production this time, not just as a question; flagged as the key watch-item
+- **Revision performed:** Full retrieval check on sein, haben, nicht, kein/keine,
+  W-questions, articles — all passed cleanly, promoted to FUNCTIONAL in GRAMMAR.md
+- **Assessment result:** Strong — zero errors on retrieval check and on plurals;
+  one capitalization slip on conjunctions
+- **Struggled with:** sie/Sie capitalization (recurring)
+- **Improved:** Both earlier weak points (du+haben, ein/eine gender) fully resolved.
+  Handled a self-generated 3-clause sentence with 2 conjunctions and negation correctly.
+- **Next session:** Targeted check on sie/Sie capitalization, brief conjunctions/plurals
+  retest, then introduce accusative case or possessive articles (mein/dein) — one new
+  concept, kept slow per learner's preference.
+
 ---
 
 ## Session 1 — 2026-08-28 (CLOSED — setup only)
