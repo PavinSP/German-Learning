@@ -31,6 +31,8 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | W-questions | FUNCTIONAL | Good | Correct across sessions, including self-generated question | Earlier du/haben slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
 | Imperative | NOT_STARTED | — | — | — | — | — | — |
 | Basic conjunctions (und, aber, oder, denn) | LEARNING | Good | Correct, including a 3-clause self-generated sentence with 2 conjunctions | sie/Sie capitalization mid-sentence (not a conjunction error itself, but surfaced here) | 2026-08-29 | 2026-09-01 | Yes |
+| sie vs Sie capitalization | FUNCTIONAL | Good | Correct on targeted check (2/2 mid-sentence cases) | Confused ihr with Sie once (wrong pronoun, not a capitalization error); noun capitalization gap surfaced separately | 2026-08-29 | 2026-09-01 | Yes |
+| Noun capitalization (always capitalized) | INTRODUCED | Good — explicit rule just stated | Correct after correction | Initially wrote "buch" lowercase | 2026-08-29 | 2026-08-30 | Yes |
 
 ## A2
 

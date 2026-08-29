@@ -68,6 +68,35 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29
 - Status: ACTIVE — watch for recurrence, since the concept was already explained once
 
+### [spelling] German nouns not capitalized
+- Incorrect: sie hat ein buch.
+- Correct:   Sie hat ein Buch.
+- Why:       Every German noun is always capitalized, not just proper names/sentence
+             starts (Buch, Katze, Zeit, etc.) — an EN-habit gap, first time it surfaced.
+- Frequency: 1
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE — needs explicit statement/reinforcement, wasn't formally taught yet
+
+### [vocab-confusion] ihr vs Sie (informal-plural vs formal "you")
+- Incorrect: Ihr habt ein Buch. (for "You [formal] have a book")
+- Correct:   Sie haben ein Buch.
+- Why:       ihr = informal plural "you" (friends/group); Sie = formal "you" (any
+             number), always with -en verb form (haben, sind). Different pronoun
+             entirely, not a spelling/capitalization issue like the sie/Sie case.
+- Frequency: 1
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE — retest
+
+### [conjugation] 3rd person singular subject conjugated as du-form
+- Incorrect: Der Mann hast keine Zeit.
+- Correct:   Der Mann hat keine Zeit.
+- Why:       der Mann = er/sie/es form → hat, not hast (du form). Learner has used
+             "hat" correctly before (Lesson 1: "Die Frau hat eine Katze"), so this
+             looks like a momentary slip, not a conceptual gap. Watch, don't over-index.
+- Frequency: 1
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE — light, retest
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
