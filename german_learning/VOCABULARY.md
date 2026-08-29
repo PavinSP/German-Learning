@@ -48,6 +48,7 @@ A word is only MASTERED after correct recall across multiple sessions.
 - ein / eine | a / an | article | Ich habe ein Buch. | LEARNING | 2026-08-29 | ⚠️ gender agreement slip (eine Buch)
 - Zeit | time | noun, die-word | Wir haben keine Zeit. | KNOWN | 2026-08-29
 - Hunger | hunger (noun) | noun, der-word | Ich habe Hunger. | INTRODUCED | 2026-08-29 | mentioned, not yet tested in production
+- zwei | two | number | Wir haben zwei Katzen. | KNOWN | 2026-08-29 | used correctly first try
 
 ## Frequently Forgotten (⚠️ priority revision)
 

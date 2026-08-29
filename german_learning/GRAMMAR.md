@@ -22,7 +22,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Accusative case | NOT_STARTED | — | — | — | — | — | — |
 | Basic dative | NOT_STARTED | — | — | — | — | — | — |
 | Possessive articles | NOT_STARTED | — | — | — | — | — | — |
-| Plurals | NOT_STARTED | — | — | — | — | — | — |
+| Plurals | LEARNING | Good | Correct across all 5 exercises, including "always die" rule and a new word (zwei) on first try | — | 2026-08-29 | 2026-09-01 | Yes |
 | Modal verbs | NOT_STARTED | — | — | — | — | — | — |
 | Separable verbs | NOT_STARTED | — | — | — | — | — | — |
 | Basic prepositions | NOT_STARTED | — | — | — | — | — | — |
