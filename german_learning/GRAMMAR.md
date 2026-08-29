@@ -10,14 +10,14 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Topic | Status | Understanding | Production | Common mistakes | Last revision | Next revision | Retest? |
 |---|---|---|---|---|---|---|---|
 | Personal pronouns | INTRODUCED | Good | Correct in exercises | — | 2026-08-29 | 2026-08-30 | Yes |
-| sein (present) | LEARNING | Good | Consistently correct across 2 exercise sets | Occasional EN-spelling slip (is/bist) | 2026-08-29 | 2026-08-30 | Yes |
-| haben (present) | LEARNING | Good | Correct, but confused with sein when pairing with adjectives | haben+adjective instead of sein+adjective | 2026-08-29 | 2026-08-30 | Yes |
+| sein (present) | FUNCTIONAL | Good | Correct across 3 exercise sets + retrieval check | Occasional EN-spelling slip (is/bist), not seen since | 2026-08-29 | 2026-09-01 | Yes |
+| haben (present) | FUNCTIONAL | Good | Correct, including du-form, across retrieval check | Earlier confusion with sein+adjective resolved; du-form slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
 | Regular verb conjugation, present | NOT_STARTED | — | — | — | — | — | — |
 | Key irregular verbs (fahren, sprechen, essen, lesen...) | NOT_STARTED | — | — | — | — | — | — |
-| Definite articles (der/die/das) | INTRODUCED | Good | Correct for Mann/Frau/Buch/Katze/Haus | — | 2026-08-29 | 2026-08-30 | Yes |
-| Indefinite articles (ein/eine) | INTRODUCED | Good | Mostly correct | Gender agreement slip (eine Buch → ein Buch) | 2026-08-29 | 2026-08-30 | Yes |
-| Negation: nicht | INTRODUCED | Good | Mostly correct | 1 case was actually kein/keine territory, not a true nicht error | 2026-08-29 | 2026-08-30 | Yes |
-| Negation: kein/keine | INTRODUCED | Good | Correct on retry | Used nicht instead of keine for a noun (Wir haben nicht Zeit → keine Zeit) | 2026-08-29 | 2026-08-30 | Yes |
+| Definite articles (der/die/das) | FUNCTIONAL | Good | Correct for Mann/Frau/Buch/Katze/Haus | — | 2026-08-29 | 2026-09-01 | Yes |
+| Indefinite articles (ein/eine) | FUNCTIONAL | Good | Correct, including das-word gender on retrieval check | Earlier slip (eine Buch) not repeated | 2026-08-29 | 2026-09-01 | Yes |
+| Negation: nicht | FUNCTIONAL | Good | Correct | — | 2026-08-29 | 2026-09-01 | Yes |
+| Negation: kein/keine | FUNCTIONAL | Good | Correct, including unprompted retrieval check | Earlier nicht/keine confusion resolved | 2026-08-29 | 2026-09-01 | Yes |
 | Nominative case | NOT_STARTED | — | — | — | — | — | — |
 | Accusative case | NOT_STARTED | — | — | — | — | — | — |
 | Basic dative | NOT_STARTED | — | — | — | — | — | — |
@@ -28,7 +28,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Basic prepositions | NOT_STARTED | — | — | — | — | — | — |
 | Word order: verb-second | NOT_STARTED | — | — | — | — | — | — |
 | Yes/no questions | NOT_STARTED | — | — | — | — | — | — |
-| W-questions | INTRODUCED | Good | Mostly correct, one du/haben conjugation slip | du+haben conjugated as haben instead of hast | 2026-08-29 | 2026-08-30 | Yes |
+| W-questions | FUNCTIONAL | Good | Correct across sessions, including self-generated question | Earlier du/haben slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
 | Imperative | NOT_STARTED | — | — | — | — | — | — |
 | Basic conjunctions (und, aber, oder, denn) | NOT_STARTED | — | — | — | — | — | — |
 
