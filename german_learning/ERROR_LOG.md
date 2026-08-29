@@ -19,4 +19,32 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 
 ---
 
-(no errors recorded yet)
+### [vocab-confusion] sein+adjective vs haben+noun for feelings
+- Incorrect: Ich habe hungrig.
+- Correct:   Ich bin hungrig. (or: Ich habe Hunger.)
+- Why:       German expresses feelings two ways — sein + adjective (hungrig) OR
+             haben + noun (Hunger). They can't be mixed (haben + hungrig is wrong).
+             English "I am hungry" maps directly to the sein+adjective form.
+- Frequency: 1
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE
+
+### [other] nicht vs kein/keine for negating nouns
+- Incorrect: Wir haben nicht Zeit.
+- Correct:   Wir haben keine Zeit.
+- Why:       nicht negates verbs/adjectives/adverbs. To negate a noun that would take
+             ein/eine (or no article), German uses kein/keine (matching the noun's
+             gender) instead of nicht. Zeit is a die-word → keine Zeit.
+- Frequency: 1
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE — needs a dedicated short lesson (not yet formally taught)
+
+### [spelling] English spelling leaking into German verb forms
+- Incorrect: Er is nicht glücklich. / Du bust hungrig.
+- Correct:   Er ist nicht glücklich. / Du bist hungrig.
+- Why:       "is" (EN) vs "ist" (DE), and a slip on "bist". Likely just typing habit,
+             not a conceptual gap — the correct forms were used correctly elsewhere
+             in the same exercise set.
+- Frequency: 2
+- First seen / last seen: 2026-08-29
+- Status: ACTIVE — light, watch for recurrence
