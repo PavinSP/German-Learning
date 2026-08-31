@@ -11,8 +11,9 @@ Lesson 3 — Plurals COMPLETE. Lessons 1 (sein/haben/articles/negation/W-questio
 2 (conjunctions) both FUNCTIONAL per retrieval check.
 
 CURRENT TOPIC:
-Session paused (learner taking a break, resuming same day ~18:00). sie/Sie
-capitalization CONFIRMED functional. Next: possessive articles (mein/dein).
+Session 2 paused 2026-08-29, never resumed that day. Learner postponed again on
+2026-08-30 ("we will continue tomorrow"). sie/Sie capitalization CONFIRMED functional.
+Next real content: light retest, then possessive articles (mein/dein).
 
 LAST SESSION:
 2026-08-29 (Session 2, extended — 3 sittings so far: morning, post-breakfast,
@@ -34,11 +35,14 @@ Conjunctions and plurals — still LEARNING, confirm again next sitting before
 considering them solid. Noun capitalization and ihr-vs-Sie — light retest next sitting.
 
 NEXT ACTION:
-Learner is on a break, planning to resume later TODAY (2026-08-29) around 18:00 —
-this is a same-day continuation of Session 2, not a new session. When resumed: quick
-light retest on noun capitalization + ihr-vs-Sie, then introduce possessive articles
-(mein/dein — "my"/"your"), which follows the same gender-agreement pattern as
-ein/eine and kein/keine. Keep pace slow, one new concept at a time.
+No new German content since 2026-08-29 (~15:30 sitting). Learner said "we will
+continue tomorrow" on 2026-08-30, so next real session lands 2026-08-31 or later —
+treat as a new session (Session 3) whenever it happens, not a same-day continuation.
+Start with a light retest on noun capitalization + ihr-vs-Sie (a few days old now,
+worth confirming), plus a quick spot-check on conjunctions/plurals since they were
+still LEARNING not FUNCTIONAL. Then introduce possessive articles (mein/dein —
+"my"/"your"), which follows the same gender-agreement pattern as ein/eine and
+kein/keine. Keep pace slow, one new concept at a time.
 
 DO NOT START NEW TOPIC UNTIL:
 Light retest above passes (should be quick given how solid today's other checks were).
