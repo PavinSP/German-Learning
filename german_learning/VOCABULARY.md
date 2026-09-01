@@ -54,6 +54,7 @@ A word is only MASTERED after correct recall across multiple sessions.
 - sein / seine | his | possessive article | Das ist seine Katze. | KNOWN | 2026-09-01
 - ihr / ihre | her (also: you-all, informal) | possessive article / pronoun | Ihre Katze ist müde. | LEARNING | 2026-09-01 | double meaning (her vs you-all) — disambiguated correctly once, watch for confusion under pressure
 - gut | good | adjective | Ihr Buch ist gut. | KNOWN | 2026-09-01
+- Ihr / Ihre | your (formal) | possessive article | Ist das Ihr Buch? | LEARNING | 2026-09-01 | new, one miss then correct on retry (incl. self-corrected gender slip)
 
 ## Frequently Forgotten (⚠️ priority revision)
 

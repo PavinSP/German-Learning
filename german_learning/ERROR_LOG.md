@@ -97,6 +97,17 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29
 - Status: ACTIVE — light, retest
 
+### [vocab-confusion] dein vs Ihr (informal vs formal possessive "your")
+- Incorrect: Ist das dein Buch? (when asked for FORMAL "your")
+- Correct:   Ist das Ihr Buch?
+- Why:       Ihr (capitalized) is the formal possessive, matching Sie — not yet
+             explicitly taught before this test. dein is informal only. Same
+             informal/formal split as du/Sie and dein/Ihr should be expected to
+             mirror it, but this hadn't been stated outright.
+- Frequency: 1
+- First seen / last seen: 2026-09-01
+- Status: ACTIVE — needs explicit teaching (not learner's fault, gap in instruction)
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
