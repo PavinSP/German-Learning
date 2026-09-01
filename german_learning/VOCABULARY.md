@@ -49,6 +49,11 @@ A word is only MASTERED after correct recall across multiple sessions.
 - Zeit | time | noun, die-word | Wir haben keine Zeit. | KNOWN | 2026-08-29
 - Hunger | hunger (noun) | noun, der-word | Ich habe Hunger. | INTRODUCED | 2026-08-29 | mentioned, not yet tested in production
 - zwei | two | number | Wir haben zwei Katzen. | KNOWN | 2026-08-29 | used correctly first try
+- mein / meine | my | possessive article | Das ist mein Buch. | KNOWN | 2026-08-31
+- dein / deine | your (informal) | possessive article | Ist das dein Buch? | KNOWN | 2026-08-31
+- sein / seine | his | possessive article | Das ist seine Katze. | KNOWN | 2026-08-31
+- ihr / ihre | her (also: you-all, informal) | possessive article / pronoun | Ihre Katze ist müde. | LEARNING | 2026-08-31 | double meaning (her vs you-all) — disambiguated correctly once, watch for confusion under pressure
+- gut | good | adjective | Ihr Buch ist gut. | KNOWN | 2026-08-31
 
 ## Frequently Forgotten (⚠️ priority revision)
 

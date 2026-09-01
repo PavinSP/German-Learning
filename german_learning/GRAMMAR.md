@@ -21,7 +21,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Nominative case | NOT_STARTED | — | — | — | — | — | — |
 | Accusative case | NOT_STARTED | — | — | — | — | — | — |
 | Basic dative | NOT_STARTED | — | — | — | — | — | — |
-| Possessive articles (mein/dein) | LEARNING | Good | 4/4 correct on first attempt, including gender agreement | Minor: question mark omitted on one question (punctuation habit, not grammar) | 2026-08-31 | 2026-09-03 | Yes |
+| Possessive articles (mein/dein/sein/ihr) | LEARNING | Good | 8/8 correct across two rounds, including disambiguating ihr's double meaning (you-all vs her) | Minor: question mark omitted once (punctuation habit, not grammar) | 2026-08-31 | 2026-09-03 | Yes |
 | Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 2-day gap | — | 2026-08-31 | 2026-09-07 | Yes |
 | Modal verbs | NOT_STARTED | — | — | — | — | — | — |
 | Separable verbs | NOT_STARTED | — | — | — | — | — | — |

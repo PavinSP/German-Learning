@@ -7,42 +7,36 @@ CURRENT MODULE:
 Foundation
 
 CURRENT LESSON:
-Lesson 3 — Plurals COMPLETE. Lessons 1 (sein/haben/articles/negation/W-questions) and
-2 (conjunctions) both FUNCTIONAL per retrieval check.
+Lesson 4 — Possessive articles (mein/dein/sein/ihr) COMPLETE, 8/8 exercises correct.
 
 CURRENT TOPIC:
-Session 2 paused 2026-08-29, never resumed that day. Learner postponed again on
-2026-08-30 ("we will continue tomorrow"). sie/Sie capitalization CONFIRMED functional.
-Next real content: light retest, then possessive articles (mein/dein).
+Session 3 closed. Next: light retest on possessives (esp. ihr's double meaning),
+then accusative case as the next new topic.
 
 LAST SESSION:
-2026-08-29 (Session 2, extended — 3 sittings so far: morning, post-breakfast,
-~15:30). Retrieval checks passed cleanly across the board. Covered: sein, haben,
-articles, nicht, kein/keine, W-questions (all FUNCTIONAL), conjunctions + plurals
-(LEARNING, correct so far), sie/Sie capitalization (FUNCTIONAL, confirmed via
-targeted check), noun capitalization rule (just introduced). See daily_notes/2026-08-29.md.
+2026-08-31 (Session 3). Opened with a 2-day-gap retest on Lesson 1-3 material — 5/5
+clean, promoted plurals/conjunctions/sie-Sie-capitalization/noun-capitalization to
+FUNCTIONAL. Then taught possessive articles (mein/dein/sein/ihr) in full — 8/8
+correct, including correctly disambiguating ihr's double meaning (her vs. you-all)
+using context. See daily_notes/2026-08-31.md.
 
 KNOWN WEAKNESSES:
-- Noun capitalization (all German nouns always capitalized) — just introduced after
-  one slip (buch → Buch), one correct use since. Light retest next sitting.
-- ihr vs Sie pronoun choice (used ihr when formal Sie was needed) — one occurrence, retest.
-- 3rd-person (er/sie/es) conjugated as du-form ("hast" instead of "hat") — one slip,
-  immediately retested clean. Low priority, likely momentary.
-- Minor EN-spelling leakage on ist/bist — cosmetic, not seen recently, low priority.
+- ihr's double meaning (her / you-all informal) — handled correctly so far but only
+  tested once meaningfully; worth a less-obvious-context retest before fully trusting it.
+- Minor: one missing question mark (punctuation habit, not a grammar issue, low priority).
+- Older light items (3rd-person-as-du slip, ihr-vs-Sie pronoun mix-up from 2026-08-29)
+  — not retested since, but were already isolated one-offs.
 
 CURRENT REVISION:
-Conjunctions and plurals — still LEARNING, confirm again next sitting before
-considering them solid. Noun capitalization and ihr-vs-Sie — light retest next sitting.
+Possessive articles (mein/dein/sein/ihr) — LEARNING, next check due 2026-09-03.
+Everything from Lessons 1-3 is now FUNCTIONAL, next scheduled check 2026-09-07.
 
 NEXT ACTION:
-No new German content since 2026-08-29 (~15:30 sitting). Learner said "we will
-continue tomorrow" on 2026-08-30, so next real session lands 2026-08-31 or later —
-treat as a new session (Session 3) whenever it happens, not a same-day continuation.
-Start with a light retest on noun capitalization + ihr-vs-Sie (a few days old now,
-worth confirming), plus a quick spot-check on conjunctions/plurals since they were
-still LEARNING not FUNCTIONAL. Then introduce possessive articles (mein/dein —
-"my"/"your"), which follows the same gender-agreement pattern as ein/eine and
-kein/keine. Keep pace slow, one new concept at a time.
+Start next session with a light retest on possessives — specifically a trickier
+ihr disambiguation case (her vs. you-all) to be sure it's not just surface-level.
+If solid, introduce accusative case — a bigger conceptual step than recent lessons,
+so take it slowly: explain clearly, use lots of examples, and don't rush multiple
+exercise rounds. Keep one new concept per session per learner's stated preference.
 
 DO NOT START NEW TOPIC UNTIL:
-Light retest above passes (should be quick given how solid today's other checks were).
+Possessive retest above passes.
