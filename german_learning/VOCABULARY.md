@@ -56,7 +56,9 @@ A word is only MASTERED after correct recall across multiple sessions.
 - gut | good | adjective | Ihr Buch ist gut. | KNOWN | 2026-09-01
 - Ihr / Ihre | your (formal) | possessive article | Ist das Ihr Buch? | LEARNING | 2026-09-01 | new, one miss then correct on retry (incl. self-corrected gender slip)
 - der Hund | the dog | plural: die Hunde | noun | Ich habe einen Hund. | KNOWN | 2026-09-01
-- sehen | to see (sehe/siehst/sieht/sehen/seht/sehen) | verb | Ich sehe den Mann. | LEARNING | 2026-09-01 | one 3rd-person/du conjugation slip (siehst→sieht), retested clean
+- sehen | to see (sehe/siehst/sieht/sehen/seht/sehen) | verb | Ich sehe den Mann. | KNOWN | 2026-09-01 | one 3rd-person/du conjugation slip (siehst→sieht), retested clean twice since
+- das Kind | the child | plural: die Kinder | noun | Das Kind ist hungrig. | KNOWN | 2026-09-01
+- drei | three | number | Wir haben drei Katzen. | KNOWN | 2026-09-01
 
 ## Frequently Forgotten (⚠️ priority revision)
 

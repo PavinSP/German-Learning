@@ -7,40 +7,43 @@ CURRENT MODULE:
 Foundation
 
 CURRENT LESSON:
-Lesson 5 — Accusative case (introduction) COMPLETE. Core logic solid after resolving
-initial overgeneralization; 9/9 correct by final round.
+Lesson 5 — Accusative case COMPLETE and FUNCTIONAL (confirmed via 2nd intensive
+review + dedicated conjugation drill, both clean).
 
 CURRENT TOPIC:
-Session 3 closed (long session: retest, intensive review, possessives formal Ihr,
-accusative case). Next: light combined retest, then extend accusative (pronouns or
-accusative prepositions) or move to a fresh area — decide based on retest.
+Session 3 closed (very extended session: retest, 2 intensive reviews, formal Ihr,
+full accusative case, conjugation drill). Next: possibly extend accusative
+(pronouns/prepositions) or start a fresh small topic — learner's choice.
 
 LAST SESSION:
-2026-09-01 (Session 3, extended). 3-day-gap retest (5/5) → intensive 15-question
-review of Lessons 1-4 (13.5/15, one new gap: formal Ihr, now taught) → accusative
-case introduced, worked through overgeneralization (kein, subject-position
-possessives, numbers), resolved to 9/9 correct with clean case-logic even amid
-unrelated conjugation slips. See daily_notes/2026-09-01.md.
+2026-09-01 (Session 3, extended — longest session so far). 3-day-gap retest (5/5) →
+intensive review #1 of Lessons 1-4 (13.5/15, gap: formal Ihr, now taught) →
+accusative case introduced and resolved (initial overgeneralization → 9/9 clean) →
+intensive review #2 of everything incl. accusative (12.5/15 clean + 2 soft notes,
+one real error: er/du pronoun mix-up) → dedicated conjugation drill (5/5 clean,
+confirms mix-ups are speed slips not conceptual gaps). Accusative case and sehen
+promoted to FUNCTIONAL/KNOWN. See daily_notes/2026-09-01.md.
 
 KNOWN WEAKNESSES:
-- Occasional 3rd-person (er/sie/es) vs du conjugation mix-up — recurring light
-  pattern across different verbs (haben, sehen), not case-related. Worth a
-  dedicated light drill at some point, low urgency.
-- ihr's double meaning (her / you-all) — still only lightly tested, not retested
-  in this session, keep an eye out.
-- Formal Ihr/Ihre — brand new (2026-09-01), needs a retest to confirm retention.
+- 3rd-person vs du conjugation mix-ups — recurring under fast exercise pace, but
+  RESOLVED when consciously slowing down (dedicated drill went 5/5). Low priority,
+  just a reminder to answer carefully rather than rushing.
+- ihr's double meaning (her / you-all) — not retested this session, keep an eye out.
+- Q13/Q15 soft notes from review #2 (didn't fully satisfy instructions, not errors) —
+  no action needed, just noting reading-comprehension-under-pressure as a minor watch.
 
 CURRENT REVISION:
-Accusative case — LEARNING, next check due 2026-09-02.
+Accusative case — FUNCTIONAL, next check due 2026-09-08.
 Possessive articles (incl. formal Ihr) — LEARNING, next check due 2026-09-04.
 Everything from Lessons 1-3 — FUNCTIONAL, next scheduled check 2026-09-08.
 
 NEXT ACTION:
-Start next session with a combined light retest: accusative (incl. kein and
-subject-position possessives to re-confirm no overgeneralization crept back),
-formal Ihr, and a couple of 3rd-person conjugation checks. If solid, consider
-extending accusative (accusative personal pronouns like mich/dich, or basic
-accusative prepositions like für/durch) as the next small step — keep pace slow.
+Start next session with a brief retest on formal Ihr (still LEARNING) and ihr's
+double meaning (untested this session). If solid, learner can choose: extend
+accusative (personal pronouns mich/dich, or accusative prepositions für/durch), or
+start a new area (e.g. dative case intro, or a vocabulary-focused session — family/
+food/numbers — since vocabulary breadth is lagging behind grammar). Keep pace slow,
+one new concept at a time.
 
 DO NOT START NEW TOPIC UNTIL:
-Combined retest above passes.
+Brief retest above passes.

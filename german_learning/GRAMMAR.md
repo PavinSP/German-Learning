@@ -19,7 +19,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Negation: nicht | FUNCTIONAL | Good | Correct | — | 2026-08-29 | 2026-09-01 | Yes |
 | Negation: kein/keine | FUNCTIONAL | Good | Correct, including unprompted retrieval check | Earlier nicht/keine confusion resolved | 2026-08-29 | 2026-09-01 | Yes |
 | Nominative case | NOT_STARTED | — | — | — | — | — | — |
-| Accusative case | LEARNING | Good | 9/9 correct across 3 rounds after resolving overgeneralization (kein, possessives-as-subject, numbers). Correctly identifies the object noun even amid conjugation slips. | Initial overgeneralization of -en ending to kein/possessives-in-subject-position/numbers — all resolved same session | 2026-09-01 | 2026-09-02 | Yes |
+| Accusative case | FUNCTIONAL | Good | 9/9 in first session, then 6/6 clean on intensive review #2 (incl. subject-vs-object possessive distinction, kein+accusative, numbers) | Initial overgeneralization (resolved same session) | 2026-09-01 | 2026-09-08 | Yes |
 | Basic dative | NOT_STARTED | — | — | — | — | — | — |
 | Possessive articles (mein/dein/sein/ihr/Ihr) | LEARNING | Good | 13/15 on intensive review + correct on Ihr retry; correctly kept "seine" unchanged for plural noun | Missed formal Ihr vs informal dein once (not yet taught at the time); self-corrected Ihre→Ihr gender slip immediately | 2026-09-01 | 2026-09-04 | Yes |
 | Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |

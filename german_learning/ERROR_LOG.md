@@ -151,6 +151,20 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29 / 2026-09-01
 - Status: ACTIVE — light pattern, watch across verbs generally, not case-specific
 
+### [conjugation] du-form given when 3rd person (er) was asked for
+- Incorrect: Hast du ein Buch? (for "Does he have a book?")
+- Correct:   Hat er ein Buch?
+- Why:       Answered with the wrong pronoun/verb-form pairing entirely (du+hast
+             instead of er+hat) rather than a simple ending slip. Part of the same
+             general 3rd-person/du conjugation pattern seen a few times now (see
+             other entries) — worth a short dedicated drill.
+- Frequency: 1 (this form); related to 3+ prior 3rd-person/du mix-ups across sessions
+- First seen / last seen: 2026-09-01 (Session 3 intensive review #2)
+- Status: IMPROVING — dedicated 5-question drill immediately after (same session)
+  scored 5/5 clean when slowing down and consciously checking subject-verb match.
+  Confirms this is a speed/attention slip, not a conceptual gap. Keep a light eye
+  on it during fast-paced exercises, but no longer a priority concern.
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
