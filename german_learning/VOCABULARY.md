@@ -68,6 +68,20 @@ A word is only MASTERED after correct recall across multiple sessions.
 - die Schwester | sister | plural: die Schwestern | noun | Ich habe eine Schwester. | KNOWN | 2026-09-01
 - die Familie | family | plural: die Familien | noun | — | INTRODUCED | 2026-09-01 | mentioned, not yet tested in production
 
+**Numbers 1-20**
+- eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf,
+  dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig |
+  KNOWN (1-15 tested, all correct except one typo zehr→zehn) | 2026-09-01
+
+**Food**
+- das Brot | bread | noun | Meine Schwester isst Brot. | KNOWN | 2026-09-01
+- der Käse | cheese | noun | — | INTRODUCED | 2026-09-01 | not yet tested
+- die Milch | milk | noun | Ich trinke Milch. | KNOWN | 2026-09-01
+- der Apfel | apple | plural: die Äpfel | noun | Ich esse einen Apfel. | KNOWN | 2026-09-01
+- das Wasser | water | noun | Trinkt er Wasser? | KNOWN | 2026-09-01
+- essen | to eat (esse/isst/isst/essen/esst/essen — irregular du/er stem change) | verb | Meine Schwester isst Brot. | KNOWN | 2026-09-01 | correctly used irregular isst form on first try
+- trinken | to drink (trinke/trinkst/trinkt/trinken/trinkt/trinken) | verb | Ich trinke Milch. | KNOWN | 2026-09-01
+
 ## Frequently Forgotten (⚠️ priority revision)
 
 (none at recurring frequency yet — see ⚠️ flags above, all currently single-occurrence)
