@@ -4,20 +4,20 @@ Newest entries at the top.
 
 ---
 
-## Session 3 — 2026-08-31 (CLOSED)
+## Session 3 — 2026-09-01 (CLOSED)
 
-- **Topics:** 2-day-gap retest on Lessons 1-3, then possessive articles (mein/dein/sein/ihr)
+- **Topics:** 3-day-gap retest on Lessons 1-3, then possessive articles (mein/dein/sein/ihr)
 - **Vocabulary learned:** mein/meine, dein/deine, sein/seine, ihr/ihre, gut
 - **Exercises completed:** retest (5/5), mein/dein set (4/4), sein/ihr set (4/4) — 13/13 total
 - **Mistakes:** one missing question mark (punctuation only, no grammar issue)
 - **Revision performed:** Full retest on sein, haben, articles, nicht, kein/keine,
   W-questions, conjunctions, plurals, sie/Sie & noun capitalization — all clean after
-  a 2-day gap. Several items promoted to FUNCTIONAL in GRAMMAR.md.
+  a 3-day gap. Several items promoted to FUNCTIONAL in GRAMMAR.md.
 - **Assessment result:** Very strong — zero grammar errors across 13 exercises,
   including a brand-new concept (possessives) picked up perfectly on first attempt
 - **Struggled with:** nothing significant; ihr's double meaning (her/you-all) handled
   correctly but only tested meaningfully once — worth confirming further
-- **Improved:** retention across a 2-day gap is holding well; correctly reasoned
+- **Improved:** retention across a 3-day gap is holding well; correctly reasoned
   through an ambiguous case (ihr) using surrounding grammar rather than guessing
 - **Next session:** light retest on possessives (a trickier ihr case), then introduce
   accusative case — a bigger step, so slow it down further than recent lessons

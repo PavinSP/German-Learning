@@ -21,8 +21,8 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Nominative case | NOT_STARTED | — | — | — | — | — | — |
 | Accusative case | NOT_STARTED | — | — | — | — | — | — |
 | Basic dative | NOT_STARTED | — | — | — | — | — | — |
-| Possessive articles (mein/dein/sein/ihr) | LEARNING | Good | 8/8 correct across two rounds, including disambiguating ihr's double meaning (you-all vs her) | Minor: question mark omitted once (punctuation habit, not grammar) | 2026-08-31 | 2026-09-03 | Yes |
-| Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 2-day gap | — | 2026-08-31 | 2026-09-07 | Yes |
+| Possessive articles (mein/dein/sein/ihr) | LEARNING | Good | 8/8 correct across two rounds, including disambiguating ihr's double meaning (you-all vs her) | Minor: question mark omitted once (punctuation habit, not grammar) | 2026-09-01 | 2026-09-04 | Yes |
+| Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
 | Modal verbs | NOT_STARTED | — | — | — | — | — | — |
 | Separable verbs | NOT_STARTED | — | — | — | — | — | — |
 | Basic prepositions | NOT_STARTED | — | — | — | — | — | — |
@@ -30,9 +30,9 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Yes/no questions | NOT_STARTED | — | — | — | — | — | — |
 | W-questions | FUNCTIONAL | Good | Correct across sessions, including self-generated question | Earlier du/haben slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
 | Imperative | NOT_STARTED | — | — | — | — | — | — |
-| Basic conjunctions (und, aber, oder, denn) | FUNCTIONAL | Good | Correct, including a 3-clause self-generated sentence and retested clean after 2-day gap | — | 2026-08-31 | 2026-09-07 | Yes |
-| sie vs Sie capitalization | FUNCTIONAL | Good | Correct on targeted check and 2-day-gap retest | Earlier ihr/Sie pronoun mix-up — separate issue, retested clean | 2026-08-31 | 2026-09-07 | Yes |
-| Noun capitalization (always capitalized) | FUNCTIONAL | Good | Correct on retest after 2-day gap | Initial slip (buch lowercase) resolved | 2026-08-31 | 2026-09-07 | Yes |
+| Basic conjunctions (und, aber, oder, denn) | FUNCTIONAL | Good | Correct, including a 3-clause self-generated sentence and retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
+| sie vs Sie capitalization | FUNCTIONAL | Good | Correct on targeted check and 3-day-gap retest | Earlier ihr/Sie pronoun mix-up — separate issue, retested clean | 2026-09-01 | 2026-09-08 | Yes |
+| Noun capitalization (always capitalized) | FUNCTIONAL | Good | Correct on retest after 3-day gap | Initial slip (buch lowercase) resolved | 2026-09-01 | 2026-09-08 | Yes |
 
 ## A2
 

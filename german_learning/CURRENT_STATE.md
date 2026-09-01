@@ -14,11 +14,11 @@ Session 3 closed. Next: light retest on possessives (esp. ihr's double meaning),
 then accusative case as the next new topic.
 
 LAST SESSION:
-2026-08-31 (Session 3). Opened with a 2-day-gap retest on Lesson 1-3 material — 5/5
+2026-09-01 (Session 3). Opened with a 3-day-gap retest on Lesson 1-3 material — 5/5
 clean, promoted plurals/conjunctions/sie-Sie-capitalization/noun-capitalization to
 FUNCTIONAL. Then taught possessive articles (mein/dein/sein/ihr) in full — 8/8
 correct, including correctly disambiguating ihr's double meaning (her vs. you-all)
-using context. See daily_notes/2026-08-31.md.
+using context. See daily_notes/2026-09-01.md.
 
 KNOWN WEAKNESSES:
 - ihr's double meaning (her / you-all informal) — handled correctly so far but only
@@ -28,8 +28,8 @@ KNOWN WEAKNESSES:
   — not retested since, but were already isolated one-offs.
 
 CURRENT REVISION:
-Possessive articles (mein/dein/sein/ihr) — LEARNING, next check due 2026-09-03.
-Everything from Lessons 1-3 is now FUNCTIONAL, next scheduled check 2026-09-07.
+Possessive articles (mein/dein/sein/ihr) — LEARNING, next check due 2026-09-04.
+Everything from Lessons 1-3 is now FUNCTIONAL, next scheduled check 2026-09-08.
 
 NEXT ACTION:
 Start next session with a light retest on possessives — specifically a trickier
