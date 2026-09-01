@@ -32,6 +32,37 @@ Newest entries at the top.
   conjugation), then consider extending accusative (pronouns or prepositions) as
   the next small step
 
+### Session 3, final stretch (same day) — possessives confirmed, vocab, modal verbs
+
+- **Topics:** Possessives retest (Ihr + ihr disambiguation) → family vocabulary →
+  numbers 1-20 → food vocabulary → modal verbs introduced (können)
+- **Vocabulary learned:** die Mutter, der Vater, die Eltern, der Bruder, die
+  Schwester, die Familie; eins-zwanzig; das Brot, der Käse, die Milch, der Apfel,
+  das Wasser, essen, trinken (~20 items total)
+- **Exercises completed:** possessives retest (3/3), family set (4/5 +1 two-error
+  free-response, fixed on retry), numbers/food set (5/5, one typo), modals (2/4,
+  then 2/2 clean retry)
+- **Mistakes:** gender-agreement slips (mein/meine for der/die-words, both
+  directions), singular/plural noun mixing (Brüder for Bruder), wir conjugated as
+  ich/er under new modal structure, keinen+die redundantly combined — all resolved
+  same session via retries
+- **Revision performed:** possessives fully retested and promoted to FUNCTIONAL
+- **Assessment result:** Very strong — new vocabulary picked up fast (incl. an
+  irregular verb form, isst, used correctly after one mention), modal verb
+  structure workable after one round of errors + retry
+- **Struggled with:** momentary slips under cognitive load of brand-new structures
+  (modals) — consistently self-corrected or corrected on first retry
+- **Improved:** possessives now fully solid; demonstrated the ability to combine
+  many concepts at once (accusative + possessives + new vocab + modals) in a single
+  long session without losing accuracy
+- **Also this session:** learner asked about A2 completion timeline (speaking-ready
+  + exam-ready) — given a rough estimate (3-6 months at current pace) with an
+  explicit agreement to revisit periodically as more data accumulates (see
+  project_a2_timeline_estimate memory)
+- **Next session:** fresh-day retest on modal verbs (können) + vocabulary from
+  today (family/numbers/food), then extend modals (müssen/wollen/möchten) or
+  start dative case — learner's choice
+
 ---
 
 ## Session 2 — 2026-08-29 (CLOSED)

@@ -185,6 +185,17 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-01
 - Status: ACTIVE — light, retest
 
+### [conjugation] wir conjugated as ich/er form under new sentence structure (modal verbs)
+- Incorrect: Wir kann keinen die Katze sehen.
+- Correct:   Wir können keine Katze sehen.
+- Why:       wir always takes the -en form (können), same rule as haben/sein — but
+             attention likely diverted by the new modal+infinitive structure. Also
+             mixed keinen (der-word ending) with die (article) — only one negation
+             word needed; Katze is die-word so keine alone is correct.
+- Frequency: 1
+- First seen / last seen: 2026-09-01
+- Status: ACTIVE — light, likely just cognitive load from a brand-new structure, retest
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

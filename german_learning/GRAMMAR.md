@@ -23,7 +23,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Basic dative | NOT_STARTED | — | — | — | — | — | — |
 | Possessive articles (mein/dein/sein/ihr/Ihr) | FUNCTIONAL | Good | 13/15 intensive review + clean 3/3 retest on formal Ihr and ihr's double meaning | Missed formal Ihr once before it was taught (now resolved); self-corrected one gender slip | 2026-09-01 | 2026-09-08 | Yes |
 | Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
-| Modal verbs | NOT_STARTED | — | — | — | — | — | — |
+| Modal verbs (können) | LEARNING | Good | 2/4 clean first round, 2/2 clean on fix-it retry | wir conjugated as ich/er under cognitive load; keinen/die mixed together — both resolved on retry | 2026-09-01 | 2026-09-04 | Yes |
 | Separable verbs | NOT_STARTED | — | — | — | — | — | — |
 | Basic prepositions | NOT_STARTED | — | — | — | — | — | — |
 | Word order: verb-second | NOT_STARTED | — | — | — | — | — | — |
