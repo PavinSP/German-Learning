@@ -21,9 +21,12 @@ german_learning/
 ├── CURRENT_STATE.md    # Read FIRST each session — level, topic, weaknesses, exact NEXT ACTION
 ├── MASTER_PROGRESS.md  # Single source of truth: CEFR level, modules, skills, assessments
 ├── VOCABULARY.md       # Persistent vocab database (article, plural, examples, review status)
-├── GRAMMAR.md          # Grammar topics with status: NOT_STARTED → ... → MASTERED
+├── GRAMMAR.md          # Grammar topics with status: NOT_STARTED → ... → MASTERED (table per CEFR level)
 ├── ERROR_LOG.md        # Recurring mistakes — automatically become revision material
-└── SESSION_LOG.md      # Per-session record, newest first
+├── SESSION_LOG.md      # Per-session record, newest first
+├── DOUBTS.md           # Drop a question here anytime — gets answered and filed to ANSWERS.md
+├── ANSWERS.md          # Answered questions, moved here from DOUBTS.md (dated, newest last)
+└── daily_notes/        # One file per study date (YYYY-MM-DD.md) — everything covered that day
 ```
 
 ## Method
@@ -46,5 +49,9 @@ german_learning/
 
 ## Current status
 
-📍 **Session 1 complete (setup only).** Diagnostic assessment pending — see
-[german_learning/CURRENT_STATE.md](german_learning/CURRENT_STATE.md) for the next action.
+📍 **PRE-A1 / Foundation, 3 sessions in.** Diagnostic confirmed a true-beginner
+restart. Solid, retested command of: sein, haben, articles (der/die/das, ein/eine),
+negation (nicht, kein/keine), W-questions, basic conjunctions, plurals, possessive
+articles (mein/dein/sein/ihr/Ihr), and accusative case. See
+[german_learning/CURRENT_STATE.md](german_learning/CURRENT_STATE.md) for the exact
+next action.
