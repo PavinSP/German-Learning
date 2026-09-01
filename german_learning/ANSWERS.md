@@ -30,3 +30,14 @@ Why *nicht* works in the second one despite the "nicht negates verbs/adjectives,
 kein/keine negates nouns" rule: nicht isn't negating the noun *Zeit* here — it's
 negating the adjective/quantifier *viel* ("much"). That's consistent with the rule,
 not an exception to it.
+
+### 2026-09-01 — Q4: "Das ist mein Hund" or "Das ist meinen Hund" — which and why?
+
+**"Das ist mein Hund."** is correct — mein stays nominative, never meinen, here.
+
+Why: "mein Hund" isn't an object being acted on, it's a subject complement describing
+what "das" (that) IS. Sentences with **sein** (to be) never take an accusative object
+at all, because "to be" doesn't act on anything — it just equates two things (das =
+mein Hund). Rule of thumb: accusative only appears as the object of an action verb
+(haben, sehen, etc.) — never after sein. Same underlying logic as "Ist das dein Hund?"
+staying nominative (also a sein-sentence).

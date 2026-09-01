@@ -7,36 +7,40 @@ CURRENT MODULE:
 Foundation
 
 CURRENT LESSON:
-Lesson 4 — Possessive articles (mein/dein/sein/ihr) COMPLETE, 8/8 exercises correct.
+Lesson 5 — Accusative case (introduction) COMPLETE. Core logic solid after resolving
+initial overgeneralization; 9/9 correct by final round.
 
 CURRENT TOPIC:
-Session 3 closed. Next: light retest on possessives (esp. ihr's double meaning),
-then accusative case as the next new topic.
+Session 3 closed (long session: retest, intensive review, possessives formal Ihr,
+accusative case). Next: light combined retest, then extend accusative (pronouns or
+accusative prepositions) or move to a fresh area — decide based on retest.
 
 LAST SESSION:
-2026-09-01 (Session 3). Opened with a 3-day-gap retest on Lesson 1-3 material — 5/5
-clean, promoted plurals/conjunctions/sie-Sie-capitalization/noun-capitalization to
-FUNCTIONAL. Then taught possessive articles (mein/dein/sein/ihr) in full — 8/8
-correct, including correctly disambiguating ihr's double meaning (her vs. you-all)
-using context. See daily_notes/2026-09-01.md.
+2026-09-01 (Session 3, extended). 3-day-gap retest (5/5) → intensive 15-question
+review of Lessons 1-4 (13.5/15, one new gap: formal Ihr, now taught) → accusative
+case introduced, worked through overgeneralization (kein, subject-position
+possessives, numbers), resolved to 9/9 correct with clean case-logic even amid
+unrelated conjugation slips. See daily_notes/2026-09-01.md.
 
 KNOWN WEAKNESSES:
-- ihr's double meaning (her / you-all informal) — handled correctly so far but only
-  tested once meaningfully; worth a less-obvious-context retest before fully trusting it.
-- Minor: one missing question mark (punctuation habit, not a grammar issue, low priority).
-- Older light items (3rd-person-as-du slip, ihr-vs-Sie pronoun mix-up from 2026-08-29)
-  — not retested since, but were already isolated one-offs.
+- Occasional 3rd-person (er/sie/es) vs du conjugation mix-up — recurring light
+  pattern across different verbs (haben, sehen), not case-related. Worth a
+  dedicated light drill at some point, low urgency.
+- ihr's double meaning (her / you-all) — still only lightly tested, not retested
+  in this session, keep an eye out.
+- Formal Ihr/Ihre — brand new (2026-09-01), needs a retest to confirm retention.
 
 CURRENT REVISION:
-Possessive articles (mein/dein/sein/ihr) — LEARNING, next check due 2026-09-04.
-Everything from Lessons 1-3 is now FUNCTIONAL, next scheduled check 2026-09-08.
+Accusative case — LEARNING, next check due 2026-09-02.
+Possessive articles (incl. formal Ihr) — LEARNING, next check due 2026-09-04.
+Everything from Lessons 1-3 — FUNCTIONAL, next scheduled check 2026-09-08.
 
 NEXT ACTION:
-Start next session with a light retest on possessives — specifically a trickier
-ihr disambiguation case (her vs. you-all) to be sure it's not just surface-level.
-If solid, introduce accusative case — a bigger conceptual step than recent lessons,
-so take it slowly: explain clearly, use lots of examples, and don't rush multiple
-exercise rounds. Keep one new concept per session per learner's stated preference.
+Start next session with a combined light retest: accusative (incl. kein and
+subject-position possessives to re-confirm no overgeneralization crept back),
+formal Ihr, and a couple of 3rd-person conjugation checks. If solid, consider
+extending accusative (accusative personal pronouns like mich/dich, or basic
+accusative prepositions like für/durch) as the next small step — keep pace slow.
 
 DO NOT START NEW TOPIC UNTIL:
-Possessive retest above passes.
+Combined retest above passes.

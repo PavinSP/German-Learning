@@ -4,23 +4,33 @@ Newest entries at the top.
 
 ---
 
-## Session 3 — 2026-09-01 (CLOSED)
+## Session 3 — 2026-09-01 (CLOSED, extended)
 
-- **Topics:** 3-day-gap retest on Lessons 1-3, then possessive articles (mein/dein/sein/ihr)
-- **Vocabulary learned:** mein/meine, dein/deine, sein/seine, ihr/ihre, gut
-- **Exercises completed:** retest (5/5), mein/dein set (4/4), sein/ihr set (4/4) — 13/13 total
-- **Mistakes:** one missing question mark (punctuation only, no grammar issue)
-- **Revision performed:** Full retest on sein, haben, articles, nicht, kein/keine,
-  W-questions, conjunctions, plurals, sie/Sie & noun capitalization — all clean after
-  a 3-day gap. Several items promoted to FUNCTIONAL in GRAMMAR.md.
-- **Assessment result:** Very strong — zero grammar errors across 13 exercises,
-  including a brand-new concept (possessives) picked up perfectly on first attempt
-- **Struggled with:** nothing significant; ihr's double meaning (her/you-all) handled
-  correctly but only tested meaningfully once — worth confirming further
-- **Improved:** retention across a 3-day gap is holding well; correctly reasoned
-  through an ambiguous case (ihr) using surrounding grammar rather than guessing
-- **Next session:** light retest on possessives (a trickier ihr case), then introduce
-  accusative case — a bigger step, so slow it down further than recent lessons
+- **Topics:** 3-day-gap retest on Lessons 1-3 → possessive articles (mein/dein/sein/ihr)
+  → intensive 15-question review (learner-requested) → formal Ihr/Ihre → accusative
+  case introduction
+- **Vocabulary learned:** mein/meine, dein/deine, sein/seine, ihr/ihre, Ihr/Ihre, gut,
+  der Hund, sehen
+- **Exercises completed:** retest (5/5), mein/dein set (4/4), sein/ihr set (4/4),
+  intensive review (13.5/15), Ihr retry (1/1), accusative rounds 1-3 (5/5, then 2
+  errors + 1 partial, then 4/4 fix-it, then 1/1 confirmation) — strong overall
+- **Mistakes:** one missing question mark; formal Ihr not yet known (new info, now
+  taught); accusative overgeneralization to kein/subject-position possessives/numbers
+  (all resolved same session); recurring light 3rd-person vs du conjugation slips
+  (haben, sehen)
+- **Revision performed:** Full retest on Lessons 1-3 — all clean after 3-day gap,
+  several items promoted to FUNCTIONAL. Intensive cross-topic review requested by
+  learner before tackling accusative case.
+- **Assessment result:** Very strong throughout — a full grammatical case (accusative)
+  went from initial confusion to solid, correct production within one session
+- **Struggled with:** initial accusative overgeneralization (expected/normal); minor
+  recurring 3rd-person/du conjugation mix-ups (verb-general, not case-specific)
+- **Improved:** resolved accusative overgeneralization quickly via targeted retries;
+  asked a sharp clarifying question (mein Hund after sein) showing real conceptual
+  engagement, not just pattern memorization
+- **Next session:** combined light retest (accusative + formal Ihr + 3rd-person
+  conjugation), then consider extending accusative (pronouns or prepositions) as
+  the next small step
 
 ---
 

@@ -55,6 +55,8 @@ A word is only MASTERED after correct recall across multiple sessions.
 - ihr / ihre | her (also: you-all, informal) | possessive article / pronoun | Ihre Katze ist müde. | LEARNING | 2026-09-01 | double meaning (her vs you-all) — disambiguated correctly once, watch for confusion under pressure
 - gut | good | adjective | Ihr Buch ist gut. | KNOWN | 2026-09-01
 - Ihr / Ihre | your (formal) | possessive article | Ist das Ihr Buch? | LEARNING | 2026-09-01 | new, one miss then correct on retry (incl. self-corrected gender slip)
+- der Hund | the dog | plural: die Hunde | noun | Ich habe einen Hund. | KNOWN | 2026-09-01
+- sehen | to see (sehe/siehst/sieht/sehen/seht/sehen) | verb | Ich sehe den Mann. | LEARNING | 2026-09-01 | one 3rd-person/du conjugation slip (siehst→sieht), retested clean
 
 ## Frequently Forgotten (⚠️ priority revision)
 

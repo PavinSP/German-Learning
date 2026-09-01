@@ -108,6 +108,49 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-01
 - Status: ACTIVE — needs explicit teaching (not learner's fault, gap in instruction)
 
+### [case] kein not given accusative ending for der-word noun
+- Incorrect: Er hat einen Hund. (meant to say "no dog")
+- Correct:   Er hat keinen Hund.
+- Why:       kein follows the same accusative pattern as ein/der (kein → keinen for
+             der-words). Learner used ein instead of kein — likely lost track of the
+             negation requirement while focusing on the new accusative pattern.
+- Frequency: 1
+- First seen / last seen: 2026-09-01
+- Status: ACTIVE — retest
+
+### [case] accusative ending over-applied to possessive in a nominative (subject) position
+- Incorrect: Ist dat deinen Hund?
+- Correct:   Ist das dein Hund?
+- Why:       "dein Hund" here is the SUBJECT (Is that [your dog]?), not an object of
+             haben/sehen — so it stays nominative, no -en ending. Accusative only
+             applies to the noun being acted upon by the verb, not every der-word
+             noun in the sentence. Classic overgeneralization right after learning
+             a new rule — expected, not a deep gap.
+- Frequency: 1
+- First seen / last seen: 2026-09-01
+- Status: ACTIVE — needs explicit clarification + retest, this is the key confusion to resolve
+
+### [case] accusative -en ending over-applied to a number word
+- Incorrect: Wir haben zweinen Hunde.
+- Correct:   Wir haben zwei Hunde.
+- Why:       Only articles (der/ein/kein and their possessive cousins) take accusative
+             endings — numbers never do, and "zweinen" isn't a real word. With a
+             number, the article is dropped entirely.
+- Frequency: 1
+- First seen / last seen: 2026-09-01
+- Status: ACTIVE — retest
+
+### [conjugation] 3rd person singular conjugated as du-form (sehen)
+- Incorrect: Der Mann siehst einen Hund.
+- Correct:   Der Mann sieht einen Hund.
+- Why:       der Mann = er/sie/es → sieht, not siehst (du-form). Same pattern as the
+             earlier "Der Mann hast" slip (2026-08-29) — an occasional 3rd-person/du
+             mix-up, unrelated to the accusative case itself (which was correct here:
+             "einen Hund" as object was identified correctly).
+- Frequency: 2 (this verb: 1st time; same error type with haben: 2026-08-29)
+- First seen / last seen: 2026-08-29 / 2026-09-01
+- Status: ACTIVE — light pattern, watch across verbs generally, not case-specific
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
