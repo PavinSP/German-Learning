@@ -165,6 +165,26 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   Confirms this is a speed/attention slip, not a conceptual gap. Keep a light eye
   on it during fast-paced exercises, but no longer a priority concern.
 
+### [other] plural noun used with singular indefinite article
+- Incorrect: Ich habe einen Brüder.
+- Correct:   Ich habe einen Bruder.
+- Why:       einen (accusative singular) requires the singular noun Bruder, not the
+             plural Brüder. Likely just picked the wrong form while thinking of
+             "brother(s)" generally — accusative ending itself was applied correctly.
+- Frequency: 1
+- First seen / last seen: 2026-09-01
+- Status: ACTIVE — light, retest
+
+### [article] meine used for a der-word noun
+- Incorrect: Meine Vater ist müde.
+- Correct:   Mein Vater ist müde.
+- Why:       Vater is a der-word; meine is only for die-words (same gender-agreement
+             rule as ein/eine, already known — likely a momentary slip while
+             juggling new vocabulary).
+- Frequency: 1
+- First seen / last seen: 2026-09-01
+- Status: ACTIVE — light, retest
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

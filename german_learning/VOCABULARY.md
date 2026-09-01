@@ -60,6 +60,14 @@ A word is only MASTERED after correct recall across multiple sessions.
 - das Kind | the child | plural: die Kinder | noun | Das Kind ist hungrig. | KNOWN | 2026-09-01
 - drei | three | number | Wir haben drei Katzen. | KNOWN | 2026-09-01
 
+**Family**
+- die Mutter | mother | plural: die Mütter | noun | Meine Mutter ist glücklich. | KNOWN | 2026-09-01 | one gender-agreement slip (mein→meine), corrected on retry
+- der Vater | father | plural: die Väter | noun | Mein Vater ist hier. | KNOWN | 2026-09-01 | one gender-agreement slip (meine→mein), corrected on retry
+- die Eltern | parents | plural only | noun | Ihre Eltern sind müde. | KNOWN | 2026-09-01
+- der Bruder | brother | plural: die Brüder | noun | Ich habe einen Bruder. | KNOWN | 2026-09-01 | one singular/plural mix-up (Brüder for Bruder), corrected on retry
+- die Schwester | sister | plural: die Schwestern | noun | Ich habe eine Schwester. | KNOWN | 2026-09-01
+- die Familie | family | plural: die Familien | noun | — | INTRODUCED | 2026-09-01 | mentioned, not yet tested in production
+
 ## Frequently Forgotten (⚠️ priority revision)
 
 (none at recurring frequency yet — see ⚠️ flags above, all currently single-occurrence)
