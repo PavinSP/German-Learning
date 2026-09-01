@@ -23,10 +23,11 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Basic dative | NOT_STARTED | — | — | — | — | — | — |
 | Possessive articles (mein/dein/sein/ihr/Ihr) | FUNCTIONAL | Good | 13/15 intensive review + clean 3/3 retest on formal Ihr and ihr's double meaning | Missed formal Ihr once before it was taught (now resolved); self-corrected one gender slip | 2026-09-01 | 2026-09-08 | Yes |
 | Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
-| Modal verbs (können) | LEARNING | Good | 2/4 clean first round, 2/2 clean on fix-it retry | wir conjugated as ich/er under cognitive load; keinen/die mixed together — both resolved on retry | 2026-09-01 | 2026-09-04 | Yes |
+| Modal verbs (können) | FUNCTIONAL | Good | 2/4 → 2/2 retry → 2/2 same-day recheck, all clean | Initial cognitive-load slips, resolved | 2026-09-01 | 2026-09-08 | Yes |
 | Separable verbs | NOT_STARTED | — | — | — | — | — | — |
 | Basic prepositions | NOT_STARTED | — | — | — | — | — | — |
-| Word order: verb-second | NOT_STARTED | — | — | — | — | — | — |
+| Word order: verb-second (general, not just questions) | LEARNING | Good after explicit reinforcement | 1 initial error, then 3/3 clean incl. verb-second + separable-verb + 3rd-person conjugation combined | Verb-second is deeply learned for W-questions but didn't initially generalize to statements starting with a non-subject | 2026-09-01 | 2026-09-04 | Yes |
+| Separable verbs (aufstehen) | LEARNING | Good | 3/3 correct across all attempts, including combined with verb-second rule | — | 2026-09-01 | 2026-09-04 | Yes |
 | Yes/no questions | NOT_STARTED | — | — | — | — | — | — |
 | W-questions | FUNCTIONAL | Good | Correct across sessions, including self-generated question | Earlier du/haben slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
 | Imperative | NOT_STARTED | — | — | — | — | — | — |

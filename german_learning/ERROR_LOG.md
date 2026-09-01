@@ -196,6 +196,32 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-01
 - Status: ACTIVE — light, likely just cognitive load from a brand-new structure, retest
 
+### [word-order] verb not in 2nd position when sentence starts with non-subject
+- Incorrect: Morgen ich kann Käse essen.
+- Correct:   Morgen kann ich Käse essen.
+- Why:       German verb-second rule (already learned for W-questions) applies to
+             ANY sentence, not just questions — whatever comes first (subject, time
+             word, etc.), the conjugated verb must be the 2nd element, with the
+             subject moving after it if something else leads. First time starting a
+             sentence with a non-subject element — reveals the rule needs
+             reinforcing beyond W-questions specifically.
+- Frequency: 1
+- First seen / last seen: 2026-09-01
+- Status: ACTIVE — needs explicit teaching + retest, likely a real gap not just a slip
+
+### [conjugation] 3rd person singular conjugated as du-form (arbeiten)
+- Incorrect: Mein Vater arbeitest heute.
+- Correct:   Mein Vater arbeitet heute.
+- Why:       Same recurring pattern as hat/hast, sieht/siehst — er/sie/es takes -et
+             for regular verbs, not -st (du-form). Now seen across 4 different verbs.
+- Frequency: 4 (haben, sein, sehen, arbeiten)
+- First seen / last seen: 2026-08-29 / 2026-09-01
+- Status: IMPROVING — dedicated focused drill immediately after (er arbeitet, du
+  schläfst, das Kind steht auf) went 3/3 clean, including a 3rd-person separable verb.
+  Consistent with the earlier finding: this resolves reliably when attention is on
+  conjugation specifically, not competing with new vocab/structure. Continue light
+  monitoring during fast-paced mixed exercises, but no longer treat as a priority gap.
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

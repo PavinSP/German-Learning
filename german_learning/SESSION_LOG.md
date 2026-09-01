@@ -63,6 +63,34 @@ Newest entries at the top.
   today (family/numbers/food), then extend modals (müssen/wollen/möchten) or
   start dative case — learner's choice
 
+### Session 3, night check-in (same day, ~22:00)
+
+- **Topics:** Same-day recheck (können + vocab) → daily routine/time vocabulary
+  → verb-second rule generalization → focused conjugation drill
+- **Vocabulary learned:** aufstehen, arbeiten, schlafen, die Uhr, heute, morgen/der
+  Morgen, um
+- **Exercises completed:** recheck (4/4), vocab set (2/5, 3 genuine issues surfaced),
+  fix-it retry (3/4), focused conjugation drill (3/3)
+- **Mistakes:** 3rd-person/du conjugation slip (now 4th verb affected — arbeiten);
+  spelling slip (Shläft→Schläft); NEW GAP — verb-second rule didn't generalize
+  beyond W-questions to statements starting with a non-subject (Morgen ich kann →
+  Morgen kann ich)
+- **Revision performed:** modal verbs (können) confirmed same-day, promoted to
+  FUNCTIONAL (fresh-day check still recommended before fully trusting it)
+- **Assessment result:** Strong overall, with two genuine process discoveries
+  rather than simple mistakes — both addressed with explicit teaching + drilling
+  within the same session
+- **Struggled with:** generalizing verb-second beyond questions (first attempt);
+  recurring 3rd-person/du conjugation pattern (now confirmed to resolve reliably
+  under focused attention)
+- **Improved:** successfully combined THREE concepts in one sentence by the end
+  (verb-second + separable verb + correct conjugation) — "Das Kind steht auf" in
+  the drill, and close to it with "Heute steht meine Mutter..." (one slip only)
+- **Next session:** genuine fresh-day (overnight) retest — verb-second in
+  statements, separable verbs, 3rd-person conjugation across mixed verbs, and all
+  of today's vocabulary. Then choose: extend accusative, extend modals, start
+  dative, or more vocabulary.
+
 ---
 
 ## Session 2 — 2026-08-29 (CLOSED)

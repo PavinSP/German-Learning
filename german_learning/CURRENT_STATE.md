@@ -8,38 +8,39 @@
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Lesson 6 — Modal verbs (können) introduced, solid after retry |
-| **Last session** | 2026-09-01 (Session 3, extended — longest session so far) |
-| **Next action** | Fresh-day retest on können + mixed vocab check, then extend modals or start dative |
+| **Lesson** | Daily routine/time vocabulary + verb-second (general) + separable verbs |
+| **Last session** | 2026-09-01 (Session 3, extended — very long, productive day) |
+| **Next action** | True fresh-day (overnight) retest on today's material, then pick next topic |
 | **Blocking?** | Yes — do not start a new topic until the retest below passes |
 
 ## Known weaknesses (watch list)
 
 | Item | Status | Note |
 |---|---|---|
-| Momentary slips under new-structure cognitive load | Healthy pattern, not a concern | Conjugation/gender slips consistently resolve same-session via retry (seen with accusative, family vocab, modals) |
-| Modal verbs (können) | LEARNING | 2/4 first round, 2/2 clean on retry — needs a fresh-day check to confirm retention |
-| ihr's double meaning (her / you-all) | Resolved | Retested clean 2026-09-01, no longer a concern |
+| 3rd-person vs du/other-form conjugation slips | Improving, light monitoring only | Recurred across 4 verbs now, but a focused drill (no distractions) went 3/3 clean — resolves reliably with attention on conjugation specifically |
+| Verb-second rule generalization (beyond W-questions) | LEARNING | Didn't initially generalize to statements starting with a non-subject; explicit reinforcement + 3/3 clean retry same session — needs a fresh-day check |
+| Separable verbs (aufstehen) | LEARNING | 3/3 correct so far, including combined with verb-second — needs a fresh-day check |
 
 ## Revision schedule
 
 | Topic | Status | Next check due |
 |---|---|---|
-| Accusative case | FUNCTIONAL | 2026-09-08 |
-| Possessive articles (incl. formal Ihr) | FUNCTIONAL | 2026-09-08 |
-| Modal verbs (können) | LEARNING | 2026-09-04 |
-| Lessons 1-3 (sein, haben, articles, negation, W-questions, conjunctions, plurals) | FUNCTIONAL | 2026-09-08 |
-| Vocabulary: family, numbers 1-20, food | KNOWN (untested after gap) | next session |
+| Accusative case, Possessive articles, Lessons 1-3 | FUNCTIONAL | 2026-09-08 |
+| Modal verbs (können) | FUNCTIONAL | 2026-09-08 |
+| Verb-second (general), Separable verbs | LEARNING | 2026-09-04 |
+| Vocabulary: family, numbers, food, daily routine/time | KNOWN (untested after real gap) | next session |
 
 ## Next action (detail)
 
-Start next session with a fresh-day retest on **modal verbs (können)** and a mixed
-check on today's vocabulary (family/numbers/food) after a gap. If solid, learner
-can choose the next topic:
+Start next session with a genuine fresh-day (overnight) retest — this is important,
+since today's evening recheck was same-day only, a weaker signal than a true gap.
+Cover: verb-second in statements (not just questions), separable verbs (aufstehen),
+3rd-person conjugation across a mixed set of verbs, and vocabulary from today
+(family/numbers/food/daily routine). If solid, learner can choose the next topic:
 - Extend accusative: personal pronouns (mich/dich) or accusative prepositions (für/durch)
 - Extend modals: müssen, wollen, möchten
 - Start dative case (a new area)
-- More vocabulary (e.g. daily routine, time/weather)
+- More vocabulary (e.g. shopping, weather)
 
 Keep pace slow, one new concept at a time, per learner's stated preference.
 

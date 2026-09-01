@@ -82,6 +82,16 @@ A word is only MASTERED after correct recall across multiple sessions.
 - essen | to eat (esse/isst/isst/essen/esst/essen — irregular du/er stem change) | verb | Meine Schwester isst Brot. | KNOWN | 2026-09-01 | correctly used irregular isst form on first try
 - trinken | to drink (trinke/trinkst/trinkt/trinken/trinkt/trinken) | verb | Ich trinke Milch. | KNOWN | 2026-09-01
 
+**Daily routine & time**
+- aufstehen | to get up (separable: prefix auf- goes to end) | verb | Ich stehe um sieben Uhr auf. | KNOWN | 2026-09-01
+- arbeiten | to work (arbeite/arbeitest/arbeitet/arbeiten/arbeitet/arbeiten) | verb | Mein Vater arbeitet heute. | KNOWN | 2026-09-01 | one 3rd-person/du slip, retested clean
+- schlafen | to sleep (schlafe/schläfst/schläft — stem change) | verb | Schläft sie? | KNOWN | 2026-09-01 | one spelling slip, retested clean
+- die Uhr | clock / o'clock | noun | Es ist acht Uhr. | KNOWN | 2026-09-01
+- heute | today | adverb | Mein Vater arbeitet heute. | KNOWN | 2026-09-01
+- morgen | tomorrow | adverb | Morgen kann ich Käse essen. | KNOWN | 2026-09-01
+- der Morgen | the morning | noun | — | INTRODUCED | 2026-09-01 | not yet tested; note it looks identical to "morgen" (tomorrow) except capitalization
+- um | at (for time) | preposition | Ich stehe um sieben Uhr auf. | KNOWN | 2026-09-01
+
 ## Frequently Forgotten (⚠️ priority revision)
 
 (none at recurring frequency yet — see ⚠️ flags above, all currently single-occurrence)
