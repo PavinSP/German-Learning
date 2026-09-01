@@ -36,6 +36,7 @@
 Start next session with a fresh-day retest on **modal verbs (können)** and a mixed
 check on today's vocabulary (family/numbers/food) after a gap. If solid, learner
 can choose the next topic:
+- Extend accusative: personal pronouns (mich/dich) or accusative prepositions (für/durch)
 - Extend modals: müssen, wollen, möchten
 - Start dative case (a new area)
 - More vocabulary (e.g. daily routine, time/weather)
