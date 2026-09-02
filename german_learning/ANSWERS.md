@@ -39,6 +39,28 @@ a book. Conjugation: habe/hast/hat/haben/habt/haben. Later on, haben will also h
 build the past tense (Perfekt) — not reached yet, but it's why this verb matters
 so much early on.
 
+### 2026-09-02 — Q6: When to use "einen" (accusative) and which verbs take accusative objects?
+
+**Core test:** accusative applies only when a noun is the direct object of an
+ACTION verb — something the verb is being done TO. **sein** (to be) never takes
+an accusative object, because "to be" doesn't act on anything — it just equates
+two things (X is Y), so nouns after sein always stay nominative.
+
+**Verbs that DO take accusative objects** (most "doing" verbs — already known):
+- haben (to have) — Ich habe **einen** Hund.
+- sehen (to see) — Ich sehe **den** Mann.
+- essen (to eat) — Ich esse **einen** Apfel.
+- trinken (to drink) — takes one too, though often invisible since Wasser/Milch
+  are das/die-words that don't change form.
+
+**Verbs that do NOT** (so far, just one big exception): **sein**. Later on there
+are a couple more "linking verbs" like this (werden = to become, bleiben = to
+stay) — not relevant yet, save for later.
+
+**Quick test to run every time:** ask "What is the verb doing something TO?" — a
+clear answer means that noun is accusative (den/einen/keinen for der-words). If
+the verb is just equating two things, stay nominative.
+
 ### 2026-09-01 — Q4: "Das ist mein Hund" or "Das ist meinen Hund" — which and why?
 
 **"Das ist mein Hund."** is correct — mein stays nominative, never meinen, here.

@@ -8,42 +8,43 @@
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Fresh-day retest revealed 2 genuine retention gaps (verb-second, mein/meine gender) — re-taught, same-session retry clean |
+| **Lesson** | Modal verbs extended (müssen, möchten) — strong results. Verb-second + gender agreement re-taught, clean on same-day embedded practice. |
 | **Last session** | 2026-09-02 (Session 4) |
-| **Next action** | ANOTHER fresh-day retest tomorrow on verb-second + mein/meine specifically, before any new topic |
+| **Next action** | Fresh-day retest (tomorrow, 2026-09-03) on verb-second + mein/meine — must hold on a REAL gap before trusting it |
 | **Blocking?** | Yes — no new grammar topic until verb-second + gender agreement hold across a real gap |
 
 ## Known weaknesses (watch list)
 
 | Item | Status | Note |
 |---|---|---|
-| Verb-second (general, beyond questions) | WEAK | Regressed overnight after a same-day "fix" on 09-01; re-taught + 1/1 clean retry on 09-02, but needs to survive an actual gap before trusting it |
-| mein/meine gender agreement (der vs die-word possessives) | WEAK, recurring | 3 slips across 2 days in both directions; needs dedicated spaced repetition, not one-off corrections |
+| Verb-second (general, beyond questions) | IMPROVING | Regressed overnight once already; re-taught + 5/5 clean on embedded mixed practice same day — needs to survive tomorrow's real gap before trusting it |
+| mein/meine gender agreement (der vs die-word possessives) | IMPROVING | 3 slips across 2 days; re-taught + 5/5 clean on embedded mixed practice same day — same caveat, needs a real gap to confirm |
+| Modal + infinitive placement | New, light | One slip (kann...schläft instead of schlafen) — retested clean once, watch |
+| Apfel/Äpfel singular-plural confusion | New, light | One slip, retested clean once |
 | 3rd-person vs du conjugation | Improving | Resolves reliably under focused attention; light monitoring only |
-| schlafen spelling (Sch- not Sh-) | Recurring, light | 2 occurrences; watch, low urgency |
-| Separable verbs (aufstehen) | LEARNING | Held up on this fresh-day check (4/4 overall) — genuinely more solid than verb-second/gender |
+| Separable verbs (aufstehen) | LEARNING | Held up on a fresh-day check already (4/4 overall) — genuinely more solid |
 
 ## Revision schedule
 
 | Topic | Status | Next check due |
 |---|---|---|
-| Accusative case, Possessive articles, Lessons 1-3, Modal verbs | FUNCTIONAL | 2026-09-08 |
+| Accusative case, Possessive articles, Lessons 1-3 | FUNCTIONAL | 2026-09-08 |
+| Modal verbs (können) | FUNCTIONAL | 2026-09-08 |
+| Modal verbs (müssen, möchten) | LEARNING | 2026-09-05 |
 | Separable verbs | LEARNING | 2026-09-05 |
-| Verb-second (general) | WEAK | 2026-09-03 (tomorrow — shortened interval) |
-| mein/meine gender agreement | WEAK | 2026-09-03 (tomorrow — shortened interval) |
-| Vocabulary: family, numbers, food, daily routine/time | KNOWN (held up on this fresh-day check) | 2026-09-08 |
+| Verb-second (general), mein/meine gender agreement | IMPROVING | 2026-09-03 (tomorrow — must be a REAL gap, not same-session) |
+| Vocabulary: family, numbers, food, daily routine/time | KNOWN | 2026-09-08 |
 
 ## Next action (detail)
 
-**Important — do not treat today's same-session retry as proof these are fixed.**
-Verb-second and mein/meine gender agreement both regressed on a genuine overnight
-gap after looking solid the evening before — that's the whole reason spaced
-repetition exists. Next session: retest both specifically with a real gap (not
-same-session), ideally mixed in with other material so it's not an obviously
-telegraphed drill. Only once these hold across an actual gap should the interval
-extend and new material resume. Candidates once cleared:
+**Do not treat today's same-session mixed practice as proof verb-second/gender
+agreement are fixed** — they already regressed once after looking solid same-day.
+Next session (a genuine fresh-day gap): retest both specifically, mixed into other
+material rather than an obvious drill. Only once they hold across a REAL gap
+should the interval extend and full trust resume. Also lightly recheck müssen/
+möchten and modal+infinitive placement (both new today). Once all clear, learner
+can choose:
 - Extend accusative: personal pronouns (mich/dich) or accusative prepositions (für/durch)
-- Extend modals: müssen, wollen, möchten
 - Start dative case (a new area)
 - More vocabulary (e.g. shopping, weather)
 

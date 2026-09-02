@@ -91,6 +91,8 @@ A word is only MASTERED after correct recall across multiple sessions.
 - morgen | tomorrow | adverb | Morgen kann ich Käse essen. | KNOWN | 2026-09-01
 - der Morgen | the morning | noun | — | INTRODUCED | 2026-09-01 | not yet tested; note it looks identical to "morgen" (tomorrow) except capitalization
 - um | at (for time) | preposition | Ich stehe um sieben Uhr auf. | KNOWN | 2026-09-01
+- müssen | must/have to (muss/musst/muss/müssen/müsst/müssen) | modal verb | Ich muss schlafen. | KNOWN | 2026-09-02
+- möchten | would like (möchte/möchtest/möchte/möchten/möchtet/möchten) | modal verb | Möchtest du einen Apfel essen? | KNOWN | 2026-09-02 | one Apfel/Äpfel singular-plural mix-up, corrected on retry
 
 ## Frequently Forgotten (⚠️ priority revision)
 

@@ -23,7 +23,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Basic dative | NOT_STARTED | — | — | — | — | — | — |
 | Possessive articles (mein/dein/sein/ihr/Ihr) | FUNCTIONAL | Good | 13/15 intensive review + clean 3/3 retest on formal Ihr and ihr's double meaning | Missed formal Ihr once before it was taught (now resolved); self-corrected one gender slip | 2026-09-01 | 2026-09-08 | Yes |
 | Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
-| Modal verbs (können) | FUNCTIONAL | Good | 2/4 → 2/2 retry → 2/2 same-day recheck, all clean | Initial cognitive-load slips, resolved | 2026-09-01 | 2026-09-08 | Yes |
+| Modal verbs (können, müssen, möchten) | LEARNING | Good | können: FUNCTIONAL (multiple clean checks). müssen/möchten: 3/4 clean on first attempt, 1/1 clean retry | One Apfel singular/plural spelling slip (Äpfel vs Apfel), accusative ending itself correct throughout | 2026-09-02 | 2026-09-05 | Yes |
 | Separable verbs | NOT_STARTED | — | — | — | — | — | — |
 | Basic prepositions | NOT_STARTED | — | — | — | — | — | — |
 | Word order: verb-second (general, not just questions) | WEAK | Rule understood when explained, doesn't yet hold across a gap | Regressed on fresh-day (overnight) retest after being clean same-day; corrected again with explicit re-teaching, 1/1 clean on retry | Genuine retention gap, not just a slip — needs more spaced repetition before FUNCTIONAL | 2026-09-02 | 2026-09-03 | Yes |

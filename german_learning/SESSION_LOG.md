@@ -29,6 +29,30 @@ Newest entries at the top.
   hold across a real gap, per spaced-repetition principle (increase frequency when
   forgetting recurs)
 
+### Session 4, continued — mixed practice + modal verbs extended
+
+- **Topics:** Mixed practice round (verb-second + gender agreement, embedded) →
+  müssen & möchten (extending modal verbs)
+- **Vocabulary learned:** müssen, möchten
+- **Exercises completed:** mixed practice (5/5 clean on both target points),
+  müssen/möchten set (3/4, 1 slip), fix-it retry (1/1)
+- **Mistakes:** modal+infinitive placement (kann...schläft instead of schlafen,
+  caught mid-round); Apfel/Äpfel singular-plural mix-up — both retested clean
+- **Revision performed:** verb-second and mein/meine both went 5/5 clean when
+  embedded naturally in new sentences (not an obvious drill) — encouraging, but
+  same-day only, so kept at shortened interval rather than trusted yet
+- **Assessment result:** Strong — genuinely good signal that re-teaching worked,
+  plus successful extension to 2 new modal verbs with minimal errors
+- **Struggled with:** nothing major; both slips today were new, unrelated,
+  one-off issues, immediately resolved
+- **Improved:** verb-second held across an entire 5-sentence mixed round;
+  correctly self-corrected modal+infinitive placement mid-exercise
+- **Also this session:** learner asked which verbs take accusative objects and
+  why sein doesn't — answered in depth (Q6 in ANSWERS.md)
+- **Next session:** genuine fresh-day retest on verb-second + mein/meine (the
+  real test), light recheck on müssen/möchten and modal+infinitive placement,
+  then learner's choice: extend accusative, start dative, or more vocabulary
+
 ---
 
 ## Session 3 — 2026-09-01 (CLOSED, extended)
