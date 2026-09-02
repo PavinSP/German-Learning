@@ -31,6 +31,14 @@ kein/keine negates nouns" rule: nicht isn't negating the noun *Zeit* here — it
 negating the adjective/quantifier *viel* ("much"). That's consistent with the rule,
 not an exception to it.
 
+### 2026-09-02 — Q5: What verb is haben?
+
+**haben** means "to have" — one of the two most fundamental German verbs (with
+**sein** = "to be"), used constantly for possession: *Ich habe ein Buch* = I have
+a book. Conjugation: habe/hast/hat/haben/habt/haben. Later on, haben will also help
+build the past tense (Perfekt) — not reached yet, but it's why this verb matters
+so much early on.
+
 ### 2026-09-01 — Q4: "Das ist mein Hund" or "Das ist meinen Hund" — which and why?
 
 **"Das ist mein Hund."** is correct — mein stays nominative, never meinen, here.

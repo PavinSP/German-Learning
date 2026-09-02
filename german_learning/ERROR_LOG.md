@@ -231,7 +231,10 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              problem. Needs another explicit pass + more spaced practice, not panic.
 - Frequency: 2 (1st: 2026-09-01, resolved same-day; 2nd: 2026-09-02, fresh-day regression)
 - First seen / last seen: 2026-09-01 / 2026-09-02
-- Status: ACTIVE — needs re-teaching + a wider spaced-repetition gap before next check
+- Status: IMPROVING — a mixed-practice round later the same day (2026-09-02, 5
+  sentences embedding verb-second naturally, not a telegraphed drill) went 5/5
+  clean on this specific point. Encouraging, but this is still same-day — the
+  real test is whether it holds on the NEXT fresh-day gap. Keep shortened interval.
 
 ### [conjugation] schlafen ending invented (schläftet)
 - Incorrect: Shläftet sie?
@@ -249,8 +252,10 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              regressed on fresh-day retest — again, normal for day-old material.
 - Frequency: 3 (2 slips 2026-09-01 in both directions, now again 2026-09-02)
 - First seen / last seen: 2026-09-01 / 2026-09-02
-- Status: ACTIVE — this specific der/die-word possessive pairing needs dedicated
-  spaced repetition, not just one-off corrections
+- Status: IMPROVING — same mixed-practice round (2026-09-02) went 5/5 clean on
+  gender agreement across both der- and die-word possessives, embedded naturally.
+  Same caveat as verb-second: needs to hold on the NEXT fresh-day gap before
+  trusting it fully. Keep shortened interval.
 
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
