@@ -254,8 +254,10 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-01 / 2026-09-02
 - Status: IMPROVING — same mixed-practice round (2026-09-02) went 5/5 clean on
   gender agreement across both der- and die-word possessives, embedded naturally.
-  Same caveat as verb-second: needs to hold on the NEXT fresh-day gap before
-  trusting it fully. Keep shortened interval.
+  One further slip later the same day, but in a self-generated, more complex
+  sentence (higher cognitive load, plus attempting an untaught adjective-ending
+  concept simultaneously) — not on a simple prompted sentence like the clean
+  round. Still needs to hold on the NEXT fresh-day gap before trusting it fully.
 
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.

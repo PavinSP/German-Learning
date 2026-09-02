@@ -94,6 +94,14 @@ A word is only MASTERED after correct recall across multiple sessions.
 - müssen | must/have to (muss/musst/muss/müssen/müsst/müssen) | modal verb | Ich muss schlafen. | KNOWN | 2026-09-02
 - möchten | would like (möchte/möchtest/möchte/möchten/möchtet/möchten) | modal verb | Möchtest du einen Apfel essen? | KNOWN | 2026-09-02 | one Apfel/Äpfel singular-plural mix-up, corrected on retry
 
+**Weather**
+- das Wetter | the weather | noun | Das Wetter ist heute warm. | KNOWN | 2026-09-02
+- die Sonne | the sun | noun | Morgen ist die Sonne warm. | KNOWN | 2026-09-02
+- der Regen | the rain | noun | Der Regen ist kalt. | INTRODUCED | 2026-09-02 | not directly tested yet
+- kalt | cold | adjective | Der Regen ist kalt. | KNOWN | 2026-09-02
+- warm | warm | adjective | Das Wetter ist warm. | KNOWN | 2026-09-02
+- regnen | to rain (impersonal: es regnet) | verb | Heute regnet es. | KNOWN | 2026-09-02 | correctly used with verb-second word order twice
+
 ## Frequently Forgotten (⚠️ priority revision)
 
 (none at recurring frequency yet — see ⚠️ flags above, all currently single-occurrence)
