@@ -236,8 +236,10 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   clean on this specific point. A later comprehensive review (same day) held
   clean for morgen/heute/aber-triggered clauses but caught ONE new instance:
   verb-second after "so" also needs the verb in position 2 (so kann meine
-  Mutter...), which hadn't been tested before — corrected in place, general
-  pattern is generalizing well. Still needs to hold on the NEXT fresh-day gap.
+  Mutter...), which hadn't been tested before — corrected in place. A THIRD
+  round (shopping vocabulary, same day) retested "so" specifically and went
+  clean ("so kaufe ich nicht den Hund"). Verb-second held 10/11 total tests
+  today. Still needs to hold on the NEXT fresh-day gap before fully trusted.
 
 ### [conjugation] schlafen ending invented (schläftet)
 - Incorrect: Shläftet sie?

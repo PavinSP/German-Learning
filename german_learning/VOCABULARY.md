@@ -102,6 +102,15 @@ A word is only MASTERED after correct recall across multiple sessions.
 - warm | warm | adjective | Das Wetter ist warm. | KNOWN | 2026-09-02
 - regnen | to rain (impersonal: es regnet) | verb | Heute regnet es. | KNOWN | 2026-09-02 | correctly used with verb-second word order twice
 
+**Shopping**
+- das Geschäft | the shop/store | noun | Heute ist das Geschäft teuer. | KNOWN | 2026-09-02
+- kaufen | to buy | verb | Ich kaufe einen Hund. | KNOWN | 2026-09-02
+- das Geld | the money | noun | Meine Mutter hat kein Geld. | KNOWN | 2026-09-02
+- der Preis | the price | noun | — | INTRODUCED | 2026-09-02 | not yet tested
+- teuer | expensive | adjective | Das Geschäft ist teuer. | KNOWN | 2026-09-02
+- billig | cheap | adjective | Der Apfel ist billig. | KNOWN | 2026-09-02
+- kosten | to cost | verb | Was kostet das Buch? | KNOWN | 2026-09-02
+
 ## Frequently Forgotten (⚠️ priority revision)
 
 (none at recurring frequency yet — see ⚠️ flags above, all currently single-occurrence)

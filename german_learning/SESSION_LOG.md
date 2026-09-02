@@ -82,6 +82,21 @@ Newest entries at the top.
 - **Next session:** the real fresh-day retest — this remains the priority before
   any new topic
 
+### Session 4, absolute final stretch — shopping vocabulary + kein/nicht mechanics
+
+- **Topics:** Shopping vocabulary → learner Q8 (kein vs nicht, fuller picture) →
+  learner Q9 (why kein and der/die/das never combine)
+- **Vocabulary learned:** das Geschäft, kaufen, das Geld, der Preis, teuer,
+  billig, kosten
+- **Exercises completed:** shopping set (5/5 clean, incl. verb-second after "so"
+  retested clean), 2 confirmation checks (both clean)
+- **Assessment result:** Excellent — clean sweep on vocabulary, and two sharp,
+  well-reasoned follow-up questions showing genuine conceptual engagement, not
+  just pattern memorization
+- **Improved:** verb-second after "so" now confirmed clean on a second, different
+  sentence — no longer looks like a fluke
+- **Next session:** the real fresh-day retest remains the top priority
+
 ---
 
 ## Session 3 — 2026-09-01 (CLOSED, extended)

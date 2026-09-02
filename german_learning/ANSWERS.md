@@ -80,6 +80,47 @@ decides everything, as if the modal weren't there. Same underlying logic as Q6
 (which verbs take accusative) — modals don't change that list, they just sit in
 front of it.
 
+### 2026-09-02 — Q8: When to use kein vs nicht? (fuller picture, ties together Q3 and the ongoing kein/nicht work)
+
+**Use kein/keine when:** negating a noun that would otherwise take ein/eine (or no
+article at all) — an indefinite/general noun.
+- Ich habe keinen Hund. (I have no dog — vs "ein Hund")
+- Ich habe keine Zeit. (Zeit normally takes no article)
+
+**Use nicht when:**
+- Negating a verb: Ich arbeite nicht.
+- Negating an adjective: Ich bin nicht müde.
+- Negating a SPECIFIC/definite noun (one with der/die/das, not ein/eine): Ich sehe
+  den Hund nicht. (I don't see THE dog — specific, not "a" dog)
+- Negating an entire idea/action rather than a noun
+
+**Quick test:** could the negated word naturally be replaced with kein/keine (i.e.,
+it's an indefinite/general noun)? Use kein. If it's a specific/definite noun, a
+verb, or an adjective, use nicht. See also Q3 (2026-08-29, keine Zeit vs nicht
+viel Zeit) for the related "nicht negates the adjective, not the noun" case.
+
+### 2026-09-02 — Q9: Why "so kaufe ich nicht den Hund" and not "so kaufe ich kein den Hund"?
+
+Because **kein/keine and den/der/die/das never combine — they're mutually
+exclusive alternatives, not stackable.**
+
+- kein/keine REPLACES the article entirely — used instead of ein/eine (or no
+  article), for a general/indefinite noun: "Ich habe keinen Hund" (kein IS the
+  article slot — no separate "ein" appears alongside it).
+- nicht doesn't touch the article at all — it's a separate negation word placed
+  near the verb/noun, while the article (der/den/die/das) stays exactly as it
+  was: "Ich sehe den Hund nicht." Both den and nicht appear together, because
+  nicht negates the action, not the article.
+
+"kein den Hund" is invalid because that would put TWO articles on one noun — kein
+already functions as an article-equivalent, and den is a definite article; they
+can't both attach to Hund at once.
+
+**The real trigger:** was there originally an ein/eine (or no article) — an
+indefinite/general noun? → kein replaces it. Was there originally a der/die/das —
+a specific, already-identified thing? → keep der/die/das and add nicht separately.
+Ties directly into Q8 (kein vs nicht) — this is the mechanical reason behind that rule.
+
 ### 2026-09-01 — Q4: "Das ist mein Hund" or "Das ist meinen Hund" — which and why?
 
 **"Das ist mein Hund."** is correct — mein stays nominative, never meinen, here.
