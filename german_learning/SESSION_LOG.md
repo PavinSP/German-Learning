@@ -67,6 +67,21 @@ Newest entries at the top.
   more complex sentences, a good sign of genuine engagement
 - **Next session:** the real fresh-day retest on verb-second + gender agreement
 
+### Session 4, comprehensive mixed review (final round of the day)
+
+- **Topics:** 5-sentence review combining possessives, accusative, modals,
+  separable verbs, and vocabulary from family/numbers/food/weather all at once
+- **Exercises completed:** 5 sentences (4/5 clean), 1 fix-it retry (clean)
+- **Mistakes:** verb-second after "so" — new trigger word not tested before,
+  otherwise correct instinct (used kann appropriately, just placed it wrong)
+- **Assessment result:** Very strong — verb-second held in 9 of 10 tests across
+  the entire day; the one miss was new information, not a regression
+- **Improved:** demonstrated the ability to correctly combine many concepts
+  (2-clause sentences, multiple conjugated verbs, accusative, possessives) in a
+  single response repeatedly
+- **Next session:** the real fresh-day retest — this remains the priority before
+  any new topic
+
 ---
 
 ## Session 3 — 2026-09-01 (CLOSED, extended)

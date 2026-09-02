@@ -233,8 +233,11 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-01 / 2026-09-02
 - Status: IMPROVING — a mixed-practice round later the same day (2026-09-02, 5
   sentences embedding verb-second naturally, not a telegraphed drill) went 5/5
-  clean on this specific point. Encouraging, but this is still same-day — the
-  real test is whether it holds on the NEXT fresh-day gap. Keep shortened interval.
+  clean on this specific point. A later comprehensive review (same day) held
+  clean for morgen/heute/aber-triggered clauses but caught ONE new instance:
+  verb-second after "so" also needs the verb in position 2 (so kann meine
+  Mutter...), which hadn't been tested before — corrected in place, general
+  pattern is generalizing well. Still needs to hold on the NEXT fresh-day gap.
 
 ### [conjugation] schlafen ending invented (schläftet)
 - Incorrect: Shläftet sie?
@@ -257,7 +260,9 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   One further slip later the same day, but in a self-generated, more complex
   sentence (higher cognitive load, plus attempting an untaught adjective-ending
   concept simultaneously) — not on a simple prompted sentence like the clean
-  round. Still needs to hold on the NEXT fresh-day gap before trusting it fully.
+  round. A later comprehensive review (also 2026-09-02) went clean again on
+  meine Mutter specifically. Still needs to hold on the NEXT fresh-day gap
+  before trusting it fully.
 
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
