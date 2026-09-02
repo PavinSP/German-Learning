@@ -61,6 +61,25 @@ stay) — not relevant yet, save for later.
 clear answer means that noun is accusative (den/einen/keinen for der-words). If
 the verb is just equating two things, stay nominative.
 
+### 2026-09-02 — Q7: Are all modal verbs accusative? (Do verbs paired with modals take accusative?)
+
+**No — modal verbs themselves don't determine accusative. The SECOND verb (the
+infinitive at the end) does, exactly as it would on its own.**
+
+Modal verbs (können, müssen, möchten) are just "helper" verbs — they don't add or
+remove any case requirement. Whether a sentence has an accusative object depends
+entirely on what the infinitive verb at the end normally takes:
+- Ich möchte **den Hund** sehen. — sehen takes accusative → den Hund is accusative,
+  same as "Ich sehe den Hund" without the modal.
+- Ich kann schlafen. — schlafen takes no object at all → no accusative anywhere.
+- Ich muss Wasser trinken. — trinken takes accusative, but Wasser (das-word) just
+  doesn't visibly change.
+
+The modal verb itself never has a direct object of its own — the infinitive verb
+decides everything, as if the modal weren't there. Same underlying logic as Q6
+(which verbs take accusative) — modals don't change that list, they just sit in
+front of it.
+
 ### 2026-09-01 — Q4: "Das ist mein Hund" or "Das ist meinen Hund" — which and why?
 
 **"Das ist mein Hund."** is correct — mein stays nominative, never meinen, here.
