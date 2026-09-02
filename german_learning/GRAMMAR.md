@@ -26,8 +26,8 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Modal verbs (können) | FUNCTIONAL | Good | 2/4 → 2/2 retry → 2/2 same-day recheck, all clean | Initial cognitive-load slips, resolved | 2026-09-01 | 2026-09-08 | Yes |
 | Separable verbs | NOT_STARTED | — | — | — | — | — | — |
 | Basic prepositions | NOT_STARTED | — | — | — | — | — | — |
-| Word order: verb-second (general, not just questions) | LEARNING | Good after explicit reinforcement | 1 initial error, then 3/3 clean incl. verb-second + separable-verb + 3rd-person conjugation combined | Verb-second is deeply learned for W-questions but didn't initially generalize to statements starting with a non-subject | 2026-09-01 | 2026-09-04 | Yes |
-| Separable verbs (aufstehen) | LEARNING | Good | 3/3 correct across all attempts, including combined with verb-second rule | — | 2026-09-01 | 2026-09-04 | Yes |
+| Word order: verb-second (general, not just questions) | WEAK | Rule understood when explained, doesn't yet hold across a gap | Regressed on fresh-day (overnight) retest after being clean same-day; corrected again with explicit re-teaching, 1/1 clean on retry | Genuine retention gap, not just a slip — needs more spaced repetition before FUNCTIONAL | 2026-09-02 | 2026-09-03 | Yes |
+| Separable verbs (aufstehen) | LEARNING | Good | 4/4 correct across all attempts, including a fresh-day check | — | 2026-09-02 | 2026-09-05 | Yes |
 | Yes/no questions | NOT_STARTED | — | — | — | — | — | — |
 | W-questions | FUNCTIONAL | Good | Correct across sessions, including self-generated question | Earlier du/haben slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
 | Imperative | NOT_STARTED | — | — | — | — | — | — |

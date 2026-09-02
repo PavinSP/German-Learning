@@ -8,35 +8,40 @@
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Daily routine/time vocabulary + verb-second (general) + separable verbs |
-| **Last session** | 2026-09-01 (Session 3, extended — very long, productive day) |
-| **Next action** | True fresh-day (overnight) retest on today's material, then pick next topic |
-| **Blocking?** | Yes — do not start a new topic until the retest below passes |
+| **Lesson** | Fresh-day retest revealed 2 genuine retention gaps (verb-second, mein/meine gender) — re-taught, same-session retry clean |
+| **Last session** | 2026-09-02 (Session 4) |
+| **Next action** | ANOTHER fresh-day retest tomorrow on verb-second + mein/meine specifically, before any new topic |
+| **Blocking?** | Yes — no new grammar topic until verb-second + gender agreement hold across a real gap |
 
 ## Known weaknesses (watch list)
 
 | Item | Status | Note |
 |---|---|---|
-| 3rd-person vs du/other-form conjugation slips | Improving, light monitoring only | Recurred across 4 verbs now, but a focused drill (no distractions) went 3/3 clean — resolves reliably with attention on conjugation specifically |
-| Verb-second rule generalization (beyond W-questions) | LEARNING | Didn't initially generalize to statements starting with a non-subject; explicit reinforcement + 3/3 clean retry same session — needs a fresh-day check |
-| Separable verbs (aufstehen) | LEARNING | 3/3 correct so far, including combined with verb-second — needs a fresh-day check |
+| Verb-second (general, beyond questions) | WEAK | Regressed overnight after a same-day "fix" on 09-01; re-taught + 1/1 clean retry on 09-02, but needs to survive an actual gap before trusting it |
+| mein/meine gender agreement (der vs die-word possessives) | WEAK, recurring | 3 slips across 2 days in both directions; needs dedicated spaced repetition, not one-off corrections |
+| 3rd-person vs du conjugation | Improving | Resolves reliably under focused attention; light monitoring only |
+| schlafen spelling (Sch- not Sh-) | Recurring, light | 2 occurrences; watch, low urgency |
+| Separable verbs (aufstehen) | LEARNING | Held up on this fresh-day check (4/4 overall) — genuinely more solid than verb-second/gender |
 
 ## Revision schedule
 
 | Topic | Status | Next check due |
 |---|---|---|
-| Accusative case, Possessive articles, Lessons 1-3 | FUNCTIONAL | 2026-09-08 |
-| Modal verbs (können) | FUNCTIONAL | 2026-09-08 |
-| Verb-second (general), Separable verbs | LEARNING | 2026-09-04 |
-| Vocabulary: family, numbers, food, daily routine/time | KNOWN (untested after real gap) | next session |
+| Accusative case, Possessive articles, Lessons 1-3, Modal verbs | FUNCTIONAL | 2026-09-08 |
+| Separable verbs | LEARNING | 2026-09-05 |
+| Verb-second (general) | WEAK | 2026-09-03 (tomorrow — shortened interval) |
+| mein/meine gender agreement | WEAK | 2026-09-03 (tomorrow — shortened interval) |
+| Vocabulary: family, numbers, food, daily routine/time | KNOWN (held up on this fresh-day check) | 2026-09-08 |
 
 ## Next action (detail)
 
-Start next session with a genuine fresh-day (overnight) retest — this is important,
-since today's evening recheck was same-day only, a weaker signal than a true gap.
-Cover: verb-second in statements (not just questions), separable verbs (aufstehen),
-3rd-person conjugation across a mixed set of verbs, and vocabulary from today
-(family/numbers/food/daily routine). If solid, learner can choose the next topic:
+**Important — do not treat today's same-session retry as proof these are fixed.**
+Verb-second and mein/meine gender agreement both regressed on a genuine overnight
+gap after looking solid the evening before — that's the whole reason spaced
+repetition exists. Next session: retest both specifically with a real gap (not
+same-session), ideally mixed in with other material so it's not an obviously
+telegraphed drill. Only once these hold across an actual gap should the interval
+extend and new material resume. Candidates once cleared:
 - Extend accusative: personal pronouns (mich/dich) or accusative prepositions (für/durch)
 - Extend modals: müssen, wollen, möchten
 - Start dative case (a new area)

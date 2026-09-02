@@ -4,6 +4,33 @@ Newest entries at the top.
 
 ---
 
+## Session 4 — 2026-09-02
+
+- **Topics:** Genuine fresh-day (overnight) retest on verb-second, separable verbs,
+  conjugation, and vocabulary from Session 3
+- **Vocabulary learned:** none new — pure revision session
+- **Exercises completed:** initial retest (2/6 clean), re-teaching, retry (3/3 clean)
+- **Mistakes:** verb-second rule regressed overnight (was clean same-day
+  yesterday); mein/meine gender agreement for Mutter regressed (3rd occurrence,
+  both directions); schläft spelling repeated; Ich capitalized mid-sentence again;
+  Bröt for Brot (invented umlaut)
+- **Revision performed:** Full fresh-day retest — this is the important kind, since
+  it caught 2 genuine retention gaps that a same-day check had missed
+- **Assessment result:** Mixed but valuable — separable verbs and most vocabulary
+  held up genuinely well; verb-second and gender agreement did not, revealing they
+  were same-day fixes rather than real retention
+- **Struggled with:** verb-second generalization and mein/meine gender agreement
+  specifically — both downgraded to WEAK, both re-taught, both need to survive
+  ANOTHER real gap before being trusted
+- **Improved:** separable verbs and daily-routine/food/family/number vocabulary all
+  confirmed genuinely retained overnight
+- **Next session:** retest verb-second + mein/meine specifically (mixed into other
+  material, not a telegraphed drill) — do not proceed to new grammar until these
+  hold across a real gap, per spaced-repetition principle (increase frequency when
+  forgetting recurs)
+
+---
+
 ## Session 3 — 2026-09-01 (CLOSED, extended)
 
 - **Topics:** 3-day-gap retest on Lessons 1-3 → possessive articles (mein/dein/sein/ihr)

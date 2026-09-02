@@ -222,6 +222,36 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   conjugation specifically, not competing with new vocab/structure. Continue light
   monitoring during fast-paced mixed exercises, but no longer treat as a priority gap.
 
+### [word-order] verb-second rule regressed overnight (fresh-day retest)
+- Incorrect: Morgen mein Vater arbeitet.
+- Correct:   Morgen arbeitet mein Vater.
+- Why:       Same rule taught and drilled clean yesterday (2026-09-01 night), but
+             didn't hold on a true overnight gap. Normal for day-old material —
+             this is exactly what spaced repetition is for, not a sign of a deeper
+             problem. Needs another explicit pass + more spaced practice, not panic.
+- Frequency: 2 (1st: 2026-09-01, resolved same-day; 2nd: 2026-09-02, fresh-day regression)
+- First seen / last seen: 2026-09-01 / 2026-09-02
+- Status: ACTIVE — needs re-teaching + a wider spaced-repetition gap before next check
+
+### [conjugation] schlafen ending invented (schläftet)
+- Incorrect: Shläftet sie?
+- Correct:   Schläft sie?
+- Why:       schläft is already the full 3rd-person form — no additional -et needed;
+             also repeats yesterday's Sch- spelling slip.
+- Frequency: 2 (spelling: 2026-09-01, 09-02; wrong ending: new today)
+- First seen / last seen: 2026-09-01 / 2026-09-02
+- Status: ACTIVE — retest
+
+### [article] meine regressed to mein for a die-word (Mutter) overnight
+- Incorrect: Mein Mutter arbeitet.
+- Correct:   Meine Mutter arbeitet.
+- Why:       Same gender-agreement pattern practiced and corrected yesterday,
+             regressed on fresh-day retest — again, normal for day-old material.
+- Frequency: 3 (2 slips 2026-09-01 in both directions, now again 2026-09-02)
+- First seen / last seen: 2026-09-01 / 2026-09-02
+- Status: ACTIVE — this specific der/die-word possessive pairing needs dedicated
+  spaced repetition, not just one-off corrections
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
