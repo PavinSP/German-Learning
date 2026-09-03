@@ -231,15 +231,9 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              problem. Needs another explicit pass + more spaced practice, not panic.
 - Frequency: 2 (1st: 2026-09-01, resolved same-day; 2nd: 2026-09-02, fresh-day regression)
 - First seen / last seen: 2026-09-01 / 2026-09-02
-- Status: IMPROVING — a mixed-practice round later the same day (2026-09-02, 5
-  sentences embedding verb-second naturally, not a telegraphed drill) went 5/5
-  clean on this specific point. A later comprehensive review (same day) held
-  clean for morgen/heute/aber-triggered clauses but caught ONE new instance:
-  verb-second after "so" also needs the verb in position 2 (so kann meine
-  Mutter...), which hadn't been tested before — corrected in place. A THIRD
-  round (shopping vocabulary, same day) retested "so" specifically and went
-  clean ("so kaufe ich nicht den Hund"). Verb-second held 10/11 total tests
-  today. Still needs to hold on the NEXT fresh-day gap before fully trusted.
+- Status: RESOLVED — held clean across multiple same-day rounds on 2026-09-02
+  (10/11), then confirmed on a genuine overnight retest 2026-09-03 (4/4, incl.
+  after "so"). Promoted to FUNCTIONAL in GRAMMAR.md. No longer a priority concern.
 
 ### [conjugation] schlafen ending invented (schläftet)
 - Incorrect: Shläftet sie?
@@ -257,14 +251,10 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              regressed on fresh-day retest — again, normal for day-old material.
 - Frequency: 3 (2 slips 2026-09-01 in both directions, now again 2026-09-02)
 - First seen / last seen: 2026-09-01 / 2026-09-02
-- Status: IMPROVING — same mixed-practice round (2026-09-02) went 5/5 clean on
-  gender agreement across both der- and die-word possessives, embedded naturally.
-  One further slip later the same day, but in a self-generated, more complex
-  sentence (higher cognitive load, plus attempting an untaught adjective-ending
-  concept simultaneously) — not on a simple prompted sentence like the clean
-  round. A later comprehensive review (also 2026-09-02) went clean again on
-  meine Mutter specifically. Still needs to hold on the NEXT fresh-day gap
-  before trusting it fully.
+- Status: RESOLVED — held clean across multiple same-day rounds on 2026-09-02
+  (with one slip only in a harder self-generated sentence), then confirmed clean
+  on a genuine overnight retest 2026-09-03 (4/4, both der- and die-word
+  possessives). Promoted to FUNCTIONAL. No longer a priority concern.
 
 ### [article] das confused with den for a das-word noun
 - Incorrect: Ich sehe den Buch nicht.

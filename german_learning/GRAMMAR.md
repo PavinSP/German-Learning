@@ -26,7 +26,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Modal verbs (können, müssen, möchten) | LEARNING | Good | können: FUNCTIONAL (multiple clean checks). müssen/möchten: 3/4 clean on first attempt, 1/1 clean retry | One Apfel singular/plural spelling slip (Äpfel vs Apfel), accusative ending itself correct throughout | 2026-09-02 | 2026-09-05 | Yes |
 | Separable verbs | NOT_STARTED | — | — | — | — | — | — |
 | Basic prepositions | NOT_STARTED | — | — | — | — | — | — |
-| Word order: verb-second (general, not just questions) | WEAK | Rule understood when explained, doesn't yet hold across a gap | Regressed on fresh-day (overnight) retest after being clean same-day; corrected again with explicit re-teaching, 1/1 clean on retry | Genuine retention gap, not just a slip — needs more spaced repetition before FUNCTIONAL | 2026-09-02 | 2026-09-03 | Yes |
+| Word order: verb-second (general, not just questions) | FUNCTIONAL | Good | Held clean across a genuine overnight retest (4/4, incl. after "so") after earlier regressing once — real retention now confirmed | Earlier one-time regression (2026-09-02), resolved | 2026-09-03 | 2026-09-10 | Yes |
 | Separable verbs (aufstehen) | LEARNING | Good | 4/4 correct across all attempts, including a fresh-day check | — | 2026-09-02 | 2026-09-05 | Yes |
 | Yes/no questions | NOT_STARTED | — | — | — | — | — | — |
 | W-questions | FUNCTIONAL | Good | Correct across sessions, including self-generated question | Earlier du/haben slip not repeated | 2026-08-29 | 2026-09-01 | Yes |

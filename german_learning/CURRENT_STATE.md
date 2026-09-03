@@ -8,47 +8,40 @@
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Modal verbs extended + weather vocabulary + comprehensive mixed review. Verb-second held 9/10 today; gender agreement mostly clean. |
-| **Last session** | 2026-09-02→03 (Session 4, spanned into a 2026-09-03 morning fresh-day check) |
-| **Next action** | Fresh-day retest still needed on verb-second + mein/meine specifically (not yet directly retested this morning — only kein/nicht was) |
-| **Blocking?** | Yes — no new grammar topic until verb-second + gender agreement hold across a real gap |
+| **Lesson** | Verb-second and mein/meine gender agreement CONFIRMED FUNCTIONAL via genuine overnight retest (2026-09-03) |
+| **Last session** | 2026-09-03 (Session 5) |
+| **Next action** | Both long-standing watch-items cleared — learner picks the next topic |
+| **Blocking?** | No — free to start new material |
 
 ## Known weaknesses (watch list)
 
 | Item | Status | Note |
 |---|---|---|
-| Verb-second (general, beyond questions) | IMPROVING | Regressed overnight once already; re-taught + 5/5 clean on embedded mixed practice same day — needs to survive tomorrow's real gap before trusting it |
-| mein/meine gender agreement (der vs die-word possessives) | IMPROVING | 3 slips across 2 days; re-taught + 5/5 clean on embedded mixed practice same day — same caveat, needs a real gap to confirm |
-| Modal + infinitive placement | New, light | One slip (kann...schläft instead of schlafen) — retested clean once, watch |
-| Apfel/Äpfel singular-plural confusion | New, light | One slip, retested clean once |
-| 3rd-person vs du conjugation | Improving | Resolves reliably under focused attention; light monitoring only |
-| Separable verbs (aufstehen) | LEARNING | Held up on a fresh-day check already (4/4 overall) — genuinely more solid |
+| 3rd-person vs du conjugation | Improving, light | Still occasionally recurs (mein Bruder→sehst instead of sieht, 2026-09-03) but resolves reliably under focused attention |
+| Modal + infinitive placement | Light | One slip, retested clean once — low priority |
+| Apfel/Äpfel singular-plural | Light | One slip, retested clean once |
+| das/den article confusion (das-word given den) | Light, new | One slip 2026-09-02, retest pending |
 
 ## Revision schedule
 
 | Topic | Status | Next check due |
 |---|---|---|
-| Accusative case, Possessive articles, Lessons 1-3 | FUNCTIONAL | 2026-09-08 |
-| Modal verbs (können) | FUNCTIONAL | 2026-09-08 |
-| Modal verbs (müssen, möchten) | LEARNING | 2026-09-05 |
-| Separable verbs | LEARNING | 2026-09-05 |
-| Verb-second (general), mein/meine gender agreement | IMPROVING | 2026-09-03 (tomorrow — must be a REAL gap, not same-session) |
-| Vocabulary: family, numbers, food, daily routine/time | KNOWN | 2026-09-08 |
+| Accusative case, Possessive articles, Lessons 1-3, Modal verbs (können) | FUNCTIONAL | 2026-09-08 |
+| Verb-second (general), mein/meine gender agreement | FUNCTIONAL (newly confirmed) | 2026-09-10 |
+| Modal verbs (müssen, möchten), Separable verbs, kein vs nicht | LEARNING/confirmed clean | 2026-09-05 |
+| Vocabulary: family, numbers, food, daily routine/time, weather, shopping | KNOWN | 2026-09-08 |
 
 ## Next action (detail)
 
-**Do not treat today's same-session mixed practice as proof verb-second/gender
-agreement are fixed** — they already regressed once after looking solid same-day.
-Next session (a genuine fresh-day gap): retest both specifically, mixed into other
-material rather than an obvious drill. Only once they hold across a REAL gap
-should the interval extend and full trust resume. Also lightly recheck müssen/
-möchten and modal+infinitive placement (both new today). Once all clear, learner
-can choose:
+Both watch-items (verb-second, mein/meine gender agreement) are now confirmed via
+a genuine overnight retest — no longer blocking. Learner can choose the next topic:
 - Extend accusative: personal pronouns (mich/dich) or accusative prepositions (für/durch)
 - Start dative case (a new area)
-- More vocabulary (e.g. shopping, weather)
+- More vocabulary (e.g. more shopping, house/rooms, hobbies)
 
-Keep pace slow, one new concept at a time, per learner's stated preference.
+Keep pace slow, one new concept at a time, per learner's stated preference. Light
+monitoring continues on: 3rd-person/du conjugation (recurring but resolves under
+attention), and a couple of one-off article slips from 2026-09-02.
 
 ---
 
@@ -67,3 +60,22 @@ FUNCTIONAL. Learner also asked about A2 timeline — see project_a2_timeline_est
 memory (rough estimate: 3-6 months at current pace, to be revisited periodically).
 
 Full detail: [daily_notes/2026-09-01.md](daily_notes/2026-09-01.md)
+
+### 2026-09-02 (Session 4, extended — very long, high-energy day)
+
+Fresh-day retest caught 2 genuine retention gaps (verb-second beyond questions,
+mein/meine gender agreement) — both re-taught and drilled extensively (10-11 clean
+same-day instances). Extended modal verbs to müssen/möchten. Added ~21 vocabulary
+words across daily routine/time, weather, and shopping themes. Answered 5 learner
+questions (Q6-Q10) on accusative-taking verbs, modal verbs and accusative, and
+kein-vs-nicht mechanics in depth.
+
+Full detail: [daily_notes/2026-09-02.md](daily_notes/2026-09-02.md)
+
+### 2026-09-03 (Session 5)
+
+Genuine overnight retest confirmed both 2026-09-02 watch-items are now solid:
+verb-second held 4/4 (including after "so"), mein/meine gender agreement held 4/4.
+Both promoted to FUNCTIONAL. No new material yet — learner about to choose next topic.
+
+Full detail: [daily_notes/2026-09-03.md](daily_notes/2026-09-03.md)

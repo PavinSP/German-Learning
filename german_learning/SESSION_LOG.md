@@ -4,6 +4,24 @@ Newest entries at the top.
 
 ---
 
+## Session 5 — 2026-09-03
+
+- **Topics:** Genuine overnight fresh-day retest on verb-second + mein/meine
+  gender agreement (the real confirmation owed since Session 4)
+- **Exercises completed:** 4-sentence retest (3/4 clean)
+- **Mistakes:** one 3rd-person/du conjugation slip + typo (sehst→sieht,
+  Bruden→Bruder) — unrelated to the two points being tested
+- **Revision performed:** verb-second and mein/meine both promoted to FUNCTIONAL
+  after holding clean across a real gap
+- **Assessment result:** Excellent — both long-standing watch-items resolved properly
+- **Improved:** confirms the spaced-repetition process worked as intended: caught
+  a regression, re-taught, and verified retention on a second real gap rather
+  than just trusting a same-day fix
+- **Next session:** no blocking items — learner to choose: extend accusative,
+  start dative case, or more vocabulary
+
+---
+
 ## Session 4 — 2026-09-02
 
 - **Topics:** Genuine fresh-day (overnight) retest on verb-second, separable verbs,
