@@ -9,8 +9,8 @@
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Modal verbs extended + weather vocabulary + comprehensive mixed review. Verb-second held 9/10 today; gender agreement mostly clean. |
-| **Last session** | 2026-09-02 (Session 4) |
-| **Next action** | Fresh-day retest (tomorrow, 2026-09-03) on verb-second + mein/meine — must hold on a REAL gap before trusting it |
+| **Last session** | 2026-09-02→03 (Session 4, spanned into a 2026-09-03 morning fresh-day check) |
+| **Next action** | Fresh-day retest still needed on verb-second + mein/meine specifically (not yet directly retested this morning — only kein/nicht was) |
 | **Blocking?** | Yes — no new grammar topic until verb-second + gender agreement hold across a real gap |
 
 ## Known weaknesses (watch list)
