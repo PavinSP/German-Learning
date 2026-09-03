@@ -43,6 +43,39 @@ Newest entries at the top.
   specifically); learner still to choose a new grammar topic — extend accusative
   (mich/dich, für/durch), start dative case, or more vocabulary
 
+### Session 5, part three (same day) — accusative pronouns
+
+- **Topics:** Accusative personal pronouns (mich/dich/ihn/uns/euch + unchanged
+  sie/es/Sie). Chosen deliberately for the conditions — learner was on a phone with
+  distractions, so dative was deferred to a focused session rather than risking a
+  shaky first pass at a whole new case.
+- **Vocabulary learned:** mich, dich, ihn, uns, euch (euch listed but untested)
+- **Exercises completed:** intro set (4/5), focused drill (4/4)
+- **Mistakes:** siehst for sieht (recurring 3rd-person/du pattern, 6th instance);
+  nicht placed before the pronoun object instead of after (EN interference) — both
+  in the same sentence, both clean on the immediate retry
+- **Revision performed:** taught by parallel to already-FUNCTIONAL material
+  (der→den mirrors er→ihn; die/das unchanged mirrors sie/es unchanged), which
+  reduced the new material to five forms and was picked up immediately
+- **Assessment result:** Strong — every pronoun form was correct in every sentence
+  today including ihn; both errors were in the surrounding sentence, not the new
+  material
+- **Struggled with:** nothing in the new topic itself
+- **KEY FINDING:** the 3rd-person/du conjugation error is now clearly
+  load-dependent — 3 focused drills all clean (5/5, 3/3, 4/4), 6 failures all under
+  cognitive load. Isolated drilling has stopped being diagnostic. Action change:
+  no more isolated conjugation drills; every mixed round should instead quietly
+  contain a 3rd-person subject so the skill is practiced where it actually fails.
+  Also corrected a tracking gap — ERROR_LOG frequency had not been bumped for the
+  morning instance; now accurate at 6.
+- **Also this session:** learner asked for strict typing correction (umlauts,
+  capitalization, spelling counted as real errors) — honoured, and the umlaut
+  ERROR_LOG entry stands as written rather than being softened as phone-typing noise
+- **Next session:** accusative pronouns fresh-day check 2026-09-05, embedded in
+  mixed sentences with 3rd-person subjects rather than tested in isolation; euch
+  still untested. Dative case is the recommended next grammar step, for a focused
+  session.
+
 ---
 
 ## Session 4 — 2026-09-02

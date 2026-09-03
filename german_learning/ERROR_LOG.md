@@ -214,13 +214,27 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Correct:   Mein Vater arbeitet heute.
 - Why:       Same recurring pattern as hat/hast, sieht/siehst — er/sie/es takes -et
              for regular verbs, not -st (du-form). Now seen across 4 different verbs.
-- Frequency: 4 (haben, sein, sehen, arbeiten)
-- First seen / last seen: 2026-08-29 / 2026-09-01
-- Status: IMPROVING — dedicated focused drill immediately after (er arbeitet, du
-  schläfst, das Kind steht auf) went 3/3 clean, including a 3rd-person separable verb.
-  Consistent with the earlier finding: this resolves reliably when attention is on
-  conjugation specifically, not competing with new vocab/structure. Continue light
-  monitoring during fast-paced mixed exercises, but no longer treat as a priority gap.
+- Frequency: 6 (haben, sein, sehen, arbeiten 2026-08-29→09-01; mein Bruder→sehst
+  2026-09-03 morning; er→siehst 2026-09-03 evening, with a pronoun object)
+- First seen / last seen: 2026-08-29 / 2026-09-03
+- Status: IMPROVING (load-dependent) — the single most persistent error in the log,
+  but with a very consistent shape now that there is enough data:
+
+  * THREE focused drills, three clean sweeps: 5/5 (2026-09-01), 3/3 (2026-09-01),
+    4/4 (2026-09-03 evening, incl. the exact "Mein Bruder sieht uns" shape that had
+    failed that same morning). Never once failed when conjugation is the thing
+    being tested.
+  * SIX failures, every one under cognitive load: a new case, new vocabulary, a new
+    modal structure, a new pronoun object. It fails only when something else is new.
+
+  Conclusion: this is not a conceptual gap and further isolated drilling has no
+  diagnostic value — it keeps confirming what is already known. ACTION CHANGE: stop
+  scheduling isolated conjugation drills; instead ensure every mixed exercise round
+  quietly contains a 3rd-person subject, so the skill is practiced under the load
+  where it actually breaks down. Re-evaluate after several such rounds.
+
+  Note: the 2026-09-03 morning instance was recorded in the daily note and
+  CURRENT_STATE but this frequency count was not bumped at the time — corrected here.
 
 ### [word-order] verb-second rule regressed overnight (fresh-day retest)
 - Incorrect: Morgen mein Vater arbeitet.
@@ -315,6 +329,21 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   (Ich sehe ein Fenster / Ich sehe den Tisch nicht), correctly distinguishing
   indefinite from definite and applying nicht to the definite noun. One-off
   inattention slip, not a conceptual gap.
+
+### [word-order] nicht placed before a pronoun object instead of after it
+- Incorrect: Er siehst nicht uns.
+- Correct:   Er sieht uns nicht.
+- Why:       The object comes first and nicht follows it — Er sieht uns nicht. Almost
+             certainly English interference: "doesn't see us" puts the negation ahead
+             of the object, so the EN order was carried over directly. Notably the
+             learner produced the identical structure correctly earlier the same day
+             with a NOUN object ("Ich sehe den Tisch nicht"), so the rule is known —
+             it broke down when the object became a pronoun (new material that round).
+- Frequency: 1
+- First seen / last seen: 2026-09-03
+- Status: RESOLVED — targeted retry in the same round ("Er sieht dich nicht") clean,
+  with the conjugation correct at the same time. Watch once more when pronouns next
+  appear alongside negation.
 
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.

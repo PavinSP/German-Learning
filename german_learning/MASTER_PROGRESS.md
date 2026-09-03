@@ -12,10 +12,10 @@
 |---|---|
 | Current CEFR level | PRE-A1 / Foundation |
 | Current module | Foundation |
-| Current lesson | House & rooms vocabulary (2026-09-03, continued); verb-second and mein/meine confirmed FUNCTIONAL earlier the same day |
-| Current topic | No blocking item — learner picks the next grammar topic |
+| Current lesson | Accusative pronouns (2026-09-03, part three) — LEARNING |
+| Current topic | Fresh-day check on accusative pronouns due 2026-09-05; dative case recommended as the next new topic |
 | Last session date | 2026-09-03 |
-| Session count | 5 (Session 5 ran in two parts) |
+| Session count | 5 (Session 5 ran in three parts) |
 
 ## Completed Topics
 - Greetings (Hallo, Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen)
@@ -32,6 +32,7 @@
 - sie vs Sie / noun capitalization
 - Possessive articles (mein/dein/sein/ihr/Ihr — full set incl. formal)
 - Accusative case (der→den, ein→einen, kein→keinen for der-words; das/die-words unchanged)
+- Accusative pronouns (mich/dich/ihn/uns/euch; sie/es/Sie unchanged)
 - Modal verbs (können, müssen, möchten)
 - Separable verbs (aufstehen)
 - kein vs nicht (full mechanics, incl. why kein and der/die/das never combine)
@@ -44,25 +45,32 @@ Note: "completed" = introduced and correctly produced at least once. FUNCTIONAL
 W-questions, conjunctions, plurals, sie/Sie & noun capitalization, possessive
 articles, accusative case, verb-second (general), mein/meine gender agreement,
 modal verb können. LEARNING (correct but not yet gap-tested to FUNCTIONAL):
-müssen/möchten, separable verbs. None are MASTERED yet (needs correct spontaneous
-use across many future sessions).
+müssen/möchten, separable verbs, accusative pronouns. None are MASTERED yet (needs
+correct spontaneous use across many future sessions).
 
 ## Topics In Progress
-- No blocking items — both watch-items (verb-second, mein/meine) confirmed
-  FUNCTIONAL on 2026-09-03. Learner to choose next: extend accusative (personal
-  pronouns mich/dich, or prepositions für/durch), start dative case, or more
-  vocabulary (house/rooms, hobbies).
+- Accusative pronouns — introduced 2026-09-03, every pronoun form produced
+  correctly, needs a fresh-day check 2026-09-05 (embedded in mixed sentences, not
+  isolated). euch listed but never produced.
+- Recommended next new topic: dative case, saved for a focused session (declined
+  2026-09-03 as the learner was on a phone with distractions). Alternatives:
+  accusative prepositions (für/durch), or more vocabulary.
 
 ## Topics Requiring Revision
+- Accusative pronouns — LEARNING, next check 2026-09-05
 - Modal verbs (müssen, möchten), separable verbs, kein vs nicht — LEARNING/confirmed
   clean, next check 2026-09-05
 - Vocabulary (family, numbers, food, daily routine/time, weather, shopping) — KNOWN,
   next check 2026-09-08
 
 ## Weak Areas
-- Light, recurring: 3rd-person vs du conjugation — improving, occasionally recurs
-  (most recently mein Bruder→sehst instead of sieht, 2026-09-03) but resolves
-  reliably under focused attention.
+- **3rd-person vs du conjugation — IMPROVING, confirmed load-dependent.** The most
+  persistent error in the log (6 instances), but the shape is now unambiguous: three
+  focused drills produced three clean sweeps (5/5, 3/3, 4/4), while all six failures
+  occurred under cognitive load — a new case, new vocabulary, a new modal structure,
+  a new pronoun object. Not a conceptual gap. Method change as of 2026-09-03: stop
+  drilling it in isolation (that only re-confirms known material) and instead embed
+  a 3rd-person subject in every mixed round, so it is exercised where it degrades.
 - Light, newly consolidated: invented umlaut on singular nouns — 3 instances
   (Bröt, Äpfel, Stühl). Corrected on retry each time; rule of thumb given (singular
   is the plain form, the umlaut is the plural's job).
@@ -85,8 +93,8 @@ use across many future sessions).
 
 | Skill | Status |
 |---|---|
-| Grammar | Foundation — through accusative case, modal verbs, separable verbs, verb-second generalization, kein/nicht mechanics |
-| Vocabulary | ~72+ words/phrases introduced across greetings, family, numbers, food, daily routine, weather, shopping, house & rooms (see VOCABULARY.md) |
+| Grammar | Foundation — through accusative case (incl. pronouns), modal verbs, separable verbs, verb-second generalization, kein/nicht mechanics |
+| Vocabulary | ~78+ words/phrases introduced across greetings, family, numbers, food, daily routine, weather, shopping, house & rooms, plus the accusative pronoun set (see VOCABULARY.md) |
 | Listening | Not yet practiced |
 | Reading | Not yet practiced |
 | Writing | Practiced via translation/production exercises every session |
@@ -122,6 +130,9 @@ use across many future sessions).
   (accusative, gender agreement, verb-second, kein-vs-nicht, plurals with numbers);
   both errors surface-level (invented umlaut, definite-for-indefinite) and
   corrected on retry
+- 2026-09-03 (part three): accusative pronouns — intro set 4/5, focused drill 4/4.
+  Every pronoun form correct throughout; the one bad sentence carried a conjugation
+  slip and a nicht-placement slip around a correctly chosen pronoun
 
 ## Last Session Summary
 2026-09-03 (Session 5, in two parts). Part one: genuine overnight fresh-day retest
@@ -132,16 +143,32 @@ house & rooms was introduced (7 words), with the set deliberately built to doubl
 accusative and gender-agreement practice — all of that held clean. Compound nouns
 mentioned in passing and applied correctly first try. Two surface slips (Stühl for
 Stuhl; den where einen was asked), both corrected immediately. The old "zweinen
-Hunde" error from 2026-09-01 confirmed resolved. See daily_notes/2026-09-03.md.
+Hunde" error from 2026-09-01 confirmed resolved. Part three: accusative pronouns
+introduced, taught by parallel to the already-FUNCTIONAL der→den pattern (er→ihn
+changes; sie/es do not), cutting the new material to five forms — absorbed
+immediately, with every pronoun form correct in every sentence. Also produced the
+session's most useful finding: the long-running 3rd-person/du conjugation error is
+confirmed load-dependent, so isolated drilling has been retired in favour of
+embedding 3rd-person subjects in mixed rounds. See daily_notes/2026-09-03.md.
 
 ## Exact Next Step
-No blocking retest owed. The vocabulary option has now been spent, so the standing
-grammar choice remains: extend accusative (personal pronouns mich/dich, or
-prepositions für/durch), start dative case (new area), or yet more vocabulary
-(hobbies, clothing, transport). Keep pace slow, one new concept at a time, per
-learner's stated preference. Light monitoring continues on 3rd-person/du
-conjugation, the invented-umlaut pattern, and a one-off das/den article slip from
-2026-09-02.
+Fresh-day check on accusative pronouns due 2026-09-05 — test them EMBEDDED in mixed
+sentences with 3rd-person subjects, not in isolation, since that combination is
+where errors actually appear. euch has been listed but never produced.
+
+Recommended next new topic: **dative case**, deliberately saved for a session where
+the learner can focus (declined 2026-09-03 because they were on a phone with
+distractions, and the 2026-09-02 verb-second regression shows what happens to
+material first met under high load). Alternatives if preferred: accusative
+prepositions (für/durch), or more vocabulary (hobbies, clothing, transport).
+
+Keep pace slow, one new concept at a time, per learner's stated preference.
+
+Standing method notes:
+- No more isolated conjugation drills (see Weak Areas) — embed 3rd-person subjects
+  in mixed rounds instead.
+- Strict typing correction was requested by the learner on 2026-09-03: umlauts,
+  capitalization and spelling count as real errors, not typos to be waved through.
 
 ## Recommended Revision Schedule
 - Accusative case, possessive articles, Lessons 1-3, modal verb (können): FUNCTIONAL, next check 2026-09-08
@@ -149,3 +176,4 @@ conjugation, the invented-umlaut pattern, and a one-off das/den article slip fro
 - Modal verbs (müssen, möchten), separable verbs, kein vs nicht: LEARNING/confirmed clean, next check 2026-09-05
 - Vocabulary (family, numbers, food, daily routine/time, weather, shopping): KNOWN, next check 2026-09-08
 - Vocabulary (house & rooms) + compound nouns: KNOWN/INTRODUCED, next check 2026-09-08 — probe Stuhl/Stühle specifically
+- Accusative pronouns (mich/dich/ihn/uns/euch): LEARNING, next check 2026-09-05 — embed in mixed sentences; euch still untested

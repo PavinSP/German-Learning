@@ -9,7 +9,8 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 
 | Topic | Status | Understanding | Production | Common mistakes | Last revision | Next revision | Retest? |
 |---|---|---|---|---|---|---|---|
-| Personal pronouns | INTRODUCED | Good | Correct in exercises | — | 2026-08-29 | 2026-08-30 | Yes |
+| Personal pronouns (nominative) | INTRODUCED | Good | Correct in exercises | — | 2026-08-29 | 2026-08-30 | Yes |
+| Personal pronouns (accusative: mich/dich/ihn/uns/euch) | LEARNING | Good — grasped the der→den / er→ihn parallel immediately | 8/9 across intro set + drill; every pronoun form itself correct, incl. ihn and the unchanged sie/es | One round had a conjugation slip and a nicht-placement slip alongside correct pronouns — errors were in the surrounding sentence, not the pronouns | 2026-09-03 | 2026-09-05 | Yes |
 | sein (present) | FUNCTIONAL | Good | Correct across 3 exercise sets + retrieval check | Occasional EN-spelling slip (is/bist), not seen since | 2026-08-29 | 2026-09-01 | Yes |
 | haben (present) | FUNCTIONAL | Good | Correct, including du-form, across retrieval check | Earlier confusion with sein+adjective resolved; du-form slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
 | Regular verb conjugation, present | NOT_STARTED | — | — | — | — | — | — |

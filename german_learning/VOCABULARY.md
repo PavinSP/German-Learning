@@ -111,6 +111,14 @@ A word is only MASTERED after correct recall across multiple sessions.
 - billig | cheap | adjective | Der Apfel ist billig. | KNOWN | 2026-09-02
 - kosten | to cost | verb | Was kostet das Buch? | KNOWN | 2026-09-02
 
+**Accusative pronouns**
+- mich | me (object) | pronoun | Sie sieht mich. | KNOWN | 2026-09-03
+- dich | you, informal (object) | pronoun | Ich sehe dich. | KNOWN | 2026-09-03
+- ihn | him (object) | pronoun | Siehst du ihn? | KNOWN | 2026-09-03 | the only 3rd-person form that changes — mirrors der→den
+- uns | us (object) | pronoun | Mein Bruder sieht uns. | KNOWN | 2026-09-03
+- euch | you-all, informal (object) | pronoun | — | INTRODUCED | 2026-09-03 | listed but not yet tested in production
+- sie / es / sie / Sie | her / it / them / you-formal (object) | pronoun | Wir haben es. | KNOWN | 2026-09-03 | unchanged from nominative — mirrors die/das staying unchanged
+
 **House & rooms**
 - das Zimmer | the room | plural: die Zimmer (unchanged) | noun | — | INTRODUCED | 2026-09-03 | not directly tested in production yet
 - die Küche | the kitchen | plural: die Küchen | noun | Die Küche ist warm. | KNOWN | 2026-09-03
