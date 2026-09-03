@@ -12,10 +12,10 @@
 |---|---|
 | Current CEFR level | PRE-A1 / Foundation |
 | Current module | Foundation |
-| Current lesson | Lesson 6 (Modal verbs — können) — introduced, LEARNING |
-| Current topic | Fresh-day retest pending, then extend modals or start dative case |
-| Last session date | 2026-09-01 |
-| Session count | 3 (longest/most productive session so far) |
+| Current lesson | Verb-second (general) and mein/meine gender agreement CONFIRMED FUNCTIONAL via genuine overnight retest |
+| Current topic | Both long-standing watch-items cleared — learner picks the next topic |
+| Last session date | 2026-09-03 |
+| Session count | 5 |
 
 ## Completed Topics
 - Greetings (Hallo, Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen)
@@ -25,32 +25,43 @@
 - Indefinite articles (ein/eine)
 - Negation: nicht
 - Negation: kein/keine
-- W-questions (wer/was/wo/wann/warum/wie) + verb-second word order
+- W-questions (wer/was/wo/wann/warum/wie) + verb-second word order (incl. general
+  statements, not just questions)
 - Basic conjunctions (und/aber/oder/denn)
 - Plurals (die + memorized singular/plural pairs)
 - sie vs Sie / noun capitalization
 - Possessive articles (mein/dein/sein/ihr/Ihr — full set incl. formal)
 - Accusative case (der→den, ein→einen, kein→keinen for der-words; das/die-words unchanged)
-- Modal verbs (können) — introduced, not yet FUNCTIONAL
+- Modal verbs (können, müssen, möchten)
+- Separable verbs (aufstehen)
+- kein vs nicht (full mechanics, incl. why kein and der/die/das never combine)
+- Vocabulary: family, numbers 1-20, food, daily routine/time, weather, shopping
 
 Note: "completed" = introduced and correctly produced at least once. FUNCTIONAL
 (retested clean, holding across gaps): sein, haben, articles, nicht, kein/keine,
 W-questions, conjunctions, plurals, sie/Sie & noun capitalization, possessive
-articles, accusative case. LEARNING (correct but not yet gap-tested): modal verbs.
-None are MASTERED yet (needs correct spontaneous use across many future sessions).
+articles, accusative case, verb-second (general), mein/meine gender agreement,
+modal verb können. LEARNING (correct but not yet gap-tested to FUNCTIONAL):
+müssen/möchten, separable verbs. None are MASTERED yet (needs correct spontaneous
+use across many future sessions).
 
 ## Topics In Progress
-- Modal verbs (können) — introduced 2026-09-01, solid after retry, needs a fresh-day
-  retest before being considered FUNCTIONAL
+- No blocking items — both watch-items (verb-second, mein/meine) confirmed
+  FUNCTIONAL on 2026-09-03. Learner to choose next: extend accusative (personal
+  pronouns mich/dich, or prepositions für/durch), start dative case, or more
+  vocabulary (house/rooms, hobbies).
 
 ## Topics Requiring Revision
-- Modal verbs (können) — fresh-day check needed
-- Today's vocabulary (family, numbers, food) — untested after any gap yet
+- Modal verbs (müssen, möchten), separable verbs, kein vs nicht — LEARNING/confirmed
+  clean, next check 2026-09-05
+- Vocabulary (family, numbers, food, daily routine/time, weather, shopping) — KNOWN,
+  next check 2026-09-08
 
 ## Weak Areas
-- None currently flagged as a real weak area — all recent issues have resolved
-  within-session via retries (see ERROR_LOG.md for the pattern: momentary slips
-  under new-structure cognitive load, not conceptual gaps)
+- Light, recurring: 3rd-person vs du conjugation — improving, occasionally recurs
+  (most recently mein Bruder→sehst instead of sieht, 2026-09-03) but resolves
+  reliably under focused attention. No other items currently flagged as a real
+  weak area.
 
 ## Strong Areas
 - sein, haben conjugation, all persons — retested clean multiple times
@@ -59,6 +70,9 @@ None are MASTERED yet (needs correct spontaneous use across many future sessions
 - Possessive articles incl. formal Ihr — FUNCTIONAL, correctly disambiguates ihr's
   double meaning using context
 - W-questions, conjunctions, plurals, negation (nicht/kein-keine) — all FUNCTIONAL
+- Verb-second (general, beyond questions) and mein/meine gender agreement — both
+  regressed once on a fresh-day check, were re-taught and drilled, then held clean
+  on a genuine second overnight retest — now FUNCTIONAL
 - Vocabulary uptake is fast: picked up an irregular verb form (isst) correctly
   after a single mention
 
@@ -66,18 +80,21 @@ None are MASTERED yet (needs correct spontaneous use across many future sessions
 
 | Skill | Status |
 |---|---|
-| Grammar | Foundation — sein/haben/negation/W-questions introduced and produced correctly |
-| Vocabulary | ~15 words/phrases introduced (see VOCABULARY.md) |
+| Grammar | Foundation — through accusative case, modal verbs, separable verbs, verb-second generalization, kein/nicht mechanics |
+| Vocabulary | ~65+ words/phrases introduced across greetings, family, numbers, food, daily routine, weather, shopping (see VOCABULARY.md) |
 | Listening | Not yet practiced |
 | Reading | Not yet practiced |
-| Writing | Practiced via translation/production exercises this session |
+| Writing | Practiced via translation/production exercises every session |
 | Speaking | Not yet practiced (voice mode workflow discussed but not used) |
 
 ## Recurring Mistakes
 - See ERROR_LOG.md — pattern of momentary slips (conjugation, gender agreement)
-  under the cognitive load of brand-new structures, consistently resolved
-  same-session via retry. No item is currently at a genuinely "recurring/unresolved"
-  frequency — sie/Sie capitalization (the earlier watch-item) is now FUNCTIONAL.
+  under the cognitive load of brand-new structures, consistently resolved via
+  retry, either same-session or after a re-teach + second retest. The two
+  longest-running watch-items (verb-second generalization, mein/meine gender
+  agreement) regressed once on a fresh-day check (2026-09-02) but have since held
+  clean across a genuine overnight retest (2026-09-03) — resolved. Remaining
+  light/recurring item: 3rd-person vs du conjugation (see Weak Areas).
 
 ## Recent Assessment Results
 - 2026-08-28: Diagnostic — "no idea" to all 10 questions → confirmed true beginner, PRE-A1
@@ -86,20 +103,34 @@ None are MASTERED yet (needs correct spontaneous use across many future sessions
   intro→FUNCTIONAL, intensive review #2 (12.5/15), conjugation drill (5/5),
   possessives retest (3/3, →FUNCTIONAL), vocabulary sets (family/numbers/food, ~20
   items, near-perfect), modal verbs intro (2/4 then 2/2 clean retry)
+- 2026-09-02: fresh-day retest caught 2 genuine retention gaps (verb-second beyond
+  questions, mein/meine gender agreement) — both re-taught and drilled extensively
+  (10-11 clean same-day instances); modals extended to müssen/möchten; ~21
+  vocabulary words added (daily routine/time, weather, shopping); 5 learner
+  questions (Q6-Q10) answered on accusative-taking verbs, modals+accusative, and
+  kein-vs-nicht mechanics
+- 2026-09-03: genuine overnight retest confirmed both 2026-09-02 watch-items solid
+  — verb-second held 4/4 (incl. after "so"), mein/meine held 4/4 — both promoted to
+  FUNCTIONAL
 
 ## Last Session Summary
-2026-09-01 (Session 3, extended — by far the longest and most productive session so
-far): opened with a 3-day retest, ran two full intensive reviews, took accusative
-case from introduction through overgeneralization to FUNCTIONAL, confirmed
-possessives (incl. formal Ihr) as FUNCTIONAL, added ~20 vocabulary items across
-three themes, and introduced modal verbs (können). See daily_notes/2026-09-01.md.
+2026-09-03 (Session 5): genuine overnight fresh-day retest on verb-second and
+mein/meine gender agreement — both held 4/4, confirming the re-teaching from
+Session 4 produced real retention rather than a same-day fix. The one error in the
+round (sehst instead of sieht) was an unrelated, already-known light pattern
+(3rd-person/du conjugation). Both items promoted to FUNCTIONAL in GRAMMAR.md; no
+new material introduced. See daily_notes/2026-09-03.md.
 
 ## Exact Next Step
-Next session: fresh-day retest on modal verbs (können) and today's vocabulary
-(family/numbers/food) to confirm retention after a gap. If solid, learner chooses:
-extend modals (müssen/wollen/möchten), start dative case, or another vocabulary theme.
+No blocking retest owed. Learner picks the next topic: extend accusative
+(personal pronouns mich/dich, or prepositions für/durch), start dative case (new
+area), or add more vocabulary (house/rooms, hobbies). Keep pace slow, one new
+concept at a time, per learner's stated preference. Light monitoring continues on
+3rd-person/du conjugation and a couple of one-off article slips from 2026-09-02
+(das/den confusion, retest pending).
 
 ## Recommended Revision Schedule
-- Accusative case, possessive articles, Lessons 1-3: FUNCTIONAL, next check 2026-09-08
-- Modal verbs (können): LEARNING, next check 2026-09-04
-- Vocabulary (family, numbers, food): check for retention next session
+- Accusative case, possessive articles, Lessons 1-3, modal verb (können): FUNCTIONAL, next check 2026-09-08
+- Verb-second (general), mein/meine gender agreement: FUNCTIONAL (newly confirmed), next check 2026-09-10
+- Modal verbs (müssen, möchten), separable verbs, kein vs nicht: LEARNING/confirmed clean, next check 2026-09-05
+- Vocabulary (family, numbers, food, daily routine/time, weather, shopping): KNOWN, next check 2026-09-08
