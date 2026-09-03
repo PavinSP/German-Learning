@@ -20,6 +20,29 @@ Newest entries at the top.
 - **Next session:** no blocking items — learner to choose: extend accusative,
   start dative case, or more vocabulary
 
+### Session 5, continued (same day) — house & rooms vocabulary
+
+- **Topics:** New vocabulary (learner chose vocabulary over new grammar)
+- **Vocabulary learned:** das Zimmer, die Küche, das Schlafzimmer, das Bad,
+  der Tisch, der Stuhl, das Fenster (7 words); compound nouns mentioned in passing
+- **Exercises completed:** main set (4/5), confirmation round (2/3), targeted
+  a/the check (2/2)
+- **Mistakes:** invented umlaut on a singular noun (Stühl for Stuhl) — third
+  instance of this pattern, now logged formally; definite article used where
+  indefinite was asked (den Stuhl for "a chair") — resolved immediately
+- **Revision performed:** the new vocabulary set was built to double as accusative
+  and gender-agreement practice — all of it held clean
+- **Assessment result:** Strong — every grammar point under test was correct
+  throughout (accusative, gender agreement, verb-second, kein-vs-nicht,
+  plurals-with-numbers); both errors were surface-level and self-corrected on retry
+- **Struggled with:** nothing conceptual; the umlaut pattern is worth light watching
+- **Improved:** old "zweinen Hunde" error (accusative ending on a number,
+  2026-09-01) confirmed resolved via "Wir haben zwei Tische"; applied the compound
+  noun gender rule correctly on first exposure
+- **Next session:** house/rooms retention check due 2026-09-08 (probe Stuhl/Stühle
+  specifically); learner still to choose a new grammar topic — extend accusative
+  (mich/dich, für/durch), start dative case, or more vocabulary
+
 ---
 
 ## Session 4 — 2026-09-02

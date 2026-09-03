@@ -111,6 +111,15 @@ A word is only MASTERED after correct recall across multiple sessions.
 - billig | cheap | adjective | Der Apfel ist billig. | KNOWN | 2026-09-02
 - kosten | to cost | verb | Was kostet das Buch? | KNOWN | 2026-09-02
 
+**House & rooms**
+- das Zimmer | the room | plural: die Zimmer (unchanged) | noun | — | INTRODUCED | 2026-09-03 | not directly tested in production yet
+- die Küche | the kitchen | plural: die Küchen | noun | Die Küche ist warm. | KNOWN | 2026-09-03
+- das Schlafzimmer | the bedroom | plural: die Schlafzimmer | noun | Mein Schlafzimmer ist kalt. | KNOWN | 2026-09-03 | compound noun (schlafen + Zimmer); final part sets the gender
+- das Bad | the bathroom | plural: die Bäder | noun | Das Bad ist nicht warm. | KNOWN | 2026-09-03
+- der Tisch | the table | plural: die Tische | noun | Ich habe einen Tisch. | KNOWN | 2026-09-03 | plural produced correctly with a number (zwei Tische)
+- der Stuhl | the chair | plural: die Stühle | noun | Ich sehe einen Stuhl. | KNOWN | 2026-09-03 | ⚠️ one invented-umlaut slip (Stühl for Stuhl), corrected on retry
+- das Fenster | the window | plural: die Fenster (unchanged) | noun | Wir haben kein Fenster. | KNOWN | 2026-09-03
+
 ## Frequently Forgotten (⚠️ priority revision)
 
 (none at recurring frequency yet — see ⚠️ flags above, all currently single-occurrence)

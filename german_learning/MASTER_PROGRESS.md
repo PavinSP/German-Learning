@@ -12,10 +12,10 @@
 |---|---|
 | Current CEFR level | PRE-A1 / Foundation |
 | Current module | Foundation |
-| Current lesson | Verb-second (general) and mein/meine gender agreement CONFIRMED FUNCTIONAL via genuine overnight retest |
-| Current topic | Both long-standing watch-items cleared — learner picks the next topic |
+| Current lesson | House & rooms vocabulary (2026-09-03, continued); verb-second and mein/meine confirmed FUNCTIONAL earlier the same day |
+| Current topic | No blocking item — learner picks the next grammar topic |
 | Last session date | 2026-09-03 |
-| Session count | 5 |
+| Session count | 5 (Session 5 ran in two parts) |
 
 ## Completed Topics
 - Greetings (Hallo, Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen)
@@ -35,7 +35,9 @@
 - Modal verbs (können, müssen, möchten)
 - Separable verbs (aufstehen)
 - kein vs nicht (full mechanics, incl. why kein and der/die/das never combine)
-- Vocabulary: family, numbers 1-20, food, daily routine/time, weather, shopping
+- Compound nouns (final part sets the gender) — introduced in passing 2026-09-03
+- Vocabulary: family, numbers 1-20, food, daily routine/time, weather, shopping,
+  house & rooms
 
 Note: "completed" = introduced and correctly produced at least once. FUNCTIONAL
 (retested clean, holding across gaps): sein, haben, articles, nicht, kein/keine,
@@ -60,8 +62,11 @@ use across many future sessions).
 ## Weak Areas
 - Light, recurring: 3rd-person vs du conjugation — improving, occasionally recurs
   (most recently mein Bruder→sehst instead of sieht, 2026-09-03) but resolves
-  reliably under focused attention. No other items currently flagged as a real
-  weak area.
+  reliably under focused attention.
+- Light, newly consolidated: invented umlaut on singular nouns — 3 instances
+  (Bröt, Äpfel, Stühl). Corrected on retry each time; rule of thumb given (singular
+  is the plain form, the umlaut is the plural's job).
+- No other items currently flagged as a real weak area.
 
 ## Strong Areas
 - sein, haben conjugation, all persons — retested clean multiple times
@@ -81,7 +86,7 @@ use across many future sessions).
 | Skill | Status |
 |---|---|
 | Grammar | Foundation — through accusative case, modal verbs, separable verbs, verb-second generalization, kein/nicht mechanics |
-| Vocabulary | ~65+ words/phrases introduced across greetings, family, numbers, food, daily routine, weather, shopping (see VOCABULARY.md) |
+| Vocabulary | ~72+ words/phrases introduced across greetings, family, numbers, food, daily routine, weather, shopping, house & rooms (see VOCABULARY.md) |
 | Listening | Not yet practiced |
 | Reading | Not yet practiced |
 | Writing | Practiced via translation/production exercises every session |
@@ -112,25 +117,35 @@ use across many future sessions).
 - 2026-09-03: genuine overnight retest confirmed both 2026-09-02 watch-items solid
   — verb-second held 4/4 (incl. after "so"), mein/meine held 4/4 — both promoted to
   FUNCTIONAL
+- 2026-09-03 (continued): house & rooms vocabulary, 7 words — main set 4/5,
+  confirmation round 2/3, targeted a/the check 2/2. All grammar under test correct
+  (accusative, gender agreement, verb-second, kein-vs-nicht, plurals with numbers);
+  both errors surface-level (invented umlaut, definite-for-indefinite) and
+  corrected on retry
 
 ## Last Session Summary
-2026-09-03 (Session 5): genuine overnight fresh-day retest on verb-second and
-mein/meine gender agreement — both held 4/4, confirming the re-teaching from
-Session 4 produced real retention rather than a same-day fix. The one error in the
-round (sehst instead of sieht) was an unrelated, already-known light pattern
-(3rd-person/du conjugation). Both items promoted to FUNCTIONAL in GRAMMAR.md; no
-new material introduced. See daily_notes/2026-09-03.md.
+2026-09-03 (Session 5, in two parts). Part one: genuine overnight fresh-day retest
+on verb-second and mein/meine gender agreement — both held 4/4, confirming the
+re-teaching from Session 4 produced real retention rather than a same-day fix; both
+promoted to FUNCTIONAL. Part two: learner chose vocabulary over new grammar, so
+house & rooms was introduced (7 words), with the set deliberately built to double as
+accusative and gender-agreement practice — all of that held clean. Compound nouns
+mentioned in passing and applied correctly first try. Two surface slips (Stühl for
+Stuhl; den where einen was asked), both corrected immediately. The old "zweinen
+Hunde" error from 2026-09-01 confirmed resolved. See daily_notes/2026-09-03.md.
 
 ## Exact Next Step
-No blocking retest owed. Learner picks the next topic: extend accusative
-(personal pronouns mich/dich, or prepositions für/durch), start dative case (new
-area), or add more vocabulary (house/rooms, hobbies). Keep pace slow, one new
-concept at a time, per learner's stated preference. Light monitoring continues on
-3rd-person/du conjugation and a couple of one-off article slips from 2026-09-02
-(das/den confusion, retest pending).
+No blocking retest owed. The vocabulary option has now been spent, so the standing
+grammar choice remains: extend accusative (personal pronouns mich/dich, or
+prepositions für/durch), start dative case (new area), or yet more vocabulary
+(hobbies, clothing, transport). Keep pace slow, one new concept at a time, per
+learner's stated preference. Light monitoring continues on 3rd-person/du
+conjugation, the invented-umlaut pattern, and a one-off das/den article slip from
+2026-09-02.
 
 ## Recommended Revision Schedule
 - Accusative case, possessive articles, Lessons 1-3, modal verb (können): FUNCTIONAL, next check 2026-09-08
 - Verb-second (general), mein/meine gender agreement: FUNCTIONAL (newly confirmed), next check 2026-09-10
 - Modal verbs (müssen, möchten), separable verbs, kein vs nicht: LEARNING/confirmed clean, next check 2026-09-05
 - Vocabulary (family, numbers, food, daily routine/time, weather, shopping): KNOWN, next check 2026-09-08
+- Vocabulary (house & rooms) + compound nouns: KNOWN/INTRODUCED, next check 2026-09-08 — probe Stuhl/Stühle specifically

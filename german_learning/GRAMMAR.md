@@ -34,6 +34,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Basic conjunctions (und, aber, oder, denn) | FUNCTIONAL | Good | Correct, including a 3-clause self-generated sentence and retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
 | sie vs Sie capitalization | FUNCTIONAL | Good | Correct on targeted check and 3-day-gap retest | Earlier ihr/Sie pronoun mix-up — separate issue, retested clean | 2026-09-01 | 2026-09-08 | Yes |
 | Noun capitalization (always capitalized) | FUNCTIONAL | Good | Correct on retest after 3-day gap | Initial slip (buch lowercase) resolved | 2026-09-01 | 2026-09-08 | Yes |
+| Compound nouns (Schlafzimmer = schlafen + Zimmer) | INTRODUCED | Good | Used correctly in production first try (mein Schlafzimmer — took das-word gender from the final part) | — | 2026-09-03 | 2026-09-08 | Yes |
 
 ## A2
 

@@ -285,6 +285,37 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   Concept genuinely appears to have settled — retest lightly next session, no
   longer treat as a priority gap.
 
+### [spelling] umlaut invented on a singular noun (plural form leaking in)
+- Incorrect: Heute sehe ich den Stühl.
+- Correct:   Heute sehe ich den Stuhl.
+- Why:       der Stuhl (singular, plain) → die Stühle (plural, umlaut added). In this
+             word the umlaut is what marks the plural, so putting it on the singular
+             signals the wrong number. Third instance of an umlaut appearing where it
+             doesn't belong (Bröt for Brot, Äpfel for Apfel, now Stühl) — now worth
+             tracking as a light pattern rather than three unrelated one-offs.
+             Mitigating factor: the plural die Stühle had just been presented in the
+             same table as the singular, so the umlaut was freshly primed.
+- Frequency: 3 (Brot 2026-09-02, Apfel 2026-09-02, Stuhl 2026-09-03)
+- First seen / last seen: 2026-09-02 / 2026-09-03
+- Status: IMPROVING — corrected immediately on retry (Ich sehe den Stuhl, clean).
+  Rule of thumb given: the singular is usually the plain form, the umlaut is the
+  plural's job. Light monitoring; no dedicated drill needed yet.
+
+### [article] definite article used where indefinite was asked ("a" → "the")
+- Incorrect: Ich sehe den Stuhl. (for "I see A chair")
+- Correct:   Ich sehe einen Stuhl.
+- Why:       Not a case error — den and einen are both correct accusative forms for a
+             der-word, so the case instinct was right; it's a definite/indefinite
+             mismatch. Worth more attention than usual because "a/any" vs "the" is the
+             exact trigger for kein vs nicht (see Q8-Q10): einen Stuhl → keinen Stuhl,
+             but den Stuhl → den Stuhl nicht.
+- Frequency: 1
+- First seen / last seen: 2026-09-03
+- Status: RESOLVED — targeted 2-question check immediately after went 2/2 clean
+  (Ich sehe ein Fenster / Ich sehe den Tisch nicht), correctly distinguishing
+  indefinite from definite and applying nicht to the definite noun. One-off
+  inattention slip, not a conceptual gap.
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
