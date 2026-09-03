@@ -8,8 +8,8 @@
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Accusative pronouns introduced (2026-09-03, part three). Earlier the same day: verb-second + mein/meine confirmed FUNCTIONAL, house & rooms vocabulary added |
-| **Last session** | 2026-09-03 (Session 5, ran in three parts) |
+| **Lesson** | Accusative pronouns introduced, then consolidated in a mixed round (2026-09-03, parts three and four). Earlier the same day: verb-second + mein/meine confirmed FUNCTIONAL, house & rooms vocabulary added |
+| **Last session** | 2026-09-03 (Session 5, ran in four parts) |
 | **Next action** | Fresh-day check on accusative pronouns 2026-09-05; dative case is the recommended next new topic, for a focused session |
 | **Blocking?** | No |
 
@@ -17,8 +17,9 @@
 
 | Item | Status | Note |
 |---|---|---|
-| 3rd-person vs du conjugation | IMPROVING, load-dependent | 6 instances, ALL under cognitive load; 3 focused drills, ALL clean (5/5, 3/3, 4/4). Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round instead |
-| Invented umlaut on singular nouns | Improving, light | 3 instances (Bröt, Äpfel, Stühl). Rule given: singular is the plain form, the umlaut is the plural's job. Corrected on retry each time. Learner asked for strict typing correction — entry stands, not softened as phone-typing noise |
+| 3rd-person vs du conjugation | IMPROVING, load-dependent | 6 instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. First embedded round (2026-09-03 part four) held 4/4 under genuine load |
+| Invented umlaut on singular nouns (ADDED) | Improving, light | 3 instances (Bröt, Äpfel, Stühl). Did not recur in the 2026-09-03 consolidation round (Stuhl clean). Rule given: singular is the plain form, the umlaut is the plural's job |
+| Omitted umlaut (konnen for können) | Light, new — likely friction not knowledge | Logged SEPARATELY from the invented-umlaut entry on purpose: omitting an umlaut is what a phone keyboard produces, whereas ADDING one takes deliberate effort. Retest on a laptop; if it vanishes, downgrade to friction |
 | nicht placed before a pronoun object | Resolved, watch once | EN interference (Er sieht nicht uns → Er sieht uns nicht). Clean on retry; re-check when pronouns next meet negation |
 | Modal + infinitive placement | Light | One slip, retested clean once — low priority |
 | das/den article confusion (das-word given den) | Light | One slip 2026-09-02, retest pending |
@@ -111,5 +112,12 @@ carried a conjugation slip and a nicht-placement slip around a correct pronoun. 
 finding: the 3rd-person/du conjugation error is confirmed load-dependent (6 failures
 all under load, 3 focused drills all clean) — isolated drilling retired in favour of
 embedding 3rd-person subjects in mixed rounds.
+
+Part four: mixed consolidation round, no new material (a fourth new topic was
+deliberately declined). 4/5, with four 3rd-person subjects all correct while
+carrying new pronouns, new vocabulary, accusative, verb-second and possessives at
+once — the first time this conjugation has held under genuine load on record. Only
+error was an omitted umlaut (konnen), logged separately from the invented-umlaut
+pattern since the two have opposite causes.
 
 Full detail: [daily_notes/2026-09-03.md](daily_notes/2026-09-03.md)

@@ -76,6 +76,30 @@ Newest entries at the top.
   still untested. Dative case is the recommended next grammar step, for a focused
   session.
 
+### Session 5, part four (same day) — mixed consolidation round
+
+- **Topics:** No new material. Deliberately declined a fourth new topic (three had
+  already landed; learner's stated preference is one new concept at a time). Ran a
+  consolidation round that doubled as the first application of the new
+  embed-don't-drill method for conjugation.
+- **Exercises completed:** 5-sentence mixed round (4/5)
+- **Mistakes:** können written without its umlaut (konnen) — logged, but SEPARATELY
+  from the invented-umlaut pattern, since omitting an umlaut is what phone-keyboard
+  friction produces while ADDING one (Stühl) cannot be explained that way
+- **Revision performed:** four 3rd-person subjects (sieht, kauft, hat) embedded in
+  sentences also carrying new pronouns, new vocabulary, accusative, verb-second and
+  possessives — i.e. tested under exactly the load that had caused all six prior
+  failures
+- **Assessment result:** Strong — the conjugation held under genuine load for the
+  first time on record; three watch-list items cleared in one round (conjugation
+  under load, Stuhl spelling, modal + infinitive placement)
+- **Improved:** this morning's invented umlaut did not recur; modal + infinitive
+  placement correct unprompted
+- **Next session:** unchanged — accusative pronouns check 2026-09-05, dative case
+  when the learner is at a laptop. Also retest omitted umlauts on a laptop: if they
+  disappear when the keyboard is easy, downgrade that entry from knowledge to
+  friction.
+
 ---
 
 ## Session 4 — 2026-09-02

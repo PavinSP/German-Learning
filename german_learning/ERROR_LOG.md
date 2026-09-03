@@ -330,6 +330,26 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   indefinite from definite and applying nicht to the definite noun. One-off
   inattention slip, not a conceptual gap.
 
+### [spelling] umlaut omitted where one belongs (konnen for können)
+- Incorrect: Wir konnen dich sehen.
+- Correct:   Wir können dich sehen.
+- Why:       können needs the umlaut. Marked as an error at the learner's explicit
+             request for strict typing correction (2026-09-03).
+- IMPORTANT — do NOT merge this with the "invented umlaut" entry above. They are
+  opposite errors with opposite likely causes:
+    * Stühl / Bröt / Äpfel — umlaut ADDED where none belongs. A phone keyboard
+      cannot produce this; long-pressing for ü takes deliberate effort. Points at a
+      genuine knowledge issue about singular vs plural forms.
+    * konnen — umlaut OMITTED where one belongs. Exactly what phone-keyboard
+      friction produces (learner was on a phone).
+  Collapsing them into one "umlaut errors" count would destroy the diagnostic value
+  of the invented-umlaut pattern. Keep separate.
+- Frequency: 1
+- First seen / last seen: 2026-09-03
+- Status: ACTIVE — light. Retest on a laptop session specifically: if omitted
+  umlauts vanish when the keyboard is easy, this is friction, not knowledge, and
+  should be downgraded accordingly.
+
 ### [word-order] nicht placed before a pronoun object instead of after it
 - Incorrect: Er siehst nicht uns.
 - Correct:   Er sieht uns nicht.

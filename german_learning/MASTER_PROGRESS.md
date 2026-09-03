@@ -12,10 +12,10 @@
 |---|---|
 | Current CEFR level | PRE-A1 / Foundation |
 | Current module | Foundation |
-| Current lesson | Accusative pronouns (2026-09-03, part three) — LEARNING |
+| Current lesson | Accusative pronouns (2026-09-03) — LEARNING, consolidated once in a mixed round |
 | Current topic | Fresh-day check on accusative pronouns due 2026-09-05; dative case recommended as the next new topic |
 | Last session date | 2026-09-03 |
-| Session count | 5 (Session 5 ran in three parts) |
+| Session count | 5 (Session 5 ran in four parts) |
 
 ## Completed Topics
 - Greetings (Hallo, Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen)
@@ -71,6 +71,14 @@ correct spontaneous use across many future sessions).
   a new pronoun object. Not a conceptual gap. Method change as of 2026-09-03: stop
   drilling it in isolation (that only re-confirms known material) and instead embed
   a 3rd-person subject in every mixed round, so it is exercised where it degrades.
+  FIRST RESULT under the new method (2026-09-03 part four): four 3rd-person subjects
+  correct while simultaneously carrying new pronouns, new vocabulary, accusative,
+  verb-second and possessives — the first time it has held under genuine load. One
+  round is not proof, but it is the right kind of evidence.
+- Umlauts, split into two distinct patterns as of 2026-09-03 — ADDED where none
+  belongs (Bröt, Äpfel, Stühl: a real knowledge issue, since a phone keyboard cannot
+  produce it) vs OMITTED where one belongs (konnen: likely keyboard friction). Kept
+  separate on purpose; merging them would destroy the diagnostic value of the first.
 - Light, newly consolidated: invented umlaut on singular nouns — 3 instances
   (Bröt, Äpfel, Stühl). Corrected on retry each time; rule of thumb given (singular
   is the plain form, the umlaut is the plural's job).
@@ -133,6 +141,8 @@ correct spontaneous use across many future sessions).
 - 2026-09-03 (part three): accusative pronouns — intro set 4/5, focused drill 4/4.
   Every pronoun form correct throughout; the one bad sentence carried a conjugation
   slip and a nicht-placement slip around a correctly chosen pronoun
+- 2026-09-03 (part four): mixed consolidation round 4/5 — four 3rd-person subjects
+  all correct under genuine load; only error an omitted umlaut (konnen)
 
 ## Last Session Summary
 2026-09-03 (Session 5, in two parts). Part one: genuine overnight fresh-day retest
