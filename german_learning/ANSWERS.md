@@ -121,6 +121,23 @@ indefinite/general noun? → kein replaces it. Was there originally a der/die/da
 a specific, already-identified thing? → keep der/die/das and add nicht separately.
 Ties directly into Q8 (kein vs nicht) — this is the mechanical reason behind that rule.
 
+### 2026-09-02 — Q10: "Ich sehe den Hund nicht" vs "Ich sehe keine Hund" — both correct?
+
+Not quite as written — one has a small error, and once fixed, they mean different
+things (not two ways of saying the same thing).
+
+- **"Ich sehe den Hund nicht."** ✅ correct as-is. "I don't see THE dog" (a
+  specific, already-known dog — matches Q8/Q9's nicht-for-definite-nouns rule).
+- **"Ich sehe keine Hund."** ❌ small error: Hund is a der-word, so kein needs the
+  accusative der-word ending — **keinen**, not keine (keine is for die-words).
+  Correct: "Ich sehe keinen Hund." = "I don't see A dog" / "I see no dog at all"
+  (no specific dog in mind, none in sight at all).
+
+Once both are corrected, they're both grammatically valid — but not
+interchangeable, since they answer different questions ("is THE dog there?" vs
+"is there any dog at all?"). Same underlying den/den-Hund vs keinen-Hund logic
+as Q9.
+
 ### 2026-09-01 — Q4: "Das ist mein Hund" or "Das ist meinen Hund" — which and why?
 
 **"Das ist mein Hund."** is correct — mein stays nominative, never meinen, here.

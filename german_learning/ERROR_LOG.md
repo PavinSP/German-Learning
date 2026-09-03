@@ -266,6 +266,35 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   meine Mutter specifically. Still needs to hold on the NEXT fresh-day gap
   before trusting it fully.
 
+### [article] das confused with den for a das-word noun
+- Incorrect: Ich sehe den Buch nicht.
+- Correct:   Ich sehe das Buch nicht.
+- Why:       Buch is a das-word; das-words never take den (den is exclusively for
+             der-word accusative). Isolated slip, unrelated to the kein/nicht
+             point this exercise was actually testing (which was correct).
+- Frequency: 1
+- First seen / last seen: 2026-09-02
+- Status: ACTIVE — light, retest
+
+### [other] nicht used instead of kein for a general/indefinite noun
+- Incorrect: Ich sehe Katze nicht.
+- Correct:   Ich sehe keine Katze.
+- Why:       Asked for "I see no cat" (general, no specific cat in mind) — this
+             needs kein/keine (Katze is die-word → keine), not nicht. Also, a bare
+             noun with no article at all isn't valid here. This is the same
+             underlying kein-vs-nicht distinction from Q8/Q9/Q10, now missed in
+             the OTHER direction (used nicht where kein was needed, vs. the
+             earlier keine/keinen gender slip). Suggests the concept is still
+             settling — worth a dedicated short round specifically contrasting
+             "the X" (nicht) vs "a/any X" (kein) without other distractions.
+- Frequency: 1
+- First seen / last seen: 2026-09-02
+- Status: IMPROVING — focused 4-question round (2026-09-02/03, contrasting "the
+  X"/nicht vs "a/any X"/kein directly) went 4/4 correct on the actual kein-vs-nicht
+  CHOICE (one unrelated das/den article slip in the same round, logged separately).
+  Concept genuinely appears to have settled — retest lightly next session, no
+  longer treat as a priority gap.
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
