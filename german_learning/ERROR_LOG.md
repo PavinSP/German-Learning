@@ -330,6 +330,35 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   indefinite from definite and applying nicht to the definite noun. One-off
   inattention slip, not a conceptual gap.
 
+### [case] accusative pronoun chosen by English semantics instead of grammatical gender
+- Incorrect: Ich habe einen Apfel. Ich esse ES.  /  Meine Mutter sieht das Kind. Sie sieht IHN.
+- Correct:   Ich habe einen Apfel. Ich esse IHN. /  Meine Mutter sieht das Kind. Sie sieht ES.
+- Why:       The two were swapped EXACTLY, which is diagnostic rather than random.
+             The learner was selecting by English meaning — an apple is a thing → "it"
+             → es; a child is a person → "him" → ihn. German selects by the noun's
+             grammatical gender only: der Apfel → er → ihn, das Kind → es → es. German
+             genuinely says "Ich esse ihn" of an apple and "Sie sieht es" of a child.
+             The learner already accepts that gender is grammatical for ARTICLES (would
+             never write "die Apfel"); the gap was that the gender travels into the
+             pronoun.
+- IMPORTANT — this exposed a flaw in how the topic was taught earlier the same day.
+  Every prompt in the intro set, drill and mixed round handed the learner the pronoun
+  in ENGLISH ("I see him" → ihn, "We have it" → es). So 9/9 correct answers tested
+  FORM RECALL only; pronoun SELECTION from a German noun's gender was never tested
+  once. The tracker's confidence in accusative pronouns was correspondingly
+  overstated — now split into two separate rows in GRAMMAR.md.
+  It also means an earlier same-day note ("new material entering receptive use fast",
+  based on the learner resolving es → das Haus in a reading passage) was likely right
+  for the wrong reason: a house is a "thing", so the English mapping happened to give
+  the correct answer there.
+- Frequency: 2 (both in the same check, in opposite directions)
+- First seen / last seen: 2026-09-03
+- Status: TAUGHT, NOT YET CONFIRMED — rule stated explicitly, then a derive-from-the-noun
+  drill went 4/4 across all three genders (der Tisch→ihn, das Buch→es, die Milch→sie,
+  der Hund→ihn, the last being the exact item missed in the passage). BUT this was
+  same-round, minutes after the explanation. Per the 2026-09-02 verb-second precedent,
+  same-day success does not demonstrate retention. Cold check required 2026-09-05.
+
 ### [spelling] umlaut omitted where one belongs (konnen for können)
 - Incorrect: Wir konnen dich sehen.
 - Correct:   Wir können dich sehen.

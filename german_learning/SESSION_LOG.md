@@ -148,6 +148,37 @@ Newest entries at the top.
   raising passage density and eventually seeding a few UNKNOWN words in context to
   practise inference — comprehension appears to have headroom.
 
+### Session 5, part seven (same day) — third passage + the day's key finding
+
+- **Topics:** Third reading passage with FOUR unknown words seeded (groß, Garten,
+  kocht, Auto) to test inference from context. Unexpectedly surfaced a conceptual
+  gap the morning's exercises were structurally unable to detect.
+- **Exercises completed:** passage (3/4), pronoun-selection check (0/2),
+  post-teaching drill (4/4)
+- **Mistakes:** could not resolve "ihn" in the passage; then swapped es and ihn
+  EXACTLY on the follow-up check
+- **KEY FINDING:** the learner was selecting accusative pronouns by ENGLISH
+  semantics (thing → es, person → ihn) rather than by German grammatical gender
+  (der Apfel → ihn, das Kind → es). The exact swap made this diagnostic rather than
+  a guess.
+- **FLAW IN MY OWN EXERCISE DESIGN:** every pronoun prompt earlier that day handed
+  the learner the pronoun in English ("I see him" → ihn). So 9/9 tested FORM RECALL
+  only; pronoun SELECTION from a noun's gender was never tested once, and the
+  tracker's confidence was overstated. GRAMMAR.md now splits these into two rows.
+- **Two corrections to earlier entries the same day:** (1) part six blamed the
+  es/ihn difference on chain length — wrong, it was semantic mapping; (2) part six's
+  "new material entering receptive use fast" was likely right for the wrong reason,
+  since es → das Haus happens to match the English thing→"it" mapping.
+- **Assessment result:** Excellent inference (all four unknown words correct,
+  including the non-cognate groß from context), and the most valuable diagnostic of
+  the day. Post-teaching drill 4/4 across all three genders — but SAME-ROUND, so per
+  the 2026-09-02 verb-second precedent it demonstrates nothing about retention.
+- **Improved:** second consecutive round giving both halves of a split answer;
+  inferred a non-cognate word from surrounding context
+- **Next session:** cold check on pronoun SELECTION (not form) on 2026-09-05 — give
+  German nouns and require derivation. English-prompt exercises cannot detect this
+  error and must not be reused for it.
+
 ---
 
 ## Session 4 — 2026-09-02

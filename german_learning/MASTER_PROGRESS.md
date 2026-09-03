@@ -49,9 +49,15 @@ müssen/möchten, separable verbs, accusative pronouns. None are MASTERED yet (n
 correct spontaneous use across many future sessions).
 
 ## Topics In Progress
-- Accusative pronouns — introduced 2026-09-03, every pronoun form produced
-  correctly, needs a fresh-day check 2026-09-05 (embedded in mixed sentences, not
-  isolated). euch listed but never produced.
+- Accusative pronouns — introduced 2026-09-03. Split into two distinct skills after
+  a late-session finding:
+  * FORM recall (producing ihn when the English says "him") — 9/9, solid.
+  * SELECTION by grammatical gender (deriving ihn from der Apfel) — was being done
+    by ENGLISH semantics instead (thing→es, person→ihn), 0/2 before the rule was
+    stated and 4/4 after. Taught only at the very end of 2026-09-03, so NOT
+    confirmed. Cold check required 2026-09-05 using GERMAN nouns; English-prompt
+    exercises structurally cannot detect this error.
+  euch listed but never produced.
 - Recommended next new topic: dative case, saved for a focused session (declined
   2026-09-03 as the learner was on a phone with distractions). Alternatives:
   accusative prepositions (für/durch), or more vocabulary.
@@ -100,6 +106,12 @@ correct spontaneous use across many future sessions).
   a separable verb, kein/keine and a modal+infinitive without difficulty, none of
   which are yet fully reliable in production. Receptive skill is ahead of productive
   skill, so richer input is likely to be absorbed than the output level suggests.
+  Also infers unknown words from context, including non-cognates (deduced groß from
+  an "acht Zimmer" anchor).
+- Responds extremely well to an explicitly stated rule. The recurring pattern across
+  the whole log is that errors are MISSING RULES rather than conceptual difficulty:
+  stated once, applied cleanly and immediately (accusative pronoun selection went
+  0/2 → 4/4 the moment the gender rule was made explicit).
 
 ## Skill Progress
 
@@ -147,6 +159,11 @@ correct spontaneous use across many future sessions).
   slip and a nicht-placement slip around a correctly chosen pronoun
 - 2026-09-03 (part four): mixed consolidation round 4/5 — four 3rd-person subjects
   all correct under genuine load; only error an omitted umlaut (konnen)
+- 2026-09-03 (parts five-seven): three reading passages, the first reading practice
+  in five sessions — 3/4, 4/4, 3/4. Inferred all four seeded unknown words in the
+  third passage including the non-cognate groß. Part seven also produced the day's
+  key finding: accusative pronoun SELECTION was being done by English semantics, an
+  error that 9/9 form-recall answers had concealed
 
 ## Last Session Summary
 2026-09-03 (Session 5, in two parts). Part one: genuine overnight fresh-day retest
@@ -166,9 +183,16 @@ confirmed load-dependent, so isolated drilling has been retired in favour of
 embedding 3rd-person subjects in mixed rounds. See daily_notes/2026-09-03.md.
 
 ## Exact Next Step
-Fresh-day check on accusative pronouns due 2026-09-05 — test them EMBEDDED in mixed
-sentences with 3rd-person subjects, not in isolation, since that combination is
-where errors actually appear. euch has been listed but never produced.
+**Top priority 2026-09-05: cold check on accusative pronoun SELECTION.** Give German
+nouns and require the learner to derive the pronoun (der Apfel → ihn, das Kind → es,
+die Milch → sie). Do NOT use English-prompt exercises for this — every prompt on
+2026-09-03 named the pronoun in English, which is why a semantic-mapping error went
+undetected through 9/9 correct answers. The rule was taught at the very end of
+2026-09-03 and a same-round drill went 4/4, which per the 2026-09-02 verb-second
+precedent demonstrates nothing about retention.
+
+Also due 2026-09-05: accusative pronouns embedded in mixed sentences with 3rd-person
+subjects (the load condition where conjugation fails). euch still never produced.
 
 Recommended next new topic: **dative case**, deliberately saved for a session where
 the learner can focus (declined 2026-09-03 because they were on a phone with

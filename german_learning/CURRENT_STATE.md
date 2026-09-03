@@ -21,6 +21,7 @@
 | 3rd-person vs du conjugation | IMPROVING, load-dependent | 6 instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. First embedded round (2026-09-03 part four) held 4/4 under genuine load |
 | Invented umlaut on singular nouns (ADDED) | Improving, light | 3 instances (Bröt, Äpfel, Stühl). Did not recur in the 2026-09-03 consolidation round (Stuhl clean). Rule given: singular is the plain form, the umlaut is the plural's job |
 | Omitted umlaut (konnen for können) | Light, new — likely friction not knowledge | Logged SEPARATELY from the invented-umlaut entry on purpose: omitting an umlaut is what a phone keyboard produces, whereas ADDING one takes deliberate effort. Retest on a laptop; if it vanishes, downgrade to friction |
+| **Pronoun selection by English semantics, not German gender** | **PRIORITY — taught 2026-09-03, unconfirmed** | Chose es/ihn by whether the noun was a "thing" or a "person" (apple→es, child→ihn) instead of by grammatical gender. Swapped exactly, so diagnostic not random. Rule taught, drill 4/4 same-round — proves nothing yet. This is the top item for the 2026-09-05 check |
 | nicht placed before a pronoun object | Resolved, watch once | EN interference (Er sieht nicht uns → Er sieht uns nicht). Clean on retry; re-check when pronouns next meet negation |
 | Modal + infinitive placement | Light | One slip, retested clean once — low priority |
 | das/den article confusion (das-word given den) | Light | One slip 2026-09-02, retest pending |
@@ -34,7 +35,8 @@
 | Modal verbs (müssen, möchten), Separable verbs, kein vs nicht | LEARNING/confirmed clean | 2026-09-05 |
 | Vocabulary: family, numbers, food, daily routine/time, weather, shopping | KNOWN | 2026-09-08 |
 | Vocabulary: house & rooms (+ compound nouns) | KNOWN, new | 2026-09-08 — probe Stuhl/Stühle specifically |
-| Accusative pronouns (mich/dich/ihn/uns/euch) | LEARNING, new | 2026-09-05 — embed in mixed sentences, not isolated; euch still untested |
+| Accusative pronouns — FORM recall | LEARNING | 2026-09-05 — 9/9, but see below: this is the easy half |
+| Accusative pronouns — SELECTION by gender | LEARNING, taught late 2026-09-03, NOT confirmed | 2026-09-05 — **cold check required.** Give GERMAN nouns and require derivation (der Apfel → ihn). English-prompt exercises cannot detect this error. euch still untested |
 
 ## Next action (detail)
 
@@ -139,8 +141,18 @@ under-used lever worth adding to the regular rotation.
 
 Part six: a second, denser passage run immediately to test the stop-at-first-answer
 habit — un-telegraphed. 4/4. The learner gave both halves of a split answer and
-linked them causally where the text supplied no connector, resolved the pronoun es
-across a sentence boundary to das Haus (gender tracking, and es had been taught
-barely an hour earlier), and inferred unmarked causality. The habit did not recur.
+linked them causally where the text supplied no connector, and inferred unmarked
+causality. The habit did not recur. (NOTE: the es → das Haus resolution originally
+credited here as gender tracking was probably right for the wrong reason — see
+part seven.)
+
+Part seven: third passage, four unknown words seeded — all four inferred correctly,
+including the non-cognate groß from an "acht Zimmer" anchor. But the passage exposed
+the day's most important finding: the learner selects accusative pronouns by ENGLISH
+semantics (thing→es, person→ihn) rather than German grammatical gender, swapping
+es/ihn exactly on a follow-up check. This also revealed a flaw in the morning's
+exercise design — every pronoun prompt named the pronoun in English, so 9/9 tested
+form recall while never once testing selection. Rule taught, drill 4/4 across all
+three genders, but same-round only.
 
 Full detail: [daily_notes/2026-09-03.md](daily_notes/2026-09-03.md)
