@@ -179,6 +179,23 @@ Newest entries at the top.
   German nouns and require derivation. English-prompt exercises cannot detect this
   error and must not be reused for it.
 
+### Session 5, part eight (same day) — detailed reference written at learner request
+
+- **Topics:** Learner asked to learn pronoun selection "in detail again". Written
+  into ANSWERS.md as Q11 rather than re-explained in chat only — chat scrolls away,
+  and the learner is on a phone. Follows the repo's DOUBTS → ANSWERS convention.
+- **Contents:** the single gender rule; a three-step method; the der/die/das →
+  er/sie/es → ihn/sie/es conversion table; the insight that the pronoun system has
+  exactly one irregular spot and it is the SAME one as the article system (der→den
+  mirrors er→ihn); five worked examples; the English-semantics trap named explicitly
+  with der Apfel→ihn and das Kind→es; a self-check (say the noun with its article
+  first) that doubles as an argument for always learning nouns with their article;
+  and the full pronoun table
+- **Assessment result:** n/a — reference material, not an exercise
+- **Status unchanged:** writing a reference is not evidence of retention. The
+  2026-09-05 cold check remains required and remains the top priority.
+- **Next session:** unchanged — cold check with German nouns, no English prompts
+
 ---
 
 ## Session 4 — 2026-09-02

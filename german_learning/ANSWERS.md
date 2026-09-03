@@ -138,6 +138,97 @@ interchangeable, since they answer different questions ("is THE dog there?" vs
 "is there any dog at all?"). Same underlying den/den-Hund vs keinen-Hund logic
 as Q9.
 
+### 2026-09-03 — Q11: How do I know which pronoun to use — es, ihn, or sie?
+
+*(Learner asked for this in detail after selecting pronouns by English meaning
+rather than German gender. This is the full reference version.)*
+
+## The one rule
+
+**A German pronoun follows the noun's GRAMMATICAL GENDER.** Not whether the thing is
+a person or an object. Not what the word means in English. Only der / die / das.
+
+## The three-step method
+
+1. **Find the noun** the pronoun is replacing.
+2. **Recall its article** — der, die, or das.
+3. **Convert:**
+
+| Noun's article | Subject (nominative) | Object (accusative) |
+|---|---|---|
+| **der** Tisch | er | **ihn** |
+| **die** Milch | sie | sie |
+| **das** Buch | es | es |
+
+## Only der-words change
+
+This is the same shape you already know from articles:
+
+- der → **den** ⟶ er → **ihn**
+- die → die ⟶ sie → sie
+- das → das ⟶ es → es
+
+There is exactly ONE irregular spot in the whole system, and it is the same spot as
+in the article system. If you know der→den, you already know er→ihn.
+
+## Worked examples
+
+| Full sentence | Replaced | Why |
+|---|---|---|
+| Ich sehe **den Tisch**. → Ich sehe **ihn**. | ihn | der Tisch → der-word |
+| Ich habe **das Buch**. → Ich habe **es**. | es | das Buch → das-word |
+| Meine Mutter kauft **die Milch**. → Sie kauft **sie**. | sie | die Milch → die-word |
+| Ich esse **einen Apfel**. → Ich esse **ihn**. | ihn | der Apfel → der-word |
+| Meine Katze sieht **den Hund**. → Sie sieht **ihn**. | ihn | der Hund → der-word |
+
+## THE TRAP — this is the error to unlearn
+
+English chooses between "it" and "him/her" based on whether something is a THING or a
+PERSON. German does not do this at all.
+
+- **der Apfel** is an apple — clearly a thing — but takes **ihn**.
+  *Ich esse ihn.* Literally "I eat him." Correct German.
+- **das Kind** is a child — clearly a person — but takes **es**.
+  *Sie sieht es.* Literally "she sees it." Correct German.
+- **das Mädchen** (girl) is also a das-word → **es**. Yes, really.
+
+If a German pronoun feels wrong to your English ear, that is expected and is not a
+signal that you have made a mistake. The English meaning is irrelevant. Only the
+article matters.
+
+## Why this is worth internalising
+
+It is the same principle underneath der→den, which you already accept without
+difficulty: **gender is a property of the WORD, not of the thing it refers to.** You
+would never write "die Apfel" just because apples are not masculine. Pronouns are
+that same rule, extended one step further.
+
+## Practical self-check
+
+Before choosing a pronoun, say the noun WITH its article: *"der Apfel"* → der → ihn.
+
+This has a useful side effect: if you cannot recall a noun's article, you cannot
+choose its pronoun. That is a strong argument for always learning nouns together
+with der/die/das rather than on their own — the article is not decoration, it is
+load-bearing information you will need repeatedly.
+
+## Full pronoun table (for reference)
+
+| Nominative (subject) | Accusative (object) |
+|---|---|
+| ich | **mich** |
+| du | **dich** |
+| er | **ihn** |
+| sie (she / it, die-word) | sie |
+| es (it, das-word) | es |
+| wir | **uns** |
+| ihr (you all) | **euch** |
+| sie (they) | sie |
+| Sie (formal you) | Sie |
+
+Five forms genuinely change: mich, dich, ihn, uns, euch. The rest are identical to
+their subject forms.
+
 ### 2026-09-01 — Q4: "Das ist mein Hund" or "Das ist meinen Hund" — which and why?
 
 **"Das ist mein Hund."** is correct — mein stays nominative, never meinen, here.

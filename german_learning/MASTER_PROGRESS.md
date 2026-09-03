@@ -187,7 +187,8 @@ embedding 3rd-person subjects in mixed rounds. See daily_notes/2026-09-03.md.
 nouns and require the learner to derive the pronoun (der Apfel → ihn, das Kind → es,
 die Milch → sie). Do NOT use English-prompt exercises for this — every prompt on
 2026-09-03 named the pronoun in English, which is why a semantic-mapping error went
-undetected through 9/9 correct answers. The rule was taught at the very end of
+undetected through 9/9 correct answers. A full reference on this was written at the
+learner's request: **ANSWERS.md Q11**. The rule was taught at the very end of
 2026-09-03 and a same-round drill went 4/4, which per the 2026-09-02 verb-second
 precedent demonstrates nothing about retention.
 

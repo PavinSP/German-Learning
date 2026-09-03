@@ -9,7 +9,8 @@
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Accusative pronouns introduced, then consolidated in a mixed round (2026-09-03, parts three and four). Earlier the same day: verb-second + mein/meine confirmed FUNCTIONAL, house & rooms vocabulary added |
-| **Last session** | 2026-09-03 (Session 5, ran in six parts) |
+| **Last session** | 2026-09-03 (Session 5, ran in eight parts) |
+| **Read this first** | ANSWERS.md **Q11** — full reference on pronoun selection by grammatical gender, written at the learner's request. Re-read it before the 2026-09-05 check |
 | **New this session** | FIRST reading practice, and it is immediately the strongest modality — two passages, 7/8. Comprehension runs ahead of production; reading is now a standing component |
 | **Next action** | Fresh-day check on accusative pronouns 2026-09-05; dative case is the recommended next new topic, for a focused session |
 | **Blocking?** | No |
@@ -21,7 +22,7 @@
 | 3rd-person vs du conjugation | IMPROVING, load-dependent | 6 instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. First embedded round (2026-09-03 part four) held 4/4 under genuine load |
 | Invented umlaut on singular nouns (ADDED) | Improving, light | 3 instances (Bröt, Äpfel, Stühl). Did not recur in the 2026-09-03 consolidation round (Stuhl clean). Rule given: singular is the plain form, the umlaut is the plural's job |
 | Omitted umlaut (konnen for können) | Light, new — likely friction not knowledge | Logged SEPARATELY from the invented-umlaut entry on purpose: omitting an umlaut is what a phone keyboard produces, whereas ADDING one takes deliberate effort. Retest on a laptop; if it vanishes, downgrade to friction |
-| **Pronoun selection by English semantics, not German gender** | **PRIORITY — taught 2026-09-03, unconfirmed** | Chose es/ihn by whether the noun was a "thing" or a "person" (apple→es, child→ihn) instead of by grammatical gender. Swapped exactly, so diagnostic not random. Rule taught, drill 4/4 same-round — proves nothing yet. This is the top item for the 2026-09-05 check |
+| **Pronoun selection by English semantics, not German gender** | **PRIORITY — taught 2026-09-03, unconfirmed** | Chose es/ihn by whether the noun was a "thing" or a "person" (apple→es, child→ihn) instead of by grammatical gender. Swapped exactly, so diagnostic not random. Rule taught, drill 4/4 same-round — proves nothing yet. Full reference written at learner request: **ANSWERS.md Q11**. Top item for the 2026-09-05 check |
 | nicht placed before a pronoun object | Resolved, watch once | EN interference (Er sieht nicht uns → Er sieht uns nicht). Clean on retry; re-check when pronouns next meet negation |
 | Modal + infinitive placement | Light | One slip, retested clean once — low priority |
 | das/den article confusion (das-word given den) | Light | One slip 2026-09-02, retest pending |
