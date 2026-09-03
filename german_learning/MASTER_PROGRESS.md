@@ -108,7 +108,7 @@ correct spontaneous use across many future sessions).
 | Grammar | Foundation — through accusative case (incl. pronouns), modal verbs, separable verbs, verb-second generalization, kein/nicht mechanics |
 | Vocabulary | ~78+ words/phrases introduced across greetings, family, numbers, food, daily routine, weather, shopping, house & rooms, plus the accusative pronoun set (see VOCABULARY.md) |
 | Listening | Not yet practiced |
-| Reading | FIRST PRACTICED 2026-09-03 — a ~9-sentence passage of known vocabulary, 3/4 comprehension questions fully correct (1 incomplete). Handled denn causality, a separable verb, kein/keine and modal+infinitive without difficulty. Comprehension is running AHEAD of production — build reading into the regular rotation |
+| Reading | FIRST PRACTICED 2026-09-03, and immediately the strongest modality. Two passages, 7/8 comprehension points. Handles marked AND unmarked causality, cross-sentence pronoun reference (resolved *es* → *das Haus*, requiring gender tracking), modals, separable verbs and negation — several of which remain imperfect in production. Comprehension runs AHEAD of production; now a standing component of sessions, with headroom for denser passages and a few unknown words in context |
 | Writing | Practiced via translation/production exercises every session |
 | Speaking | Not yet practiced (voice mode workflow discussed but not used) |
 

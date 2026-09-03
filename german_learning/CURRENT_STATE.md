@@ -9,8 +9,8 @@
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Accusative pronouns introduced, then consolidated in a mixed round (2026-09-03, parts three and four). Earlier the same day: verb-second + mein/meine confirmed FUNCTIONAL, house & rooms vocabulary added |
-| **Last session** | 2026-09-03 (Session 5, ran in five parts) |
-| **New this session** | FIRST reading practice — comprehension is running ahead of production; build reading into the regular rotation |
+| **Last session** | 2026-09-03 (Session 5, ran in six parts) |
+| **New this session** | FIRST reading practice, and it is immediately the strongest modality — two passages, 7/8. Comprehension runs ahead of production; reading is now a standing component |
 | **Next action** | Fresh-day check on accusative pronouns 2026-09-05; dative case is the recommended next new topic, for a focused session |
 | **Blocking?** | No |
 
@@ -51,12 +51,15 @@ or more vocabulary (hobbies, clothing, transport).
 Keep pace slow, one new concept at a time, per learner's stated preference.
 
 Standing method notes:
-- **Include a short reading passage in future sessions.** First attempt 2026-09-03
-  showed comprehension running ahead of production, so reading is an efficient way
-  to expose the learner to structures before they can produce them. Build passages
-  from known vocabulary. Also re-probe with a question whose full answer spans two
-  sentences — the learner stopped at the first plausible answer rather than reading
-  to the end of the paragraph.
+- **Reading is now a standing component of sessions, not an extra.** Two passages on
+  2026-09-03 scored 7/8, making it immediately the learner's strongest modality —
+  comprehension runs ahead of production, so reading exposes structures before they
+  can be produced. Build passages from known vocabulary. Headroom exists: raise
+  density, and consider seeding a few UNKNOWN words in context to practise inference
+  from surrounding text.
+- The stop-at-first-answer habit noted on the first passage did NOT recur on an
+  un-telegraphed retest in the second. One instance each way — worth another probe,
+  not yet a settled pattern either way.
 - **Stop isolated conjugation drills.** The 3rd-person/du error has now failed 6
   times under load and passed 3 of 3 focused drills. Drilling it in isolation only
   re-confirms known material; embedding a 3rd-person subject in every mixed round
@@ -133,5 +136,11 @@ comprehension questions fully correct. Parsed denn causality, a separable verb,
 kein/keine and modal+infinitive without difficulty — all structures that still cause
 production errors. Comprehension is ahead of production, so reading is an
 under-used lever worth adding to the regular rotation.
+
+Part six: a second, denser passage run immediately to test the stop-at-first-answer
+habit — un-telegraphed. 4/4. The learner gave both halves of a split answer and
+linked them causally where the text supplied no connector, resolved the pronoun es
+across a sentence boundary to das Haus (gender tracking, and es had been taught
+barely an hour earlier), and inferred unmarked causality. The habit did not recur.
 
 Full detail: [daily_notes/2026-09-03.md](daily_notes/2026-09-03.md)

@@ -125,6 +125,29 @@ Newest entries at the top.
 - **Next session:** build a short reading passage into the regular rotation rather
   than treating this as a one-off.
 
+### Session 5, part six (same day) — second reading passage, harder
+
+- **Topics:** A denser reading passage (~14 sentences, known vocabulary only), run
+  immediately to test the habit flagged in part five. The multi-part question was
+  deliberately NOT telegraphed.
+- **Exercises completed:** 4 comprehension questions — 4/4, all correct
+- **Mistakes:** none
+- **Assessment result:** Excellent, and better than the first passage. Q1 was the
+  trap: the answer was split across two sentences with no connector ("er hat kein
+  Geld." / "Er arbeitet nicht."). The learner supplied both parts AND linked them
+  causally. The part-five habit did not recur.
+- **Improved:** (a) stop-at-first-answer habit corrected within the same session, on
+  an un-telegraphed test; (b) resolved the pronoun "es" across a sentence boundary
+  to das Haus, requiring gender tracking — and es had been taught as an accusative
+  pronoun barely an hour earlier; (c) inferred causality in Q4 where the text
+  supplied no connector at all
+- **Cumulative reading result:** two passages, 7/8 comprehension points, handling
+  marked and unmarked causality, cross-sentence pronoun reference, modals, separable
+  verbs and negation — several of which remain imperfect in production
+- **Next session:** reading is now a standing component, not an extra. Consider
+  raising passage density and eventually seeding a few UNKNOWN words in context to
+  practise inference — comprehension appears to have headroom.
+
 ---
 
 ## Session 4 — 2026-09-02
