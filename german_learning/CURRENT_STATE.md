@@ -9,7 +9,8 @@
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Accusative pronouns introduced, then consolidated in a mixed round (2026-09-03, parts three and four). Earlier the same day: verb-second + mein/meine confirmed FUNCTIONAL, house & rooms vocabulary added |
-| **Last session** | 2026-09-03 (Session 5, ran in four parts) |
+| **Last session** | 2026-09-03 (Session 5, ran in five parts) |
+| **New this session** | FIRST reading practice — comprehension is running ahead of production; build reading into the regular rotation |
 | **Next action** | Fresh-day check on accusative pronouns 2026-09-05; dative case is the recommended next new topic, for a focused session |
 | **Blocking?** | No |
 
@@ -49,7 +50,13 @@ or more vocabulary (hobbies, clothing, transport).
 
 Keep pace slow, one new concept at a time, per learner's stated preference.
 
-Two standing method notes:
+Standing method notes:
+- **Include a short reading passage in future sessions.** First attempt 2026-09-03
+  showed comprehension running ahead of production, so reading is an efficient way
+  to expose the learner to structures before they can produce them. Build passages
+  from known vocabulary. Also re-probe with a question whose full answer spans two
+  sentences — the learner stopped at the first plausible answer rather than reading
+  to the end of the paragraph.
 - **Stop isolated conjugation drills.** The 3rd-person/du error has now failed 6
   times under load and passed 3 of 3 focused drills. Drilling it in isolation only
   re-confirms known material; embedding a 3rd-person subject in every mixed round
@@ -119,5 +126,12 @@ carrying new pronouns, new vocabulary, accusative, verb-second and possessives a
 once — the first time this conjugation has held under genuine load on record. Only
 error was an omitted umlaut (konnen), logged separately from the invented-umlaut
 pattern since the two have opposite causes.
+
+Part five: first reading practice in five sessions, filling a documented gap
+("Reading: Not yet practiced"). A ~9-sentence passage of known vocabulary, 3/4
+comprehension questions fully correct. Parsed denn causality, a separable verb,
+kein/keine and modal+infinitive without difficulty — all structures that still cause
+production errors. Comprehension is ahead of production, so reading is an
+under-used lever worth adding to the regular rotation.
 
 Full detail: [daily_notes/2026-09-03.md](daily_notes/2026-09-03.md)

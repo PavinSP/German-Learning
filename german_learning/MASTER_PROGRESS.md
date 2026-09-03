@@ -96,6 +96,10 @@ correct spontaneous use across many future sessions).
   on a genuine second overnight retest — now FUNCTIONAL
 - Vocabulary uptake is fast: picked up an irregular verb form (isst) correctly
   after a single mention
+- Reading comprehension — on first ever exposure (2026-09-03) parsed denn causality,
+  a separable verb, kein/keine and a modal+infinitive without difficulty, none of
+  which are yet fully reliable in production. Receptive skill is ahead of productive
+  skill, so richer input is likely to be absorbed than the output level suggests.
 
 ## Skill Progress
 
@@ -104,7 +108,7 @@ correct spontaneous use across many future sessions).
 | Grammar | Foundation — through accusative case (incl. pronouns), modal verbs, separable verbs, verb-second generalization, kein/nicht mechanics |
 | Vocabulary | ~78+ words/phrases introduced across greetings, family, numbers, food, daily routine, weather, shopping, house & rooms, plus the accusative pronoun set (see VOCABULARY.md) |
 | Listening | Not yet practiced |
-| Reading | Not yet practiced |
+| Reading | FIRST PRACTICED 2026-09-03 — a ~9-sentence passage of known vocabulary, 3/4 comprehension questions fully correct (1 incomplete). Handled denn causality, a separable verb, kein/keine and modal+infinitive without difficulty. Comprehension is running AHEAD of production — build reading into the regular rotation |
 | Writing | Practiced via translation/production exercises every session |
 | Speaking | Not yet practiced (voice mode workflow discussed but not used) |
 

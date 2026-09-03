@@ -100,6 +100,31 @@ Newest entries at the top.
   disappear when the keyboard is easy, downgrade that entry from knowledge to
   friction.
 
+### Session 5, part five (same day) — FIRST READING PRACTICE
+
+- **Topics:** Reading comprehension — a documented gap, "Reading: Not yet practiced"
+  across all five sessions. Every prior exercise had been production (EN → DE).
+  Chosen over a third new grammar concept, and well suited to a phone (little typing).
+- **Exercises completed:** ~9-sentence passage built exclusively from known
+  vocabulary (zero new words), 4 comprehension questions asked and answered in
+  English to measure understanding rather than construction — 3 fully correct,
+  1 incomplete
+- **Mistakes:** Q3 answered "the table is expensive" but missed the following
+  sentence, "Wir haben kein Geld" — two reasons in the text, one supplied
+- **Assessment result:** Strong — the passage quietly embedded denn causality, a
+  separable verb (steht…auf), kein/keine, modal + infinitive, accusative and
+  verb-second, and none of it slowed the learner down
+- **KEY FINDING:** comprehension is running AHEAD of production. Structures that
+  still cause errors when producing were parsed without difficulty when reading.
+  Normal receptive-before-productive gap, but with a practical consequence: the
+  learner can absorb richer German than their output suggests, and five sessions of
+  translation-only was leaving that lever unused.
+- **Habit to watch:** stopped at the first plausible answer rather than reading to
+  the end of the paragraph — common in a foreign language. Re-probe with a question
+  whose full answer is deliberately split across two sentences.
+- **Next session:** build a short reading passage into the regular rotation rather
+  than treating this as a one-off.
+
 ---
 
 ## Session 4 — 2026-09-02
