@@ -91,19 +91,55 @@ makes Monday's diagnostic honest.
 Both are untouched as of 2026-09-04, and both are slow to develop, which is
 exactly why they start now rather than after A1 grammar is "done".
 
-**Listening progression:** slow learner-German with transcripts → slow without
-transcripts → normal-speed learner content → authentic material. Move up only
-when the current tier is comfortable. Suggested sources: Deutsche Welle's
-*Nicos Weg* (A1, free, video), *Slow German* podcast, DW's *Langsam gesprochene
-Nachrichten*.
+**The hard constraint, stated plainly:** this session cannot play audio and
+cannot hear you. So neither skill happens *inside* a Claude Code session. Both
+run externally, and this session is the **correction and logging layer** — you
+bring back what happened, it gets tested, corrected, and written into ERROR_LOG
+and VOCABULARY like any other exercise.
 
-**Speaking:** Claude Code has no voice. Two workable routes, both already
-discussed on 2026-09-01:
-1. Read answers aloud during normal exercises — free, immediate, builds
-   articulation. Do this every day.
-2. Claude app voice mode for actual conversation. A ready-made context prompt
-   was written on 2026-09-01 (see that day's daily note) — paste it, speak, then
-   report back what broke so it lands in ERROR_LOG.
+### Listening — external audio, report back
+
+**Primary resource: DW's [Nicos Weg A1](https://learngerman.dw.com/en/nicos-weg/c-36519789)**
+— free, made by Deutsche Welle with Germany's Federal Employment Agency. ~76
+two-minute video episodes at A1, following Nico, a Spaniard newly arrived in
+Germany. Each episode has transcripts, vocabulary tools, grammar notes and
+interactive exercises. Verified current and free as of 2026-09-04.
+
+**Daily loop (the 20 min in block 3):**
+1. Watch one episode **without** the transcript first
+2. Watch again **with** the transcript
+3. Bring back to the session: what the episode was about, any words you caught
+   but didn't know, anything you couldn't parse even *with* the transcript
+4. This session then: tests comprehension in German, drills the missed
+   vocabulary into VOCABULARY.md, and logs genuine gaps
+
+**Progression tiers** — move up only when the current one is comfortable:
+1. Nicos Weg A1 with transcript → 2. Nicos Weg A1 without → 3. Nicos Weg A2 →
+4. *Slow German* podcast (Annik Rubens) → 5. DW's *Langsam gesprochene
+Nachrichten*
+
+**Note on that last one:** DW's slowly-spoken news is **B2-level content**, not
+a beginner resource — real journalism read slowly, not simplified. It is a
+much later tier, listed here so the ladder is complete, not as a near-term
+target. Don't reach for it early; it will feel like failure when it isn't.
+
+### Speaking — Claude app voice mode, report back
+
+Claude Code has no voice. Real spoken practice with correction happens in the
+**Claude app's voice mode** (mobile or desktop, not this CLI).
+
+**A ready-made context prompt was written on 2026-09-01** — it lists exactly
+what's been learned so the voice session doesn't jump ahead. See that day's
+daily note; update it as new material lands, since it goes stale.
+
+**Loop:** speak in the app → note what broke (words you couldn't retrieve,
+corrections it gave you, anything you avoided saying because you didn't know
+how) → report it back here → it gets logged and drilled like any other error.
+
+**Secondary, free, every day:** read your typed answers aloud during normal
+exercises. This builds articulation and rhythm. Be aware of its limit — this
+session can correct the German you type but has no way to hear or correct
+pronunciation.
 
 ---
 
