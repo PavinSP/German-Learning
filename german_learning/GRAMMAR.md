@@ -22,7 +22,8 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Negation: kein/keine | FUNCTIONAL | Good | Correct, including unprompted retrieval check | Earlier nicht/keine confusion resolved | 2026-08-29 | 2026-09-01 | Yes |
 | Nominative case | NOT_STARTED | — | — | — | — | — | — |
 | Accusative case | FUNCTIONAL | Good | 9/9 in first session, then 6/6 clean on intensive review #2 (incl. subject-vs-object possessive distinction, kein+accusative, numbers) | Initial overgeneralization (resolved same session) | 2026-09-01 | 2026-09-08 | Yes |
-| Basic dative | NOT_STARTED | — | — | — | — | — | — |
+| Basic dative — articles (der/das→dem, die→der, ein→einem, eine→einer) | LEARNING | Good | 4/4 on first attempt, including correctly merging der/das-words to "dem" | — | 2026-09-04 | 2026-09-06 | Yes |
+| Dative pronouns (mir/dir/ihm/ihr/uns/euch/ihnen) | LEARNING | Good | 4/4 on first attempt, including correctly combining with accusative objects in the same sentence | — | 2026-09-04 | 2026-09-06 | Yes |
 | Possessive articles (mein/dein/sein/ihr/Ihr) | FUNCTIONAL | Good | 13/15 intensive review + clean 3/3 retest on formal Ihr and ihr's double meaning | Missed formal Ihr once before it was taught (now resolved); self-corrected one gender slip | 2026-09-01 | 2026-09-08 | Yes |
 | Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
 | Modal verbs (können, müssen, möchten) | LEARNING | Good | können: FUNCTIONAL (multiple clean checks). müssen/möchten: 3/4 clean on first attempt, 1/1 clean retry | One Apfel singular/plural spelling slip (Äpfel vs Apfel), accusative ending itself correct throughout | 2026-09-02 | 2026-09-05 | Yes |

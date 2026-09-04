@@ -8,9 +8,9 @@
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Accusative pronoun SELECTION confirmed FUNCTIONAL via cold check (2026-09-04, one day ahead of schedule) — 5/5, all genders, under 3rd-person load |
+| **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
 | **Last session** | 2026-09-04 (Session 6) |
-| **Next action** | No blocking items — learner picks the next new topic |
+| **Next action** | Fresh-day check on dative due 2026-09-06 |
 | **Blocking?** | No |
 
 ## Known weaknesses (watch list)

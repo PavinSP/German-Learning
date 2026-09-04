@@ -101,6 +101,7 @@ A word is only MASTERED after correct recall across multiple sessions.
 - kalt | cold | adjective | Der Regen ist kalt. | KNOWN | 2026-09-02
 - warm | warm | adjective | Das Wetter ist warm. | KNOWN | 2026-09-02
 - regnen | to rain (impersonal: es regnet) | verb | Heute regnet es. | KNOWN | 2026-09-02 | correctly used with verb-second word order twice
+- geben | to give (gebe/gibst/gibt/geben/gebt/geben — stem change) | verb | Ich gebe dem Mann ein Buch. | KNOWN | 2026-09-04 | first dative-taking verb, used correctly with dative+accusative combined
 
 **Shopping**
 - das Geschäft | the shop/store | noun | Heute ist das Geschäft teuer. | KNOWN | 2026-09-02

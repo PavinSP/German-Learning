@@ -17,6 +17,19 @@ Newest entries at the top.
   (recommended), accusative prepositions, or more vocabulary; continue reading
   practice as a standing component
 
+### Session 6, continued — dative case introduced
+
+- **Topics:** Dative case (articles + pronouns), introduced with geben
+- **Vocabulary learned:** geben
+- **Exercises completed:** dative articles (4/4 clean), dative pronouns + accusative
+  combined (4/4 clean)
+- **Assessment result:** Excellent — smoother start than accusative case had (no
+  overgeneralization round needed), correctly merged der/das→dem on first attempt,
+  correctly combined 2 cases (dative person + accusative thing) in one sentence
+- **Improved:** case-system concept appears to be generalizing well across cases
+- **Next session:** fresh-day check on dative (due 2026-09-06), continue mixing
+  with accusative
+
 ---
 
 ## Session 5 — 2026-09-03
