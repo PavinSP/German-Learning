@@ -1,0 +1,1449 @@
+# Anki A1/A2 Reference — VHS Lernportal Deck
+
+Source: `VHS_A1_A2_subset.apkg` (filtered from `VHS_Lernportal_German_Vocabulary_A1-B1.apkg`, 
+1367 notes across A1-L1..A1-L12 and A2-L1..A2-L12, with audio). 
+Full A1-B1 original deck still available at the same path for reference.
+
+This file is a lookup for planning future lessons/vocabulary — it is NOT synced with 
+VOCABULARY.md or SESSION_LOG.md. Cross-check manually before teaching from it.
+
+---
+
+## A1-L1 (47 words)
+
+- **Entschuldigung** — excuse, excuse me
+- **kommen (aus)** — to come (from)
+- **die Frau, die Frauen** — woman
+- **der Herr, die Herren** — man
+- **heißen** — to be called
+- **ich** — I
+- **der Name, die Namen** — name, names
+- **das Land, die Länder** — country, countries
+- **Deutschland** — Germany
+- **die Türkei** — Turkey
+- **Syrien** — Syria
+- **Polen** — Poland
+- **Bulgarien** — Bulgaria
+- **Spanien** — Spain
+- **Italien** — Italy
+- **Griechenland** — Greece
+- **Russland** — Russia
+- **Afghanistan** — Afghanistan
+- **der Irak, die Iraks** — Iraq
+- **Eritrea** — Eritrea
+- **die Ukraine, die Ukrainens** — Ukraine
+- **der Iran, die Irans** — Iran
+- **du / Sie** — you (informal / formal)
+- **gut** — good
+- **sehr gut** — very good
+- **schlecht** — bad
+- **super** — great
+- **es geht** — it&#x27;s okay
+- **nicht so gut** — not so good
+- **auch** — also
+- **danke** — thank you
+- **die Sprache, die Sprachen** — language, languages
+- **sprechen** — to speak
+- **Deutsch** — German
+- **Türkisch** — Turkish
+- **Englisch** — English
+- **Dari** — Dari
+- **Polnisch** — Polish
+- **Spanisch** — Spanish
+- **Italienisch** — Italian
+- **Russisch** — Russian
+- **Arabisch** — Arabic
+- **Paschtu** — Pashto
+- **ein bisschen** — a little
+- **ja / nein** — yes / no
+- **Hallo** — Hello
+- **Tschüss** — Bye
+
+## A1-L2 (62 words)
+
+- **die Familie, die Familien** — family, families
+- **das Kind, die Kinder** — child, children
+- **haben** — to have
+- **wir** — we
+- **ihr** — you
+- **er** — he
+- **sie** — she / they
+- **sein** — to be (I am; you are; he/she/it is; you are)
+- **der Mann, die Männer** — man, men
+- **die Frau, die Frauen** — woman, women
+- **der Sohn, die Söhne** — son, sons
+- **die Tochter, die Töchter** — daughter, daughters
+- **die Eltern** — parents
+- **der Vater, die Väter** — father, fathers
+- **die Mutter, die Mütter** — mother, mothers
+- **die Schwester, die Schwestern** — sister, sisters
+- **der Bruder, die Brüder** — brother, brothers
+- **mein, meine** — my
+- **dein, deine** — your (informal)
+- **Ihr, Ihre** — your (formal)
+- **verheiratet** — married
+- **ledig** — single
+- **eins** — one
+- **zwei** — two
+- **drei** — three
+- **vier** — four
+- **fünf** — five
+- **sechs** — six
+- **sieben** — seven
+- **acht** — eight
+- **neun** — nine
+- **zehn** — ten
+- **elf** — eleven
+- **zwölf** — twelve
+- **sechzehn** — sixteen
+- **siebzehn** — seventeen
+- **zwanzig** — twenty
+- **wohnen** — to live (in)
+- **geschieden** — divorced
+- **der Vorname, die Vornamen** — first name, first names
+- **die Großmutter (Oma), die Großmütter** — grandmother (grandma), grandmothers
+- **der Großvater (Opa), die Großväter (Opas)** — grandfather (grandpa), grandfathers (grandpas)
+- **die Tante, die Tanten** — aunt, aunts
+- **der Onkel, die Onkel** — uncle, uncles
+- **der Cousin, die Cousins** — cousin (male), cousins (male)
+- **die Cousine, die Cousinen** — cousin (female), cousins (female)
+- **der Familienname, die Familiennamen** — last name, last names
+- **Nachname, die Nachnamen** — surname, surnames
+- **der Familienstand** — marital status
+- **die Straße, die Straßen** — street, streets
+- **die Hausnummer, die Hausnummern** — house number, house numbers
+- **die Stadt, die Städte** — city, cities
+- **die Postleitzahl (PLZ), die Postleitzahlen** — postal code, postal codes
+- **die Telefonnummer, die Telefonnummern** — phone number, phone numbers
+- **einundzwanzig** — twenty-one
+- **dreißig** — thirty
+- **siebzig** — seventy
+- **hundert** — hundred
+- **die Adresse, die Adressen** — address, addresses
+- **das Alter** — age
+- **der Geburtsort** — place of birth
+- **der Wohnort, die Wohnorte** — place of residence, places of residence
+
+## A1-L3 (47 words)
+
+- **der Stuhl, die Stühle** — chair, chairs
+- **der Stift, die Stifte** — pen, pens
+- **das Buch, die Bücher** — book, books
+- **der Computer, die Computer** — computer, computers
+- **die Maus, die Mäuse** — mouse, mice
+- **die Tastatur, die Tastaturen** — keyboard, keyboards
+- **der Bildschirm, die Bildschirme** — screen, screens
+- **das Handy, die Handys** — mobile phone, mobile phones
+- **die Tasche, die Taschen** — bag, bags
+- **die E-Mail, die E-Mails** — email, emails
+- **die Musik** — music
+- **lesen** — to read
+- **schreiben** — to write
+- **hören** — to hear
+- **lernen** — to learn
+- **der Lehrer, die Lehrerin** — teacher (male), teacher (female)
+- **das Tablet, die Tablets** — tablet, tablets
+- **der Laptop, die Laptops** — laptop, laptops
+- **der Kuli, die Kulis** — pen, pens
+- **die Übung, die Übungen** — exercise, exercises
+- **neu** — new
+- **schön** — beautiful
+- **groß** — big
+- **klein** — small
+- **interessant** — interesting
+- **einfach** — easy
+- **schwierig** — difficult
+- **richtig** — right
+- **falsch** — wrong
+- **der Satz, die Sätze** — sentence, sentences
+- **einen Deutschkurs machen** — to take a German course
+- **nett** — nice
+- **fragen** — to ask
+- **antworten** — to answer
+- **der Montag** — Monday
+- **der Dienstag** — Tuesday
+- **der Mittwoch** — Wednesday
+- **der Donnerstag** — Thursday
+- **der Freitag** — Friday
+- **der Samstag** — Saturday
+- **der Sonntag** — Sunday
+- **gestern** — yesterday
+- **heute** — today
+- **morgen** — tomorrow
+- **die Brille, die Brillen** — glasses, glasses
+- **die Tür, die Türen** — door, doors
+- **das Wörterbuch, die Wörterbücher** — dictionary, dictionaries
+
+## A1-L4 (56 words)
+
+- **das Gemüse** — vegetables
+- **der Salat, die Salate** — salad, salads
+- **das Fleisch** — meat
+- **die Wurst, die Würste** — sausage, sausages
+- **das Obst** — fruit
+- **die Milch** — milk
+- **das Wasser** — water
+- **der Saft, die Säfte** — juice, juices
+- **der Fisch** — fish
+- **der Kuchen, die Kuchen** — cake, cakes
+- **das Eis** — ice cream
+- **das Schweinefleisch** — pork
+- **der Tee, die Tees** — tea, teas
+- **der Joghurt, die Joghurts** — yogurt, yogurts
+- **der Reis** — rice
+- **das Brot, die Brote** — bread, breads
+- **das Brötchen, die Brötchen** — bread roll, bread rolls
+- **der Kaffee, die Kaffees** — coffee, coffees
+- **der Käse** — cheese
+- **das Hähnchen, die Hähnchen** — chicken (cooked), chickens
+- **mögen** — to like
+- **essen** — to eat
+- **trinken** — to drink
+- **der Apfel, die Äpfel** — apple, apples
+- **die Banane, die Bananen** — banana, bananas
+- **das Ei, die Eier** — egg, eggs
+- **die Gurke, die Gurken** — cucumber, cucumbers
+- **das Getränk, die Getränke** — drink, drinks
+- **der Paprika, die Paprika** — pepper (vegetable), peppers
+- **die Nudel, die Nudeln** — noodle, noodles
+- **die Möhre, die Möhren** — carrot, carrots
+- **die Tomate, die Tomaten** — tomato, tomatoes
+- **die Zwiebel, die Zwiebeln** — onion, onions
+- **brauchen** — to need
+- **kaufen** — to buy
+- **kochen** — to cook
+- **das Kilo, die Kilos** — kilogram, kilograms
+- **der Liter, die Liter** — liter, liters
+- **das Stück, die Stücke** — piece, pieces
+- **die Tüte, die Tüten** — bag, bags
+- **die Flasche, die Flaschen** — bottle, bottles
+- **das Glas, die Gläser** — glass, glasses
+- **der Supermarkt, die Supermärkte** — supermarket, supermarkets
+- **der Euro, die Euro** — euro, euros
+- **der Cent, die Cents** — cent, cents
+- **kosten** — to cost
+- **der Preis, die Preise** — price, prices
+- **das Mittagessen** — lunch
+- **das Abendessen** — dinner
+- **das Frühstück** — breakfast
+- **die Marmelade, die Marmeladen** — jam, jams
+- **süß** — sweet
+- **sauer** — sour
+- **salzig** — salty
+- **scharf** — spicy
+- **der Zucker** — sugar
+
+## A1-L5 (42 words)
+
+- **der Tag, die Tage** — day, days
+- **der Morgen, die Morgen** — morning, mornings
+- **der Vormittag, die Vormittage** — morning (before noon), mornings
+- **der Mittag, die Mittage** — noon, noons
+- **der Nachmittag, die Nachmittage** — afternoon, afternoons
+- **der Abend, die Abende** — evening, evenings
+- **die Nacht, die Nächte** — night, nights
+- **frühstücken** — to have breakfast
+- **duschen** — to shower
+- **schlafen** — to sleep
+- **arbeiten** — to work
+- **die Arbeit** — work
+- **die Hausaufgaben machen** — to do homework
+- **telefonieren** — to talk on the phone
+- **Fußball spielen** — to play soccer
+- **Sport machen** — to play sports
+- **Musik hören** — to listen to music
+- **putzen** — to clean
+- **tanzen** — to dance
+- **Gitarre spielen** — to play guitar
+- **treffen** — to meet
+- **aufstehen** — to get up
+- **fernsehen** — to watch TV
+- **einkaufen** — to go shopping
+- **aufräumen** — to tidy up
+- **vorlesen** — to read aloud
+- **anrufen** — to call
+- **abholen** — to pick up
+- **anfangen** — to start
+- **früh** — early
+- **spät** — late
+- **die Stunde, die Stunden** — hour, hours
+- **die Pause, die Pausen** — break, breaks
+- **das Wochenende, die Wochenenden** — weekend, weekends
+- **meistens** — usually
+- **immer** — always
+- **oft** — often
+- **manchmal** — sometimes
+- **selten** — rarely
+- **nie** — never
+- **mitkommen** — to come along
+- **gehen** — to go
+
+## A1-L6 (56 words)
+
+- **die Wohnung, die Wohnungen** — apartment, apartments
+- **die Küche, die Küchen** — kitchen, kitchens
+- **der Balkon, die Balkone** — balcony, balconies
+- **das Badezimmer, das Bad** — bathroom, bathrooms
+- **hell** — bright
+- **das Fenster, die Fenster** — window, windows
+- **das Wohnzimmer** — living room
+- **das Schlafzimmer** — bedroom
+- **das Sofa, die Sofas** — sofa, sofas
+- **das Kinderzimmer** — children&#x27;s room
+- **der Flur, die Flure** — hallway, hallways
+- **das Haus, die Häuser** — house, houses
+- **die Garage, die Garagen** — garage, garages
+- **der Garten, die Gärten** — garden, gardens
+- **das Zimmer, die Zimmer** — room, rooms
+- **zweihundert** — two hundred
+- **tausend** — thousand
+- **zweitausend** — two thousand
+- **das Geld** — money
+- **das Auto, die Autos** — car, cars
+- **das Erdgeschoss (EG)** — ground floor
+- **der Keller** — basement
+- **die Nebenkosten (NK)** — additional costs
+- **Stadtzentrum, die Stadtzentren** — city center, city centers
+- **die Heizung, die Heizungen** — heating, heaters
+- **die Kaution, die Kautionen** — deposit, deposits
+- **die Monatsmiete, die Monatsmieten (MM)** — monthly rent, monthly rents
+- **der Strom** — electricity
+- **möbliert** — furnished
+- **dunkel** — dark
+- **laut** — loud
+- **ruhig** — quiet
+- **billig** — cheap
+- **Wohnungsanzeige, die Wohnungsanzeigen** — apartment ad, apartment ads
+- **gemütlich** — cozy
+- **der Vermieter, die Vermieterin** — landlord, landlady
+- **die Dusche, die Duschen** — shower, showers
+- **mieten** — to rent
+- **der Tisch, die Tische** — table, tables
+- **der Schrank, die Schränke** — cupboard, cupboards
+- **der Teppich, die Teppiche** — carpet, carpets
+- **das Bett, die Betten** — bed, beds
+- **der Sessel, die Sessel** — armchair, armchairs
+- **das Regal, die Regale** — shelf, shelves
+- **der Fernseher, die Fernseher** — TV, TVs
+- **der Herd, die Herde** — stove, stoves
+- **der Kühlschrank, die Kühlschränke** — refrigerator, refrigerators
+- **die Waschmaschine, die Waschmaschinen** — washing machine, washing machines
+- **die Spülmaschine, die Spülmaschinen** — dishwasher, dishwashers
+- **das Möbel, die Möbel** — furniture
+- **schmal** — narrow
+- **breit** — wide
+- **hässlich** — ugly
+- **das Geschirr spülen** — to wash the dishes
+- **Staub saugen** — to vacuum
+- **waschen** — to wash
+
+## A1-L7 (54 words)
+
+- **der Parkplatz, die Parkplätze** — parking lot, parking lots
+- **der Bus, die Busse** — bus, buses
+- **die Linie, die Linien** — line, lines (bus, train, etc.)
+- **die U-Bahn, die U-Bahnen** — subway, subways
+- **die Straßenbahn, die Straßenbahnen** — tram, trams
+- **Fahrrad, die Fahrräder** — bicycle, bicycles
+- **der Zug, die Züge** — train, trains
+- **zu Fuß gehen** — to go on foot
+- **das Verkehrsmittel, die Verkehrsmittel** — means of transportation, means of transportation
+- **fahren** — to drive/go
+- **ankommen** — to arrive
+- **der Bahnhof, die Bahnhöfe** — train station, train stations
+- **die Haltestelle, die Haltestellen** — bus stop, bus stops
+- **der Fahrplan, die Fahrpläne** — timetable, timetables
+- **die Apotheke, die Apotheken** — pharmacy, pharmacies
+- **suchen** — to search/look for
+- **die Bücherei** — library
+- **das Rathaus** — town hall
+- **die Bank, die Banken** — bank, banks
+- **die Schule, die Schulen** — school, schools
+- **der Park, die Parks** — park, parks
+- **die Polizei** — police
+- **das Museum, die Museen** — museum, museums
+- **der Friseur, die Friseure** — hairdresser, hairdressers
+- **das Krankenhaus, die Krankenhäuser** — hospital, hospitals
+- **die Kirche, die Kirchen** — church, churches
+- **die Bäckerei, die Bäckereien** — bakery, bakeries
+- **schwimmen** — to swim
+- **der Spielplatz, die Spielplätze** — playground, playgrounds
+- **das W-Lan** — Wi-Fi
+- **das Taxi, die Taxis** — taxi, taxis
+- **der Norden** — north
+- **der Osten** — east
+- **der Süden** — south
+- **der Westen** — west
+- **aussteigen** — to get off
+- **einsteigen** — to get in
+- **rechts** — right
+- **links** — left
+- **geradeaus** — straight ahead
+- **die Kreuzung, die Kreuzungen** — intersection, intersections
+- **die Ampel, die Ampeln** — traffic light, traffic lights
+- **umsteigen** — to change (trains/buses)
+- **abbiegen** — to turn
+- **holen** — to fetch, to pick up
+- **Fahrkarte, die Fahrkarten** — ticket, tickets
+- **der Schein, die Scheine** — bill, banknote
+- **die EC-Karte, die EC-Karten** — debit card, debit cards
+- **die Münze, die Münzen** — coin, coins
+- **der Erwachsene, die Erwachsenen** — adult, adults
+- **die Verspätung, die Verspätungen** — delay, delays
+- **die Information, die Informationen** — information, informations
+- **die Toilette, die Toiletten** — toilet, toilets
+- **warten** — to wait
+
+## A1-L8 (42 words)
+
+- **der Beruf, die Berufe** — profession, professions
+- **der Krankenpfleger, die Krankenpflegerin** — nurse (male), nurse (female)
+- **der Kellner, die Kellnerin** — waiter (male), waitress (female)
+- **der Bankkaufmann, die Bankkauffrau** — banker (male), banker (female)
+- **der Polizist, die Polizistin** — police officer (male), police officer (female)
+- **der Student, die Studentin** — student (male), student (female)
+- **der Verkäufer, die Verkäuferin** — salesperson (male), salesperson (female)
+- **der Koch, die Köchin** — cook (male), cook (female)
+- **der Arzt, die Ärztin** — doctor (male), doctor (female)
+- **servieren** — to serve
+- **der Kunde, die Kunden** — customer, customers
+- **unterrichten** — to teach
+- **das Büro, die Büros** — office, offices
+- **der Bürokaufmann, die Bürokauffrau** — office clerk (male), office clerk (female)
+- **der Ingenieur, die Ingenieurin** — engineer (male), engineer (female)
+- **der Automechaniker, die Automechanikerin** — mechanic (male), mechanic (female)
+- **das Hotel, die Hotels** — hotel, hotels
+- **backen** — to bake
+- **organisieren** — to organize
+- **reparieren** — to repair
+- **schneiden** — to cut
+- **können** — can, to be able to
+- **singen** — to sing
+- **zu Hause bleiben** — to stay at home
+- **müssen** — must, to have to
+- **leise** — quiet
+- **parken** — to park
+- **der Feierabend** — end of the workday
+- **der Dienstplan, die Dienstpläne** — schedule, schedules
+- **unterschreiben** — to sign
+- **der Schüler, die Schüler** — student (male), students (male)
+- **eine Ausbildung machen** — to do training
+- **die Aushilfe, die Aushilfen** — temporary worker, temporary workers
+- **Geld verdienen** — to earn money
+- **möchten** — would like
+- **der Schuh, die Schuhe** — shoe, shoes
+- **die Arbeitszeit, die Arbeitszeiten** — working hours, working hours
+- **freundlich** — friendly
+- **flexibel** — flexible
+- **pünktlich** — punctual
+- **frei haben** — to have a day off
+- **die Stellenanzeige, die Stellenanzeigen** — job advertisement, job advertisements
+
+## A1-L9 (53 words)
+
+- **krank** — sick
+- **der Hals, die Hälse** — neck, necks
+- **der Husten** — cough
+- **der Schnupfen** — cold (illness)
+- **der Mund, die Münder** — mouth, mouths
+- **entzündet** — inflamed
+- **das Fieber** — fever
+- **das Rezept, die Rezepte** — prescription, prescriptions
+- **das Medikament, die Medikamente** — medication, medications
+- **der Kopf, die Köpfe** — head, heads
+- **der Bauch, die Bäuche** — stomach, stomachs
+- **das Bein, die Beine** — leg, legs
+- **der Fuß, die Füße** — foot, feet
+- **der Arm, die Arme** — arm, arms
+- **die Hand, die Hände** — hand, hands
+- **die Nase, die Nasen** — nose, noses
+- **das Auge, die Augen** — eye, eyes
+- **das Ohr, die Ohren** — ear, ears
+- **der Zahn, die Zähne** — tooth, teeth
+- **das Haar, die Haare** — hair, hairs
+- **das Gesicht, die Gesichter** — face, faces
+- **der Rücken, die Rücken** — back, backs
+- **der Patient, die Patientin** — patient (male), patient (female)
+- **der Finger, die Finger** — finger, fingers
+- **die Erkältung, die Erkältungen** — cold (illness), colds
+- **schwanger** — pregnant
+- **erkältet** — cold (ill), having a cold
+- **die Grippe, die Grippen** — flu, flus
+- **gesund** — healthy
+- **die Tablette, die Tabletten** — pill, pills
+- **der Hausarzt, die Hausärzte** — general practitioner, general practitioners
+- **die Praxis, die Praxen** — practice, practices (doctor’s office)
+- **die Versichertenkarte, die Versichertenkarten** — insurance card, insurance cards
+- **die Krankenversicherung, die Krankenversicherungen** — health insurance, health insurances
+- **die Krankheit, die Krankheiten** — illness, illnesses
+- **verletzt** — injured
+- **der Notfall, die Notfälle** — emergency, emergencies
+- **der Krankenwagen, die Krankenwagen** — ambulance, ambulances
+- **die Sprechstunde, die Sprechstunden** — office hours, office hours
+- **die Spritze, die Spritzen** — injection, injections
+- **der Verband, die Verbände** — bandage, bandages
+- **das Pflaster, die Pflaster** — band-aid, band-aids
+- **die Untersuchung, die Untersuchungen** — examination, examinations
+- **müde** — tired
+- **der Körper, die Körper** — body, bodies
+- **der Schmerz, die Schmerzen** — pain, pains
+- **die Krankschreibung, die Krankschreibungen** — sick note, sick notes
+- **das Attest, die Atteste** — certificate, certificates
+- **der Arbeitgeber, die Arbeitgeber** — employer, employers
+- **die Entschuldigung, die Entschuldigungen** — apology, apologies
+- **schicken** — to send
+- **der Unfall, die Unfälle** — accident, accidents
+- **der Notarzt, die Notärzte** — emergency doctor, emergency doctors
+
+## A1-L10 (23 words)
+
+- **der Koffer, die Koffer** — suitcase, suitcases
+- **die Badehose, die Badehosen** — swimming trunks, swimming trunks
+- **der Badeanzug, die Badeanzüge** — swimsuit, swimsuits
+- **liegen** — to lie, to be located
+- **packen** — to pack
+- **stellen** — to put (upright), to place
+- **sehen** — to see
+- **legen** — to lay, to put (flat)
+- **der Urlaub, die Urlaube** — vacation, vacations
+- **vergessen** — to forget
+- **losfahren** — to set off, to leave
+- **besuchen** — to visit
+- **finden** — to find
+- **einen Spaziergang machen** — to take a walk
+- **Fußball gucken** — to watch football
+- **der Zoo, die Zoos** — zoo, zoos
+- **fotografieren** — to photograph
+- **bleiben** — to stay
+- **studieren** — to study
+- **das Geburtsdatum** — date of birth
+- **Spaß haben** — to have fun
+- **Ski fahren** — to ski
+- **stressig** — stressful
+
+## A1-L11 (45 words)
+
+- **das Kleid, die Kleider** — dress, dresses
+- **die Hose, die Hosen** — pants, pants
+- **die Jacke, die Jacken** — jacket, jackets
+- **der Rock, die Röcke** — skirt, skirts
+- **das T-Shirt, die T-Shirts** — t-shirt, t-shirts
+- **der Pullover, die Pullover** — sweater, sweaters
+- **die Bluse, die Blusen** — blouse, blouses
+- **das Hemd, die Hemden** — shirt, shirts
+- **der Mantel, die Mäntel** — coat, coats
+- **sportlich** — athletic, sporty
+- **elegant** — elegant
+- **die Farbe, die Farben** — color, colors
+- **bunt** — colorful
+- **blau** — blue
+- **der Gürtel, die Gürtel** — belt, belts
+- **rot** — red
+- **braun** — brown
+- **die Mütze, die Mützen** — cap, caps
+- **der Schal, die Schals** — scarf, scarves
+- **der Handschuh, die Handschuhe** — glove, gloves
+- **grün** — green
+- **weiß** — white
+- **schwarz** — black
+- **gelb** — yellow
+- **die Socke, die Socken** — sock, socks
+- **die Krawatte, die Krawatten** — tie, ties
+- **grau** — gray
+- **der Stiefel, die Stiefel** — boot, boots
+- **das Kopftuch, die Kopftücher** — headscarf, headscarves
+- **tragen** — to wear, to carry
+- **anziehen** — to put on
+- **bequem** — comfortable
+- **die Umkleidekabine, die Umkleidekabinen** — changing room, changing rooms
+- **weit** — wide, far
+- **eng** — tight
+- **kurz** — short
+- **lang** — long
+- **unbequem** — uncomfortable
+- **günstig** — cheap, affordable
+- **das Sonderangebot, die Sonderangebote** — special offer, special offers
+- **reduziert** — reduced
+- **umtauschen** — to exchange
+- **kaputt** — broken
+- **der Kassenbon, die Kassenbons** — receipt, receipts
+- **die Sache, die Sachen** — thing, things
+
+## A1-L12 (56 words)
+
+- **das Wetter** — weather
+- **die Jahreszeit, die Jahreszeiten** — season, seasons
+- **sonnig** — sunny
+- **regnen** — to rain
+- **schneien** — to snow
+- **bewölkt** — cloudy
+- **heiß** — hot
+- **kalt** — cold
+- **windig** — windy
+- **die Sonne** — sun
+- **scheinen** — to shine
+- **die Temperatur, die Temperaturen** — temperature, temperatures
+- **der Regen** — rain
+- **der Schnee** — snow
+- **der Wind** — wind
+- **die Wolke, die Wolken** — cloud, clouds
+- **der Frühling** — spring
+- **der Sommer** — summer
+- **der Herbst** — autumn, fall
+- **der Winter** — winter
+- **ein Picknick machen** — to have a picnic
+- **spazieren gehen** — to go for a walk
+- **wollen** — to want
+- **der See, die Seen** — lake, lakes
+- **einen Ausflug machen** — to go on a trip
+- **das Foto, die Fotos** — photo, photos
+- **der Brief, die Briefe** — letter, letters
+- **der Monat, die Monate** — month, months
+- **der Januar** — January
+- **der Februar** — February
+- **der März** — March
+- **der April** — April
+- **der Mai** — May
+- **der Juni** — June
+- **der Juli** — July
+- **der August** — August
+- **der September** — September
+- **der Oktober** — October
+- **der November** — November
+- **der Dezember** — December
+- **heiraten** — to marry
+- **das Geschenk, die Geschenke** — gift, gifts
+- **der Geburtstag, die Geburtstage** — birthday, birthdays
+- **die Hochzeit, die Hochzeiten** — wedding, weddings
+- **Weihnachten** — Christmas
+- **Ostern** — Easter
+- **Silvester** — New Year’s Eve
+- **der Feiertag, die Feiertage** — holiday, holidays
+- **das Fest, die Feste / die Feier, die Feiern** — party, parties
+- **das Datum** — date
+- **die Einladung, die Einladungen** — invitation, invitations
+- **einladen** — to invite
+- **feiern** — to celebrate
+- **die Idee, die Ideen** — idea, ideas
+- **die Blume, die Blumen** — flower, flowers
+- **das Spielzeug, die Spielzeuge** — toy, toys
+
+## A2-L1 (73 words)
+
+- **die App, die Apps** — app
+- **etwas unternehmen** — to do something
+- **nachschauen** — to check
+- **klicken (auf)** — to click (on)
+- **die Veranstaltung, die Veranstaltungen** — event
+- **der Flohmarkt, die Flohmärkte** — flea market
+- **das Programm, die Programme** — program
+- **der Film, die Filme** — film
+- **das Theater, die Theater** — theater
+- **das Kino, die Kinos** — cinema
+- **online / offline** — online / offline
+- **das Konzert, die Konzerte** — concert
+- **die Karte, die Karten** — ticket / card
+- **man** — one / you
+- **bekommen** — to receive
+- **der Rundgang, die Rundgänge** — tour
+- **Eintritt frei** — free entry
+- **kostenlos** — free of charge
+- **der Schauspieler, die Schauspielerin** — actor / actress
+- **Lieblings[film]** — favorite [movie]
+- **langweilig** — boring
+- **spannend** — exciting
+- **steigen (auf)** — to rise
+- **kühl** — cool
+- **draußen** — outside
+- **trocken** — dry
+- **nass** — wet
+- **sinken (auf)** — to sink
+- **der Sturm, die Stürme** — storm
+- **der Nebel, die Nebel** — fog
+- **neblig** — foggy
+- **das Gewitter, die Gewitter** — thunderstorm
+- **stockender Verkehr** — heavy traffic
+- **der Stau, die Staus** — traffic jam
+- **gesperrt** — closed / blocked
+- **die Umleitung, die Umleitungen** — detour
+- **die Baustelle, die Baustellen** — construction site
+- **verabredet** — arranged / planned
+- **mich** — me
+- **dich** — you
+- **zurückrufen** — to call back
+- **etwas vorhaben** — to plan something
+- **ihn** — him
+- **es** — it
+- **euch** — you
+- **uns** — us
+- **löschen** — to delete
+- **öffnen** — to open
+- **speichern** — to save
+- **ausdrucken** — to print
+- **abschicken** — to send
+- **herunterladen** — to download
+- **hochladen** — to upload
+- **einschalten** — to turn on
+- **ausschalten** — to turn off
+- **herunterfahren / runterfahren** — to shut down / go down
+- **die Datei, die Dateien** — file
+- **die Plattform, die Plattformen** — platform
+- **sich anmelden / sich registrieren** — to register
+- **die Registrierung, die Registrierungen** — registration
+- **das Passwort, die Passwörter** — password
+- **der Link, die Links** — link
+- **der Babysitter, die Babysitterin** — babysitter
+- **der Tipp, die Tipps** — tip
+- **jdm. etwas empfehlen** — to recommend something to someone
+- **laufen / laufen gehen** — to run / to go for a run
+- **der Wetterbericht, die Wetterberichte** — weather forecast
+- **die Gruppe, die Gruppen** — group
+- **downloaden** — to download
+- **jdm. (etwas) simsen** — to text someone (something)
+- **jdm. (etwas) mailen** — to email someone (something)
+- **mit jdm. chatten** — to chat with someone
+- **die SMS, die SMS** — SMS
+
+## A2-L2 (63 words)
+
+- **nehmen** — to take
+- **die S-Bahn, die S-Bahnen** — suburban train
+- **das Ski, die Skier** — ski
+- **der Roller, die Roller** — scooter
+- **das Flugzeug, die Flugzeuge** — airplane
+- **die Universität, die Universitäten / die Uni, die Unis** — university
+- **der Hafen, die Häfen** — harbor
+- **der Flughafen, die Flughäfen** — airport
+- **das Schloss, die Schlösser** — castle
+- **das Stadion, die Stadien** — stadium
+- **fliegen** — to fly
+- **die Station, die Stationen** — station
+- **der Hauptbahnhof, die Hauptbahnhöfe** — main train station
+- **erklären** — to explain
+- **der Weg, die Wege** — way / path
+- **direkt** — direct
+- **der Geldautomat, die Geldautomaten** — ATM
+- **der Fahrkartenautomat** — ticket machine
+- **der Laden, die Läden** — store
+- **der Eingang, die Eingänge** — entrance
+- **der ICE** — high-speed train
+- **reservieren** — to reserve
+- **die Fahrt, die Fahrten** — trip
+- **dauern** — to last
+- **die Hinfahrt, die Hinfahrten** — outward journey
+- **die Rückfahrt, die Rückfahrten** — return journey
+- **zurückfahren** — to drive back
+- **abfahren** — to depart
+- **die Abfahrt, die Abfahrten** — departure
+- **die Ankunft, die Ankünfte** — arrival
+- **die Reservierung, die Reservierungen** — reservation
+- **buchen** — to book
+- **die Buchung, die Buchungen** — booking
+- **einen Fehler machen** — to make a mistake
+- **die Strecke, die Strecken** — route
+- **die Regionalbahn, die Regionalbahnen** — regional train
+- **schnell** — fast
+- **langsam** — slow
+- **preiswert** — affordable
+- **genauso wie** — just like
+- **sofort** — immediately
+- **die Situation, die Situationen** — situation
+- **stündlich** — hourly
+- **ausfallen** — to be canceled
+- **der Fahrgast, die Fahrgäste** — passenger
+- **der Passagier, die Passagiere** — passenger
+- **die Störung, die Störungen** — disturbance / disruption
+- **technisch** — technical
+- **planmäßig** — according to schedule
+- **besetzt** — occupied
+- **der Schaffner, die Schaffnerin** — conductor
+- **der Fahrschein, die Fahrscheine** — ticket
+- **schwarzfahren** — to ride without a ticket
+- **gültig** — valid
+- **deshalb** — therefore
+- **verpassen** — to miss
+- **blöd** — stupid
+- **die Regel, die Regeln** — rule
+- **eine Strafe zahlen** — to pay a fine
+- **denken** — to think
+- **fair** — fair
+- **unfair** — unfair
+- **eine Ausnahme machen** — to make an exception
+
+## A2-L3 (75 words)
+
+- **der / die Bekannte** — acquaintance
+- **der Zettel, die Zettel** — note
+- **nutzen** — to use
+- **eine Anzeige aufgeben** — to place an advertisement
+- **die Anzeige, die Anzeigen** — advertisement
+- **die Tageszeitung, die Tageszeitungen** — daily newspaper
+- **die Zeitung, die Zeitungen** — newspaper
+- **mindestens** — at least
+- **höchstens** — at most
+- **das Internet** — internet
+- **ausfüllen** — to fill out
+- **das Formular, die Formulare** — form
+- **die Wohngemeinschaft** — shared apartment
+- **der Quadratmeter, die Quadratmeter** — square meter
+- **inklusive** — inclusive
+- **vermieten** — to rent out
+- **das Paar, die Paare** — couple
+- **gehören** — to belong to
+- **besichtigen** — to visit / tour
+- **kennen** — to know
+- **die Wohnungsbesichtigung** — apartment viewing
+- **einziehen** — to move in
+- **der Einzug** — move-in
+- **möglich** — possible
+- **das Einkommen, die Einkommen** — income
+- **ansehen** — to look at
+- **der Raum, die Räume** — room
+- **umziehen** — to move (houses)
+- **der Vertrag, die Verträge** — contract
+- **der Nachbar, die Nachbarin** — neighbor
+- **stehen** — to stand
+- **der Hund, die Hunde** — dog
+- **das Haustier, die Haustiere** — pet
+- **die Katze, die Katzen** — cat
+- **der Umzug, die Umzüge** — move
+- **kündigen** — to resign / quit
+- **vorher** — before
+- **ausziehen** — to move out
+- **zuerst** — first
+- **dann** — then
+- **danach** — after that
+- **später** — later
+- **schließlich** — finally
+- **zuletzt** — last
+- **die Einweihungsparty** — housewarming party
+- **der Spiegel, die Spiegel** — mirror
+- **die Lampe, die Lampen** — lamp
+- **die Wand, die Wände** — wall
+- **der Boden, die Böden** — floor
+- **hängen** — to hang
+- **sitzen** — to sit
+- **der Schreibtisch, die Schreibtische** — desk
+- **setzen** — to set / to sit down
+- **der Schlüssel, die Schlüssel** — key
+- **der Müll** — trash
+- **die Mülltonne, die Mülltonnen** — trash bin
+- **die Tonne, die Tonnen** — barrel
+- **das Plastik** — plastic
+- **der Biomüll** — organic waste
+- **Müll trennen** — to separate trash
+- **beachten** — to pay attention to
+- **abstellen** — to turn off / to park
+- **der Kinderwagen, die Kinderwagen** — stroller
+- **das Treppenhaus, die Treppenhäuser** — staircase
+- **reinigen** — to clean
+- **Heizung ablesen** — to read the heating meter
+- **die Mitteilung, die Mitteilungen** — notice
+- **Blumen gießen** — to water plants
+- **versorgen** — to take care of
+- **das Paket, die Pakete** — package
+- **der Briefkasten, die Briefkästen** — mailbox
+- **ein Paket annehmen** — to receive a package
+- **den Briefkasten leeren** — to empty the mailbox
+- **die Verabredung, die Verabredungen** — appointment / date
+- **jdm. etwas wünschen** — to wish someone something
+
+## A2-L4 (60 words)
+
+- **das Amt, die Ämter** — office
+- **die Behörde, die Behörden** — authority
+- **die Agentur für Arbeit** — employment agency
+- **der Job, die Jobs** — job
+- **das Standesamt, die Standesämter** — registry office
+- **die Kfz-Zulassungsstelle** — vehicle registration office
+- **abmelden** — to deregister
+- **das Ausländeramt, die Ausländerämter** — immigration office
+- **der Integrationskurs, die Integrationskurse** — integration course
+- **die Steuer, die Steuern** — tax
+- **das Finanzamt, die Finanzämter** — tax office
+- **zuständig** — responsible
+- **beantragen** — to apply for
+- **die Geburt, die Geburten** — birth
+- **melden** — to report
+- **die Arbeitserlaubnis** — work permit
+- **die Geburtsurkunde, die Geburtsurkunden** — birth certificate
+- **die Heiratsurkunde, die Heiratsurkunden** — marriage certificate
+- **die Meldebescheinigung** — registration certificate
+- **der Reisepass, die Reisepässe** — passport
+- **der Pass, die Pässe** — passport
+- **der Personalausweis** — ID card
+- **der Führerschein, die Führerscheine** — driver&#x27;s license
+- **der Antrag, die Anträge** — application
+- **einen Antrag stellen (auf)** — to apply for
+- **das Dokument, die Dokumente** — document
+- **das Kindergeld** — child benefit
+- **das Visum, die Visa** — visa
+- **wenn** — when / if
+- **der Termin, die Termine** — appointment
+- **wählen** — to choose
+- **gerade** — just / currently
+- **mit jdm. sprechen wollen** — to want to speak with someone
+- **der Partner, die Partnerin** — partner
+- **vollständig** — complete
+- **ergänzen** — to complement / to add
+- **fehlen** — to be missing
+- **eintragen** — to enter / register
+- **alles** — everything
+- **etwas** — something
+- **nichts** — nothing
+- **die Geschwister** — Siblings
+- **der Schwager, die Schwägerin** — Brother-in-law, Sister-in-law
+- **der Neffe, die Nichte** — Nephew, Niece
+- **der Enkel, die Enkelin** — Grandson, Granddaughter
+- **das Enkelkind, die Enkelkinder** — Grandchild
+- **der Schwiegervater, die Schwiegermutter** — Father-in-law, Mother-in-law
+- **ankreuzen** — to check (a box)
+- **früher** — earlier, in the past
+- **ändern** — to change
+- **männlich** — male
+- **weiblich** — female
+- **der Geburtsname, die Geburtsnamen** — Maiden name
+- **die Unterschrift, die Unterschriften** — Signature
+- **abgeben** — to submit, give
+- **unvollständig** — incomplete
+- **die Staatsangehörigkeit** — Citizenship
+- **die Nationalität, die Nationalitäten** — Nationality
+- **der Ehemann, die Ehefrau** — Husband, Wife
+- **der Übersetzer, die Übersetzerin** — Translator
+
+## A2-L5 (57 words)
+
+- **der Schulabschluss, die Schulabschlüsse** — School diploma
+- **reisen** — to travel
+- **sterben** — to die
+- **tot** — dead
+- **vor** — before
+- **seit** — since
+- **verwitwet** — widowed
+- **das Studium** — Studies
+- **das Semester, die Semester** — Semester
+- **die Stelle, die Stellen** — Job position
+- **leben** — to live
+- **die Krankenschwester, die Krankenschwestern** — Nurse
+- **wissen** — to know
+- **kennenlernen** — to get to know
+- **Medizin studieren** — to study medicine
+- **Kontakt haben zu / mit** — to have contact with
+- **wechseln** — to change
+- **schauen** — to look
+- **die Firma, die Firmen** — Company
+- **das Praktikum, die Praktika** — Internship
+- **ein paar** — a few
+- **mitarbeiten** — to collaborate
+- **abschließen** — to finish
+- **aufwachsen** — to grow up
+- **jdm. etwas anbieten** — to offer someone something
+- **abbrechen** — to break off
+- **aufhören** — to stop
+- **beenden** — to end
+- **verlieren** — to lose
+- **sich verlieben** — to fall in love
+- **genug** — enough
+- **eröffnen** — to open
+- **versuchen** — to try
+- **programmieren** — to program
+- **der Programmierer, die Programmiererin** — Programmer
+- **das Ziel, die Ziele** — Goal
+- **die Prüfung, die Prüfungen** — Exam
+- **ins Ausland gehen** — to go abroad
+- **der Plan, die Pläne** — Plan
+- **endlich** — finally
+- **der Betrieb, die Betriebe** — the company, companies
+- **die Berufsschule, die Berufsschulen** — vocational school, vocational schools
+- **jedenfalls** — in any case
+- **das Abitur** — the high school diploma
+- **das Zeugnis, die Zeugnisse** — the certificate, certificates
+- **die Technik** — technology
+- **verkürzen** — to shorten
+- **der Wunsch, die Wünsche** — the wish, wishes
+- **sich verändern** — to change
+- **der Vorschlag, die Vorschläge** — the suggestion, suggestions
+- **jdm. etwas vorschlagen** — to suggest something to someone
+- **(nicht) gut mit etwas umgehen** — (not) handle something well
+- **die Weiterbildung, die Weiterbildungen** — further education
+- **die Fortbildung, die Fortbildungen** — further training
+- **der Anfänger, die Anfängerin** — the beginner
+- **der / die Fortgeschrittene** — the advanced (person)
+- **die Vorkenntnisse** — prior knowledge
+
+## A2-L6 (58 words)
+
+- **die Berufsberatung, die Berufsberatungen** — career counseling
+- **zufrieden (mit)** — satisfied (with)
+- **unzufrieden (mit)** — dissatisfied (with)
+- **Stress haben** — to have stress
+- **der Traumjob, die Traumjobs** — dream job, dream jobs
+- **perfekt** — perfect
+- **ganz zufrieden** — quite satisfied
+- **sich informieren über** — to inform oneself about
+- **das Stellenangebot, die Stellenangebote** — the job offer, job offers
+- **die Möglichkeit, die Möglichkeiten** — the possibility, possibilities
+- **die Chance, die Chancen** — the chance, chances
+- **der Berater, die Beraterin** — the consultant
+- **sich bewerben auf / um** — to apply for
+- **persönlich** — personal
+- **sich interessieren für** — to be interested in
+- **sich freuen auf** — to look forward to
+- **sich notieren** — to note down
+- **sich vorbereiten auf** — to prepare for
+- **sich treffen mit** — to meet with
+- **zusammenarbeiten (mit)** — to collaborate with
+- **aber** — but
+- **denn** — because
+- **lieben** — to love
+- **medizinisch** — medical
+- **sozial** — social
+- **kaufmännisch** — commercial
+- **kreativ** — creative
+- **handwerklich** — craft
+- **der Altenpfleger, die Altenpflegerin** — the elderly care worker
+- **pflegen** — to care for
+- **die Berufserfahrung** — work experience
+- **das Gehalt, die Gehälter** — salary, salaries
+- **die Bewerbungsunterlagen** — application documents
+- **die Festanstellung, die Festanstellungen** — permanent position, permanent positions
+- **in Teilzeit arbeiten** — to work part-time
+- **in Vollzeit arbeiten** — to work full-time
+- **der Arbeitsvertrag, die Arbeitsverträge** — the employment contract, employment contracts
+- **bieten** — to offer
+- **weil** — because
+- **der Schweißer, die Schweißerin** — welder
+- **Informatik studieren** — to study computer science
+- **von … bis** — from … to
+- **ab** — from, starting
+- **für** — for
+- **der Lebenslauf, die Lebensläufe** — the résumé, résumés
+- **Persönliche Daten** — personal data
+- **Schulbildung** — education
+- **Ausbildung** — training
+- **Berufliche Stationen** — professional experiences
+- **Sprachkenntnisse** — language skills
+- **Interessen und Hobbys** — interests and hobbies
+- **die Grundkenntnisse** — basic knowledge
+- **fließend** — fluent
+- **das Anschreiben, die Anschreiben** — the cover letter, cover letters
+- **der Bewerber, die Bewerberin** — the applicant
+- **der Arbeitgeber, die Arbeitgeberin** — the employer
+- **die Kopie, die Kopien** — the copy, copies
+- **das Original, die Originale** — the original, originals
+
+## A2-L7 (69 words)
+
+- **der Jogginganzug, die Jogginganzüge** — the tracksuit, tracksuits
+- **gestreift** — striped
+- **gepunktet** — dotted
+- **altmodisch** — old-fashioned
+- **toll** — great
+- **modern** — modern
+- **hübsch** — pretty
+- **der Fahrradhelm, die Fahrradhelme** — the bicycle helmet, bicycle helmets
+- **die Kleidung** — clothing
+- **schrecklich** — terrible
+- **kariert** — checked
+- **wunderschön** — beautiful
+- **einfarbig** — plain
+- **anprobieren** — to try on
+- **mitnehmen** — to take along
+- **die Abteilung, die Abteilungen** — the department, departments
+- **weg** — away
+- **der Schmuck** — jewelry
+- **die Halskette, die Halsketten** — the necklace, necklaces
+- **der Ring, die Ringe** — the ring, rings
+- **der Kugelschreiber, die Kugelschreiber** — the ballpoint pen, ballpoint pens
+- **der Briefumschlag, die Briefumschläge** — the envelope, envelopes
+- **der Aktenordner, die Aktenordner** — the file folder, file folders
+- **das Parfüm, die Parfüms** — the perfume, perfumes
+- **die Seife, die Seifen** — the soap, soaps
+- **die Bratpfanne, die Bratpfannen** — the frying pan, frying pans
+- **der Kochtopf, die Kochtöpfe** — the cooking pot, cooking pots
+- **das Obergeschoss, die Obergeschosse** — the upper floor, upper floors
+- **die Uhr, die Uhren** — the clock, clocks
+- **das Radio, die Radios** — the radio, radios
+- **der Kopfhörer, die Kopfhörer** — the headphones, headphones
+- **gebraucht** — used
+- **schlank** — slim
+- **dick** — thick, fat
+- **blond** — blonde
+- **glatt** — smooth, straight
+- **lockig** — curly
+- **der Bart, die Bärte** — the beard, beards
+- **Angst haben** — to be afraid
+- **beschreiben** — to describe
+- **das Geschäft, die Geschäfte** — the store, stores
+- **der Dieb, die Diebin** — the thief, thieves
+- **stehlen** — to steal
+- **das Schnitzel, die Schnitzel** — the schnitzel, schnitzels
+- **das Steak, die Steaks** — the steak, steaks
+- **vegetarisch** — vegetarian
+- **das Gericht, die Gerichte** — the dish, dishes
+- **braten** — to fry, roast
+- **der Backofen, die Backöfen** — the oven, ovens
+- **das Mineralwasser** — the mineral water
+- **der Alkohol** — the alcohol
+- **alkoholfrei** — alcohol-free
+- **die Speisekarte, die Speisekarten** — the menu, menus
+- **die Vorspeise, die Vorspeisen** — the appetizer, appetizers
+- **die Hauptspeise, die Hauptspeisen** — the main course, main courses
+- **das Hauptgericht, die Hauptgerichte** — the main dish, main dishes
+- **die Nachspeise, die Nachspeisen** — the dessert, desserts
+- **der Nachtisch, die Nachtische** — the dessert, desserts
+- **das Dessert, die Desserts** — the dessert, desserts
+- **die Suppe, die Suppen** — the soup, soups
+- **das Salz** — the salt
+- **der Pfeffer** — the pepper
+- **das Messer, die Messer** — the knife, knives
+- **die Gabel, die Gabeln** — the fork, forks
+- **die Pizza, die Pizzen / Pizzas** — the pizza, pizzas
+- **die Rechnung, die Rechnungen** — the bill, bills
+- **das Trinkgeld** — the tip
+- **schmecken** — to taste
+- **passend** — suitable, fitting
+
+## A2-L8 (53 words)
+
+- **der Kfz-Mechatroniker** — the automotive mechatronics technician
+- **die Werkstatt, die Werkstätten** — the workshop, workshops
+- **Spaß haben (an)** — to enjoy
+- **der Ölwechsel** — the oil change
+- **der Reifenwechsel** — the tire change
+- **lösen** — to solve
+- **die Reparatur, die Reparaturen** — the repair, repairs
+- **der Kollege, die Kollegin** — the colleague
+- **der Chef, die Chefin** — the boss
+- **duzen** — to address informally
+- **siezen** — to address formally
+- **das Problem, die Probleme** — the problem, problems
+- **der Praktikant, die Praktikantin** — the intern
+- **die Ware, die Waren** — the goods
+- **wegräumen** — to clear away
+- **einräumen** — to put away
+- **die Kasse, die Kassen** — the cash register, registers
+- **funktionieren** — to function
+- **die Mittagspause, die Mittagspausen** — the lunch break, lunch breaks
+- **die Besprechung, die Besprechungen** — the meeting, meetings
+- **beraten** — to advise
+- **die Kundenberatung** — the customer service
+- **die Planung, die Planungen** — planning
+- **schmutzig** — dirty
+- **rauchen** — to smoke
+- **sauber** — clean
+- **die Vorschrift, die Vorschriften** — regulation
+- **die Hygiene** — hygiene
+- **die Arbeitsfläche, die Arbeitsflächen** — workspace
+- **verboten** — forbidden
+- **die Sauberkeit** — cleanliness
+- **der Mitarbeiter, die Mitarbeiterin** — employee
+- **das Handtuch, die Handtücher** — towel
+- **die Sicherheit** — safety
+- **der Helm, die Helme** — helmet
+- **die Gefahr, die Gefahren** — danger
+- **die Schutzkleidung** — protective clothing
+- **die Erste Hilfe** — first aid
+- **der Anrufbeantworter** — answering machine
+- **ständig** — constantly
+- **die Überstunde, die Überstunden** — overtime
+- **klingeln** — to ring
+- **das Gespräch, die Gespräche** — conversation
+- **die Lösung, die Lösungen** — solution
+- **das Ding, die Dinge** — thing
+- **die Überraschung, die Überraschungen** — surprise
+- **Interesse haben / zeigen (an)** — to show interest
+- **offen über (Probleme) sprechen** — to speak openly about (problems)
+- **jdm. danken** — to thank someone
+- **leid tun** — to feel sorry
+- **jdm. zuhören** — to listen to someone
+- **einfallen** — to occur to
+- **jdm. etwas raten** — to advise someone
+
+## A2-L9 (68 words)
+
+- **die Grundschule, die Grundschulen** — primary school
+- **die weiterführende Schule** — secondary school
+- **die Sommerferien** — summer vacation
+- **die Klasse, die Klassen** — class
+- **sich entscheiden** — to decide
+- **der Unterschied, die Unterschiede** — difference
+- **das Gymnasium, die Gymnasien** — high school
+- **die Stadtteilschule, die Stadtteilschulen** — community school
+- **die Ganztagsschule, die Ganztagsschulen** — all-day school
+- **die Note, die Noten** — grade
+- **die Empfehlung, die Empfehlungen** — recommendation
+- **das Musikinstrument, die Musikinstrumente** — musical instrument
+- **jeder, jede, jedes** — everyone, every
+- **die Schulpflicht** — compulsory school attendance
+- **das Bundesland, die Bundesländer** — federal state
+- **der Kindergarten, die Kindergärten** — kindergarten
+- **die Kita, die Kitas** — daycare center
+- **freiwillig** — voluntary
+- **anders** — different
+- **gleich** — the same
+- **dass** — that
+- **die Schuluniform, die Schuluniformen** — school uniform
+- **normalerweise** — normally
+- **die Vorschule, die Vorschulen** — preschool
+- **glauben** — to believe
+- **meinen** — to mean
+- **jdm. zustimmen** — to agree with someone
+- **jdm. widersprechen** — to disagree with someone
+- **das Schulfach, die Schulfächer** — school subject
+- **Biologie** — biology
+- **Geschichte** — history
+- **Mathematik** — mathematics
+- **Musik** — music
+- **Physik** — physics
+- **Religion** — religion
+- **Kunst** — art
+- **Erdkunde** — geography
+- **streng** — strict
+- **der Architekt, die Architektin** — architect
+- **der Tierarzt, die Tierärztin** — veterinarian
+- **der Dolmetscher, die Dolmetscherin** — interpreter
+- **der Tischler, die Tischlerin** — carpenter
+- **der Test, die Tests** — test
+- **das Übungsheft, die Übungshefte** — exercise book
+- **der Elternabend, die Elternabende** — parent-teacher evening
+- **der Elternsprechtag, die Elternsprechtage** — parent-teacher conference
+- **der Klassenlehrer, die Klassenlehrerin** — class teacher
+- **das Halbjahr, die Halbjahre** — semester
+- **ansprechen** — to address
+- **der Unterricht** — class, lesson
+- **der Fortschritt, die Fortschritte** — progress
+- **die Sprachförderung** — language support
+- **eine Klassenarbeit schreiben** — to write a test
+- **eine gute / schlechte Note bekommen** — to get a good / bad grade
+- **alle** — all
+- **der Erzieher, die Erzieherin** — educator
+- **schulreif** — school-ready
+- **aggressiv** — aggressive
+- **Streit haben** — to have an argument
+- **sich Sorgen machen** — to worry
+- **sich gut entwickeln** — to develop well
+- **die Betreuungszeit, die Betreuungszeiten** — care time
+- **die Frühbetreuung** — early care
+- **die Spätbetreuung** — late care
+- **die Ferienbetreuung** — holiday care
+- **die Kinderbetreuung** — child care
+- **betreuen** — to care for
+- **bestehen** — to pass
+
+## A2-L10 (77 words)
+
+- **die Nase läuft** — runny nose
+- **niesen** — to sneeze
+- **die Gliederschmerzen** — body aches
+- **frieren** — to freeze
+- **schlapp** — weak
+- **die Beschwerden** — complaints
+- **das Nasenspray, die Nasensprays** — nasal spray
+- **die Gesundheit** — health
+- **gut sein für / gegen** — to be good for / against
+- **helfen gegen** — to help against
+- **die Salbe, die Salben** — ointment
+- **fit** — fit
+- **das Hausmittel, die Hausmittel** — home remedy
+- **die Wärmflasche, die Wärmflaschen** — hot water bottle
+- **ein Dampfbad nehmen** — to take a steam bath
+- **die (Pfefferminz-)Minze** — (peppermint) mint
+- **der Ingwer** — ginger
+- **der Kohl** — cabbage
+- **frisch** — fresh
+- **das Vitamin, die Vitamine** — vitamin
+- **warm halten** — to keep warm
+- **das Gewürz, die Gewürze** — spice
+- **die Energie** — energy
+- **der Schlaf** — sleep
+- **die Meditation** — meditation
+- **die Ernährung** — nutrition
+- **sich ausgewogen ernähren** — to eat a balanced diet
+- **einnehmen** — to take (medicine)
+- **meditieren** — to meditate
+- **zur Vorsorge / Kontrolle gehen** — to go for a check-up
+- **die Bewegung** — exercise, movement
+- **sich bewegen** — to move
+- **regelmäßig** — regularly
+- **damit** — so that
+- **das Öl, die Öle** — oil
+- **das Lebensmittel, die Lebensmittel** — food, grocery
+- **der Beipackzettel, die Beipackzettel** — package insert
+- **die Nebenwirkung, die Nebenwirkungen** — side effect
+- **die Haltbarkeit** — shelf life
+- **das Schmerzmittel, die Schmerzmittel** — painkiller
+- **die Dosierung, die Dosierungen** — dosage
+- **die Anwendung, die Anwendungen** — application, use
+- **die Aufbewahrung, die Aufbewahrungen** — storage
+- **die Wirkung, die Wirkungen** — effect
+- **die Krankenkasse, die Krankenkassen** — health insurance
+- **die Erkrankung, die Erkrankungen** — illness, disease
+- **das Herz, die Herzen** — heart
+- **die Haut** — skin
+- **das Blut** — blood
+- **die Magen-Darm-Erkrankung** — gastrointestinal disease
+- **die Allergie, die Allergien** — allergy
+- **der Blutdruck** — blood pressure
+- **die Nuss, die Nüsse** — nut
+- **messen** — to measure
+- **Blut abnehmen** — to take blood
+- **abhören** — to listen to (a patient&#x27;s chest)
+- **untersuchen** — to examine
+- **das Sinnesorgan, die Sinnesorgane** — sensory organ
+- **behandeln** — to treat
+- **eine Zahnfüllung einsetzen; machen** — to put in a (tooth) filling
+- **einen Zahn ziehen** — to pull a tooth
+- **Karies haben** — to have cavities
+- **das Bonusprogramm** — bonus program
+- **der Bonuspunkt, die Bonuspunkte** — bonus point
+- **übernehmen** — to take over, to assume
+- **jdm. etwas schenken** — to give someone something as a gift
+- **jdm. etwas zuschicken** — to send something to someone
+- **jdm. weiterhelfen** — to help someone further
+- **die Erstattung, die Erstattungen** — reimbursement
+- **die Teilnahmebescheinigung** — certificate of participation
+- **die Anrede, die Anreden** — salutation
+- **der Empfänger, die Empfängerin** — recipient
+- **der Betreuer, die Betreuerin** — caregiver, supervisor
+- **der Hauptteil, die Hauptteile** — main part
+- **der Gruß, die Grüße** — greeting
+- **erhalten** — to receive
+- **der Betrag, die Beträge** — amount
+
+## A2-L11 (68 words)
+
+- **das Konto, die Konten** — account
+- **das Girokonto, die Girokonten** — checking account
+- **der Bankschalter, die Bankschalter** — bank counter
+- **das Bargeld** — cash
+- **der Geldschein, die Geldscheine** — banknote
+- **das Kleingeld** — small change
+- **das Sparkonto, die Sparkonten** — savings account
+- **die Kontoführungsgebühr** — account maintenance fee
+- **die Bankkarte, die Bankkarten** — bank card
+- **Geld abheben** — to withdraw money
+- **Geld einzahlen** — to deposit money
+- **Geld überweisen** — to transfer money
+- **die Überweisung, die Überweisungen** — bank transfer
+- **die Gebühr, die Gebühren** — fee
+- **jdm. etwas leihen** — to lend something to someone
+- **jdm. etwas zurückgeben** — to give something back to someone
+- **Geld sparen** — to save money
+- **gewinnen** — to win
+- **Geld ausgeben** — to spend money
+- **jdm. etwas wiedergeben** — to give something back to someone
+- **die Bankfiliale, die Bankfilialen** — bank branch
+- **das Glück** — luck
+- **glücklich** — happy
+- **reich** — rich
+- **arm** — poor
+- **der Kontoauszug, die Kontoauszüge** — bank statement
+- **das Onlinebanking** — online banking
+- **der Vorteil, die Vorteile** — advantage
+- **fremd** — foreign
+- **die Geheimzahl, die Geheimzahlen** — PIN
+- **zum Beispiel** — for example
+- **IBAN** — International Bank Account Number
+- **BIC** — Bank Identifier Code
+- **der Zahlungsempfänger, die Zahlungsempfänger** — payee
+- **der Verwendungszweck, die Verwendungszwecke** — purpose of use
+- **der Kontoinhaber, die Kontoinhaber; die Kontoinhaberin, die Kontoinhaberinnen** — account holder
+- **das Kreditinstitut, die Kreditinstitute** — credit institution
+- **freischalten** — to unlock
+- **einloggen** — to log in
+- **die TAN, die TANs** — Transaction Authentication Number
+- **sicher** — safe
+- **Bankkarte sperren** — to block a bank card
+- **Bankkarte entsperren** — to unblock a bank card
+- **wiederfinden** — to find again
+- **benutzen** — to use
+- **der Verlust, die Verluste** — loss
+- **jdm. etwas mitteilen** — to inform someone
+- **Geheimzahl eingeben** — to enter a PIN
+- **schieben** — to push
+- **auswählen** — to select
+- **herausnehmen** — to take out
+- **der Kontostand, die Kontostände** — account balance
+- **nachlesen** — to read up on
+- **der Bankräuber, die Bankräuber; die Bankräuberin, die Bankräuberinnen** — bank robber
+- **bedrohen** — to threaten
+- **Ruhe bewahren** — to remain calm
+- **der Zeuge, die Zeugen; die Zeugin, die Zeuginnen** — witness
+- **der Trickbetrüger, die Trickbetrüger; die Trickbetrügerin, die Trickbetrügerinnen** — con artist
+- **behaupten** — to claim
+- **das Opfer, die Opfer** — victim
+- **die Verwandte, die Verwandten** — relative
+- **das vierblättrige Kleeblatt, die vierblättrigen Kleeblätter** — four-leaf clover
+- **das Glücksschwein, die Glücksschweine** — lucky pig
+- **das Hufeisen, die Hufeisen** — horseshoe
+- **der Schornsteinfeger, die Schornsteinfeger** — chimney sweep
+- **der Glückscent, die Glückscent** — lucky coin
+- **der Marienkäfer, die Marienkäfer** — ladybird
+- **der Staat, die Staaten** — state, states
+
+## A2-L12 (63 words)
+
+- **Saxofon spielen** — to play the saxophone
+- **malen** — to paint
+- **Tango tanzen** — to dance the tango
+- **stricken** — to knit
+- **Theater spielen** — to act in theater
+- **die Band, die Bands** — band
+- **Spaß machen** — to be fun
+- **Musik machen** — to make music
+- **das Schlagzeug, die Schlagzeuge** — drum, drums
+- **die Trommel, die Trommeln** — drum
+- **das Klavier, die Klaviere** — piano
+- **die Geige, die Geigen** — violin
+- **auftreten** — to perform
+- **die Stimme, die Stimmen** — voice
+- **der Sänger, die Sänger; die Sängerin, die Sängerinnen** — singer
+- **die Leute** — people
+- **die Freizeit** — leisure time
+- **Zeit verbringen** — to spend time
+- **das Leben** — life
+- **anstrengend** — exhausting
+- **die Kirmes, die Kirmessen** — fair
+- **stattfinden** — to take place
+- **beginnen** — to begin
+- **Eintritt zahlen** — to pay admission
+- **ermäßigt** — reduced
+- **der Vorverkauf, die Vorverkäufe** — presale
+- **der Treffpunkt, die Treffpunkte** — meeting point
+- **die Führung, die Führungen** — tour
+- **die Eintrittskarte, die Eintrittskarten** — entrance ticket
+- **der Beginn, die Beginne** — the beginning
+- **die Sportart, die Sportarten** — sport
+- **Judo machen** — to do judo
+- **klettern** — to climb
+- **turnen** — to do gymnastics
+- **Tischtennis spielen** — to play table tennis
+- **Basketball spielen** — to play basketball
+- **trainieren** — to train
+- **das Training, die Trainings** — training
+- **der Trainer, die Trainer; die Trainerin, die Trainerinnen** — coach
+- **der Verein, die Vereine** — club
+- **sich beeilen** — to hurry
+- **sich umziehen** — to change clothes
+- **sich rasieren** — to shave
+- **sich schminken** — to put on makeup
+- **sich duschen** — to take a shower
+- **sich abtrocknen** — to dry off
+- **sich waschen** — to wash oneself
+- **der Umkleideraum, die Umkleideräume** — changing room
+- **trotzdem** — nevertheless
+- **das Probetraining, die Probetrainings** — trial training
+- **Feierabend machen** — to finish work
+- **das Spiel, die Spiele** — game
+- **lustig** — funny
+- **der Mensch, die Menschen** — person, people
+- **unfreundlich** — unfriendly
+- **kompliziert** — complicated
+- **entspannt** — relaxed
+- **die Kerze, die Kerzen** — candle
+- **das Feuerzeug, die Feuerzeuge** — lighter
+- **der Flaschenöffner, die Flaschenöffner** — bottle opener
+- **die Serviette, die Servietten** — napkin
+- **das Brettspiel, die Brettspiele** — board game
+- **das Kartenspiel, die Kartenspiele** — card game
