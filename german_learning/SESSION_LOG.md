@@ -30,6 +30,28 @@ Newest entries at the top.
 - **Next session:** fresh-day check on dative (due 2026-09-06), continue mixing
   with accusative
 
+### Session 6, evening — 50-question comprehensive deep dive (learner-requested)
+
+- **Topics:** Full review of everything since 2026-08-28, 10 parts, 50 questions
+- **Score: 37/50 (74%)** — [graded results artifact](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c)
+- **Part breakdown:** A 4/4 · B 5/5 · C 4/5 · D 5/6 · E 5/6 · F 2/6 · G 3/5 ·
+  H 2.5/4 · I 3/4 · J 3.5/5
+- **Confirmed solid:** sein/haben, articles/gender/plurals, kein-vs-nicht,
+  verb-second (incl. after "so"), accusative + pronoun selection by gender,
+  possessive gender agreement
+- **NEW priority finding — geben conjugation:** written as geht/gebt/gebe. The
+  dative ARTICLES in the same sentences were correct (dem Mann, der Frau, dem
+  Kind), so Part F's 2/6 is a verb problem, not a dative-case problem. This
+  distinction matters for planning the 2026-09-06 dative check.
+- **Known pattern recurred:** 3rd-person/du conjugation under load (Möchtest,
+  wir können, trägt) — consistent with the load-dependent finding, method unchanged
+- **One regression:** "Ist das deinen Hund?" — nominative after sein, already
+  answered as ANSWERS.md Q4 on 2026-09-01. Re-read, don't re-teach.
+- **Other one-offs:** mude/müde umlaut, War/Warum, hat/isst, IhrHaus spacing,
+  "habe arbeiten", bare singular noun without article
+- **Next session:** focused pass on geben's forms, then the dative fresh-day
+  check (2026-09-06)
+
 ### Session 6, continued — hobbies vocabulary + dative preposition
 
 - **Topics:** Hobbies vocabulary (mögen vs gern), dative preposition (mit)

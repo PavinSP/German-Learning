@@ -421,6 +421,42 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29 / 2026-09-04
 - Status: IMPROVING, load-dependent — monitor via embedding, not isolated drills
 
+### [conjugation] geben conjugated incorrectly (geht/gebt/gebe instead of gibt)
+- Incorrect: Sie geht der Frau die Katze. / Er gebt mir das Buch.
+- Correct:   Sie gibt der Frau eine Katze. / Er gibt mir das Buch.
+- Why:       geben is a stem-change verb: gebe/gibst/gibt/geben/gebt/geben.
+             3rd person singular = gibt (e→i stem change), NOT gebt (that's ihr)
+             and not geht (that's gehen = to go, a different verb entirely).
+             Surfaced 2/6 times in the dative section of the 50-question review —
+             the dative case logic itself was mostly fine, this is a verb problem.
+- Frequency: 2 (both in the same session)
+- First seen / last seen: 2026-09-04
+- Status: ACTIVE — needs a focused pass on geben's forms specifically; the dative
+  articles around it were largely correct, so don't conflate the two
+
+### [case] dative article for das-word given as den instead of dem
+- Incorrect: Er spielt mit den Kind.
+- Correct:   Er spielt mit dem Kind.
+- Why:       das-word dative = dem (merges with der-word dative). "den" is the
+             ACCUSATIVE der-word form — likely accusative interference, since
+             accusative is much more practised. Note: the same learner produced
+             "mit dem Kind" correctly on 2026-09-04 earlier the same day, so this
+             is inconsistency under load rather than a missing rule.
+- Frequency: 1
+- First seen / last seen: 2026-09-04
+- Status: ACTIVE — retest at the 2026-09-06 dative fresh-day check
+
+### [case] accusative ending used in subject/predicate position (deinen for dein)
+- Incorrect: Ist das deinen Hund?
+- Correct:   Ist das dein Hund?
+- Why:       After sein (to be), the noun is a subject complement — nominative,
+             never accusative. Exactly the point covered in ANSWERS.md Q4
+             (2026-09-01, "Das ist mein Hund" not "meinen Hund") — so this is a
+             REGRESSION on previously-answered material, not a new gap.
+- Frequency: 2 (2026-09-01 as a question, now 2026-09-04 in production)
+- First seen / last seen: 2026-09-01 / 2026-09-04
+- Status: ACTIVE — re-read ANSWERS.md Q4; retest specifically
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

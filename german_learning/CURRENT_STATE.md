@@ -15,14 +15,17 @@ from the Anki deck.
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
 | **Last session** | 2026-09-04 (Session 6) |
-| **Next action** | Fresh-day check on dative due 2026-09-06 |
+| **Next action** | Focused pass on **geben** (gebe/gibst/gibt/geben/gebt/geben) — then the dative fresh-day check, still due 2026-09-06 |
 | **Blocking?** | No |
+| **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
 
 ## Known weaknesses (watch list)
 
 | Item | Status | Note |
 |---|---|---|
-| 3rd-person vs du conjugation | IMPROVING, load-dependent | 6 instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. First embedded round (2026-09-03 part four) held 4/4 under genuine load |
+| **geben conjugation (gibt)** | **NEW — priority, 2026-09-04** | Written as geht / gebt / gebe across the 50-question review's dative section. Stem-change verb: gebe/gibst/**gibt**/geben/gebt/geben. Critically the dative ARTICLES in those same sentences were correct — Part F scored 2/6 because of this ONE verb, not because dative is failing. Do not conflate when running the 2026-09-06 dative check |
+| 3rd-person vs du conjugation | IMPROVING, load-dependent | 8+ instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. Recurred again in the 2026-09-04 review (Möchtest, wir können, trägt) |
+| Nominative after *sein* (deinen → dein) | REGRESSION, 2026-09-04 | "Ist das deinen Hund?" — after sein the noun stays nominative. Answered directly on 2026-09-01 as ANSWERS.md **Q4**. Re-read that entry rather than re-teaching |
 | Invented umlaut on singular nouns (ADDED) | Improving, light | 3 instances (Bröt, Äpfel, Stühl). Did not recur in the 2026-09-03 consolidation round (Stuhl clean). Rule given: singular is the plain form, the umlaut is the plural's job |
 | Omitted umlaut (konnen for können) | Light, new — likely friction not knowledge | Logged SEPARATELY from the invented-umlaut entry on purpose: omitting an umlaut is what a phone keyboard produces, whereas ADDING one takes deliberate effort. Retest on a laptop; if it vanishes, downgrade to friction |
 | Pronoun selection by grammatical gender | RESOLVED — confirmed FUNCTIONAL 2026-09-04 | Cold check (embedded, 3rd-person subjects, all 3 genders) went 5/5 one day ahead of schedule. No longer a priority item. Full reference: ANSWERS.md Q11 |
