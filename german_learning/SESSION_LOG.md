@@ -30,6 +30,20 @@ Newest entries at the top.
 - **Next session:** fresh-day check on dative (due 2026-09-06), continue mixing
   with accusative
 
+### Session 6, continued — hobbies vocabulary + dative preposition
+
+- **Topics:** Hobbies vocabulary (mögen vs gern), dative preposition (mit)
+- **Vocabulary learned:** das Hobby, lesen, spielen, schwimmen, die Musik, gern, mögen
+- **Exercises completed:** 4-sentence hobby set (2/4 clean as primary answer, but
+  learner gave 2 valid versions each time and the gern-version was always correct),
+  1 confirmation check on "mit" (clean)
+- **Mistakes:** mögen conjugated as magst/magt instead of mag for 3rd person —
+  same recurring pattern as before, now on a new verb
+- **Also this session:** housekeeping — added Anki reference doc to repo, excluded
+  large .apkg files via .gitignore, discussed Git LFS (declined for now), fixed
+  stale sections in CURRENT_STATE.md
+- **Next session:** fresh-day check on dative (2026-09-06)
+
 ---
 
 ## Session 5 — 2026-09-03

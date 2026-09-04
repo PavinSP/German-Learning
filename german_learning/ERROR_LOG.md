@@ -394,6 +394,19 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   with the conjugation correct at the same time. Watch once more when pronouns next
   appear alongside negation.
 
+### [conjugation] mögen conjugated incorrectly for 3rd person (magst/magt instead of mag)
+- Incorrect: Mein Bruder magst Schwimmen. / Sie magt mit dem Hund spielen.
+- Correct:   Mein Bruder mag Schwimmen. / Sie spielt gern mit dem Hund.
+- Why:       mögen: mag/magst/mag/mögen/mögt/mögen — 3rd person (er/sie/es) takes
+             "mag", not magst (du-form) or "magt" (not a real form at all). Same
+             underlying pattern as the recurring 3rd-person/du conjugation issue,
+             now on a new verb (mögen). Also: mögen+infinitive isn't the natural
+             construction for "likes to do X" — gern+verb is standard (which the
+             learner correctly used as an alternative each time).
+- Frequency: 1 (new verb, same recurring pattern as haben/sein/sehen/arbeiten)
+- First seen / last seen: 2026-09-04
+- Status: ACTIVE — consistent with known load-dependent pattern, embed rather than drill isolated
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

@@ -103,6 +103,15 @@ A word is only MASTERED after correct recall across multiple sessions.
 - regnen | to rain (impersonal: es regnet) | verb | Heute regnet es. | KNOWN | 2026-09-02 | correctly used with verb-second word order twice
 - geben | to give (gebe/gibst/gibt/geben/gebt/geben — stem change) | verb | Ich gebe dem Mann ein Buch. | KNOWN | 2026-09-04 | first dative-taking verb, used correctly with dative+accusative combined
 
+**Hobbies**
+- das Hobby | the hobby | plural: die Hobbys | noun | — | INTRODUCED | 2026-09-04 | not yet tested
+- lesen | to read (lese/liest/liest/lesen/lest/lesen — stem change) | verb | Ich lese gern. | KNOWN | 2026-09-04
+- spielen | to play | verb | Sie spielt gern mit dem Hund. | KNOWN | 2026-09-04
+- schwimmen | to swim | verb | Mein Bruder schwimmt gern. | KNOWN | 2026-09-04
+- die Musik | the music | noun | Magst du Musik? | KNOWN | 2026-09-04
+- gern | gladly / "like to" (pairs with a VERB) | adverb | Ich lese gern. | KNOWN | 2026-09-04
+- mögen | to like (mag/magst/mag/mögen/mögt/mögen — pairs with a NOUN) | verb | Ich mag Musik. | LEARNING | 2026-09-04 | 3rd-person slip (magst/magt instead of mag), consistent with known load-dependent pattern
+
 **Shopping**
 - das Geschäft | the shop/store | noun | Heute ist das Geschäft teuer. | KNOWN | 2026-09-02
 - kaufen | to buy | verb | Ich kaufe einen Hund. | KNOWN | 2026-09-02
