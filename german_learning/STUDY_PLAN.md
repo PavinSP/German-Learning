@@ -141,6 +141,40 @@ exercises. This builds articulation and rhythm. Be aware of its limit — this
 session can correct the German you type but has no way to hear or correct
 pronunciation.
 
+### Timed response drills — the main in-session speaking work
+
+**Rationale.** "Speaking" is really three sub-skills, and only one of them needs
+a listener:
+
+| Sub-skill | Needs ears? | Where it's trained |
+|---|---|---|
+| Pronunciation | Yes | Voice mode / shadowing |
+| Fluency — producing without translating | **No** | Here |
+| Conversational reflex — responding in real time | **No** | Here |
+
+The usual bottleneck for learners is not pronunciation. It is freezing while
+mentally assembling a sentence. That is a **retrieval-speed problem**, and it is
+fully trainable in text.
+
+**The drill.** A question in German, answered **fast — target ~30 seconds, no
+editing, no looking anything up**. First thing that comes out. Then correction.
+
+**Why speed is the point:** errors that appear under time pressure are exactly
+the ones that appear in real conversation. A slow, careful, correct answer proves
+much less than a fast, flawed one reveals. This is the same load-dependence
+principle already established for the 3rd-person conjugation error (2026-09-03) —
+accuracy under load is the thing being measured, not accuracy given unlimited time.
+
+**Rules:**
+- No dictionary, no scrolling back, no rewriting a sentence you've started
+- Answer in a full sentence, not a single word
+- If you genuinely can't retrieve a word, write `???` and keep going —
+  *what you couldn't retrieve* is itself the most valuable data in the drill
+- Roughly 8-10 questions per round, ~10 min
+
+**Where it fits:** block 3, replacing or alongside read-aloud. Also a good
+warm-up for a Claude app voice session, since it surfaces the gaps first.
+
 ---
 
 ## What "intuitive" requires, concretely
