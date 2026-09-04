@@ -20,7 +20,7 @@
 | 3rd-person vs du conjugation | IMPROVING, load-dependent | 6 instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. First embedded round (2026-09-03 part four) held 4/4 under genuine load |
 | Invented umlaut on singular nouns (ADDED) | Improving, light | 3 instances (Bröt, Äpfel, Stühl). Did not recur in the 2026-09-03 consolidation round (Stuhl clean). Rule given: singular is the plain form, the umlaut is the plural's job |
 | Omitted umlaut (konnen for können) | Light, new — likely friction not knowledge | Logged SEPARATELY from the invented-umlaut entry on purpose: omitting an umlaut is what a phone keyboard produces, whereas ADDING one takes deliberate effort. Retest on a laptop; if it vanishes, downgrade to friction |
-| **Pronoun selection by English semantics, not German gender** | **PRIORITY — taught 2026-09-03, unconfirmed** | Chose es/ihn by whether the noun was a "thing" or a "person" (apple→es, child→ihn) instead of by grammatical gender. Swapped exactly, so diagnostic not random. Rule taught, drill 4/4 same-round — proves nothing yet. Full reference written at learner request: **ANSWERS.md Q11**. Top item for the 2026-09-05 check |
+| Pronoun selection by grammatical gender | RESOLVED — confirmed FUNCTIONAL 2026-09-04 | Cold check (embedded, 3rd-person subjects, all 3 genders) went 5/5 one day ahead of schedule. No longer a priority item. Full reference: ANSWERS.md Q11 |
 | nicht placed before a pronoun object | Resolved, watch once | EN interference (Er sieht nicht uns → Er sieht uns nicht). Clean on retry; re-check when pronouns next meet negation |
 | Modal + infinitive placement | Light | One slip, retested clean once — low priority |
 | das/den article confusion (das-word given den) | Light | One slip 2026-09-02, retest pending |
@@ -30,24 +30,25 @@
 | Topic | Status | Next check due |
 |---|---|---|
 | Accusative case, Possessive articles, Lessons 1-3, Modal verbs (können) | FUNCTIONAL | 2026-09-08 |
-| Verb-second (general), mein/meine gender agreement | FUNCTIONAL (newly confirmed) | 2026-09-10 |
+| Verb-second (general), mein/meine gender agreement | FUNCTIONAL | 2026-09-10 |
+| Accusative pronouns — SELECTION by gender | FUNCTIONAL (confirmed 2026-09-04) | 2026-09-11 |
+| Accusative pronouns — FORM recall | LEARNING | 2026-09-06 — euch still untested |
 | Modal verbs (müssen, möchten), Separable verbs, kein vs nicht | LEARNING/confirmed clean | 2026-09-05 |
+| Dative case — articles + pronouns | LEARNING, new (2026-09-04) | 2026-09-06 — fresh-day check needed, 8/8 clean on first attempt |
 | Vocabulary: family, numbers, food, daily routine/time, weather, shopping | KNOWN | 2026-09-08 |
-| Vocabulary: house & rooms (+ compound nouns) | KNOWN, new | 2026-09-08 — probe Stuhl/Stühle specifically |
-| Accusative pronouns — FORM recall | LEARNING | 2026-09-05 — 9/9, but see below: this is the easy half |
-| Accusative pronouns — SELECTION by gender | LEARNING, taught late 2026-09-03, NOT confirmed | 2026-09-05 — **cold check required.** Give GERMAN nouns and require derivation (der Apfel → ihn). English-prompt exercises cannot detect this error. euch still untested |
+| Vocabulary: house & rooms (+ compound nouns) | KNOWN | 2026-09-08 — probe Stuhl/Stühle specifically |
 
 ## Next action (detail)
 
-Accusative pronouns were introduced 2026-09-03 and need a fresh-day check on
-2026-09-05. Test them EMBEDDED in mixed sentences with 3rd-person subjects rather
-than in isolation — that combination is where errors actually appear. euch has been
-listed but never produced.
+Dative case (articles + pronouns) was introduced 2026-09-04 and needs a fresh-day
+check on 2026-09-06 — test combined with accusative in the same sentences (e.g.
+"Er gibt ihr den Hund"), since that's already been shown to work well and is the
+realistic use case. Also worth a light recheck on euch (dative/accusative,
+mentioned but never actually produced yet).
 
-Recommended next new topic: **dative case**, saved deliberately for a session where
-the learner can focus (it was declined on 2026-09-03 because they were on a phone
-with distractions). Alternatives if preferred: accusative prepositions (für/durch),
-or more vocabulary (hobbies, clothing, transport).
+Once dative holds on a fresh-day check, learner can choose: extend dative
+(prepositions like mit/nach/bei), accusative prepositions (für/durch), or more
+vocabulary (hobbies, clothing, transport).
 
 Keep pace slow, one new concept at a time, per learner's stated preference.
 
