@@ -128,9 +128,10 @@ target. Don't reach for it early; it will feel like failure when it isn't.
 Claude Code has no voice. Real spoken practice with correction happens in the
 **Claude app's voice mode** (mobile or desktop, not this CLI).
 
-**A ready-made context prompt was written on 2026-09-01** — it lists exactly
-what's been learned so the voice session doesn't jump ahead. See that day's
-daily note; update it as new material lands, since it goes stale.
+**The context prompt lives in [VOICE_PROMPT.md](VOICE_PROMPT.md)** — paste it at
+the start of each voice session so that session doesn't reach past what's been
+learned. **Refresh it whenever new grammar or vocabulary lands**, or it goes stale.
+Voice mode is included with a Claude Pro plan — no OpenAI key or extra cost.
 
 **Loop:** speak in the app → note what broke (words you couldn't retrieve,
 corrections it gave you, anything you avoided saying because you didn't know
