@@ -15,7 +15,7 @@ from the Anki deck.
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
 | **Last session** | 2026-09-04 (Session 6) |
-| **Next action** | Focused pass on **geben** (gebe/gibst/gibt/geben/gebt/geben) — then the dative fresh-day check, still due 2026-09-06 |
+| **Next action** | Focused pass on **geben** (gebe/gibst/gibt/geben/gebt/geben) — then the dative fresh-day check, still due 2026-09-06. **Two deferred explanations waiting in DOUBTS.md** (nicht placement; dative prepositions) |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
 
