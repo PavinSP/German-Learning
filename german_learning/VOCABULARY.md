@@ -119,6 +119,18 @@ A word is only MASTERED after correct recall across multiple sessions.
 - selten | rarely | adverb | — | INTRODUCED | 2026-09-04 | not yet tested
 - nie | never | adverb | Mein Bruder schläft nie. | KNOWN | 2026-09-04
 
+**Clothing & colors**
+- das T-Shirt | the t-shirt | plural: die T-Shirts | noun | Ist sein T-Shirt grün? | KNOWN | 2026-09-04
+- die Hose | the pants | plural: die Hosen | noun | — | INTRODUCED | 2026-09-04 | not yet tested
+- das Kleid | the dress | plural: die Kleider | noun | Das Kleid ist rot. | KNOWN | 2026-09-04
+- die Jacke | the jacket | plural: die Jacken | noun | Meine Jacke ist schwarz. | KNOWN | 2026-09-04
+- der Schuh | the shoe | plural: die Schuhe | noun | Ich trage die Schuhe. | KNOWN | 2026-09-04 | one singular/plural slip, corrected on 2nd retry
+- blau | blue | adjective | — | INTRODUCED | 2026-09-04 | not yet tested
+- rot | red | adjective | Das Kleid ist rot. | KNOWN | 2026-09-04
+- grün | green | adjective | Ist sein T-Shirt grün? | KNOWN | 2026-09-04
+- schwarz | black | adjective | Meine Jacke ist schwarz. | KNOWN | 2026-09-04
+- tragen | to wear (trage/trägst/trägt/tragen/tragt/tragen — stem change) | verb | Ich trage die Schuhe. | LEARNING | 2026-09-04 | 3rd-person slip (trägst/er instead of trägt), same recurring load-dependent pattern
+
 **Shopping**
 - das Geschäft | the shop/store | noun | Heute ist das Geschäft teuer. | KNOWN | 2026-09-02
 - kaufen | to buy | verb | Ich kaufe einen Hund. | KNOWN | 2026-09-02

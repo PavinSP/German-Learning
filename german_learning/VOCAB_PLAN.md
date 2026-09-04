@@ -25,7 +25,7 @@ then mark words as covered here AND log them properly in VOCABULARY.md.
 | A1-L8 | Professions, workplace | NOT STARTED | können, müssen, möchten known (grammar). Job vocabulary all new |
 | A1-L9 | Body parts, health, illness | NOT STARTED | müde known. Body parts and illness vocab all new |
 | A1-L10 | Vacation, travel activities | NOT STARTED | sehen known. All new |
-| A1-L11 | Clothing, colors | NOT STARTED | All new — good next theme (pairs well with shopping vocab already covered) |
+| A1-L11 | Clothing, colors | PARTIAL | T-Shirt, Hose, Kleid, Jacke, Schuh, blau, rot, grün, schwarz, tragen done 2026-09-04. Missing: most other colors (weiß, gelb, braun, grau), remaining clothing items (Mantel, Pullover, Socke...) |
 | A1-L12 | Weather, months, celebrations | PARTIAL | Wetter, Sonne, Regen, kalt, warm, regnen known. Missing: months, seasons, celebrations |
 | A2-L1 | Apps, tech, weather detail, accusative pronouns | PARTIAL | Accusative pronouns (mich/dich/ihn/uns/euch) done as GRAMMAR. Musik known. Tech vocab and weather detail (Sturm, Nebel) new |
 | A2-L2 | Transport (advanced), booking | NOT STARTED | All new |
@@ -44,7 +44,8 @@ already followed:
 
 1. ~~A1-L5 frequency words~~ — DONE 2026-09-04 (immer/oft/manchmal/selten/nie,
    3/4 clean on first exercise set). Small remainder: duschen, frühstücken, telefonieren
-2. **A1-L11 (clothing/colors)** — natural next theme, pairs with shopping
+2. ~~A1-L11 clothing/colors~~ — PARTIAL, core set done 2026-09-04. Remainder
+   (more colors, more clothing items) can be picked up anytime, lower urgency now
 3. **A1-L7 (transport/directions)** — genuinely useful, unlocks navigation sentences
 4. **A1-L6 completion** — remaining furniture words
 5. **A1-L9 (health/body)** — useful, moderate priority

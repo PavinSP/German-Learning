@@ -407,6 +407,20 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-04
 - Status: ACTIVE — consistent with known load-dependent pattern, embed rather than drill isolated
 
+### [conjugation] tragen conjugated as du-form for a 3rd-person subject (er)
+- Incorrect: Trägst er ein T-Shirt grün?
+- Correct:   Ist sein T-Shirt grün?
+- Why:       trägst is du-form; er needs trägt. Same recurring 3rd-person/du
+             pattern (now confirmed load-dependent per 2026-09-03 finding — no
+             longer drilled in isolation, just monitored under load). Also:
+             description of the noun's color uses sein (Ist ... grün?), not
+             tragen+adjective-tacked-on — attributive adjective endings (ein
+             grünes T-Shirt) are a future topic not yet taught, so "tragen +
+             bare adjective after the noun" isn't valid word order either way.
+- Frequency: 7 (this general pattern — see other entries)
+- First seen / last seen: 2026-08-29 / 2026-09-04
+- Status: IMPROVING, load-dependent — monitor via embedding, not isolated drills
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
