@@ -8,11 +8,9 @@
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Accusative pronouns introduced, then consolidated in a mixed round (2026-09-03, parts three and four). Earlier the same day: verb-second + mein/meine confirmed FUNCTIONAL, house & rooms vocabulary added |
-| **Last session** | 2026-09-03 (Session 5, ran in eight parts) |
-| **Read this first** | ANSWERS.md **Q11** — full reference on pronoun selection by grammatical gender, written at the learner's request. Re-read it before the 2026-09-05 check |
-| **New this session** | FIRST reading practice, and it is immediately the strongest modality — two passages, 7/8. Comprehension runs ahead of production; reading is now a standing component |
-| **Next action** | Fresh-day check on accusative pronouns 2026-09-05; dative case is the recommended next new topic, for a focused session |
+| **Lesson** | Accusative pronoun SELECTION confirmed FUNCTIONAL via cold check (2026-09-04, one day ahead of schedule) — 5/5, all genders, under 3rd-person load |
+| **Last session** | 2026-09-04 (Session 6) |
+| **Next action** | No blocking items — learner picks the next new topic |
 | **Blocking?** | No |
 
 ## Known weaknesses (watch list)

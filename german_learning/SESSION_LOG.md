@@ -4,6 +4,21 @@ Newest entries at the top.
 
 ---
 
+## Session 6 — 2026-09-04
+
+- **Topics:** Cold check on accusative pronoun selection (embedded, 3rd-person
+  subjects) — one day ahead of the scheduled 2026-09-05 check
+- **Exercises completed:** 5-sentence embedded set (5/5 clean)
+- **Assessment result:** Excellent — all three genders correctly selected
+  (der Apfel→ihn, die Katze→sie, das Kind→es), 3rd-person conjugation held
+  correctly under load throughout
+- **Revision performed:** accusative pronoun selection promoted to FUNCTIONAL
+- **Next session:** learner's choice per the 2026-09-03 plan — dative case
+  (recommended), accusative prepositions, or more vocabulary; continue reading
+  practice as a standing component
+
+---
+
 ## Session 5 — 2026-09-03
 
 - **Topics:** Genuine overnight fresh-day retest on verb-second + mein/meine
