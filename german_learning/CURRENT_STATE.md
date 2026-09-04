@@ -2,6 +2,11 @@
 
 *Read this file FIRST at the start of every session.*
 
+**Also check [VOCAB_PLAN.md](VOCAB_PLAN.md) whenever picking a vocabulary topic** —
+it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
+order. Update it (mark lessons covered) after any vocabulary session that draws
+from the Anki deck.
+
 ## Quick summary
 
 | Field | Value |
