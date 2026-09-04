@@ -48,7 +48,8 @@ mentioned but never actually produced yet).
 
 Once dative holds on a fresh-day check, learner can choose: extend dative
 (prepositions like mit/nach/bei), accusative prepositions (für/durch), or more
-vocabulary (hobbies, clothing, transport).
+vocabulary — see VOCAB_PLAN.md for a prioritized list (frequency words, then
+clothing/colors, then transport/directions are the top recommendations).
 
 Keep pace slow, one new concept at a time, per learner's stated preference.
 

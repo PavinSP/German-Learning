@@ -7,6 +7,9 @@ Full A1-B1 original deck still available at the same path for reference.
 This file is a lookup for planning future lessons/vocabulary — it is NOT synced with 
 VOCABULARY.md or SESSION_LOG.md. Cross-check manually before teaching from it.
 
+**See VOCAB_PLAN.md for the actual coverage comparison and recommended teaching
+order** — built 2026-09-04 by cross-referencing this file against VOCABULARY.md.
+
 ---
 
 ## A1-L1 (47 words)
