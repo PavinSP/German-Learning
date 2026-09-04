@@ -26,6 +26,7 @@ german_learning/
 ├── SESSION_LOG.md            # Per-session record, newest first
 ├── DOUBTS.md                 # Drop a question here anytime — gets answered and filed to ANSWERS.md
 ├── ANSWERS.md                # Answered questions, moved here from DOUBTS.md (dated, newest last)
+├── STUDY_PLAN.md             # Daily/weekly structure — 3 hrs/day from 2026-09-07, block by block
 ├── VOCAB_PLAN.md             # Cross-references VOCABULARY.md against the Anki deck below;
 │                              # tracks coverage and prioritizes what to teach next
 ├── ANKI_A1_A2_REFERENCE.md   # Plain-text export of a 1367-word Anki A1/A2 deck, for planning

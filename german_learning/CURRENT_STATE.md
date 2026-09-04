@@ -2,6 +2,12 @@
 
 *Read this file FIRST at the start of every session.*
 
+**From 2026-09-07 the learner studies ~3 hours/day — follow [STUDY_PLAN.md](STUDY_PLAN.md).**
+Three spaced ~1hr blocks; **max 2 new grammar concepts per week**; nothing promoted
+past LEARNING without holding across a real overnight gap. The extra hours go into
+depth per concept, not more concepts. Listening, speaking and daily free writing
+are now standing components.
+
 **Also check [VOCAB_PLAN.md](VOCAB_PLAN.md) whenever picking a vocabulary topic** —
 it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
 order. Update it (mark lessons covered) after any vocabulary session that draws
