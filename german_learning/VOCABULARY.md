@@ -112,6 +112,13 @@ A word is only MASTERED after correct recall across multiple sessions.
 - gern | gladly / "like to" (pairs with a VERB) | adverb | Ich lese gern. | KNOWN | 2026-09-04
 - mögen | to like (mag/magst/mag/mögen/mögt/mögen — pairs with a NOUN) | verb | Ich mag Musik. | LEARNING | 2026-09-04 | 3rd-person slip (magst/magt instead of mag), consistent with known load-dependent pattern
 
+**Frequency words**
+- immer | always | adverb | Ich esse immer Brot. | KNOWN | 2026-09-04
+- oft | often | adverb | Liest sie oft? | KNOWN | 2026-09-04
+- manchmal | sometimes | adverb | Wir schwimmen manchmal. | KNOWN | 2026-09-04
+- selten | rarely | adverb | — | INTRODUCED | 2026-09-04 | not yet tested
+- nie | never | adverb | Mein Bruder schläft nie. | KNOWN | 2026-09-04
+
 **Shopping**
 - das Geschäft | the shop/store | noun | Heute ist das Geschäft teuer. | KNOWN | 2026-09-02
 - kaufen | to buy | verb | Ich kaufe einen Hund. | KNOWN | 2026-09-02

@@ -19,7 +19,7 @@ then mark words as covered here AND log them properly in VOCABULARY.md.
 | A1-L2 | Family, numbers 1-20, address | MOSTLY COVERED | Family core + numbers 1-20 done. Missing: Sohn/Tochter, Oma/Opa, Tante/Onkel, married/single, address/phone vocab |
 | A1-L3 | Classroom objects, school, weekdays | NOT STARTED | Stuhl/Buch known from house vocab, but weekdays (Montag-Sonntag), gestern/heute/morgen (heute/morgen known), school objects mostly new |
 | A1-L4 | Food, shopping basics | PARTIAL | Brot, Käse, Milch, Apfel, Wasser, essen, trinken, mögen, kaufen, kosten known. Missing: most specific foods (Gemüse, Fleisch, Obst, etc.), quantities (Kilo, Liter, Stück) |
-| A1-L5 | Daily routine, frequency words | PARTIAL | aufstehen, arbeiten, schlafen known. Missing: duschen, frühstücken, telefonieren, frequency words (immer/oft/manchmal/nie) — HIGH VALUE, easy add |
+| A1-L5 | Daily routine, frequency words | PARTIAL | aufstehen, arbeiten, schlafen, immer/oft/manchmal/selten/nie known (2026-09-04). Missing: duschen, frühstücken, telefonieren |
 | A1-L6 | Apartment, furniture, numbers 100+ | PARTIAL | Zimmer, Küche, Schlafzimmer, Bad, Tisch, Stuhl, Fenster known. Missing: most furniture (Bett, Schrank, Sofa, Kühlschrank...), bigger numbers |
 | A1-L7 | Transport, directions, places in town | NOT STARTED | schwimmen known from hobbies. Bus/Bahn/Zug, directions (rechts/links), places (Bank, Schule, Park) all new — good next theme |
 | A1-L8 | Professions, workplace | NOT STARTED | können, müssen, möchten known (grammar). Job vocabulary all new |
@@ -42,8 +42,8 @@ then mark words as covered here AND log them properly in VOCABULARY.md.
 Given PRE-A1/Foundation level and the "practical, high-frequency first" pattern
 already followed:
 
-1. **A1-L5 completion** — frequency words (immer/oft/manchmal/nie) + a few daily
-   routine verbs (duschen, frühstücken) — small gap-fill, high everyday value
+1. ~~A1-L5 frequency words~~ — DONE 2026-09-04 (immer/oft/manchmal/selten/nie,
+   3/4 clean on first exercise set). Small remainder: duschen, frühstücken, telefonieren
 2. **A1-L11 (clothing/colors)** — natural next theme, pairs with shopping
 3. **A1-L7 (transport/directions)** — genuinely useful, unlocks navigation sentences
 4. **A1-L6 completion** — remaining furniture words
