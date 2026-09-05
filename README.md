@@ -29,6 +29,8 @@ german_learning/
 ├── STUDY_PLAN.md             # Daily/weekly structure — 3 hrs/day from 2026-09-07, block by block
 ├── VOCAB_PLAN.md             # Cross-references VOCABULARY.md against the Anki deck below;
 │                              # tracks coverage and prioritizes what to teach next
+├── PRONOUN_TABLE.md          # Reference: nominative / accusative / dative pronouns + possessive endings
+├── VOICE_PROMPT.md           # Context prompt to paste into Claude app voice mode for speaking practice
 ├── ANKI_A1_A2_REFERENCE.md   # Plain-text export of a 1367-word Anki A1/A2 deck, for planning
 └── daily_notes/               # One file per study date (YYYY-MM-DD.md) — everything covered that day
 ```
@@ -56,13 +58,18 @@ gitignored (one exceeds GitHub's 100MB file limit) — not backed up to GitHub.
 
 ## Current status
 
-📍 **PRE-A1 / Foundation, 6 sessions in.** Diagnostic confirmed a true-beginner
+📍 **PRE-A1 / Foundation, 7 sessions in.** Diagnostic confirmed a true-beginner
 restart. FUNCTIONAL (retested across gaps): sein/haben, articles, negation,
 W-questions, conjunctions, plurals, possessive articles (incl. formal Ihr),
 accusative case (incl. pronouns), verb-second word order. Currently LEARNING:
 dative case (articles + pronouns), modal verbs (müssen/möchten), separable verbs.
 Reading comprehension is the strongest modality so far, ahead of production.
-Vocabulary: ~85 words across 10+ everyday themes. See
+Vocabulary: ~95 words across 11 everyday themes.
+
+Study time increases to **~3 hours/day from 2026-09-07** — see STUDY_PLAN.md.
+The added hours go to depth per concept, not more concepts: a hard cap of two
+new grammar points per week, with the rest spent on retrieval, mixed practice,
+daily free writing, and the newly added listening and speaking work. See
 [german_learning/CURRENT_STATE.md](german_learning/CURRENT_STATE.md) for the exact
 next action, and [german_learning/VOCAB_PLAN.md](german_learning/VOCAB_PLAN.md)
 for the vocabulary roadmap.

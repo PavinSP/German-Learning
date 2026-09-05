@@ -4,6 +4,30 @@ Newest entries at the top.
 
 ---
 
+## Session 7 — 2026-09-05 (phone-only day)
+
+- **Topics:** Timed response drill (first run of the new method) → focused
+  `geben` fix → pronoun reference table on request
+- **Exercises:** timed drill 8/10 · geben pass 4/5
+- **Timed drill result:** 8/10, and notably **zero conjugation slips under time
+  pressure** — that error normally appears under load. Verb-second held twice.
+  Both misses were vocabulary-pairing/orthography, not structural: "Ich mag
+  kochen" (should be gern+verb) and capitalized "Schwimmen" (infinitive, not noun).
+  The method looks productive and cheap to run — keep it.
+- **geben — RESOLVED.** Re-taught as an e→i stem-change verb alongside
+  essen/lesen/sehen, which were already solid. **gibt produced correctly three
+  times**; yesterday's geht/gebt error did not recur once. One slip in the round
+  was the du-form (Gibt → Gibst), not the 3rd person.
+- **Unprompted transfer worth noting:** produced "Ich gebe **meiner** Mutter…"
+  — possessive dative endings had never been taught. Added to the new reference.
+- **Created PRONOUN_TABLE.md** on request: all three cases, the three-way
+  ambiguity of *ihr*, the acc-vs-dat decision test, the two distinct causes of
+  dative, and possessive dative endings.
+- **Next session:** dative fresh-day check (due 2026-09-06), then the two
+  deferred DOUBTS.md explanations. 3hrs/day plan begins Mon 2026-09-07.
+
+---
+
 ## Session 6 — 2026-09-04
 
 - **Topics:** Cold check on accusative pronoun selection (embedded, 3rd-person

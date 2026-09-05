@@ -12,10 +12,12 @@
 |---|---|
 | Current CEFR level | PRE-A1 / Foundation |
 | Current module | Foundation |
-| Current lesson | Accusative pronouns (2026-09-03) — LEARNING, consolidated once in a mixed round |
-| Current topic | Fresh-day check on accusative pronouns due 2026-09-05; dative case recommended as the next new topic |
-| Last session date | 2026-09-03 |
-| Session count | 5 (Session 5 ran in four parts) |
+| Current lesson | Dative case — articles + pronouns (2026-09-04), LEARNING |
+| Current topic | Dative fresh-day check due 2026-09-06. Then two deferred explanations in DOUBTS.md (nicht placement; dative prepositions) |
+| Last session date | 2026-09-05 |
+| Session count | 7 |
+| Study load | Rising to ~3 hrs/day from 2026-09-07 — see STUDY_PLAN.md |
+| Last full review | 50-question deep dive 2026-09-04 — 37/50 (74%) |
 
 ## Completed Topics
 - Greetings (Hallo, Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen)
@@ -49,25 +51,23 @@ müssen/möchten, separable verbs, accusative pronouns. None are MASTERED yet (n
 correct spontaneous use across many future sessions).
 
 ## Topics In Progress
-- Accusative pronouns — introduced 2026-09-03. Split into two distinct skills after
-  a late-session finding:
-  * FORM recall (producing ihn when the English says "him") — 9/9, solid.
-  * SELECTION by grammatical gender (deriving ihn from der Apfel) — was being done
-    by ENGLISH semantics instead (thing→es, person→ihn), 0/2 before the rule was
-    stated and 4/4 after. Taught only at the very end of 2026-09-03, so NOT
-    confirmed. Cold check required 2026-09-05 using GERMAN nouns; English-prompt
-    exercises structurally cannot detect this error.
-  euch listed but never produced.
-- Recommended next new topic: dative case, saved for a focused session (declined
-  2026-09-03 as the learner was on a phone with distractions). Alternatives:
-  accusative prepositions (für/durch), or more vocabulary.
+- **Dative case** — introduced 2026-09-04 (articles + pronouns), 8/8 clean on
+  first attempt, a notably smoother start than accusative had. Fresh-day check
+  due 2026-09-06. Also produced possessive dative endings unprompted on
+  2026-09-05 ("meiner Mutter") before they were ever taught — pattern transfer,
+  now documented in PRONOUN_TABLE.md.
+- Accusative pronouns — RESOLVED. The gender-selection concern (choosing by
+  English semantics rather than grammatical gender) was cold-checked 2026-09-04
+  and went 5/5 across all three genders. Now FUNCTIONAL. *euch* still never produced.
+- Modal verbs (müssen, möchten), separable verbs — LEARNING, holding clean.
 
 ## Topics Requiring Revision
-- Accusative pronouns — LEARNING, next check 2026-09-05
-- Modal verbs (müssen, möchten), separable verbs, kein vs nicht — LEARNING/confirmed
-  clean, next check 2026-09-05
-- Vocabulary (family, numbers, food, daily routine/time, weather, shopping) — KNOWN,
-  next check 2026-09-08
+- Dative case (articles + pronouns) — LEARNING, fresh-day check 2026-09-06
+- Modal verbs (müssen, möchten), separable verbs, kein vs nicht — LEARNING, next
+  check 2026-09-05/06
+- Vocabulary (all 11 themes) — KNOWN, next check 2026-09-08
+- Two explanations deferred at the learner's request, queued in DOUBTS.md:
+  nicht placement with definite objects; the full dative-preposition list
 
 ## Weak Areas
 - **3rd-person vs du conjugation — IMPROVING, confirmed load-dependent.** The most
