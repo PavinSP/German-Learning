@@ -457,6 +457,30 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-01 / 2026-09-04
 - Status: ACTIVE — re-read ANSWERS.md Q4; retest specifically
 
+### [vocab-confusion] mögen used with a verb where gern was needed
+- Incorrect: Ich mag kochen.
+- Correct:   Ich koche gern.  (or "Ich mag Kochen" — capitalized, treating it as a noun)
+- Why:       mögen pairs with a NOUN (Ich mag Musik); gern pairs with a VERB
+             (Ich koche gern). Taught 2026-09-04; this is the first recurrence.
+             Note the learner produced the gern form correctly several times on
+             2026-09-04, so this is inconsistency under time pressure rather
+             than a missing rule — it appeared in a TIMED drill.
+- Frequency: 2 (2026-09-04 initial, 2026-09-05 under time pressure)
+- First seen / last seen: 2026-09-04 / 2026-09-05
+- Status: ACTIVE — watch; likely speed-dependent like the conjugation pattern
+
+### [spelling] verb capitalized as if it were a noun (Schwimmen)
+- Incorrect: Ich kann nicht Schwimmen.
+- Correct:   Ich kann nicht schwimmen.
+- Why:       schwimmen here is an infinitive verb at the end of a modal
+             construction, not a noun — stays lowercase. German capitalizes
+             nouns, and verbs CAN be nominalized (das Schwimmen), which is
+             probably the source of the confusion. Sentence structure itself
+             (modal + nicht + infinitive) was correct.
+- Frequency: 1
+- First seen / last seen: 2026-09-05
+- Status: ACTIVE — light, retest
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

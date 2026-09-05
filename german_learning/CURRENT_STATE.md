@@ -21,7 +21,7 @@ from the Anki deck.
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
 | **Last session** | 2026-09-04 (Session 6) |
-| **Next action** | **Timed drill round 1 is issued and unanswered** (10 questions, in the 2026-09-04 chat — reissue if lost). Then: focused pass on **geben** (gebe/gibst/**gibt**/geben/gebt/geben), the dative fresh-day check (due 2026-09-06), and **two deferred explanations in DOUBTS.md** (nicht placement; dative prepositions) |
+| **Next action** | **Dative fresh-day check, due 2026-09-06.** Then the two deferred explanations in DOUBTS.md (nicht placement; dative prepositions). 3hrs/day plan begins Mon 2026-09-07 |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
 
@@ -29,7 +29,8 @@ from the Anki deck.
 
 | Item | Status | Note |
 |---|---|---|
-| **geben conjugation (gibt)** | **NEW — priority, 2026-09-04** | Written as geht / gebt / gebe across the 50-question review's dative section. Stem-change verb: gebe/gibst/**gibt**/geben/gebt/geben. Critically the dative ARTICLES in those same sentences were correct — Part F scored 2/6 because of this ONE verb, not because dative is failing. Do not conflate when running the 2026-09-06 dative check |
+| geben conjugation (gibt) | **RESOLVED 2026-09-05** | Focused pass went 4/5 with **gibt produced correctly three times**; yesterday's geht/gebt error did not recur. Confirm once more at the 2026-09-06 dative check, then drop from the watch-list |
+| mögen + verb (should be gern + verb) | Watch, speed-dependent | "Ich mag kochen" → "Ich koche gern". 2nd occurrence, this one under time pressure — mirrors the conjugation pattern (correct when unhurried, slips when fast) |
 | 3rd-person vs du conjugation | IMPROVING, load-dependent | 8+ instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. Recurred again in the 2026-09-04 review (Möchtest, wir können, trägt) |
 | Nominative after *sein* (deinen → dein) | REGRESSION, 2026-09-04 | "Ist das deinen Hund?" — after sein the noun stays nominative. Answered directly on 2026-09-01 as ANSWERS.md **Q4**. Re-read that entry rather than re-teaching |
 | Invented umlaut on singular nouns (ADDED) | Improving, light | 3 instances (Bröt, Äpfel, Stühl). Did not recur in the 2026-09-03 consolidation round (Stuhl clean). Rule given: singular is the plain form, the umlaut is the plural's job |
