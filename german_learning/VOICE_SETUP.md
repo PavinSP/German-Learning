@@ -68,45 +68,54 @@ Was at 53. Helps but was not sufficient alone — the VAD setting was the real f
 
 ---
 
-## Local models — mlx-audio (installed 2026-09-06)
+## Local models — final setup (2026-09-06)
 
-`mlx-audio` is a unified Whisper STT + Kokoro TTS package built for Apple
-Silicon. Installed via `voicemode service install mlx-audio`, runs on
-**port 8890**, and is **enabled at login** (LaunchAgent at
-`~/Library/LaunchAgents/com.voicemode.mlx-audio.plist`).
+**Hybrid: local STT, cloud TTS.** Arrived at after trying several combinations.
 
-This replaces the OpenAI API for both halves:
-- **Zero cost** per session
-- **No network round trip** — OpenAI STT was ~2.3s per turn
-- **Real German voices** (`gm_hans` male, `gf_lisa` female) instead of an
-  English voice imitating an accent via tts_instructions
+| | Provider | Why |
+|---|---|---|
+| **STT** | **local whisper.cpp, port 2022** | Free, on-device, CoreML-accelerated on Apple Silicon, no network round trip |
+| **TTS** | **OpenAI `gpt-4o-mini-tts`** | Kokoro has NO German voices (see below); the learner approved the OpenAI voice |
 
-Hardware here is an M4 Pro / 24GB, comfortably above requirements.
-
-**CRITICAL — the ports do not match by default.** voicemode's built-in defaults
-probe `127.0.0.1:2022` for STT (whisper.cpp) and `127.0.0.1:8880` for TTS
-(Kokoro), but **mlx-audio serves both on 8890**. Left unchanged, voicemode probes
-dead ports, finds nothing, and silently falls back to OpenAI — with a latency
-penalty from the failed probes (one turn took 63.5s for STT instead of ~2.5s).
-
-Fixed in `~/.voicemode/voicemode.env`:
+Config in `~/.voicemode/voicemode.env`:
 ```
-VOICEMODE_TTS_BASE_URLS=http://127.0.0.1:8890/v1,https://api.openai.com/v1
-VOICEMODE_STT_BASE_URLS=http://127.0.0.1:8890/v1,https://api.openai.com/v1
+VOICEMODE_STT_BASE_URLS=http://127.0.0.1:2022/v1,https://api.openai.com/v1
+VOICEMODE_TTS_BASE_URLS=https://api.openai.com/v1
 VOICEMODE_PREFER_LOCAL=true
 VOICEMODE_ALWAYS_TRY_LOCAL=true
 ```
+Whisper is enabled at login (LaunchAgent `com.voicemode.whisper.plist`), model
+`base` with a CoreML encoder.
 
-**voicemode reads this file only at startup** — Claude Code must be restarted
-after any change. Verify by checking the provider printed in the converse
-result: `STT: openai` means it is still falling back.
+### Two dead ends, recorded so they are not repeated
 
-The $5.95 OpenAI credit remains as a fallback and does not expire for a year.
+**1. mlx-audio does not work with voicemode.** It installs and runs fine (port
+8890, endpoints valid), but **voicemode's provider detection only recognises two
+names — `whisper` on 2022 and `kokoro` on 8880**. mlx-audio is invisible to it,
+so every request fell through to OpenAI regardless of how the base URLs were set.
+One turn took 63.5s for STT because of failed probing against dead ports.
+Installed, then stopped and disabled.
 
-Usage once local: `converse(..., voice="gm_hans", tts_provider="kokoro")`.
+**2. Kokoro has no German voices — the documentation is wrong.**
+`voicemode://docs/languages` lists `gm_hans` (male) and `gf_lisa` (female) under
+German. The actual installed build serves **67 voices and none of them are
+German**: prefixes are af/am (American), bf/bm (British), ef/em (Spanish), ff
+(French), hf/hm (Hindi), if/im (Italian), jf/jm (Japanese), pf/pm (Portuguese),
+zf/zm (Chinese). Verified directly against `/v1/audio/voices`.
+
+So the "native German voice" argument for Kokoro is void. TTS stays on OpenAI,
+where `gpt-4o-mini-tts` plus explicit German-pronunciation instructions produced
+a voice the learner judged "really good". Kokoro installed, then stopped and
+disabled.
+
+### Cost after this change
+STT moves off the API entirely. TTS remains, at $15/1M characters — the smaller
+half of a bill that was already about $0.03/session. The $5.95 prepaid credit
+will last a very long time.
 
 **Unchanged limitation:** local Whisper still transcribes intent rather than
-sound, so endings still cannot be verified by voice. That is inherent to STT.
+sound, so endings still cannot be verified by voice. That is inherent to STT,
+not to any particular provider.
 
 ## Installed components
 
