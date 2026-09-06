@@ -86,61 +86,88 @@ makes Monday's diagnostic honest.
 
 ---
 
-## Listening & speaking — starting from zero
+## How voice and writing divide the work (revised 2026-09-06)
 
-Both are untouched as of 2026-09-04, and both are slow to develop, which is
-exactly why they start now rather than after A1 grammar is "done".
+Voice mode went live on 2026-09-06, and using it immediately revealed something
+that reshapes the method: **voice and writing are different instruments, and they
+disagree.** On the same day, in both directions:
 
-**The hard constraint, stated plainly:** this session cannot play audio and
-cannot hear you. So neither skill happens *inside* a Claude Code session. Both
-run externally, and this session is the **correction and logging layer** — you
-bring back what happened, it gets tested, corrected, and written into ERROR_LOG
-and VOCABULARY like any other exercise.
+| | Voice said | Writing said |
+|---|---|---|
+| `geben` | ✅ correct | ❌ "Er **gebt** mir das Buch" |
+| `den` for das-words | ❌ "den Buch" ×2 | ✅ 8/8 including direct probes |
 
-### Listening — external audio, report back
+Neither was wrong. They measure different things.
+
+| | Writing tests | Voice tests |
+|---|---|---|
+| Conjugation endings | ✅ | ❌ STT repairs them silently |
+| Article endings (den/dem/das) | ✅ | ❌ same |
+| Spelling, umlauts | ✅ | ❌ not observable |
+| Word order | ✅ | ✅ |
+| Vocabulary reach | partly | ✅ |
+| **Retrieval speed** | ❌ unlimited thinking time | ✅ |
+| **Automaticity under pressure** | ❌ | ✅ |
+
+**The rule this produces: learn in writing, prove in voice.**
+
+New material is introduced and first practised in TEXT, because when you are
+still assembling a rule you need the endings checked — and STT cannot do that.
+Once something is FUNCTIONAL in writing, it moves to VOICE, where the question
+is no longer "do you know it" but "can you produce it in real time without
+assembling it consciously".
+
+### This gives the tracker a promotion path it was missing
+
+GRAMMAR.md always defined MASTERED as "correct spontaneous use", but until now
+every check was a written exercise with unlimited thinking time — there was no
+way to test spontaneity. Voice supplies it.
+
+- **FUNCTIONAL** = correct in writing, holding across a real overnight gap
+- **MASTERED** = correct in *voice*, under real-time pressure, across a gap
+
+Nothing has reached MASTERED yet. Accusative is the closest: 8/8 in writing, but
+it produced "den Buch" under spoken load the same day — which is precisely the
+evidence that it is FUNCTIONAL and not yet automatic.
+
+## Where each block sits
+
+| Block | Medium | Why |
+|---|---|---|
+| **1 — Retrieval & new material** | Voice for the cold retrieval opener; **TEXT for the new concept** | Retrieval speed is the point of the opener. New material needs endings checked. |
+| **2 — Consolidation** | **TEXT** | Mixed practice, reading, targeted repair — all ending-sensitive |
+| **3 — Production & input** | **VOICE** + external listening | Free production, conversation, automaticity |
+
+### Voice mechanics, learned the hard way
+- **Single `converse` calls only — never `turns` surveys** (that path ignores the
+  German language setting and returns English mush)
+- **Instructions and corrections in ENGLISH**, German only for what he produces
+- **Keep spoken replies to a few words.** The main latency is the assistant's own
+  composition time between turns; detailed corrections belong in text afterwards
+- Full config in VOICE_SETUP.md
+
+## Listening — external audio, report back
 
 **Primary resource: DW's [Nicos Weg A1](https://learngerman.dw.com/en/nicos-weg/c-36519789)**
-— free, made by Deutsche Welle with Germany's Federal Employment Agency. ~76
-two-minute video episodes at A1, following Nico, a Spaniard newly arrived in
-Germany. Each episode has transcripts, vocabulary tools, grammar notes and
-interactive exercises. Verified current and free as of 2026-09-04.
+— free, ~76 two-minute video episodes at A1 with transcripts, vocabulary and
+grammar notes. Verified current 2026-09-04.
 
 **Daily loop (the 20 min in block 3):**
-1. Watch one episode **without** the transcript first
-2. Watch again **with** the transcript
-3. Bring back to the session: what the episode was about, any words you caught
-   but didn't know, anything you couldn't parse even *with* the transcript
-4. This session then: tests comprehension in German, drills the missed
-   vocabulary into VOCABULARY.md, and logs genuine gaps
+1. Watch one episode **without** the transcript
+2. Watch again **with** it
+3. Report back: what it was about, words caught but not known, anything
+   unparseable even with the text
+4. That gets tested and logged here like any other exercise
 
-**Progression tiers** — move up only when the current one is comfortable:
-1. Nicos Weg A1 with transcript → 2. Nicos Weg A1 without → 3. Nicos Weg A2 →
-4. *Slow German* podcast (Annik Rubens) → 5. DW's *Langsam gesprochene
-Nachrichten*
+**Progression** — move up only when the current tier is comfortable:
+Nicos Weg A1 with transcript → without → Nicos Weg A2 → *Slow German* podcast →
+DW's *Langsam gesprochene Nachrichten*.
 
-**Note on that last one:** DW's slowly-spoken news is **B2-level content**, not
-a beginner resource — real journalism read slowly, not simplified. It is a
-much later tier, listed here so the ladder is complete, not as a near-term
-target. Don't reach for it early; it will feel like failure when it isn't.
+**Note:** that last one is **B2** content — real journalism read slowly, not
+simplified. It completes the ladder; it is not a near-term target.
 
-### Speaking — Claude app voice mode, report back
-
-Claude Code has no voice. Real spoken practice with correction happens in the
-**Claude app's voice mode** (mobile or desktop, not this CLI).
-
-**The context prompt lives in [VOICE_PROMPT.md](VOICE_PROMPT.md)** — paste it at
-the start of each voice session so that session doesn't reach past what's been
-learned. **Refresh it whenever new grammar or vocabulary lands**, or it goes stale.
-Voice mode is included with a Claude Pro plan — no OpenAI key or extra cost.
-
-**Loop:** speak in the app → note what broke (words you couldn't retrieve,
-corrections it gave you, anything you avoided saying because you didn't know
-how) → report it back here → it gets logged and drilled like any other error.
-
-**Secondary, free, every day:** read your typed answers aloud during normal
-exercises. This builds articulation and rhythm. Be aware of its limit — this
-session can correct the German you type but has no way to hear or correct
-pronunciation.
+Claude Code cannot play audio, so listening always happens externally with this
+session as the correction layer.
 
 ### Timed response drills — the main in-session speaking work
 

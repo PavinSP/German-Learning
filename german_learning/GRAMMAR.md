@@ -1,7 +1,17 @@
 # GRAMMAR TRACKER
 
 Statuses: NOT_STARTED | INTRODUCED | LEARNING | WEAK | REVISION_REQUIRED | FUNCTIONAL | MASTERED
-MASTERED requires demonstrated correct *production* across multiple sessions, not rule recitation.
+
+- **FUNCTIONAL** = correct in WRITING, holding across a real overnight gap.
+- **MASTERED** = correct in VOICE, under real-time pressure, across a gap.
+
+The distinction became testable on 2026-09-06 when voice mode went live. Until
+then every check was written, with unlimited thinking time, so "spontaneous use"
+could not be measured. Writing tests what is known; voice tests what has become
+automatic — and on day one the two disagreed in both directions (accusative was
+8/8 written but produced "den Buch" spoken; geben was the reverse).
+
+**Nothing is MASTERED yet.** Accusative is closest.
 
 ---
 
