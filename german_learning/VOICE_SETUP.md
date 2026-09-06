@@ -15,8 +15,8 @@ voice:               "onyx"
 tts_model:           "gpt-4o-mini-tts"
 tts_instructions:    <the German-accent prompt below>
 vad_aggressiveness:  0
-listen_duration_min: 3
-listen_duration_max: 30
+listen_duration_min: 10
+listen_duration_max: 35
 ```
 Leave `speed` unset — the default pace was explicitly approved.
 
@@ -30,9 +30,13 @@ Leave `speed` unset — the default pace was explicitly approved.
 
 **Do NOT set `disable_silence_detection` for conversation.** It forces the mic
 to stay open for the full window, which makes every exchange feel sluggish and
-unnatural — the learner noticed immediately. With `vad_aggressiveness: 0` and a
-`listen_duration_min` of about 3 seconds, silence detection works properly and
-cuts off as soon as they stop talking (11s recorded out of a 30s window on test).
+unnatural — the learner noticed immediately.
+
+**But `listen_duration_min` must be ~10, not 3.** At 3 the learner was cut off
+mid-sentence while still thinking ("Ich sehe die W."). At 10 it waits through
+thinking-pauses and still ends naturally when he actually finishes — 10.4s
+recorded out of a 35s window. A beginner pauses mid-sentence; the minimum has
+to absorb that.
 
 **Where the fixed window IS still right:** multi-question surveys via `turns`,
 where the learner needs guaranteed thinking time per question and there is no
@@ -46,6 +50,10 @@ peaked around −47 dB where speech should reach −10 to −20 dB.
 **`VOICEMODE_WHISPER_LANGUAGE=de`** — set in the MCP server's env in
 `~/.claude.json`. Without it Whisper defaults to English and transcribes German
 phonetically: "Hallo, ich heiße Pavin" came back as `HALO, ISH HAI SAPAVIN`.
+
+**Instruction language: ENGLISH.** The learner stopped a fully-German opening
+on 2026-09-06 — he doesn't understand enough yet. Give instructions and
+corrections in English; he produces the German.
 
 **Input volume raised to 90** (`osascript -e 'set volume input volume 90'`).
 Was at 53. Helps but was not sufficient alone — the VAD setting was the real fix.

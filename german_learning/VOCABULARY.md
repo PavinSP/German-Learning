@@ -110,6 +110,7 @@ A word is only MASTERED after correct recall across multiple sessions.
 - schwimmen | to swim | verb | Mein Bruder schwimmt gern. | KNOWN | 2026-09-04
 - die Musik | the music | noun | Magst du Musik? | KNOWN | 2026-09-04
 - gern | gladly / "like to" (pairs with a VERB) | adverb | Ich lese gern. | KNOWN | 2026-09-04
+- fernsehen | to watch TV (separable: sehe fern) | verb | Ich esse Brot und sehe fern. | KNOWN | 2026-09-06 | learned by voice after using the anglicism "sehe TV"; applied the separable pattern correctly first try
 - mögen | to like (mag/magst/mag/mögen/mögt/mögen — pairs with a NOUN) | verb | Ich mag Musik. | LEARNING | 2026-09-04 | 3rd-person slip (magst/magt instead of mag), consistent with known load-dependent pattern
 
 **Frequency words**

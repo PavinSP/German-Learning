@@ -514,6 +514,33 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Status: ACTIVE — now confirmed recurring, no longer "light". Worth an explicit
   pass: den is exclusively der-word accusative, nothing else.
 
+### [word-order] separable prefix misplaced under voice/real-time load
+- Incorrect: Morgen stehe ich auf sieben Uhr.
+- Correct:   Morgen stehe ich um sieben Uhr auf.
+- Why:       Two things tangled at once: the separable prefix "auf" was placed
+             right after the subject instead of at the sentence END, and the
+             preposition "um" (at, for time) was dropped — probably because "auf"
+             was doing double duty as a preposition in his head.
+             **Verb-second itself was perfect** (Morgen stehe ich…).
+             Notable: this exact sentence shape was produced CORRECTLY in writing
+             on 2026-09-01 and again in the 2026-09-05 timed drill. It broke only
+             under spoken real-time pressure — consistent with the established
+             load-dependence pattern, with voice as a new and heavier load source.
+- Frequency: 1
+- First seen / last seen: 2026-09-06 (first voice conversation)
+- Status: IMPROVING — correct on the first retry ("Morgen stehe ich um sieben Uhr auf")
+
+### [anglicism] English word used where German exists (TV)
+- Incorrect: Ich esse Brot und sehe TV.
+- Correct:   Ich esse Brot und sehe fern.
+- Why:       "watch TV" is fernsehen, a separable verb — Ich sehe fern.
+             The rest of the sentence was genuinely good, including correctly
+             dropping the second "ich" in the und-clause, which is what German does.
+             Applied the separable pattern correctly the moment it was pointed out.
+- Frequency: 1
+- First seen / last seen: 2026-09-06
+- Status: RESOLVED same session — fernsehen added to VOCABULARY.md
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
