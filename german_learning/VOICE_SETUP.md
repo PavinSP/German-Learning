@@ -46,23 +46,21 @@ this opens the mic with zero speech from the assistant. Without it the mic only
 ever opens in reply to an assistant question, so he can never start a topic or
 interject. He raised this himself on 2026-09-06.
 
-**Conversational mode currently does NOT transcribe reliably (2026-09-06).**
-Careful, isolated, German-only sentences transcribe perfectly. Natural
-conversation does not — three consecutive exchanges came back as mush
-("Ich esse Hähnchen mit Reis" → `it's a henshan mit rice`). It breaks
-specifically on **newly-learned words**, where his pronunciation is least
-settled, which means quality degrades exactly where feedback matters most.
-English filler mixed into German utterances ("yeah", "hello") makes it worse,
-since language is force-set to `de`.
+**Conversational mode transcribes imperfectly even on OpenAI (2026-09-06).**
+Careful, isolated, German-only sentences come through cleanly. Natural
+conversation is rougher, and it breaks specifically on **newly-learned words**
+where his pronunciation is least settled — Hähnchen came back as "Händchen"
+even on OpenAI. So quality degrades exactly where feedback matters most.
+English filler mixed into German ("yeah", "hello") makes it worse, since
+language is force-set to `de`.
+
+**Practical consequence:** voice is reliable for careful single-sentence
+retrieval, and only partly reliable for free conversation. Do not force
+conversation if the transcripts are not readable.
 
 **When a transcript is unreadable, say so — do not reconstruct and reply as if
 you understood.** Guessing turns tutoring into nonsense and risks logging
 phantom errors.
-
-**Open test:** STT base URLs have been flipped to prefer OpenAI over local, to
-find out whether local `large-v3-turbo` is simply worse here (its CoreML encoder
-was never downloaded, so it runs unoptimised). OpenAI transcribed him flawlessly
-earlier the same day. Compare on the same sentence after the next restart.
 
 **DO NOT USE `turns` SURVEY MODE FOR GERMAN.** Verified 2026-09-06: the survey
 path does not apply `VOICEMODE_WHISPER_LANGUAGE=de`. In one 4-question survey,
