@@ -37,6 +37,14 @@ then mark words as covered here AND log them properly in VOCABULARY.md.
 | A2-L8 | Workplace, safety | NOT STARTED | All new — lower priority |
 | A2-L9 | School system, childcare | NOT STARTED | All new — lower priority |
 
+## Learner-driven additions take priority over list order (added 2026-09-06)
+
+Free writing reveals which words he actually wants. Those beat the Anki list
+order, because they are attached to something he was genuinely trying to say.
+First examples, from the 2026-09-06 free writing: **das Hähnchen**, **der Reis**
+(he wrote "Chicken" and "Rice" in English). Watch each free-writing sample for
+more.
+
 ## Recommended order (by value, not just sequence)
 
 Given PRE-A1/Foundation level and the "practical, high-frequency first" pattern

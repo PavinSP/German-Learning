@@ -554,6 +554,34 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-06
 - Status: RESOLVED same session — fernsehen added to VOCABULARY.md
 
+### [spelling] separable prefix capitalized as if it were a noun (2nd instance)
+- Incorrect: Ich esse Hähnchen mit Reis und sehe Fern.
+- Correct:   ... und sehe fern.
+- Why:       fern is a separable prefix, not a noun — stays lowercase. Second
+             instance of this exact pattern: "Ich kann nicht Schwimmen"
+             (2026-09-05) was the first. Likely driven by knowing that German
+             capitalizes nouns AND that verbs can be nominalized (das Schwimmen,
+             das Fernsehen) — so the rule is over-applied to bare infinitives
+             and prefixes.
+- Frequency: 2
+- First seen / last seen: 2026-09-05 / 2026-09-06
+- Status: ACTIVE — now a pattern, not a one-off. Worth one explicit statement:
+  infinitives and separable prefixes stay lowercase unless genuinely nominalized
+  (preceded by das).
+
+### [anglicism] English nouns substituted where German was not known
+- Incorrect: Ich esse Chicken mit Rice.
+- Correct:   Ich esse Hähnchen mit Reis.
+- Why:       Not a grammar error — a VOCABULARY GAP, and notable for how it was
+             handled. He was explicitly told to write "???" for words he could
+             not retrieve; instead he substituted English. Suggests a preference
+             for producing something over flagging a gap, which hides exactly
+             the data that would direct vocabulary teaching.
+- Frequency: 1 (2 words, same instance)
+- First seen / last seen: 2026-09-06
+- Status: ACTIVE — both words taught immediately. Worth restating that "???" is
+  more useful than a substitution.
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

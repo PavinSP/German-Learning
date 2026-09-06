@@ -20,8 +20,8 @@ from the Anki deck.
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
-| **Last session** | 2026-09-06 (Session 8 — **voice mode live**; dative check by voice) |
-| **Next action** | **Fresh-day (overnight) written check on `geben` — gibt vs gebt.** It is the one genuinely unresolved item. Then the two deferred DOUBTS.md explanations. 3hrs/day plan begins Mon 2026-09-07 |
+| **Last session** | 2026-09-06 (Session 8 — voice mode live; accusative 8/8, dative 5/5, **first free writing**) |
+| **Next action** | **Overnight written check on `geben` (gibt vs gebt)** — deliberately NOT run on 09-06 to preserve the gap. Camouflage it among other sentences. Then dative prepositions (deferred in DOUBTS.md). 3hrs/day plan begins Mon 2026-09-07 |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
 
@@ -39,6 +39,8 @@ from the Anki deck.
 | Omitted umlaut (konnen for können) | Light, new — likely friction not knowledge | Logged SEPARATELY from the invented-umlaut entry on purpose: omitting an umlaut is what a phone keyboard produces, whereas ADDING one takes deliberate effort. Retest on a laptop; if it vanishes, downgrade to friction |
 | Pronoun selection by grammatical gender | RESOLVED — confirmed FUNCTIONAL 2026-09-04 | Cold check (embedded, 3rd-person subjects, all 3 genders) went 5/5 one day ahead of schedule. No longer a priority item. Full reference: ANSWERS.md Q11 |
 | nicht placed before a pronoun object | Resolved, watch once | EN interference (Er sieht nicht uns → Er sieht uns nicht). Clean on retry; re-check when pronouns next meet negation |
+| **Free-writing volume / avoidance** | **NEW, 2026-09-06 — first measurement** | Asked for 5-8 sentences, produced 2, both from his most-drilled material. Also substituted English ("Chicken", "Rice") instead of writing `???` as instructed. Structure was clean — **the constraint is vocabulary reach and willingness to attempt, not grammar** |
+| Separable prefix capitalized (Fern, Schwimmen) | Pattern, 2 instances | Infinitives and separable prefixes stay lowercase unless genuinely nominalized (das Schwimmen). Worth one explicit statement |
 | Modal + infinitive placement | Light | One slip, retested clean once — low priority |
 
 ## Revision schedule

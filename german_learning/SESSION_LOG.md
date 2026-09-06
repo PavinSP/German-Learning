@@ -44,6 +44,36 @@ Newest entries at the top.
 
 ---
 
+### Session 8, evening — voice setup completed, and first free writing
+
+- **Voice mode finished.** Final: local whisper (`large-v3-turbo`, language `de`,
+  ~1.2s, free) for STT; OpenAI `gpt-4o-mini-tts` for TTS. Four dead ends found
+  and documented — mlx-audio incompatibility, Kokoro having no German voices
+  despite its docs, language `auto` translating German to English, and the
+  `turns` survey path ignoring the language setting. **Single converse calls
+  only.** Total API spend for the day: ~$0.03.
+- **Method insight that reshapes the plan:** voice and writing disagreed twice
+  in opposite directions on the same day (geben: voice ✅ / writing ❌;
+  den-for-das-words: voice ❌ / writing ✅). They measure different things.
+  **Writing tests what is known; voice tests what has become automatic.**
+  STUDY_PLAN and GRAMMAR status definitions rewritten around this: FUNCTIONAL =
+  correct in writing across a gap; MASTERED = correct in VOICE under real-time
+  pressure. MASTERED was previously untestable — nothing holds it yet.
+- **First free writing, and the most informative exercise to date.** Two
+  sentences produced against a 5-8 request, both from heavily-drilled material.
+  Structure clean (two separable verbs correct, `um` correct, dropped subject
+  after `und` correct) but he substituted English for unknown words rather than
+  flagging gaps. **The constraint ahead is vocabulary reach and willingness to
+  attempt, not grammar.** New words taken from what he reached for: das
+  Hähnchen, der Reis.
+- **Deliberately did NOT run the scheduled `geben` check** — four hours after he
+  last produced "gibt" correctly it would have proved nothing and burned
+  tomorrow's genuine overnight diagnostic.
+- **Next session:** overnight `geben` check (camouflaged), then dative
+  prepositions. 3hrs/day plan begins.
+
+---
+
 ## Session 7 — 2026-09-05 (phone-only day)
 
 - **Topics:** Timed response drill (first run of the new method) → focused

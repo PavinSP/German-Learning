@@ -75,6 +75,8 @@ A word is only MASTERED after correct recall across multiple sessions.
 
 **Food**
 - das Brot | bread | noun | Meine Schwester isst Brot. | KNOWN | 2026-09-01
+- das Hähnchen | chicken | plural: die Hähnchen | noun | Ich esse Hähnchen mit Reis. | NEW | 2026-09-06 | learner-driven: reached for English "Chicken" in free writing, so this is a word he actually wants
+- der Reis | rice | noun (no plural) | Ich esse Hähnchen mit Reis. | NEW | 2026-09-06 | learner-driven: reached for English "Rice" in free writing
 - der Käse | cheese | noun | — | INTRODUCED | 2026-09-01 | not yet tested
 - die Milch | milk | noun | Ich trinke Milch. | KNOWN | 2026-09-01
 - der Apfel | apple | plural: die Äpfel | noun | Ich esse einen Apfel. | KNOWN | 2026-09-01
