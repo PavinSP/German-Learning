@@ -60,6 +60,33 @@ Was at 53. Helps but was not sufficient alone — the VAD setting was the real f
 
 ---
 
+## Local models — mlx-audio (installed 2026-09-06)
+
+`mlx-audio` is a unified Whisper STT + Kokoro TTS package built for Apple
+Silicon. Installed via `voicemode service install mlx-audio`, runs on
+**port 8890**, and is **enabled at login** (LaunchAgent at
+`~/Library/LaunchAgents/com.voicemode.mlx-audio.plist`).
+
+This replaces the OpenAI API for both halves:
+- **Zero cost** per session
+- **No network round trip** — OpenAI STT was ~2.3s per turn
+- **Real German voices** (`gm_hans` male, `gf_lisa` female) instead of an
+  English voice imitating an accent via tts_instructions
+
+Hardware here is an M4 Pro / 24GB, comfortably above requirements.
+
+**voicemode only discovers services at startup** — after installing or
+restarting mlx-audio, Claude Code must be restarted before it routes locally.
+Check which provider was actually used: the converse result prints `STT: openai`
+or the local provider.
+
+The $5.95 OpenAI credit remains as a fallback and does not expire for a year.
+
+Usage once local: `converse(..., voice="gm_hans", tts_provider="kokoro")`.
+
+**Unchanged limitation:** local Whisper still transcribes intent rather than
+sound, so endings still cannot be verified by voice. That is inherent to STT.
+
 ## Installed components
 
 | Piece | Status |
