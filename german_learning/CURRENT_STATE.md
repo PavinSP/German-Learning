@@ -20,7 +20,7 @@ from the Anki deck.
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
-| **Last session** | 2026-09-04 (Session 6) |
+| **Last session** | 2026-09-05 (Session 7 — timed drill 8/10, geben resolved, PRONOUN_TABLE.md added) |
 | **Next action** | **Dative fresh-day check, due 2026-09-06.** Then the two deferred explanations in DOUBTS.md (nicht placement; dative prepositions). 3hrs/day plan begins Mon 2026-09-07 |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
