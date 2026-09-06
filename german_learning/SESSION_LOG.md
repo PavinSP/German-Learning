@@ -4,6 +4,41 @@ Newest entries at the top.
 
 ---
 
+## Session 8 — 2026-09-06
+
+- **Topics:** Voice mode setup → first spoken German session → dative fresh-day
+  check by voice
+- **Exercises:** 8 spoken answers across two surveys
+- **Setup:** voicemode MCP installed and working. $5.95 prepaid; this session
+  used ~95s of audio ≈ $0.01 transcription plus TTS, so the €3/month estimate
+  holds. The fix after a long debug was `disable_silence_detection: true` with a
+  fixed listening window — permissions, device routing and input volume were all
+  ruled out first. Full notes in VOICE_SETUP.md.
+- **Held up:** dative articles (dem Kind) ✅ · preposition mit ✅ · geben's
+  "gibt" correct every single time, confirming 2026-09-05's fix ✅
+- **euch produced for the first time** — listed since 2026-09-03, never used
+  until now
+- **Real finding — dative person/thing inverted:** "Ich gebe ihn dem Hund"
+  instead of "ihr den Hund". Both cases swapped at once, which points to a
+  concept error rather than a slip. Person = dative, thing = accusative.
+  Corrected on the first retry.
+- **"den" for das-words now confirmed recurring:** "den Buch" twice, plus
+  "den Schuhe" (09-04) and a das/den slip (09-02). He self-corrected mid-answer
+  then reverted. Since he says "ein Buch" correctly elsewhere, this isn't a
+  gender gap — den is being used as a generic accusative marker.
+- **Unprompted, during the mic test:** "Hallo, ich heiße Pavin. Ich komme aus
+  Indien. Ich wohne in Würzburg. Ich esse gern Brot." Four clean sentences,
+  including gern+verb used correctly — the exact construction he got wrong in
+  writing the previous day. Also kommen aus and wohnen in, neither formally taught.
+- **Method note:** Whisper mis-transcribed "Er gibt mir das Buch" identically
+  twice. Re-asking by voice reproduces the same error, so garbled replies need
+  to be typed instead.
+- **Next session:** fresh-day retest of dative person/thing assignment; explicit
+  pass on den = der-word accusative only; typed version of the unverified
+  sentence. 3hrs/day plan begins 2026-09-07.
+
+---
+
 ## Session 7 — 2026-09-05 (phone-only day)
 
 - **Topics:** Timed response drill (first run of the new method) → focused

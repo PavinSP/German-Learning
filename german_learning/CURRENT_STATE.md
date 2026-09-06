@@ -20,8 +20,8 @@ from the Anki deck.
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
-| **Last session** | 2026-09-05 (Session 7 — timed drill 8/10, geben resolved, PRONOUN_TABLE.md added) |
-| **Next action** | **Dative fresh-day check, due 2026-09-06.** Then the two deferred explanations in DOUBTS.md (nicht placement; dative prepositions). 3hrs/day plan begins Mon 2026-09-07 |
+| **Last session** | 2026-09-06 (Session 8 — **voice mode live**; dative check by voice) |
+| **Next action** | Fresh-day retest of **dative person/thing case assignment** (inverted once on 09-06, fixed on retry). Explicit pass on **den = der-word accusative only**. Then the two deferred DOUBTS.md explanations. 3hrs/day plan begins Mon 2026-09-07 |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
 
@@ -29,7 +29,9 @@ from the Anki deck.
 
 | Item | Status | Note |
 |---|---|---|
-| geben conjugation (gibt) | **RESOLVED 2026-09-05** | Focused pass went 4/5 with **gibt produced correctly three times**; yesterday's geht/gebt error did not recur. Confirm once more at the 2026-09-06 dative check, then drop from the watch-list |
+| **den used for das-words** | **CONFIRMED RECURRING 2026-09-06** | 3rd instance (das/den 09-02, "den Schuhe" 09-04, "den Buch" ×2 today). Self-corrected mid-utterance then reverted — doubt present, resolution absent. He says "ein Buch" correctly elsewhere, so not a gender gap: **den is being used as a generic accusative marker**. Needs an explicit pass |
+| Dative: person vs thing case assignment | NEW 2026-09-06, fixed on retry | Said "Ich gebe ihn dem Hund" — both cases inverted. Person = dative, thing = accusative. Corrected first try, but needs a fresh-day retest |
+| geben conjugation (gibt) | **RESOLVED** | Confirmed again by voice 2026-09-06 — gibt correct every time across two rounds. Dropped from active watch |
 | mögen + verb (should be gern + verb) | Watch, speed-dependent | "Ich mag kochen" → "Ich koche gern". 2nd occurrence, this one under time pressure — mirrors the conjugation pattern (correct when unhurried, slips when fast) |
 | 3rd-person vs du conjugation | IMPROVING, load-dependent | 8+ instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. Recurred again in the 2026-09-04 review (Möchtest, wir können, trägt) |
 | Nominative after *sein* (deinen → dein) | REGRESSION, 2026-09-04 | "Ist das deinen Hund?" — after sein the noun stays nominative. Answered directly on 2026-09-01 as ANSWERS.md **Q4**. Re-read that entry rather than re-teaching |
@@ -38,7 +40,6 @@ from the Anki deck.
 | Pronoun selection by grammatical gender | RESOLVED — confirmed FUNCTIONAL 2026-09-04 | Cold check (embedded, 3rd-person subjects, all 3 genders) went 5/5 one day ahead of schedule. No longer a priority item. Full reference: ANSWERS.md Q11 |
 | nicht placed before a pronoun object | Resolved, watch once | EN interference (Er sieht nicht uns → Er sieht uns nicht). Clean on retry; re-check when pronouns next meet negation |
 | Modal + infinitive placement | Light | One slip, retested clean once — low priority |
-| das/den article confusion (das-word given den) | Light | One slip 2026-09-02, retest pending |
 
 ## Revision schedule
 
@@ -47,24 +48,35 @@ from the Anki deck.
 | Accusative case, Possessive articles, Lessons 1-3, Modal verbs (können) | FUNCTIONAL | 2026-09-08 |
 | Verb-second (general), mein/meine gender agreement | FUNCTIONAL | 2026-09-10 |
 | Accusative pronouns — SELECTION by gender | FUNCTIONAL (confirmed 2026-09-04) | 2026-09-11 |
-| Accusative pronouns — FORM recall | LEARNING | 2026-09-06 — euch still untested |
-| Modal verbs (müssen, möchten), Separable verbs, kein vs nicht | LEARNING/confirmed clean | 2026-09-05 |
-| Dative case — articles + pronouns | LEARNING, new (2026-09-04) | 2026-09-06 — fresh-day check needed, 8/8 clean on first attempt |
+| Accusative pronouns — FORM recall | FUNCTIONAL | 2026-09-11 — **euch finally produced by voice 2026-09-06** |
+| Modal verbs (müssen, möchten), Separable verbs, kein vs nicht | LEARNING/confirmed clean | 2026-09-08 |
+| Dative — articles, pronouns, preposition mit | LEARNING | Fresh-day check DONE 2026-09-06 by voice: articles ✅, mit ✅, gibt ✅ |
+| Dative — person vs thing case assignment | NEW, shaky | 2026-09-07 — inverted once, fixed on retry, needs a real gap |
 | Vocabulary: family, numbers, food, daily routine/time, weather, shopping | KNOWN | 2026-09-08 |
 | Vocabulary: house & rooms (+ compound nouns) | KNOWN | 2026-09-08 — probe Stuhl/Stühle specifically |
 
 ## Next action (detail)
 
-Dative case (articles + pronouns) was introduced 2026-09-04 and needs a fresh-day
-check on 2026-09-06 — test combined with accusative in the same sentences (e.g.
-"Er gibt ihr den Hund"), since that's already been shown to work well and is the
-realistic use case. Also worth a light recheck on euch (dative/accusative,
-mentioned but never actually produced yet).
+The dative fresh-day check was done 2026-09-06 **by voice** — the first spoken
+session. Dative articles (dem Kind), the preposition mit, and geben's "gibt" all
+held. **euch was produced for the first time.** Two things came out of it:
 
-Once dative holds on a fresh-day check, learner can choose: extend dative
-(prepositions like mit/nach/bei), accusative prepositions (für/durch), or more
-vocabulary — see VOCAB_PLAN.md for a prioritized list (frequency words, then
-clothing/colors, then transport/directions are the top recommendations).
+1. **Person vs thing case assignment is shaky.** He said "Ich gebe ihn dem Hund",
+   inverting both cases at once. Person = dative, thing = accusative. Corrected on
+   the first retry, but it needs a real overnight gap before it can be trusted.
+2. **"den" for das-words is now a confirmed pattern**, not a one-off — three
+   instances across five days, and he self-corrected mid-utterance before
+   reverting. He produces "ein Buch" correctly elsewhere, so the gender is known:
+   **den is being reached for as a generic accusative marker**. Worth stating
+   explicitly that den is der-word accusative and nothing else.
+
+Also outstanding: get a **typed** version of "Er gibt mir das Buch" — Whisper
+mis-transcribed it identically twice (`hier gibt Mia das Buch`), so voice can't
+verify that one.
+
+After those, learner can choose: extend dative (prepositions nach/bei/von/zu),
+accusative prepositions (für/durch), or more vocabulary — see VOCAB_PLAN.md
+(transport/directions is next on the list).
 
 Keep pace slow, one new concept at a time, per learner's stated preference.
 
@@ -82,6 +94,11 @@ Standing method notes:
   times under load and passed 3 of 3 focused drills. Drilling it in isolation only
   re-confirms known material; embedding a 3rd-person subject in every mixed round
   is what actually tests it.
+- **Voice mode is live** (2026-09-06). See VOICE_SETUP.md. Always pass
+  `disable_silence_detection: true` plus a fixed `listen_duration_min`/`max`,
+  and `vad_aggressiveness: 0` — without these the mic window closes instantly.
+  When a spoken reply looks phonetically garbled rather than grammatically
+  wrong, ask for that sentence TYPED; re-asking reproduces the same mishearing.
 - **Strict typing was requested by the learner** (2026-09-03) — umlauts,
   capitalization and spelling count as real errors, not typos to be waved through.
 

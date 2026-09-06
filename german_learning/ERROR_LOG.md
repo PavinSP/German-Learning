@@ -481,6 +481,34 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-05
 - Status: ACTIVE — light, retest
 
+### [case] dative and accusative swapped in a giving sentence
+- Incorrect: Ich gebe ihn dem Hund.
+- Correct:   Ich gebe ihr den Hund.
+- Why:       Both cases inverted at once — the PERSON receiving takes dative
+             (ihr), the THING given takes accusative (den Hund). He assigned
+             accusative to the person and dative to the thing. The complementary
+             nature of the swap points to a concept error rather than a slip.
+             This is the core dative distinction, so worth catching early.
+             **Corrected immediately on one retry** ("Ich gebe ihr den Hund" ✅).
+- Frequency: 1
+- First seen / last seen: 2026-09-06 (first voice session)
+- Status: IMPROVING — resolved on first retry, but the concept is new enough
+  that it needs a fresh-day retest before trusting it
+
+### [article] den used for a das-word (recurring)
+- Incorrect: Ich gebe euch den Buch. / Er träge den Schuhe. (2026-09-04)
+- Correct:   Ich gebe euch ein Buch. / Er trägt die Schuhe.
+- Why:       "den" is the der-word accusative form ONLY. das-words take das/ein,
+             die-words take die/eine. Notably he self-corrected mid-utterance
+             ("den Buch. Ein Buch. …den Buch") — the doubt is there, the
+             resolution isn't. Suggests gender knowledge for Buch is solid
+             (he says "ein Buch" correctly elsewhere) but "den" is being reached
+             for as a generic accusative marker.
+- Frequency: 3 (2026-09-02 das/den, 2026-09-04 den Schuhe, 2026-09-06 den Buch ×2)
+- First seen / last seen: 2026-09-02 / 2026-09-06
+- Status: ACTIVE — now confirmed recurring, no longer "light". Worth an explicit
+  pass: den is exclusively der-word accusative, nothing else.
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

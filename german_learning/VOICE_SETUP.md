@@ -7,12 +7,19 @@ errors land in ERROR_LOG.md automatically instead of being reported back by hand
 
 ## Critical settings
 
-**`vad_aggressiveness: 0` on every `converse` call.**
-This was the whole problem on first setup. The default voice-activity detection
-is too aggressive for this Mac's microphone level and discards the speech as
-silence — the result is "No speech detected" even though the mic is working
-perfectly. Measured input peaked around −47 dB where normal speech should reach
-−10 to −20 dB. Setting aggressiveness to 0 (most permissive) fixed it instantly.
+**Use `disable_silence_detection: true` with a fixed listening window.**
+This is the setting that actually works reliably. Pass
+`listen_duration_min` equal (or close) to `listen_duration_max` — e.g. both
+around 10-12s per question — so the microphone stays open for a guaranteed
+period regardless of what the VAD thinks. Without it the two chimes fire
+back-to-back with no usable gap and the answer is lost.
+
+**`vad_aggressiveness: 0` as well.**
+The default voice-activity detection is too aggressive for this Mac's mic level
+and discards speech as silence — "No speech detected" even though capture works
+fine. Measured input peaked around −47 dB where speech should reach −10 to −20 dB.
+Necessary but, on its own, **not sufficient** — the silence-detection setting above
+is what made it dependable.
 
 **`VOICEMODE_WHISPER_LANGUAGE=de`** — set in the MCP server's env in
 `~/.claude.json`. Without it Whisper defaults to English and transcribes German
@@ -69,3 +76,18 @@ That means voice practice here trains *fluency and retrieval speed* — genuinel
 the main conversational bottleneck — but it does **not** give reliable
 pronunciation correction. For that, a human or a dedicated pronunciation tool
 is still needed.
+
+**And it cuts the other way too.** On 2026-09-06 "Er gibt mir das Buch" came
+back twice, identically, as `hier gibt Mia das Buch`. Whisper is deterministic
+enough that re-asking reproduces the same mishearing — so a garbled transcript
+cannot be fixed by repeating it. When a reply looks wrong in a way that smells
+phonetic (Er→hier, mir→Mia), **ask the learner to type that one sentence**
+rather than marking it wrong or re-asking by voice.
+
+## Session log
+
+**2026-09-06, first real use — dative check.** 8 spoken answers across two
+surveys. Roughly 95 seconds of recorded audio ≈ $0.01 of transcription, plus
+TTS — comfortably inside the €3/month estimate. Findings: dative/accusative
+inversion in a giving sentence (corrected on one retry), `euch` produced for
+the first time, and "den Buch" confirming the den-for-das-word pattern.
