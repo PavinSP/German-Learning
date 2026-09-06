@@ -109,68 +109,50 @@ Was at 53. Helps but was not sufficient alone — the VAD setting was the real f
 
 ---
 
-## Local models — final setup (2026-09-06)
+## Providers — FINAL (settled 2026-09-06 by direct A/B test)
 
-**Hybrid: local STT, cloud TTS.** Arrived at after trying several combinations.
+**Both STT and TTS run on OpenAI. All local models were tried and abandoned.**
 
-| | Provider | Why |
-|---|---|---|
-| **STT** | **local whisper.cpp, port 2022** | Free, on-device, CoreML-accelerated on Apple Silicon, no network round trip |
-| **TTS** | **OpenAI `gpt-4o-mini-tts`** | Kokoro has NO German voices (see below); the learner approved the OpenAI voice |
-
-Config in `~/.voicemode/voicemode.env`:
 ```
-VOICEMODE_STT_BASE_URLS=http://127.0.0.1:2022/v1,https://api.openai.com/v1
+VOICEMODE_STT_BASE_URLS=https://api.openai.com/v1
 VOICEMODE_TTS_BASE_URLS=https://api.openai.com/v1
-VOICEMODE_PREFER_LOCAL=true
-VOICEMODE_ALWAYS_TRY_LOCAL=true
+VOICEMODE_PREFER_LOCAL=false
+VOICEMODE_ALWAYS_TRY_LOCAL=false
 ```
-Whisper is enabled at login (LaunchAgent `com.voicemode.whisper.plist`).
 
-**Model: `large-v3-turbo`, NOT `base`.** The installer defaults to `base` (141MB)
-and its German is unusable — on the first live test it rendered a simple German
-sentence as *"Hello, isha is a problem, isha is a rice."* OpenAI's hosted
-whisper-1 is a far larger model, which is why the cloud version was accurate.
-`large-v3-turbo` (~1.6GB) gives near-large accuracy at high speed and runs
-comfortably on an M4 Pro. Set via `VOICEMODE_WHISPER_MODEL` in voicemode.env.
+### The A/B test that settled it
+Same sentence, "Ich esse Hähnchen mit Reis", spoken minutes apart:
 
-**Speed, measured:** local STT returns in **1.2-1.4s** on large-v3-turbo, vs
-2.3-3.3s via OpenAI. (The `base` model was 0.3s but its German was unusable.)
-The CoreML encoder for large-v3-turbo is NOT downloaded — it runs on Metal/CPU
-and is fast enough. `models/download-coreml-model.sh large-v3-turbo` would
-speed it up further if ever needed.
+| Provider | Transcript | Latency |
+|---|---|---|
+| local whisper `large-v3-turbo` | `it's a henshan mit rice` | 1.2s |
+| **OpenAI** | **„Es ist ein Händchen mit Reis."** | **0.8s** |
 
-**Final verified state, 2026-09-06:** German in → German out, 1.2s, `STT: whisper`.
+Local produced English mush; OpenAI produced grammatical German with correct
+umlauts. **OpenAI was also faster.** Local whisper was a false economy on both
+axes — it was not merely cheaper-and-worse, it was worse *and* slower.
 
-### Two dead ends, recorded so they are not repeated
+(OpenAI still misheard "Ich esse" as "Es ist ein" and Hähnchen as Händchen —
+but that is workable German to correct against, not gibberish.)
 
-**1. mlx-audio does not work with voicemode.** It installs and runs fine (port
-8890, endpoints valid), but **voicemode's provider detection only recognises two
-names — `whisper` on 2022 and `kokoro` on 8880**. mlx-audio is invisible to it,
-so every request fell through to OpenAI regardless of how the base URLs were set.
-One turn took 63.5s for STT because of failed probing against dead ports.
-Installed, then stopped and disabled.
+### Everything local was tried and disabled
+1. **mlx-audio** — voicemode's provider detection only recognises `whisper`:2022
+   and `kokoro`:8880, so it was invisible on 8890 and everything silently fell
+   through to OpenAI anyway. One turn took 63.5s from failed probing.
+2. **Kokoro** — has **no German voices**, contrary to voicemode's own docs which
+   list `gm_hans` and `gf_lisa`. Verified against `/v1/audio/voices`: 67 voices,
+   none German.
+3. **whisper.cpp local** — `base` model's German was unusable
+   ("isha is a rice"); `large-v3-turbo` was better but still far behind OpenAI,
+   as the table above shows. Its CoreML encoder never downloaded, so it ran
+   unoptimised, but the gap was too large for that to be the whole story.
 
-**2. Kokoro has no German voices — the documentation is wrong.**
-`voicemode://docs/languages` lists `gm_hans` (male) and `gf_lisa` (female) under
-German. The actual installed build serves **67 voices and none of them are
-German**: prefixes are af/am (American), bf/bm (British), ef/em (Spanish), ff
-(French), hf/hm (Hindi), if/im (Italian), jf/jm (Japanese), pf/pm (Portuguese),
-zf/zm (Chinese). Verified directly against `/v1/audio/voices`.
+All three services are stopped and disabled. Their LaunchAgents are removed.
 
-So the "native German voice" argument for Kokoro is void. TTS stays on OpenAI,
-where `gpt-4o-mini-tts` plus explicit German-pronunciation instructions produced
-a voice the learner judged "really good". Kokoro installed, then stopped and
-disabled.
-
-### Cost after this change
-STT moves off the API entirely. TTS remains, at $15/1M characters — the smaller
-half of a bill that was already about $0.03/session. The $5.95 prepaid credit
-will last a very long time.
-
-**Unchanged limitation:** local Whisper still transcribes intent rather than
-sound, so endings still cannot be verified by voice. That is inherent to STT,
-not to any particular provider.
+### Cost
+$0.006/min transcription plus TTS at $15/1M characters. Whole setup day,
+including dozens of exchanges and all the debugging: **about $0.03**. The $5.95
+prepaid credit will last months.
 
 ## Installed components
 
