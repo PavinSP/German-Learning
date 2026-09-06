@@ -5,21 +5,43 @@ errors land in ERROR_LOG.md automatically instead of being reported back by hand
 
 ---
 
-## Critical settings
+## The working config — use this
 
-**Use `disable_silence_detection: true` with a fixed listening window.**
-This is the setting that actually works reliably. Pass
-`listen_duration_min` equal (or close) to `listen_duration_max` — e.g. both
-around 10-12s per question — so the microphone stays open for a guaranteed
-period regardless of what the VAD thinks. Without it the two chimes fire
-back-to-back with no usable gap and the answer is lost.
+Confirmed good 2026-09-06. Natural turn-taking, German-sounding male voice,
+learner approved both the accent and the speed.
 
-**`vad_aggressiveness: 0` as well.**
-The default voice-activity detection is too aggressive for this Mac's mic level
-and discards speech as silence — "No speech detected" even though capture works
-fine. Measured input peaked around −47 dB where speech should reach −10 to −20 dB.
-Necessary but, on its own, **not sufficient** — the silence-detection setting above
-is what made it dependable.
+```
+voice:               "onyx"
+tts_model:           "gpt-4o-mini-tts"
+tts_instructions:    <the German-accent prompt below>
+vad_aggressiveness:  0
+listen_duration_min: 3
+listen_duration_max: 30
+```
+Leave `speed` unset — the default pace was explicitly approved.
+
+**tts_instructions that produced the good accent:**
+
+> You are a native German speaker. Pronounce all German words with authentic
+> native German pronunciation - proper umlauts, guttural ch, rolled or uvular r,
+> and correct German vowel quality. Speak the English parts with a light German
+> accent. Moderate pace, clear articulation, warm and encouraging like a
+> language tutor.
+
+**Do NOT set `disable_silence_detection` for conversation.** It forces the mic
+to stay open for the full window, which makes every exchange feel sluggish and
+unnatural — the learner noticed immediately. With `vad_aggressiveness: 0` and a
+`listen_duration_min` of about 3 seconds, silence detection works properly and
+cuts off as soon as they stop talking (11s recorded out of a 30s window on test).
+
+**Where the fixed window IS still right:** multi-question surveys via `turns`,
+where the learner needs guaranteed thinking time per question and there is no
+back-and-forth to feel sluggish.
+
+**Why `vad_aggressiveness: 0` is non-negotiable.**
+The default is too aggressive for this Mac's mic level and discards speech as
+silence — "No speech detected" even though capture works fine. Measured input
+peaked around −47 dB where speech should reach −10 to −20 dB.
 
 **`VOICEMODE_WHISPER_LANGUAGE=de`** — set in the MCP server's env in
 `~/.claude.json`. Without it Whisper defaults to English and transcribes German
@@ -47,14 +69,15 @@ duplicate server that failed to connect. Use one or the other, not both.
 
 ## Still open — native German TTS
 
-OpenAI voices speak German **with an American accent**, which is a poor
-pronunciation model for a learner. Kokoro runs locally and free, and provides
-German voices: **`gm_hans`** (male), **`gf_lisa`** (female). Not yet installed —
-`service(service_name="kokoro", action="status")` returns "not available".
+**Largely solved without it** — `gpt-4o-mini-tts` with the German-accent
+instructions above produced a voice the learner judged "really good" on
+2026-09-06, so the accent argument for Kokoro is much weaker now.
 
-Two reasons to do this eventually:
-1. Accent — the learner hears whatever model we give them.
-2. Cost — TTS is roughly 60% of the estimated €3/month; Kokoro is free.
+The remaining reason is **cost**: TTS is roughly 60% of the estimated €3/month
+and Kokoro is free and local. Voices: **`gm_hans`** (male), **`gf_lisa`**
+(female). Not installed — `service(service_name="kokoro", action="status")`
+returns "not available". Worth revisiting only if the bill turns out higher
+than estimated.
 
 Usage once installed: `converse(..., voice="gm_hans", tts_provider="kokoro")`.
 
