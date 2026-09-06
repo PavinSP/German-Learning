@@ -18,7 +18,9 @@ vad_aggressiveness:  0
 listen_duration_min: 10
 listen_duration_max: 35
 ```
-Leave `speed` unset — the default pace was explicitly approved.
+**Leave `speed` unset.** Tried `speed: 0.85` on 2026-09-06 and the learner
+rejected it: it sounds *stretched*, like slowing a recording rather than someone
+speaking more slowly. Default pace was explicitly approved.
 
 **tts_instructions that produced the good accent:**
 
@@ -47,9 +49,15 @@ The default is too aggressive for this Mac's mic level and discards speech as
 silence — "No speech detected" even though capture works fine. Measured input
 peaked around −47 dB where speech should reach −10 to −20 dB.
 
-**`VOICEMODE_WHISPER_LANGUAGE=de`** — set in the MCP server's env in
-`~/.claude.json`. Without it Whisper defaults to English and transcribes German
-phonetically: "Hallo, ich heiße Pavin" came back as `HALO, ISH HAI SAPAVIN`.
+**Language: LEAVE IT ON AUTO-DETECT. Do not force `VOICEMODE_WHISPER_LANGUAGE=de`.**
+It was set to `de` early on (English defaulting made German come back as
+phonetic nonsense: "Hallo, ich heiße Pavin" → `HALO, ISH HAI SAPAVIN`). But
+forcing German is worse: on 2026-09-06 the learner answered a question in
+ENGLISH and it was transcribed as fluent German with subordinate clauses and
+Konjunktiv II — structures far beyond his level. Forcing the language makes it
+render whatever it hears INTO that language, which destroys the ability to tell
+what he actually said. Removed from the MCP env; auto-detect handles the
+mixed-language reality of these sessions (English instructions, German answers).
 
 **Instruction language: ENGLISH.** The learner stopped a fully-German opening
 on 2026-09-06 — he doesn't understand enough yet. Give instructions and
@@ -75,10 +83,23 @@ This replaces the OpenAI API for both halves:
 
 Hardware here is an M4 Pro / 24GB, comfortably above requirements.
 
-**voicemode only discovers services at startup** — after installing or
-restarting mlx-audio, Claude Code must be restarted before it routes locally.
-Check which provider was actually used: the converse result prints `STT: openai`
-or the local provider.
+**CRITICAL — the ports do not match by default.** voicemode's built-in defaults
+probe `127.0.0.1:2022` for STT (whisper.cpp) and `127.0.0.1:8880` for TTS
+(Kokoro), but **mlx-audio serves both on 8890**. Left unchanged, voicemode probes
+dead ports, finds nothing, and silently falls back to OpenAI — with a latency
+penalty from the failed probes (one turn took 63.5s for STT instead of ~2.5s).
+
+Fixed in `~/.voicemode/voicemode.env`:
+```
+VOICEMODE_TTS_BASE_URLS=http://127.0.0.1:8890/v1,https://api.openai.com/v1
+VOICEMODE_STT_BASE_URLS=http://127.0.0.1:8890/v1,https://api.openai.com/v1
+VOICEMODE_PREFER_LOCAL=true
+VOICEMODE_ALWAYS_TRY_LOCAL=true
+```
+
+**voicemode reads this file only at startup** — Claude Code must be restarted
+after any change. Verify by checking the provider printed in the converse
+result: `STT: openai` means it is still falling back.
 
 The $5.95 OpenAI credit remains as a fallback and does not expire for a year.
 
