@@ -75,11 +75,18 @@ Newest entries at the top.
   Three new errors: compound-subject verb agreement (lebt→leben), separable
   prefix attached to a non-separable verb (schlafe...auf), missing destination
   preposition (gehe Kino → gehe ins Kino).
-- **⚡ BIGGEST FINDING OF THE DAY — ambient acquisition.** He produced **Perfekt**
-  ("denn ich habe gearbeitet"), which is A2 and marked NOT_STARTED, plus two
-  untaught words (Kino, Suppe). He lives and works in Würzburg. **The curriculum
-  has wrongly assumed these sessions are his only German input.** Worth pulling
-  Perfekt forward and asking what German he actually encounters daily.
+- **A claimed "ambient acquisition" finding, then RETRACTED the same evening.**
+  The transcript showed "denn ich habe **gearbeitet**" (Perfekt, A2, never
+  taught) and this was written up as major evidence that he absorbs German from
+  living in Würzburg. **He then corrected me: he said "arbeiten", not
+  "gearbeitet".** Whisper had upgraded it to the grammatical form. The finding
+  was an STT artifact. **Lesson: never infer knowledge from a voice transcript.**
+  It hid a real error earlier the same day (geben) and invented a fake competence
+  here. Kino and Suppe were not disputed and may still be genuinely ambient.
+- **Fair criticism from the learner about the questions themselves:** two of my
+  conversation questions required vocabulary never taught — "Do they live in
+  India?" (wohnen/leben) and "was machst du am Wochenende?" (Wochenende). He
+  could not have answered those properly. Taught afterwards.
 - **Conversation method that worked:** restrict to well-known ground, keep
   questions short, correct by light recast mid-flow rather than interrupting,
   defer detailed feedback to text. Markedly better than the earlier attempt.

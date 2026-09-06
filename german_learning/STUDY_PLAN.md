@@ -138,6 +138,20 @@ evidence that it is FUNCTIONAL and not yet automatic.
 | **2 — Consolidation** | **TEXT** | Mixed practice, reading, targeted repair — all ending-sensitive |
 | **3 — Production & input** | **VOICE** + external listening | Free production, conversation, automaticity |
 
+### Two rules for running conversation (learned 2026-09-06)
+
+**1. Never infer knowledge from a voice transcript.** STT rewrites toward
+grammatical German. In one day it HID a real error (geben: "gebt" heard as
+"gibt") and INVENTED a competence he lacked (Perfekt: "arbeiten" heard as
+"gearbeitet", which was written up as a major finding before he corrected it).
+Voice measures retrieval speed and fluency. Knowledge claims come from writing.
+
+**2. Keep conversation questions inside taught vocabulary — or supply the word.**
+On 2026-09-06 he was asked "Do they live in India?" and "was machst du am
+Wochenende?", both requiring words never taught (wohnen/leben, Wochenende). He
+rightly pointed out he could not have answered them. Either restrict questions
+to known ground, or hand him the word in the question itself.
+
 ### Voice mechanics, learned the hard way
 - **Single `converse` calls only — never `turns` surveys** (that path ignores the
   German language setting and returns English mush)

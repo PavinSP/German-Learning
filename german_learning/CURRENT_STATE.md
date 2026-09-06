@@ -8,16 +8,22 @@ past LEARNING without holding across a real overnight gap. The extra hours go in
 depth per concept, not more concepts. Listening, speaking and daily free writing
 are now standing components.
 
-**⚡ AMBIENT ACQUISITION — read this before planning anything (found 2026-09-06).**
-He lives and works in Würzburg and is absorbing German OUTSIDE these sessions.
-In one five-minute conversation he produced **Perfekt** ("denn ich habe
-gearbeitet" — A2, marked NOT_STARTED) and two untaught words (Kino, Suppe).
-The curriculum has been assuming these sessions are his only input. **That
-assumption is wrong.** Consequences: the A2 timeline may be pessimistic;
-**Perfekt should probably be pulled forward** since teaching it would organise
-knowledge he already has rather than introduce something new; and it is worth
-asking him directly what German he encounters day to day, because that input is
-invisible here.
+**⚠️ A CAUTION ABOUT STT, NOT AN ACQUISITION FINDING (corrected 2026-09-06).**
+On 2026-09-06 a conversation transcript showed "denn ich habe **gearbeitet**" —
+Perfekt, which is A2 and never taught. This was written up as evidence of
+ambient acquisition from living in Würzburg. **The learner then said he had
+actually said "arbeiten", not "gearbeitet".** Whisper had silently upgraded it
+to the grammatical Perfekt form.
+
+So the finding was an artifact, and it is a sharp reminder: **never build a
+conclusion about his knowledge on a voice transcript.** STT outputs plausible
+German, which means it invents competence he does not have — the mirror image
+of the geben case, where it hid an error he did make.
+
+Two words from that same conversation, **Kino** and **Suppe**, were not disputed
+and may genuinely be ambient. Worth asking him directly what German he meets
+day to day, since that input is invisible here — but ask him, do not infer it
+from transcripts.
 
 **Also check [VOCAB_PLAN.md](VOCAB_PLAN.md) whenever picking a vocabulary topic** —
 it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
