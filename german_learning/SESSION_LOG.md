@@ -14,8 +14,13 @@ Newest entries at the top.
   holds. The fix after a long debug was `disable_silence_detection: true` with a
   fixed listening window — permissions, device routing and input volume were all
   ruled out first. Full notes in VOICE_SETUP.md.
-- **Held up:** dative articles (dem Kind) ✅ · preposition mit ✅ · geben's
-  "gibt" correct every single time, confirming 2026-09-05's fix ✅
+- **Held up:** dative articles (dem Kind) ✅ · preposition mit ✅
+- **geben REOPENED — and this is the session's most important finding.** "gibt"
+  looked correct in every voice answer, so it was marked resolved. The learner
+  then typed the one unverified sentence: "Er **gebt** mir das Buch". Whisper had
+  rendered that same utterance as "gibt". **STT silently normalized the error.**
+  Conclusion: voice cannot verify conjugation endings — it repairs precisely the
+  morphology a grammar check is testing. Check endings in writing only.
 - **euch produced for the first time** — listed since 2026-09-03, never used
   until now
 - **Real finding — dative person/thing inverted:** "Ich gebe ihn dem Hund"

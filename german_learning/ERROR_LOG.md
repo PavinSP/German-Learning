@@ -429,10 +429,15 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              and not geht (that's gehen = to go, a different verb entirely).
              Surfaced 2/6 times in the dative section of the 50-question review —
              the dative case logic itself was mostly fine, this is a verb problem.
-- Frequency: 2 (both in the same session)
-- First seen / last seen: 2026-09-04
-- Status: ACTIVE — needs a focused pass on geben's forms specifically; the dative
-  articles around it were largely correct, so don't conflate the two
+- Frequency: 3 (2 on 2026-09-04, 1 more on 2026-09-06 typed: "Er gebt mir das Buch")
+- First seen / last seen: 2026-09-04 / 2026-09-06
+- Status: **ACTIVE — reopened 2026-09-06.** Was marked RESOLVED on 2026-09-05
+  after gibt came out correct 3x in a typed round, and appeared correct again in
+  the 2026-09-06 voice session. But the TYPED version of that same voice sentence
+  came back "Er gebt mir das Buch" — gebt is the ihr-form. Whisper had transcribed
+  it as "gibt", i.e. **speech-to-text silently normalized the error away**.
+  Lesson: do not use voice evidence to confirm fine morphology. gebt/gibt,
+  and any ending-level distinction, must be checked in writing.
 
 ### [case] dative article for das-word given as den instead of dem
 - Incorrect: Er spielt mit den Kind.

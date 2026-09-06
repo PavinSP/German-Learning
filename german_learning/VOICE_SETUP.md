@@ -77,6 +77,16 @@ the main conversational bottleneck — but it does **not** give reliable
 pronunciation correction. For that, a human or a dedicated pronunciation tool
 is still needed.
 
+**Demonstrated on day one, and it matters more than expected.** The learner
+spoke "Er gebt mir das Buch" (wrong — gebt is the ihr-form). Whisper transcribed
+it as "gibt", the *correct* form. The error was invisible until the same sentence
+was typed out. **Voice cannot be used to check conjugation endings, article
+endings, or any fine morphology** — STT outputs plausible German, which means it
+repairs exactly what a grammar check is looking for.
+
+Use voice for what it is genuinely good at: retrieval speed, fluency, word order,
+vocabulary reach, and willingness to produce. Check endings in writing.
+
 **And it cuts the other way too.** On 2026-09-06 "Er gibt mir das Buch" came
 back twice, identically, as `hier gibt Mia das Buch`. Whisper is deterministic
 enough that re-asking reproduces the same mishearing — so a garbled transcript
