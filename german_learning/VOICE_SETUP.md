@@ -49,15 +49,23 @@ The default is too aggressive for this Mac's mic level and discards speech as
 silence — "No speech detected" even though capture works fine. Measured input
 peaked around −47 dB where speech should reach −10 to −20 dB.
 
-**Language: LEAVE IT ON AUTO-DETECT. Do not force `VOICEMODE_WHISPER_LANGUAGE=de`.**
-It was set to `de` early on (English defaulting made German come back as
-phonetic nonsense: "Hallo, ich heiße Pavin" → `HALO, ISH HAI SAPAVIN`). But
-forcing German is worse: on 2026-09-06 the learner answered a question in
-ENGLISH and it was transcribed as fluent German with subordinate clauses and
-Konjunktiv II — structures far beyond his level. Forcing the language makes it
-render whatever it hears INTO that language, which destroys the ability to tell
-what he actually said. Removed from the MCP env; auto-detect handles the
-mixed-language reality of these sessions (English instructions, German answers).
+**Language: `VOICEMODE_WHISPER_LANGUAGE=de`** in `~/.voicemode/voicemode.env`.
+This took three attempts to get right, so the reasoning is worth keeping:
+
+- **Unset (defaults to English):** German came back as phonetic nonsense —
+  "Hallo, ich heiße Pavin" → `HALO, ISH HAI SAPAVIN`.
+- **`auto`:** local whisper *translated* German into English instead of
+  transcribing it. He said "Ich esse Brot und trinke einen Kaffee" and it
+  returned "So I eat some bread and drink a coffee." Useless for grading.
+- **`de`:** correct. German transcribes as German.
+
+**The known cost of `de`:** English speech gets rendered INTO German. On
+2026-09-06 an English answer came back as fluent German with subordinate
+clauses and Konjunktiv II, far beyond his level — briefly alarming until the
+cause was clear. Accepted deliberately: his German being translated away is
+worse than his English asides being mangled, since German production is the
+whole point. **If a transcript looks implausibly advanced, suspect this before
+believing it.**
 
 **Instruction language: ENGLISH.** The learner stopped a fully-German opening
 on 2026-09-06 — he doesn't understand enough yet. Give instructions and
@@ -84,8 +92,22 @@ VOICEMODE_TTS_BASE_URLS=https://api.openai.com/v1
 VOICEMODE_PREFER_LOCAL=true
 VOICEMODE_ALWAYS_TRY_LOCAL=true
 ```
-Whisper is enabled at login (LaunchAgent `com.voicemode.whisper.plist`), model
-`base` with a CoreML encoder.
+Whisper is enabled at login (LaunchAgent `com.voicemode.whisper.plist`).
+
+**Model: `large-v3-turbo`, NOT `base`.** The installer defaults to `base` (141MB)
+and its German is unusable — on the first live test it rendered a simple German
+sentence as *"Hello, isha is a problem, isha is a rice."* OpenAI's hosted
+whisper-1 is a far larger model, which is why the cloud version was accurate.
+`large-v3-turbo` (~1.6GB) gives near-large accuracy at high speed and runs
+comfortably on an M4 Pro. Set via `VOICEMODE_WHISPER_MODEL` in voicemode.env.
+
+**Speed, measured:** local STT returns in **1.2-1.4s** on large-v3-turbo, vs
+2.3-3.3s via OpenAI. (The `base` model was 0.3s but its German was unusable.)
+The CoreML encoder for large-v3-turbo is NOT downloaded — it runs on Metal/CPU
+and is fast enough. `models/download-coreml-model.sh large-v3-turbo` would
+speed it up further if ever needed.
+
+**Final verified state, 2026-09-06:** German in → German out, 1.2s, `STT: whisper`.
 
 ### Two dead ends, recorded so they are not repeated
 
