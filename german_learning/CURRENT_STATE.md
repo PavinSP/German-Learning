@@ -8,6 +8,17 @@ past LEARNING without holding across a real overnight gap. The extra hours go in
 depth per concept, not more concepts. Listening, speaking and daily free writing
 are now standing components.
 
+**⚡ AMBIENT ACQUISITION — read this before planning anything (found 2026-09-06).**
+He lives and works in Würzburg and is absorbing German OUTSIDE these sessions.
+In one five-minute conversation he produced **Perfekt** ("denn ich habe
+gearbeitet" — A2, marked NOT_STARTED) and two untaught words (Kino, Suppe).
+The curriculum has been assuming these sessions are his only input. **That
+assumption is wrong.** Consequences: the A2 timeline may be pessimistic;
+**Perfekt should probably be pulled forward** since teaching it would organise
+knowledge he already has rather than introduce something new; and it is worth
+asking him directly what German he encounters day to day, because that input is
+invisible here.
+
 **Also check [VOCAB_PLAN.md](VOCAB_PLAN.md) whenever picking a vocabulary topic** —
 it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
 order. Update it (mark lessons covered) after any vocabulary session that draws
@@ -20,7 +31,7 @@ from the Anki deck.
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
-| **Last session** | 2026-09-06 (Session 8 — voice mode live; accusative 8/8, dative 5/5, **first free writing**) |
+| **Last session** | 2026-09-06 (Session 8 — voice live; accusative 8/8, dative 5/5, first free writing, **first sustained conversation**) |
 | **Next action** | **Overnight written check on `geben` (gibt vs gebt)** — deliberately NOT run on 09-06 to preserve the gap. Camouflage it among other sentences. Then dative prepositions (deferred in DOUBTS.md). 3hrs/day plan begins Mon 2026-09-07 |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |

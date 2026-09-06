@@ -77,6 +77,8 @@ A word is only MASTERED after correct recall across multiple sessions.
 - das Brot | bread | noun | Meine Schwester isst Brot. | KNOWN | 2026-09-01
 - das Hähnchen | chicken | plural: die Hähnchen | noun | Ich esse Hähnchen mit Reis. | NEW | 2026-09-06 | learner-driven: reached for English "Chicken" in free writing, so this is a word he actually wants
 - der Reis | rice | noun (no plural) | Ich esse Hähnchen mit Reis. | NEW | 2026-09-06 | learner-driven: reached for English "Rice" in free writing
+- die Suppe | soup | plural: die Suppen | noun | Ich esse Suppe. | NEW | 2026-09-06 | ⚡ AMBIENT — he produced this unprompted in conversation; never taught
+- das Kino | cinema | plural: die Kinos | noun | Ich gehe ins Kino. | NEW | 2026-09-06 | ⚡ AMBIENT — produced unprompted; note he omitted "ins", which is the real gap
 - der Käse | cheese | noun | — | INTRODUCED | 2026-09-01 | not yet tested
 - die Milch | milk | noun | Ich trinke Milch. | KNOWN | 2026-09-01
 - der Apfel | apple | plural: die Äpfel | noun | Ich esse einen Apfel. | KNOWN | 2026-09-01

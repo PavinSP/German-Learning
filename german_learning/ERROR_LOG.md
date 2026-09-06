@@ -582,6 +582,44 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Status: ACTIVE — both words taught immediately. Worth restating that "???" is
   more useful than a substitution.
 
+### [conjugation] singular verb with a compound (plural) subject
+- Incorrect: Mein Bruder und zwei Schwestern lebt in Indien.
+- Correct:   Mein Bruder und zwei Schwestern leben in Indien.
+- Why:       "X und Y" is a plural subject, so the verb takes the plural form.
+             Distinct from the existing 3rd-person/du pattern — here the issue is
+             recognising that a compound subject is plural at all, not choosing
+             between er and du forms.
+- Frequency: 1
+- First seen / last seen: 2026-09-06 (first sustained conversation)
+- Status: ACTIVE — new error type, retest
+
+### [word-order] separable prefix attached to a non-separable verb
+- Incorrect: Ich schlafe um 9 Uhr auf.
+- Correct:   Ich schlafe um neun Uhr.
+- Why:       Direct overgeneralization from the heavily-drilled "Ich stehe um
+             sieben Uhr auf". aufstehen is separable; schlafen is not, so there
+             is no prefix to send to the end. Note this is the OPPOSITE of the
+             2026-09-06 error where he omitted the prefix from aufstehen — the
+             pattern is known but not yet bounded to the verbs it belongs to.
+             (Aside: einschlafen IS separable — "Ich schlafe um neun Uhr ein" —
+             but that verb has not been taught.)
+- Frequency: 1
+- First seen / last seen: 2026-09-06
+- Status: ACTIVE — worth stating that separable prefixes belong to specific
+  verbs and cannot be added freely
+
+### [preposition] missing preposition with a destination
+- Incorrect: Ich gehe Kino.
+- Correct:   Ich gehe ins Kino.
+- Why:       German requires the preposition for destinations — ins Kino, in die
+             Schule, nach Hause. Not yet formally taught, so this is a gap in
+             instruction rather than a learner error. He also doubled the verb
+             in the same sentence ("und esse Suppe essen").
+- Frequency: 1
+- First seen / last seen: 2026-09-06
+- Status: ACTIVE — needs teaching; ties into the deferred dative-preposition
+  topic already queued in DOUBTS.md
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

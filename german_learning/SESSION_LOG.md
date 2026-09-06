@@ -69,6 +69,20 @@ Newest entries at the top.
 - **Deliberately did NOT run the scheduled `geben` check** — four hours after he
   last produced "gibt" correctly it would have proved nothing and burned
   tomorrow's genuine overnight diagnostic.
+- **FIRST SUSTAINED CONVERSATION (7 exchanges, ~5 min).** Held together well:
+  "Ich habe einen Bruder und zwei Schwestern" ✅, "Heute ist das Wetter kalt.
+  Es ist gut." ✅ (and he volunteered the second sentence unprompted, a first).
+  Three new errors: compound-subject verb agreement (lebt→leben), separable
+  prefix attached to a non-separable verb (schlafe...auf), missing destination
+  preposition (gehe Kino → gehe ins Kino).
+- **⚡ BIGGEST FINDING OF THE DAY — ambient acquisition.** He produced **Perfekt**
+  ("denn ich habe gearbeitet"), which is A2 and marked NOT_STARTED, plus two
+  untaught words (Kino, Suppe). He lives and works in Würzburg. **The curriculum
+  has wrongly assumed these sessions are his only German input.** Worth pulling
+  Perfekt forward and asking what German he actually encounters daily.
+- **Conversation method that worked:** restrict to well-known ground, keep
+  questions short, correct by light recast mid-flow rather than interrupting,
+  defer detailed feedback to text. Markedly better than the earlier attempt.
 - **Next session:** overnight `geben` check (camouflaged), then dative
   prepositions. 3hrs/day plan begins.
 
