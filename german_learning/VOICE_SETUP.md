@@ -40,6 +40,30 @@ thinking-pauses and still ends naturally when he actually finishes — 10.4s
 recorded out of a 35s window. A beginner pauses mid-sentence; the minimum has
 to absorb that.
 
+**Let him speak unprompted with `skip_tts`.** Pass
+`converse(message="listening", skip_tts=true, listen_duration_min=12, ...)` —
+this opens the mic with zero speech from the assistant. Without it the mic only
+ever opens in reply to an assistant question, so he can never start a topic or
+interject. He raised this himself on 2026-09-06.
+
+**Conversational mode currently does NOT transcribe reliably (2026-09-06).**
+Careful, isolated, German-only sentences transcribe perfectly. Natural
+conversation does not — three consecutive exchanges came back as mush
+("Ich esse Hähnchen mit Reis" → `it's a henshan mit rice`). It breaks
+specifically on **newly-learned words**, where his pronunciation is least
+settled, which means quality degrades exactly where feedback matters most.
+English filler mixed into German utterances ("yeah", "hello") makes it worse,
+since language is force-set to `de`.
+
+**When a transcript is unreadable, say so — do not reconstruct and reply as if
+you understood.** Guessing turns tutoring into nonsense and risks logging
+phantom errors.
+
+**Open test:** STT base URLs have been flipped to prefer OpenAI over local, to
+find out whether local `large-v3-turbo` is simply worse here (its CoreML encoder
+was never downloaded, so it runs unoptimised). OpenAI transcribed him flawlessly
+earlier the same day. Compare on the same sentence after the next restart.
+
 **DO NOT USE `turns` SURVEY MODE FOR GERMAN.** Verified 2026-09-06: the survey
 path does not apply `VOICEMODE_WHISPER_LANGUAGE=de`. In one 4-question survey,
 three answers came back as English phonetic mush or translations
