@@ -511,8 +511,14 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              for as a generic accusative marker.
 - Frequency: 3 (2026-09-02 das/den, 2026-09-04 den Schuhe, 2026-09-06 den Buch ×2)
 - First seen / last seen: 2026-09-02 / 2026-09-06
-- Status: ACTIVE — now confirmed recurring, no longer "light". Worth an explicit
-  pass: den is exclusively der-word accusative, nothing else.
+- Status: **LOAD-DEPENDENT, not a knowledge gap — reclassified 2026-09-06.**
+  A written 8-question accusative check the same day scored 8/8, including two
+  deliberate probes of exactly this error: "Er hat **kein** Buch" (not keinen)
+  and "Ich sehe **das** Buch" (not den). Both correct, unhesitating.
+  So he knows the rule perfectly when unhurried and writing — it broke only
+  under spoken real-time pressure, an hour earlier, in the same sentence shape.
+  **An explicit re-teach would be wasted.** This belongs with the conjugation
+  pattern: exercise it under load, don't drill the rule.
 
 ### [word-order] separable prefix misplaced under voice/real-time load
 - Incorrect: Morgen stehe ich auf sieben Uhr.

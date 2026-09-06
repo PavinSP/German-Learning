@@ -21,7 +21,7 @@ MASTERED requires demonstrated correct *production* across multiple sessions, no
 | Negation: nicht | FUNCTIONAL | Good | Correct | — | 2026-08-29 | 2026-09-01 | Yes |
 | Negation: kein/keine | FUNCTIONAL | Good | Correct, including unprompted retrieval check | Earlier nicht/keine confusion resolved | 2026-08-29 | 2026-09-01 | Yes |
 | Nominative case | NOT_STARTED | — | — | — | — | — | — |
-| Accusative case | FUNCTIONAL | Good | 9/9 in first session, then 6/6 clean on intensive review #2 (incl. subject-vs-object possessive distinction, kein+accusative, numbers) | Initial overgeneralization (resolved same session) | 2026-09-01 | 2026-09-08 | Yes |
+| Accusative case | FUNCTIONAL | Good | 9/9 first session, 6/6 on review #2, and **8/8 on a written check 2026-09-06** incl. das-word probes (kein Buch, das Buch) | Breaks only under spoken real-time load ("den Buch"), never in writing | 2026-09-06 | 2026-09-13 | Yes |
 | Basic dative — articles (der/das→dem, die→der, ein→einem, eine→einer) | LEARNING | Good | 5/5 across dative case round + a dative preposition (mit) sentence | — | 2026-09-04 | 2026-09-06 | Yes |
 | Dative prepositions (mit) | INTRODUCED | Good | 1/1 correct (mit dem Kind) | — | 2026-09-04 | 2026-09-06 | Yes |
 | Dative pronouns (mir/dir/ihm/ihr/uns/euch/ihnen) | LEARNING | Good | 4/4 on first attempt, including correctly combining with accusative objects in the same sentence | — | 2026-09-04 | 2026-09-06 | Yes |

@@ -29,7 +29,7 @@ from the Anki deck.
 
 | Item | Status | Note |
 |---|---|---|
-| **den used for das-words** | **CONFIRMED RECURRING 2026-09-06** | 3rd instance (das/den 09-02, "den Schuhe" 09-04, "den Buch" ×2 today). Self-corrected mid-utterance then reverted — doubt present, resolution absent. He says "ein Buch" correctly elsewhere, so not a gender gap: **den is being used as a generic accusative marker**. Needs an explicit pass |
+| den used for das-words | **LOAD-DEPENDENT, not a gap** (reclassified 2026-09-06) | Broke twice by voice ("den Buch"), then a written 8-question accusative check the same day went **8/8**, including two direct probes ("kein Buch" ✅, "das Buch" ✅). He knows the rule cold in writing. Do NOT re-teach — exercise it under load, like the conjugation pattern |
 | Dative: person vs thing case assignment | NEW 2026-09-06, fixed on retry | Said "Ich gebe ihn dem Hund" — both cases inverted. Person = dative, thing = accusative. Corrected first try, but needs a fresh-day retest |
 | **geben conjugation (gibt)** | **REOPENED 2026-09-06** | Marked resolved on 09-05, but a typed answer the same day gave "Er **gebt** mir das Buch" (gebt = ihr-form). The voice session had shown "gibt" — **Whisper normalized the error away**. Still ACTIVE. Check gebt/gibt in writing, never by voice |
 | mögen + verb (should be gern + verb) | Watch, speed-dependent | "Ich mag kochen" → "Ich koche gern". 2nd occurrence, this one under time pressure — mirrors the conjugation pattern (correct when unhurried, slips when fast) |
