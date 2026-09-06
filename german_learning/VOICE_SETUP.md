@@ -40,9 +40,18 @@ thinking-pauses and still ends naturally when he actually finishes — 10.4s
 recorded out of a 35s window. A beginner pauses mid-sentence; the minimum has
 to absorb that.
 
-**Where the fixed window IS still right:** multi-question surveys via `turns`,
-where the learner needs guaranteed thinking time per question and there is no
-back-and-forth to feel sluggish.
+**DO NOT USE `turns` SURVEY MODE FOR GERMAN.** Verified 2026-09-06: the survey
+path does not apply `VOICEMODE_WHISPER_LANGUAGE=de`. In one 4-question survey,
+three answers came back as English phonetic mush or translations
+("Ich sehe den Mann" → *"I say her then man"*; "Wo ist mein Buch?" →
+*"Where is my book?"*), while the same sentence in a SINGLE `converse` call
+transcribed perfectly moments later. It is not sentence length — it is the code
+path.
+
+**Use single `converse` calls for German, one question at a time.** The cost is
+the assistant's own composition time between turns, which is the main source of
+perceived latency. Keep spoken replies to a few words to minimise it; save
+detailed corrections for text afterwards.
 
 **Why `vad_aggressiveness: 0` is non-negotiable.**
 The default is too aggressive for this Mac's mic level and discards speech as
