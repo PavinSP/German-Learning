@@ -431,7 +431,14 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              the dative case logic itself was mostly fine, this is a verb problem.
 - Frequency: 3 (2 on 2026-09-04, 1 more on 2026-09-06 typed: "Er gebt mir das Buch")
 - First seen / last seen: 2026-09-04 / 2026-09-06
-- Status: **ACTIVE — reopened 2026-09-06.** Was marked RESOLVED on 2026-09-05
+- Status: **ACTIVE — inconsistent, do NOT mark resolved again.**
+  Timeline, all typed: 2026-09-05 gibt ×3 correct → 2026-09-06 "Er gebt mir das
+  Buch" wrong → 2026-09-06 (one hour later) "Er gibt mir ein Buch" correct.
+  Same sentence shape, opposite answers, an hour apart. This has now been
+  declared resolved twice and reversed twice. **It needs a genuine overnight
+  gap, in writing, before any status change.**
+  Original entry follows.
+  **Reopened 2026-09-06.** Was marked RESOLVED on 2026-09-05
   after gibt came out correct 3x in a typed round, and appeared correct again in
   the 2026-09-06 voice session. But the TYPED version of that same voice sentence
   came back "Er gebt mir das Buch" — gebt is the ihr-form. Whisper had transcribed

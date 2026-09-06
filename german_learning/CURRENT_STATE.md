@@ -21,7 +21,7 @@ from the Anki deck.
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
 | **Last session** | 2026-09-06 (Session 8 — **voice mode live**; dative check by voice) |
-| **Next action** | Fresh-day retest of **dative person/thing case assignment** (inverted once on 09-06, fixed on retry). Explicit pass on **den = der-word accusative only**. Then the two deferred DOUBTS.md explanations. 3hrs/day plan begins Mon 2026-09-07 |
+| **Next action** | **Fresh-day (overnight) written check on `geben` — gibt vs gebt.** It is the one genuinely unresolved item. Then the two deferred DOUBTS.md explanations. 3hrs/day plan begins Mon 2026-09-07 |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
 
@@ -30,8 +30,8 @@ from the Anki deck.
 | Item | Status | Note |
 |---|---|---|
 | den used for das-words | **LOAD-DEPENDENT, not a gap** (reclassified 2026-09-06) | Broke twice by voice ("den Buch"), then a written 8-question accusative check the same day went **8/8**, including two direct probes ("kein Buch" ✅, "das Buch" ✅). He knows the rule cold in writing. Do NOT re-teach — exercise it under load, like the conjugation pattern |
-| Dative: person vs thing case assignment | NEW 2026-09-06, fixed on retry | Said "Ich gebe ihn dem Hund" — both cases inverted. Person = dative, thing = accusative. Corrected first try, but needs a fresh-day retest |
-| **geben conjugation (gibt)** | **REOPENED 2026-09-06** | Marked resolved on 09-05, but a typed answer the same day gave "Er **gebt** mir das Buch" (gebt = ihr-form). The voice session had shown "gibt" — **Whisper normalized the error away**. Still ACTIVE. Check gebt/gibt in writing, never by voice |
+| **geben conjugation (gibt)** | **INCONSISTENT — do not mark resolved again** | Typed timeline: 09-05 correct ×3 → 09-06 "Er gebt mir das Buch" wrong → 09-06 one hour later "Er gibt mir ein Buch" correct. Declared resolved and reversed TWICE already. Needs a real overnight gap in writing before any status change. Never verify by voice — STT normalizes it |
+| Dative: person vs thing case assignment | **CONFIRMED 2026-09-06** | The exact inverted sentence ("Ich gebe ihn dem Hund") came back correct in a written 5/5 round: "Ich gebe ihr den Hund". Still worth one fresh-day probe |
 | mögen + verb (should be gern + verb) | Watch, speed-dependent | "Ich mag kochen" → "Ich koche gern". 2nd occurrence, this one under time pressure — mirrors the conjugation pattern (correct when unhurried, slips when fast) |
 | 3rd-person vs du conjugation | IMPROVING, load-dependent | 8+ instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. Recurred again in the 2026-09-04 review (Möchtest, wir können, trägt) |
 | Nominative after *sein* (deinen → dein) | REGRESSION, 2026-09-04 | "Ist das deinen Hund?" — after sein the noun stays nominative. Answered directly on 2026-09-01 as ANSWERS.md **Q4**. Re-read that entry rather than re-teaching |
@@ -51,30 +51,30 @@ from the Anki deck.
 | Accusative pronouns — FORM recall | FUNCTIONAL | 2026-09-11 — **euch finally produced by voice 2026-09-06** |
 | Modal verbs (müssen, möchten), Separable verbs, kein vs nicht | LEARNING/confirmed clean | 2026-09-08 |
 | Dative — articles, pronouns, preposition mit | LEARNING | Fresh-day check DONE 2026-09-06 by voice: articles ✅, mit ✅, gibt ✅ |
-| Dative — person vs thing case assignment | NEW, shaky | 2026-09-07 — inverted once, fixed on retry, needs a real gap |
+| Dative — person vs thing case assignment | CONFIRMED (written 5/5, 2026-09-06) | 2026-09-09 — one more probe for form |
+| geben — gibt vs gebt | **UNRESOLVED, inconsistent** | 2026-09-07 — overnight, in WRITING. Never by voice |
 | Vocabulary: family, numbers, food, daily routine/time, weather, shopping | KNOWN | 2026-09-08 |
 | Vocabulary: house & rooms (+ compound nouns) | KNOWN | 2026-09-08 — probe Stuhl/Stühle specifically |
 
 ## Next action (detail)
 
-The dative fresh-day check was done 2026-09-06 **by voice** — the first spoken
-session. Dative articles (dem Kind), the preposition mit, and geben's "gibt" all
-held. **euch was produced for the first time.** Two things came out of it:
+Two checks on 2026-09-06 settled most of what was open:
 
-1. **Person vs thing case assignment is shaky.** He said "Ich gebe ihn dem Hund",
-   inverting both cases at once. Person = dative, thing = accusative. Corrected on
-   the first retry, but it needs a real overnight gap before it can be trusted.
-2. **"den" for das-words is now a confirmed pattern**, not a one-off — three
-   instances across five days, and he self-corrected mid-utterance before
-   reverting. He produces "ein Buch" correctly elsewhere, so the gender is known:
-   **den is being reached for as a generic accusative marker**. Worth stating
-   explicitly that den is der-word accusative and nothing else.
+**Written accusative check — 8/8**, including two planted das-word probes
+("kein Buch", "das Buch"). This *reclassified* the "den for das-words" error:
+it is not a knowledge gap, it is load-dependent, and re-teaching the rule would
+be wasted. Exercise it under load instead.
 
-Also outstanding: get a **typed** version of "Er gibt mir das Buch" — Whisper
-mis-transcribed it identically twice (`hier gibt Mia das Buch`), so voice can't
-verify that one.
+**Written dative check — 5/5**, including the exact sentence he had inverted by
+voice ("Ich gebe ihr den Hund" ✅). Person-vs-thing case assignment confirmed.
 
-After those, learner can choose: extend dative (prepositions nach/bei/von/zu),
+**The one thing still genuinely open is `geben`.** Typed timeline: 09-05 correct
+three times → 09-06 "Er gebt mir das Buch" wrong → 09-06 one hour later "Er gibt
+mir ein Buch" correct. It has been declared resolved and reversed **twice**.
+Next session: check it in writing after a real overnight gap, and do not change
+its status on anything less.
+
+After that, learner can choose: extend dative (prepositions nach/bei/von/zu),
 accusative prepositions (für/durch), or more vocabulary — see VOCAB_PLAN.md
 (transport/directions is next on the list).
 
@@ -94,9 +94,14 @@ Standing method notes:
   times under load and passed 3 of 3 focused drills. Drilling it in isolation only
   re-confirms known material; embedding a 3rd-person subject in every mixed round
   is what actually tests it.
-- **Voice mode is live** (2026-09-06). See VOICE_SETUP.md. Always pass
-  `disable_silence_detection: true` plus a fixed `listen_duration_min`/`max`,
-  and `vad_aggressiveness: 0` — without these the mic window closes instantly.
+- **Voice mode is live** (2026-09-06). See VOICE_SETUP.md for the exact config.
+  For conversation: `vad_aggressiveness: 0`, `listen_duration_min: 10`, silence
+  detection ON. Use a fixed window (`disable_silence_detection`) only for
+  multi-question `turns` surveys.
+- **Voice cannot check endings.** STT outputs plausible German, so it repairs
+  conjugation and article errors invisibly — this was demonstrated twice on
+  2026-09-06 in both directions. Voice tests retrieval speed, fluency, word
+  order and vocabulary reach. **Endings are checked in writing, always.**
   When a spoken reply looks phonetically garbled rather than grammatically
   wrong, ask for that sentence TYPED; re-asking reproduces the same mishearing.
 - **Strict typing was requested by the learner** (2026-09-03) — umlauts,
