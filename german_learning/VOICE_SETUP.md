@@ -132,27 +132,11 @@ duplicate server that failed to connect. Use one or the other, not both.
 
 ---
 
-## Still open — native German TTS
-
-**Largely solved without it** — `gpt-4o-mini-tts` with the German-accent
-instructions above produced a voice the learner judged "really good" on
-2026-09-06, so the accent argument for Kokoro is much weaker now.
-
-The remaining reason is **cost**: TTS is roughly 60% of the estimated €3/month
-and Kokoro is free and local. Voices: **`gm_hans`** (male), **`gf_lisa`**
-(female). Not installed — `service(service_name="kokoro", action="status")`
-returns "not available". Worth revisiting only if the bill turns out higher
-than estimated.
-
-Usage once installed: `converse(..., voice="gm_hans", tts_provider="kokoro")`.
-
----
-
 ## Costs
 
 Prepaid $5.95 (incl. VAT) on 2026-09-06. Non-refundable, expires in one year.
-Estimated ~€3/month at 15 min/day. **Watch actual usage for the first week** —
-that estimate is unverified arithmetic, not measurement.
+Actual usage on setup day: about **$0.03** across a dozen exchanges. With STT
+now local, only TTS bills — so the credit should last many months.
 
 ---
 
