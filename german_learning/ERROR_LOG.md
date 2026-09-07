@@ -677,6 +677,43 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-07
 - Status: ACTIVE — retest
 
+### [preposition] zu redundantly added to geben (verb already implies "to")
+- Incorrect: Er gibt das Buch zu seiner Mutter.
+- Correct:   Er gibt seiner Mutter das Buch.
+- Why:       geben already encodes "give TO" via its dative object — no
+             preposition needed. This is the mirror of Q7 (modal verbs don't
+             add case, the second verb does): here, geben's dative IS the "to",
+             adding zu on top is redundant. Contrast with gehen (to go), which
+             genuinely needs zu/zur for a destination — the two verbs behave
+             differently and got confused in the same round (see verb-swap entry).
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — retest, ties into the geben-vs-gehen mix-up below
+
+### [vocab-confusion] geben used where gehen was needed
+- Incorrect: Sie gibt zu der Schule nach dem Wochenende.
+- Correct:   Sie geht nach dem Wochenende zu der Schule.
+- Why:       geben (to give) and gehen (to go) are different verbs, likely
+             confused because both are common and both were just discussed
+             together in the previous question. gibt/geht — one letter apart,
+             easy to swap under load.
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — light, likely momentary given the immediately preceding
+  discussion of geben
+
+### [vocab-confusion] uns (pronoun) used instead of unser- (possessive)
+- Incorrect: Wir leben mit uns Eltern.
+- Correct:   Wir leben mit unseren Eltern.
+- Why:       uns = "us" (pronoun object); unser- = "our" (possessive, takes
+             case/gender endings like mein-/dein-/sein-/ihr-). Same shape as
+             the earlier ihr/ihre (her) vs Ihr/Ihre (formal) confusion — a
+             pronoun and its look-alike possessive are different words.
+             Learner asked about this directly (DOUBTS Q13), answered in full.
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — retest unser- specifically
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

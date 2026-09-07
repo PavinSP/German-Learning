@@ -251,3 +251,39 @@ Rule: movement INTO a place = accusative ("ins Zimmer" — going into the room).
 Already there / staying there = dative ("im Zimmer" — being in the room).
 "Mein Vater ist im Raum" is the dative case exactly — ist describes a state,
 not motion.
+
+
+### 2026-09-07 — Q13: "Wir leben mit uns Eltern" — why unsere/unseren, not uns?
+
+**uns** is a PRONOUN ("us" — accusative/dative object, like "Er sieht uns").
+**unser-** is the POSSESSIVE ("our"), and it takes case/gender endings just like
+mein-/dein-/sein-/ihr- do.
+
+- uns = us → Er gibt uns das Buch. (he gives US the book)
+- unser Vater / unsere Mutter / unsere Eltern (nominative)
+- unseren Vater (accusative der-word)
+- mit unseren Eltern (dative plural — same -en ending pattern as meinen/deinen
+  Eltern would take)
+
+Same mix-up shape as ihr/ihre (her) vs Ihr/Ihre (formal your) earlier — a
+pronoun and its look-alike possessive are two different words with two
+different jobs, and unser follows the exact same possessive-ending pattern as
+mein/dein/sein/ihr, just for "our".
+
+
+### 2026-09-07 — Q14: Why "unseren Eltern" and not "unserer Eltern"?
+
+This is about Eltern being PLURAL, not about unser- specifically.
+
+**Dative plural always takes -en on the possessive/article, regardless of what
+gender the noun would be in singular.** Eltern has no singular (there's no "ein
+Elter"), and plural dative is always -en:
+- mit meinen Eltern, mit deinen Freunden, mit unseren Eltern
+
+**unserer** would be the FEMININE SINGULAR dative/genitive form (e.g. "wegen
+unserer Mutter"). Eltern isn't feminine singular — it's plural — so it needs
+the plural ending -en, not the feminine singular ending -er.
+
+Pattern to hold onto: dative plural nouns usually end in -n themselves
+(Kindern, Eltern) AND the article/possessive in front also takes -en. Both
+-en's together are the signature of dative plural.
