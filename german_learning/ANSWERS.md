@@ -239,3 +239,15 @@ at all, because "to be" doesn't act on anything — it just equates two things (
 mein Hund). Rule of thumb: accusative only appears as the object of an action verb
 (haben, sehen, etc.) — never after sein. Same underlying logic as "Ist das dein Hund?"
 staying nominative (also a sein-sentence).
+
+
+### 2026-09-07 — Q12: Why "in dem Zimmer" and not "in das Zimmer"?
+
+**Location (no movement) takes dative with two-way prepositions like "in".**
+Zimmer is a das-word, so dative gives "dem" → in dem Zimmer → contracted to
+**im Zimmer**.
+
+Rule: movement INTO a place = accusative ("ins Zimmer" — going into the room).
+Already there / staying there = dative ("im Zimmer" — being in the room).
+"Mein Vater ist im Raum" is the dative case exactly — ist describes a state,
+not motion.

@@ -621,6 +621,41 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Status: ACTIVE — needs teaching; ties into the deferred dative-preposition
   topic already queued in DOUBTS.md
 
+### [preposition] ins used for location instead of motion
+- Incorrect: Ich sehe euch ins Zimmer. (learner flagged own uncertainty, offered "in das Zimmer")
+- Correct:   Ich sehe euch im Zimmer.
+- Why:       "in" is a TWO-WAY preposition: accusative (ins = in+das) for motion
+             INTO a place, dative (im = in+dem) for static LOCATION. "I see you
+             in the room" is location, not motion, so it needs im. Two-way
+             prepositions have not been formally taught yet — this is a natural
+             next topic, not a gap in what he already knows. Notably he sensed
+             something was off and flagged it himself.
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — needs teaching (two-way prepositions), not yet covered
+
+### [case] von not given dative article
+- Incorrect: Der Preis von die blau Hose ist hoch.
+- Correct:   Der Preis von der blauen Hose ist hoch.
+- Why:       von is a dative preposition (taught this same session) — die-word
+             Hose needs der in dative, not die. Applied nominative/accusative
+             die instead of the just-taught dative rule, likely because von was
+             brand new. (The missing adjective ending on blau→blauen is a
+             separate, not-yet-taught topic — not held against him.)
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — retest von specifically
+
+### [spelling] noun not capitalized (Hunger)
+- Incorrect: ich habe hunger.
+- Correct:   ich habe Hunger.
+- Why:       Same noun-capitalization rule he already applies correctly
+             elsewhere (Buch, Katze) — likely missed because "hunger" doesn't
+             feel like an object noun in English.
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — light, retest
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

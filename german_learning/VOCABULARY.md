@@ -158,7 +158,8 @@ A word is only MASTERED after correct recall across multiple sessions.
 - sie / es / sie / Sie | her / it / them / you-formal (object) | pronoun | Wir haben es. | KNOWN | 2026-09-03 | unchanged from nominative — mirrors die/das staying unchanged
 
 **House & rooms**
-- das Zimmer | the room | plural: die Zimmer (unchanged) | noun | — | INTRODUCED | 2026-09-03 | not directly tested in production yet
+- das Zimmer | the room | plural: die Zimmer (unchanged) | noun | Mein Vater ist im Zimmer. | KNOWN | 2026-09-07 | confirmed via im/ins location-vs-motion check
+- der Raum | room / space (more general than Zimmer) | plural: die Räume | noun | Mein Vater ist im Raum. | NEW | 2026-09-07 | he used it correctly unprompted, before being taught
 - die Küche | the kitchen | plural: die Küchen | noun | Die Küche ist warm. | KNOWN | 2026-09-03
 - das Schlafzimmer | the bedroom | plural: die Schlafzimmer | noun | Mein Schlafzimmer ist kalt. | KNOWN | 2026-09-03 | compound noun (schlafen + Zimmer); final part sets the gender
 - das Bad | the bathroom | plural: die Bäder | noun | Das Bad ist nicht warm. | KNOWN | 2026-09-03
