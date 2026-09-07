@@ -714,6 +714,17 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-07
 - Status: ACTIVE — retest unser- specifically
 
+### [plural] singular used where plural was requested, plus a spelling slip
+- Incorrect: Ich speile mit meinem Kind.
+- Correct:   Ich spiele mit meinen Kindern.
+- Why:       Prompt asked for "children" (plural) — answered with das Kind
+             (singular). Also spiele misspelled as speile. Otherwise the mit +
+             dative structure was attempted correctly (meinem/dative direction
+             right, just singular instead of plural).
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — retest plural dative (meinen Kindern) specifically
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
