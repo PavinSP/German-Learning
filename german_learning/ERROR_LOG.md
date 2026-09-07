@@ -555,20 +555,21 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-06
 - Status: RESOLVED same session — fernsehen added to VOCABULARY.md
 
-### [spelling] separable prefix capitalized as if it were a noun (2nd instance)
-- Incorrect: Ich esse Hähnchen mit Reis und sehe Fern.
+### [spelling] separable prefix capitalized as if it were a noun (3rd instance)
+- Incorrect: Ich esse Hähnchen mit Reis und sehe Fern. / Ich spiele mit dem
+  Kind und sehe Fern.
 - Correct:   ... und sehe fern.
-- Why:       fern is a separable prefix, not a noun — stays lowercase. Second
-             instance of this exact pattern: "Ich kann nicht Schwimmen"
-             (2026-09-05) was the first. Likely driven by knowing that German
-             capitalizes nouns AND that verbs can be nominalized (das Schwimmen,
-             das Fernsehen) — so the rule is over-applied to bare infinitives
-             and prefixes.
-- Frequency: 2
-- First seen / last seen: 2026-09-05 / 2026-09-06
-- Status: ACTIVE — now a pattern, not a one-off. Worth one explicit statement:
-  infinitives and separable prefixes stay lowercase unless genuinely nominalized
-  (preceded by das).
+- Why:       fern is a separable prefix, not a noun — stays lowercase. THIRD
+             instance of this exact word (Schwimmen 2026-09-05 was the first
+             different verb). Likely driven by knowing German capitalizes
+             nouns AND that verbs can be nominalized (das Fernsehen) — rule
+             over-applied to bare separable prefixes.
+- Frequency: 3
+- First seen / last seen: 2026-09-05 / 2026-09-07
+- Status: IMPROVING — explicit rule given (separable prefix vs nominalized
+  noun are different words: fern vs das Fernsehen), immediately confirmed with
+  a clean pair: "Ich sehe fern." / "Ich habe Fernsehen." Both correct same
+  round. Retest after a gap before calling it RESOLVED, given 3 prior failures.
 
 ### [anglicism] English nouns substituted where German was not known
 - Incorrect: Ich esse Chicken mit Rice.
@@ -724,6 +725,20 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Frequency: 1
 - First seen / last seen: 2026-09-07
 - Status: ACTIVE — retest plural dative (meinen Kindern) specifically
+
+### [preposition] aus used where vom (von+dem) fits better for "returning from"
+- Incorrect: Ich komme am Wochenende aus Kino. (article also missing: aus Kino)
+- Correct:   Ich komme am Wochenende vom Kino.
+- Why:       Two issues layered: (1) missing article — aus/von always need one
+             (aus dem Kino at minimum); (2) aus implies exiting an enclosed
+             space, while vom (von+dem) is the natural choice for "coming back
+             from [a place visited]" — same aus/von nuance flagged in Block 1's
+             "Meine Schwester kommt von dem Kino" (there it was accepted as
+             valid; the distinction is genuinely subtle, not a hard error
+             either time, but recurring enough to name explicitly).
+- Frequency: 2 (both today, same underlying aus/von nuance)
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — light, nuance-level, not urgent given genuine subtlety
 
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.

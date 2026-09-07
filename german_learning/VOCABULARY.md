@@ -99,6 +99,7 @@ A word is only MASTERED after correct recall across multiple sessions.
 - wohnen | to live / reside | verb | Ich wohne in Würzburg. | NEW | 2026-09-06 | he used it unprompted on 09-06 before it was taught; formally taught after he pointed out a question required it
 - leben | to live (be alive) | verb | Sie leben in Indien. | NEW | 2026-09-06 | taught alongside wohnen
 - das Wochenende | the weekend | plural: die Wochenenden | noun | Am Wochenende gehe ich ins Kino. | NEW | 2026-09-06 | taught after a conversation question required it
+- das Fernsehen | television (the noun/medium) | noun | Ich habe Fernsehen. | KNOWN | 2026-09-07 | contrasted explicitly with the separable prefix "fern" (sehe fern) after 3 capitalization mix-ups
 - ins (in + das) | to the (destination) | contraction | Ich gehe ins Kino. | NEW | 2026-09-06 | he omitted it ("Ich gehe Kino") — destinations need the preposition
 - müssen | must/have to (muss/musst/muss/müssen/müsst/müssen) | modal verb | Ich muss schlafen. | KNOWN | 2026-09-02
 - möchten | would like (möchte/möchtest/möchte/möchten/möchtet/möchten) | modal verb | Möchtest du einen Apfel essen? | KNOWN | 2026-09-02 | one Apfel/Äpfel singular-plural mix-up, corrected on retry
