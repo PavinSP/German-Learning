@@ -52,6 +52,7 @@ A word is only MASTERED after correct recall across multiple sessions.
 - mein / meine | my | possessive article | Das ist mein Buch. | KNOWN | 2026-09-01
 - dein / deine | your (informal) | possessive article | Ist das dein Buch? | KNOWN | 2026-09-01
 - sein / seine | his | possessive article | Das ist seine Katze. | KNOWN | 2026-09-01
+- unser / unsere | our (dative plural: unseren) | possessive article | Wir leben mit unseren Eltern. | KNOWN | 2026-09-07 | initially confused with uns (pronoun); corrected same session
 - ihr / ihre | her (also: you-all, informal) | possessive article / pronoun | Ihre Katze ist müde. | LEARNING | 2026-09-01 | double meaning (her vs you-all) — disambiguated correctly once, watch for confusion under pressure
 - gut | good | adjective | Ihr Buch ist gut. | KNOWN | 2026-09-01
 - Ihr / Ihre | your (formal) | possessive article | Ist das Ihr Buch? | LEARNING | 2026-09-01 | new, one miss then correct on retry (incl. self-corrected gender slip)
