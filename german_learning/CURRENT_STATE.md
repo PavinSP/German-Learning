@@ -38,7 +38,7 @@ from the Anki deck.
 | **Module** | Foundation |
 | **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
 | **Last session** | 2026-09-06 (Session 8 — voice live; accusative 8/8, dative 5/5, first free writing, **first sustained conversation**) |
-| **Next action** | **Overnight written check on `geben` (gibt vs gebt)** — deliberately NOT run on 09-06 to preserve the gap. Camouflage it among other sentences. Then dative prepositions (deferred in DOUBTS.md). 3hrs/day plan begins Mon 2026-09-07 |
+| **Next action** | `geben` resolved 2026-09-07 — see below. Next: **dative prepositions** (mit/nach/bei/von/zu/aus/seit, deferred in DOUBTS.md) as today's one new concept, per the 3hrs/day plan |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
 
@@ -47,7 +47,7 @@ from the Anki deck.
 | Item | Status | Note |
 |---|---|---|
 | den used for das-words | **LOAD-DEPENDENT, not a gap** (reclassified 2026-09-06) | Broke twice by voice ("den Buch"), then a written 8-question accusative check the same day went **8/8**, including two direct probes ("kein Buch" ✅, "das Buch" ✅). He knows the rule cold in writing. Do NOT re-teach — exercise it under load, like the conjugation pattern |
-| **geben conjugation (gibt)** | **INCONSISTENT — do not mark resolved again** | Typed timeline: 09-05 correct ×3 → 09-06 "Er gebt mir das Buch" wrong → 09-06 one hour later "Er gibt mir ein Buch" correct. Declared resolved and reversed TWICE already. Needs a real overnight gap in writing before any status change. Never verify by voice — STT normalizes it |
+| geben conjugation (gibt) | **RESOLVED — 2026-09-07, real gap, in writing** | 5/5 written, camouflaged among 4 other sentences, after a genuine overnight gap. First check to actually meet the bar (previous two "resolutions" were same-day or voice-only and both reversed). Holds until an equally rigorous check contradicts it |
 | Dative: person vs thing case assignment | **CONFIRMED 2026-09-06** | The exact inverted sentence ("Ich gebe ihn dem Hund") came back correct in a written 5/5 round: "Ich gebe ihr den Hund". Still worth one fresh-day probe |
 | mögen + verb (should be gern + verb) | Watch, speed-dependent | "Ich mag kochen" → "Ich koche gern". 2nd occurrence, this one under time pressure — mirrors the conjugation pattern (correct when unhurried, slips when fast) |
 | 3rd-person vs du conjugation | IMPROVING, load-dependent | 8+ instances, ALL under cognitive load; 3 focused drills, ALL clean. Not a conceptual gap. Do NOT drill in isolation — embed a 3rd-person subject in every mixed round. Recurred again in the 2026-09-04 review (Möchtest, wir können, trägt) |
@@ -71,7 +71,7 @@ from the Anki deck.
 | Modal verbs (müssen, möchten), Separable verbs, kein vs nicht | LEARNING/confirmed clean | 2026-09-08 |
 | Dative — articles, pronouns, preposition mit | LEARNING | Fresh-day check DONE 2026-09-06 by voice: articles ✅, mit ✅, gibt ✅ |
 | Dative — person vs thing case assignment | CONFIRMED (written 5/5, 2026-09-06) | 2026-09-09 — one more probe for form |
-| geben — gibt vs gebt | **UNRESOLVED, inconsistent** | 2026-09-07 — overnight, in WRITING. Never by voice |
+| geben — gibt vs gebt | **FUNCTIONAL, confirmed 2026-09-07** | 2026-09-14 — next spaced check |
 | Vocabulary: family, numbers, food, daily routine/time, weather, shopping | KNOWN | 2026-09-08 |
 | Vocabulary: house & rooms (+ compound nouns) | KNOWN | 2026-09-08 — probe Stuhl/Stühle specifically |
 
@@ -87,11 +87,12 @@ be wasted. Exercise it under load instead.
 **Written dative check — 5/5**, including the exact sentence he had inverted by
 voice ("Ich gebe ihr den Hund" ✅). Person-vs-thing case assignment confirmed.
 
-**The one thing still genuinely open is `geben`.** Typed timeline: 09-05 correct
-three times → 09-06 "Er gebt mir das Buch" wrong → 09-06 one hour later "Er gibt
-mir ein Buch" correct. It has been declared resolved and reversed **twice**.
-Next session: check it in writing after a real overnight gap, and do not change
-its status on anything less.
+**`geben` is now genuinely resolved (2026-09-07).** A camouflaged 5-sentence
+written check, after a real overnight gap, came back 5/5 — gibt, geben, and the
+dative person/thing assignment all correct. This is the first check on this
+item that actually meets the bar (real gap + writing + not telegraphed); the
+two earlier "resolutions" were same-day or voice-only and both had to be
+reversed. Promoted to FUNCTIONAL.
 
 After that, learner can choose: extend dative (prepositions nach/bei/von/zu),
 accusative prepositions (für/durch), or more vocabulary — see VOCAB_PLAN.md
