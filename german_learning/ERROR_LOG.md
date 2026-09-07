@@ -656,6 +656,27 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-07
 - Status: ACTIVE — light, retest
 
+### [case] pronoun (ihm) used instead of possessive (seinem) after mit
+- Incorrect: Er lebt mit ihm Bruder.
+- Correct:   Er lebt mit seinem Bruder.
+- Why:       "his brother" needs the possessive sein-, dative der-word ending
+             (seinem), not the personal pronoun ihm ("him"). mit is dative, so
+             the possessive itself needs the dative ending too — this is the
+             same pattern as "meiner Mutter" which he got right in the same round.
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — retest
+
+### [article] dative article dropped after von
+- Incorrect: Sie kommt von Schule.
+- Correct:   Sie kommt von der Schule.
+- Why:       Schule needs its article — die-word dative is der. Dropped
+             entirely rather than given the wrong form, unlike the seinem/ihm
+             slip in the same round.
+- Frequency: 1
+- First seen / last seen: 2026-09-07
+- Status: ACTIVE — retest
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
