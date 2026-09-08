@@ -846,7 +846,10 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              given in depth.
 - Frequency: 1
 - First seen / last seen: 2026-09-08
-- Status: ACTIVE — retest after the full explanation
+- Status: RESOLVED — clean retest immediately after the explanation
+  ("Er sieht uns im Raum"), and notably he stated the correct REASONING
+  unprompted ("cause no movement only location") — confirms the rule was
+  understood, not just guessed.
 
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
