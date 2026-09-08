@@ -33,7 +33,7 @@ automatic — and on day one the two disagreed in both directions (accusative wa
 | Nominative case | NOT_STARTED | — | — | — | — | — | — |
 | Accusative case | FUNCTIONAL | Good | 9/9 first session, 6/6 on review #2, and **8/8 on a written check 2026-09-06** incl. das-word probes (kein Buch, das Buch) | Breaks only under spoken real-time load ("den Buch"), never in writing | 2026-09-06 | 2026-09-13 | Yes |
 | Basic dative — articles (der/das→dem, die→der, ein→einem, eine→einer) | LEARNING | Good | 5/5 across dative case round + a dative preposition (mit) sentence | — | 2026-09-04 | 2026-09-06 | Yes |
-| Dative prepositions (mit) | INTRODUCED | Good | 1/1 correct (mit dem Kind) | — | 2026-09-04 | 2026-09-06 | Yes |
+| Dative prepositions (mit/nach/bei/von/zu/aus/seit) | FUNCTIONAL | Good | Full round resolved 2026-09-07/08: aus/von distinction, article-dropping habit, and nach-vs-zu (Q16) all confirmed clean on retest, incl. 2/2 on nach München / zum Bahnhof | zum/zur contraction slip (zur Arzt), single instance, watch once | 2026-09-08 | 2026-09-15 | Yes |
 | Dative pronouns (mir/dir/ihm/ihr/uns/euch/ihnen) | LEARNING | Good | 4/4 on first attempt, including correctly combining with accusative objects in the same sentence | — | 2026-09-04 | 2026-09-06 | Yes |
 | Possessive articles (mein/dein/sein/ihr/Ihr) | FUNCTIONAL | Good | 13/15 intensive review + clean 3/3 retest on formal Ihr and ihr's double meaning | Missed formal Ihr once before it was taught (now resolved); self-corrected one gender slip | 2026-09-01 | 2026-09-08 | Yes |
 | Plurals | FUNCTIONAL | Good | Correct across all exercises, retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
@@ -57,7 +57,8 @@ automatic — and on day one the two disagreed in both directions (accusative wa
 | Perfekt | NOT_STARTED | — | — | — | — | — | — |
 | Präteritum (sein/haben/modals) | NOT_STARTED | — | — | — | — | — | — |
 | Dative case (full) | NOT_STARTED | — | — | — | — | — | — |
-| Two-way prepositions | NOT_STARTED | — | — | — | — | — | — |
+| Two-way prepositions (in: dative=location, accusative=motion) | LEARNING | Good | Surfaced naturally via im/ins error 2026-09-07, full concept explained (Q19) 2026-09-08, immediate clean retest WITH correct stated reasoning ("cause no movement only location") | Two initial slips (ins for im, dropped article) both resolved same-week | 2026-09-08 | 2026-09-15 | Yes |
+| Accusative prepositions (für/durch/ohne/gegen/um) | INTRODUCED | Good | 4/5 first attempt: für dich ✅, durch (correct case, semantic mismatch — "durch den Arzt" instead of a space), ohne Milch ✅, um sieben Uhr ✅. Concept ("which prepositions force accusative") landed immediately since accusative endings were already solid | gegen unsere Eltern → said "unseren Eltern" (dative-plural ending leaking into an accusative-plural slot — real case-confusion, not random) | 2026-09-08 | 2026-09-10 | Yes |
 | Reflexive verbs | NOT_STARTED | — | — | — | — | — | — |
 | Subordinate clauses (weil, dass, wenn, als, obwohl) | NOT_STARTED | — | — | — | — | — | — |
 | Comparative / superlative | NOT_STARTED | — | — | — | — | — | — |

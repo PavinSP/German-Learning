@@ -25,9 +25,9 @@ from the Anki deck.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Two-way prepositions closed out (im/ins), nach vs zu fully explained, real listening practice started (Nicos Weg Ep.1) |
+| **Lesson** | Accusative prepositions introduced (für/durch/ohne/gegen/um) — 4/5 clean first attempt; listening vocab (schön/Entschuldigung/kein Problem/noch mal/bitte) confirmed cold |
 | **Last session** | 2026-09-08 (Session 10 — aus/von/nach polish, 52-question comprehensive review 46.5/52 (89%), first real listening comprehension check) |
-| **Next action** | Two listening checks done, both strong (see below) — continue with Nicos Weg Ep.3 "Tschüss" (already saved locally), or extend grammar: accusative prepositions (für/durch) or vocabulary (VOCAB_PLAN.md: transport/directions) |
+| **Next action** | Fresh-day check on accusative prepositions (watch for unseren/unsere case-confusion recurring). Imperative flagged as a natural next micro-topic (spontaneous attempt: "Gibt mir" → "Gib mir"). Episode 3 "Tschüss" ready whenever chosen for listening |
 | **Blocking?** | No |
 | **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
 

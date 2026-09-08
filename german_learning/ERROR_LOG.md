@@ -872,6 +872,20 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29
 - Status: ACTIVE — light, watch for recurrence
 
+### [case-confusion] dative-plural ending (unseren) leaking into accusative-plural slot
+- Incorrect: "Wir spielen gegen unseren Eltern."
+- Correct:   "Wir spielen gegen unsere Eltern."
+- Why:       gegen forces accusative; plural accusative possessives don't take the
+             -en ending (stays unsere for all genders/plural in accusative, unlike
+             dative plural which does take -en: mit unseren Eltern). unseren has
+             been heavily drilled in the dative-plural context (mit unseren
+             Eltern, correct multiple times) and is now leaking into a new
+             accusative-plural slot where it doesn't belong.
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — first exposure to accusative prepositions, expected friction
+  point; watch on next accusative-plural check
+
 ### [vocab-confusion] Tisch/Stuhl (table/chair) swap
 - Incorrect: "Der Tisch ist schön." (asked for "the chair is beautiful")
 - Correct:   "Der Stuhl ist schön."
