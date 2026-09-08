@@ -740,6 +740,30 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-07
 - Status: ACTIVE — light, nuance-level, not urgent given genuine subtlety
 
+### [article] nach missing its dative article
+- Incorrect: Wir gehen nach Wochenende zum Arzt.
+- Correct:   Wir gehen nach dem Wochenende zum Arzt.
+- Why:       Same pattern as previously-fixed von/aus drops — nach is a dative
+             preposition and always needs its article (nach dem Wochenende).
+             The rest of the sentence was excellent: correct time-before-place
+             order (unprompted, a rule only taught yesterday) and correctly
+             formed zum Arzt (zu+dem, der-word) for the actual destination.
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — retest; likely the same "drop the article" pattern as von/aus
+
+### [vocab-confusion] verb (arbeiten) used where the noun (die Arbeit) was needed
+- Incorrect: Sie kommt vom arbeiten.
+- Correct:   Sie kommt von der Arbeit.
+- Why:       "vom" contracts von+dem, which needs a NOUN object. "Work" as a
+             noun is die Arbeit (die-word — so von+die does NOT contract, stays
+             von der). arbeiten is the verb "to work"; using it here mixed verb
+             and noun. Also, if a verb were genuinely nominalized (das Arbeiten),
+             it would need capitalization.
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — new confusion type (verb/noun overlap), retest
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

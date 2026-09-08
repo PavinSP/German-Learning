@@ -287,3 +287,20 @@ the plural ending -en, not the feminine singular ending -er.
 Pattern to hold onto: dative plural nouns usually end in -n themselves
 (Kindern, Eltern) AND the article/possessive in front also takes -en. Both
 -en's together are the signature of dative plural.
+
+
+### 2026-09-08 — Q15: "Wir gehen nach Wochenende zum Arzt" — explain the correction
+
+Two separate points, both about "nach" and dative articles.
+
+**1. nach still needs its article, same as every dative preposition.** Correct:
+"nach **dem** Wochenende" — das-word, dative dem. Dropping the article after a
+dative preposition isn't allowed, same rule already seen with von/aus.
+
+**2. nach has TWO jobs here, and this sentence uses the "after" one, not the
+"to" one.** nach = "after" (time) — nach dem Wochenende = after the weekend.
+nach ALSO = "to" for countries/cities with no article — nach Deutschland, nach
+Berlin. The actual destination in this sentence (the doctor) uses **zu**, not
+nach: zum Arzt (zu+dem, Arzt is der-word). So the full correct sentence is:
+**"Wir gehen nach dem Wochenende zum Arzt."** — nach for the time-after, zu for
+the destination, both doing different jobs in the same sentence.
