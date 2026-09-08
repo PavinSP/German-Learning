@@ -836,6 +836,18 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-08
 - Status: ACTIVE — retest, specifically modal+nicht+accusative combined
 
+### [article] in used without its dative article (in Raum for im Raum)
+- Incorrect: Ich sehe euch in Raum.
+- Correct:   Ich sehe euch im Raum.
+- Why:       Same location-vs-motion two-way-preposition rule as the 2026-09-07
+             "ins Zimmer"→"im Zimmer" error, but this time the article was
+             dropped entirely rather than given the wrong (accusative) form.
+             He then asked for the full concept explanation (Q19), which was
+             given in depth.
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — retest after the full explanation
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.

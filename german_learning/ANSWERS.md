@@ -369,3 +369,21 @@ a variation of this one.
 **Rule of thumb:** nicht negates verbs/infinitives/prefixes, and sits right
 before them. A definite direct object sits before nicht, since it isn't the
 thing being negated.
+
+
+### 2026-09-08 — Q19: Two-way prepositions, full explanation
+
+German has a set of prepositions taking EITHER accusative or dative depending
+on movement: in, an, auf, über, unter, vor, hinter, neben, zwischen.
+
+**The single question that decides it: movement TO a place, or already
+located there (no movement)?**
+- Movement into/onto → ACCUSATIVE. "wohin?" (where to?) — Ich gehe ins Zimmer.
+- Location, no movement → DATIVE. "wo?" (where?) — Ich bin im Zimmer.
+
+**Contractions:** in+das → ins (accusative). in+dem → im (dative).
+
+**Quick test:** is this describing arriving/going somewhere (accusative), or
+being somewhere (dative)? "Ich sehe euch im Raum" is dative because nobody is
+moving into the room in that sentence — you're describing where you already
+are while seeing them.
