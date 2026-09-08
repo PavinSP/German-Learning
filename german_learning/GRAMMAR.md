@@ -44,7 +44,7 @@ automatic — and on day one the two disagreed in both directions (accusative wa
 | Separable verbs (aufstehen) | LEARNING | Good | 4/4 correct across all attempts, including a fresh-day check | — | 2026-09-02 | 2026-09-05 | Yes |
 | Yes/no questions | NOT_STARTED | — | — | — | — | — | — |
 | W-questions | FUNCTIONAL | Good | Correct across sessions, including self-generated question | Earlier du/haben slip not repeated | 2026-08-29 | 2026-09-01 | Yes |
-| Imperative | NOT_STARTED | — | — | — | — | — | — |
+| Imperative | INTRODUCED (spontaneous, not yet taught) | Partial | Attempted unprompted: "Gibt mir das Buch" → should be "Gib mir das Buch" (du-imperative drops -st/-t entirely; used the er/sie/es-form instead) | Single instance, first-ever attempt, before formal teaching | 2026-09-08 | 2026-09-10 | Yes — teach the rule first |
 | Basic conjunctions (und, aber, oder, denn) | FUNCTIONAL | Good | Correct, including a 3-clause self-generated sentence and retested clean after 3-day gap | — | 2026-09-01 | 2026-09-08 | Yes |
 | sie vs Sie capitalization | FUNCTIONAL | Good | Correct on targeted check and 3-day-gap retest | Earlier ihr/Sie pronoun mix-up — separate issue, retested clean | 2026-09-01 | 2026-09-08 | Yes |
 | Noun capitalization (always capitalized) | FUNCTIONAL | Good | Correct on retest after 3-day gap | Initial slip (buch lowercase) resolved | 2026-09-01 | 2026-09-08 | Yes |
