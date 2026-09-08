@@ -304,3 +304,27 @@ Berlin. The actual destination in this sentence (the doctor) uses **zu**, not
 nach: zum Arzt (zu+dem, Arzt is der-word). So the full correct sentence is:
 **"Wir gehen nach dem Wochenende zum Arzt."** — nach for the time-after, zu for
 the destination, both doing different jobs in the same sentence.
+
+
+### 2026-09-08 — Q16: Explain nach vs zu for destinations, in detail
+
+Both can mean "to", and they split by whether the destination takes an article.
+
+**nach** — destinations with NO article:
+- Cities/countries: nach Berlin, nach Deutschland, nach Indien
+- Directions: nach links (left), nach oben (up)
+- Also means "after" for time: nach dem Wochenende — a completely different
+  meaning, not "to" at all.
+
+**zu** — destinations that DO take an article:
+- People: zu meiner Mutter, zu dem Arzt (zum Arzt)
+- Specific places/buildings: zur Schule, zum Bahnhof, zum Supermarkt
+- Events/activities: zur Arbeit, zur Party
+
+**Quick test:** does the destination normally take der/die/das? No article
+(city/country) → nach. Has an article → zu (zum for der/das-words, zur for
+die-words).
+
+**Known exception, for later, not now:** some countries DO take an article and
+use "in" instead — in die Schweiz, in die USA. One of the trickier corners of
+German prepositions; noted but not to be worried about yet.
