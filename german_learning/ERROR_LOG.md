@@ -871,3 +871,14 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Frequency: 2
 - First seen / last seen: 2026-08-29
 - Status: ACTIVE — light, watch for recurrence
+
+### [vocab-confusion] Tisch/Stuhl (table/chair) swap
+- Incorrect: "Der Tisch ist schön." (asked for "the chair is beautiful")
+- Correct:   "Der Stuhl ist schön."
+- Why:       der Tisch = table, der Stuhl = chair — both KNOWN words individually,
+             but swapped under a translation prompt. Grammar (der-word agreement,
+             schön usage) was entirely correct; this is a word-pair mix-up, not a
+             grammar or schön issue.
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — single instance, watch once

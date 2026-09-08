@@ -173,6 +173,13 @@ A word is only MASTERED after correct recall across multiple sessions.
 **Objects & everyday items**
 - die Tasche | the bag | plural: die Taschen | noun | Die Tasche ist schön. | NEW | 2026-09-08 | surfaced via real listening (Nicos Weg Ep.1); correctly understood in context ("Die Tasche ist schön" / "Ja, die Tasche") without being pre-taught
 
+**Everyday phrases (from Nicos Weg Ep.1/2, cold-production confirmed)**
+- schön | beautiful / nice | adjective | Der Stuhl ist schön. | KNOWN | 2026-09-08 | confirmed cold, no video/context support (4.5/5 check) — genuinely learned, not just recognized on screen
+- Entschuldigung | excuse me / sorry | interjection | Entschuldigung, ist das Ihr Buch? | KNOWN | 2026-09-08 | produced correctly in BOTH formal (Ihr) and informal (dein) versions unprompted — good sign Sie/du is generalizing
+- kein Problem | no problem | phrase | Kein Problem! | KNOWN | 2026-09-08 | same kein-agreement pattern already known, now anchored to this common phrase
+- noch mal | again / one more time | phrase | Noch mal, bitte. | KNOWN | 2026-09-08 | confirmed cold
+- bitte | please | adverb | Ins Zentrum, bitte. | KNOWN | 2026-09-08 | confirmed cold (embedded in "Noch mal, bitte")
+
 ## Frequently Forgotten (⚠️ priority revision)
 
 (none at recurring frequency yet — see ⚠️ flags above, all currently single-occurrence)
