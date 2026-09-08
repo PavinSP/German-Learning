@@ -750,7 +750,8 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              formed zum Arzt (zu+dem, der-word) for the actual destination.
 - Frequency: 1
 - First seen / last seen: 2026-09-08
-- Status: ACTIVE — retest; likely the same "drop the article" pattern as von/aus
+- Status: RESOLVED — clean on retry ("nach dem Termin") with a new noun (Termin),
+  confirming this was the article-dropping habit, now fixed.
 
 ### [vocab-confusion] verb (arbeiten) used where the noun (die Arbeit) was needed
 - Incorrect: Sie kommt vom arbeiten.
@@ -762,7 +763,19 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              it would need capitalization.
 - Frequency: 1
 - First seen / last seen: 2026-09-08
-- Status: ACTIVE — new confusion type (verb/noun overlap), retest
+- Status: RESOLVED — clean on retry ("von der Arbeit").
+
+### [contraction] zur used for a der-word (should be zum)
+- Incorrect: Wir gehen nach dem Termin zur Arzt.
+- Correct:   Wir gehen nach dem Termin zum Arzt.
+- Why:       zur = zu+der (die-words only); zum = zu+dem (der/das-words). Arzt
+             is der-word, needs zum. He produced "zum Arzt" correctly the
+             previous day — likely a one-off carryover from just having used
+             "von der Arbeit" (die-word) correctly moments earlier in the same
+             round, not a genuine regression on the zum/zur distinction itself.
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — light, likely momentary; watch for recurrence
 
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.

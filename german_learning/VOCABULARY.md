@@ -98,6 +98,7 @@ A word is only MASTERED after correct recall across multiple sessions.
 - um | at (for time) | preposition | Ich stehe um sieben Uhr auf. | KNOWN | 2026-09-01
 - wohnen | to live / reside | verb | Ich wohne in Würzburg. | NEW | 2026-09-06 | he used it unprompted on 09-06 before it was taught; formally taught after he pointed out a question required it
 - leben | to live (be alive) | verb | Sie leben in Indien. | NEW | 2026-09-06 | taught alongside wohnen
+- der Termin | appointment | plural: die Termine | noun | Wir gehen nach dem Termin zum Arzt. | KNOWN | 2026-09-08 | introduced and used correctly same round
 - das Wochenende | the weekend | plural: die Wochenenden | noun | Am Wochenende gehe ich ins Kino. | NEW | 2026-09-06 | taught after a conversation question required it
 - das Fernsehen | television (the noun/medium) | noun | Ich habe Fernsehen. | KNOWN | 2026-09-07 | contrasted explicitly with the separable prefix "fern" (sehe fern) after 3 capitalization mix-ups
 - ins (in + das) | to the (destination) | contraction | Ich gehe ins Kino. | NEW | 2026-09-06 | he omitted it ("Ich gehe Kino") — destinations need the preposition
