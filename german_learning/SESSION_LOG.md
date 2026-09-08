@@ -4,6 +4,45 @@ Newest entries at the top.
 
 ---
 
+## Session 9 — 2026-09-07 (Day 1 of 3hrs/day plan)
+
+- **Topics:** Block 1 (geben overnight check, dative prepositions intro,
+  vocabulary sweep) → Block 2 (mixed practice) → Block 3 (free writing)
+- **`geben` genuinely resolved.** Camouflaged 5-sentence written check after a
+  real overnight gap — 5/5, gibt/geben correct throughout. First check on this
+  item to actually meet the bar (real gap + writing + not telegraphed); two
+  earlier "resolutions" (09-05 same-day, 09-06 voice-only) had both been
+  reversed. Promoted to FUNCTIONAL in GRAMMAR.md and ERROR_LOG.md.
+- **Dative prepositions introduced** (mit, nach, bei, von, zu, aus, seit) —
+  4/6 → 2/2 clean retry, then a mixed-practice round 2/4 → 3/3, ending with
+  "Er spielt mit seinen Freunden" — clean, unprompted, full dative-plural
+  signature (seinen + Freunden).
+- **Vocabulary sweep:** 15 previously INTRODUCED-but-untested words confirmed
+  (Hunger, Familie, Käse, Morgen, Regen, Hobby, selten, Hose, blau, Preis,
+  euch, Zimmer, wohnen, leben, Wochenende, ins). Surfaced der Raum and the
+  im/ins two-way-preposition distinction (untaught, used correctly on instinct).
+- **Real errors, all logged:** ihm→seinem, von+dropped article, zu redundantly
+  added to geben (verb already implies "to"), geben/gehen verb swap, uns vs
+  unser- (possessive), dative plural Kind→Kindern, German time-before-place
+  word order (new rule, now taught).
+- **Free writing #2: 7 sentences, up from 2 last time.** Real narrative with
+  cause/effect. Correctly used "zum Kino" (fixing an earlier gap). One
+  recurring error (fern capitalized as if nominalized — 3rd instance) directly
+  addressed and confirmed clean same session via a contrastive pair
+  ("Ich sehe fern" / "Ich habe Fernsehen").
+- **Process correction — "never assume, push every turn."** Answered Q13 (uns
+  vs unser-) only by filing it in ANSWERS.md, never actually spoke it in the
+  conversation turn. Learner caught this and a related unexplained correction,
+  read it as a carelessness pattern, and asked whether the model was the
+  problem. Two rules now in persistent memory: always speak explanations in
+  the turn itself (filing is additional, never instead); commit + push after
+  every turn touching tracker files, not batched at checkpoints.
+- **Next session:** dative prepositions need a fresh-day check (aus/von choice
+  is still shaky — light nuance, not urgent); continue free writing volume
+  trend; consider reading or a voice check for Block 3 variety.
+
+---
+
 ## Session 8 — 2026-09-06
 
 - **Topics:** Voice mode setup → first spoken German session → dative fresh-day

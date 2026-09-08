@@ -8,22 +8,11 @@ past LEARNING without holding across a real overnight gap. The extra hours go in
 depth per concept, not more concepts. Listening, speaking and daily free writing
 are now standing components.
 
-**⚠️ A CAUTION ABOUT STT, NOT AN ACQUISITION FINDING (corrected 2026-09-06).**
-On 2026-09-06 a conversation transcript showed "denn ich habe **gearbeitet**" —
-Perfekt, which is A2 and never taught. This was written up as evidence of
-ambient acquisition from living in Würzburg. **The learner then said he had
-actually said "arbeiten", not "gearbeitet".** Whisper had silently upgraded it
-to the grammatical Perfekt form.
-
-So the finding was an artifact, and it is a sharp reminder: **never build a
-conclusion about his knowledge on a voice transcript.** STT outputs plausible
-German, which means it invents competence he does not have — the mirror image
-of the geben case, where it hid an error he did make.
-
-Two words from that same conversation, **Kino** and **Suppe**, were not disputed
-and may genuinely be ambient. Worth asking him directly what German he meets
-day to day, since that input is invisible here — but ask him, do not infer it
-from transcripts.
+**Standing rules (memory, apply every session):** never infer knowledge from a
+voice transcript — STT rewrites toward grammatical German in both directions
+(hides real errors, invents fake competence); check endings/morphology in
+writing only. Never silently file an answer/correction — always speak it in
+the turn itself. Push to GitHub after every turn touching tracker files.
 
 **Also check [VOCAB_PLAN.md](VOCAB_PLAN.md) whenever picking a vocabulary topic** —
 it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
@@ -36,9 +25,9 @@ from the Anki deck.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Dative case introduced (articles + pronouns) — 8/8 clean on first attempt, combined correctly with accusative |
-| **Last session** | 2026-09-06 (Session 8 — voice live; accusative 8/8, dative 5/5, first free writing, **first sustained conversation**) |
-| **Next action** | `geben` resolved 2026-09-07 — see below. Next: **dative prepositions** (mit/nach/bei/von/zu/aus/seit, deferred in DOUBTS.md) as today's one new concept, per the 3hrs/day plan |
+| **Lesson** | Dative prepositions introduced (mit/nach/bei/von/zu/aus/seit) — 3/3 clean by end of session, incl. unprompted full dative-plural ("seinen Freunden") |
+| **Last session** | 2026-09-07 (Session 9, Day 1 of 3hrs/day plan — geben genuinely resolved, dative prepositions introduced, free writing jumped 2→7 sentences) |
+| **Next action** | Fresh-day check on dative prepositions (aus/von choice still shaky — light nuance). Continue free-writing volume trend. Block 3 variety: reading or a voice check |
 | **Blocking?** | No |
 | **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
 
@@ -77,29 +66,29 @@ from the Anki deck.
 
 ## Next action (detail)
 
-Two checks on 2026-09-06 settled most of what was open:
+**Session 9 (2026-09-07) closed out the pending items:**
 
-**Written accusative check — 8/8**, including two planted das-word probes
-("kein Buch", "das Buch"). This *reclassified* the "den for das-words" error:
-it is not a knowledge gap, it is load-dependent, and re-teaching the rule would
-be wasted. Exercise it under load instead.
+- `geben` genuinely resolved: 5/5 written, camouflaged, after a real overnight
+  gap. First check to actually meet the bar — two earlier "resolutions" were
+  same-day or voice-only and both reversed. Promoted to FUNCTIONAL.
+- Dative prepositions (mit/nach/bei/von/zu/aus/seit) introduced: rocky start
+  (2/6, mostly redundant-zu-with-geben and geben/gehen mix-ups) but closed
+  3/3 clean, including unprompted full dative-plural mastery
+  ("Er spielt mit seinen Freunden").
+- Free writing volume jumped from 2 sentences to 7, with a real narrative
+  structure — the "constraint is vocabulary/willingness, not grammar" reading
+  from 09-06 looks directionally correct.
+- One light nuance still shaky: choosing **aus vs von** for "coming from a
+  place" (aus = out of an enclosed space; von = general source/return-from).
+  Not urgent, genuinely subtle even for careful learners.
 
-**Written dative check — 5/5**, including the exact sentence he had inverted by
-voice ("Ich gebe ihr den Hund" ✅). Person-vs-thing case assignment confirmed.
+**Next session:** a fresh-day check on dative prepositions (aus/von choice
+specifically), then learner's choice — extend dative further, accusative
+prepositions (für/durch), or more vocabulary (VOCAB_PLAN.md: transport/
+directions is next). Consider reading or a voice check for Block 3 variety,
+since recent Block 3 sessions have all been free writing.
 
-**`geben` is now genuinely resolved (2026-09-07).** A camouflaged 5-sentence
-written check, after a real overnight gap, came back 5/5 — gibt, geben, and the
-dative person/thing assignment all correct. This is the first check on this
-item that actually meets the bar (real gap + writing + not telegraphed); the
-two earlier "resolutions" were same-day or voice-only and both had to be
-reversed. Promoted to FUNCTIONAL.
-
-After that, learner can choose: extend dative (prepositions nach/bei/von/zu),
-accusative prepositions (für/durch), or more vocabulary — see VOCAB_PLAN.md
-(transport/directions is next on the list).
-
-Keep pace slow, one new concept at a time, per learner's stated preference.
-
+Standing method notes:
 Standing method notes:
 - **Reading is now a standing component of sessions, not an extra.** Two passages on
   2026-09-03 scored 7/8, making it immediately the learner's strongest modality —
