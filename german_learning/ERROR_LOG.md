@@ -691,17 +691,21 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-07
 - Status: ACTIVE — retest, ties into the geben-vs-gehen mix-up below
 
-### [vocab-confusion] geben used where gehen was needed
-- Incorrect: Sie gibt zu der Schule nach dem Wochenende.
+### [vocab-confusion] geben/gehen verb swap (recurring, either direction)
+- Incorrect: Sie gibt zu der Schule nach dem Wochenende. (2026-09-07)
+             Ich gehe ihr einen Hund. (2026-09-08, "I give her the dog")
 - Correct:   Sie geht nach dem Wochenende zu der Schule.
-- Why:       geben (to give) and gehen (to go) are different verbs, likely
-             confused because both are common and both were just discussed
-             together in the previous question. gibt/geht — one letter apart,
-             easy to swap under load.
-- Frequency: 1
-- First seen / last seen: 2026-09-07
-- Status: ACTIVE — light, likely momentary given the immediately preceding
-  discussion of geben
+             Ich gebe ihr den Hund.
+- Why:       geben (to give) and gehen (to go) confused in BOTH directions
+             now — gibt-for-geht and gehe-for-gebe. One letter apart, both
+             extremely common verbs, easy to swap under load regardless of
+             direction. Not tied to a specific sentence context (the 09-07
+             instance followed a geben discussion; 09-08 did not), so this
+             looks like a genuine verb-pair confusion, not just proximity priming.
+- Frequency: 2
+- First seen / last seen: 2026-09-07 / 2026-09-08
+- Status: ACTIVE — now confirmed recurring in both directions, worth a light
+  contrastive drill (geben vs gehen side by side) if it appears again
 
 ### [vocab-confusion] uns (pronoun) used instead of unser- (possessive)
 - Incorrect: Wir leben mit uns Eltern.
@@ -776,6 +780,61 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Frequency: 1
 - First seen / last seen: 2026-09-08
 - Status: ACTIVE — light, likely momentary; watch for recurrence
+
+### [spelling] haben du-form misspelled (habst for hast)
+- Incorrect: Habst du Zeit?
+- Correct:   Hast du Zeit?
+- Why:       Simple spelling slip — likely blending "haben" stem with the
+             expected -st ending, producing a non-existent "habst". Concept
+             (du takes -st, question inversion) was correct.
+- Frequency: 1
+- First seen / last seen: 2026-09-08 (comprehensive review, Part A)
+- Status: ACTIVE — light, retest
+
+### [article] von + die instead of von + der (die-word dative)
+- Incorrect: Sie kommt von die Arbeit.
+- Correct:   Sie kommt von der Arbeit.
+- Why:       von is dative; die Arbeit (die-word) takes der in dative. He
+             produced this exact correct sentence the previous day (09-07) —
+             likely a momentary slip under the pressure of a long test, not
+             a regression in the underlying rule.
+- Frequency: 1 (this specific slip; distinct from the earlier verb/noun
+  arbeiten/Arbeit confusion which was a different error type)
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — light, likely momentary given prior correct production
+
+### [article] nach + der instead of nach + dem (das-word dative)
+- Incorrect: Wir gehen nach der Wochenende zum Arzt.
+- Correct:   Wir gehen nach dem Wochenende zum Arzt.
+- Why:       das Wochenende is a das-word; dative is dem, not der. Same
+             sentence produced correctly the previous day (09-07) once the
+             article-dropping habit was fixed — this is a gender slip
+             (der instead of dem), a different error from the earlier
+             dropped-article pattern, though on the same noun.
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — light, retest
+
+### [spelling] möchten missing umlaut (Mochtest for Möchtest)
+- Incorrect: Mochtest du Brot essen?
+- Correct:   Möchtest du Brot essen?
+- Why:       Missing umlaut changes the word — "Mochtest" isn't möchten's
+             du-form without it. Likely typing/spelling slip, not a
+             conceptual gap (conjugation shape and word order both correct).
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — light, retest
+
+### [modal] modal verb omitted where the prompt required one
+- Incorrect: Wir sehen die Katze nicht. (for "We CAN'T see the cat")
+- Correct:   Wir können die Katze nicht sehen.
+- Why:       Sentence is grammatically valid German ("we don't see the cat")
+             but doesn't express the requested MODAL meaning ("can't", ability/
+             possibility) — just simple present + nicht. Modal verb können
+             was dropped along with the infinitive-at-the-end construction.
+- Frequency: 1
+- First seen / last seen: 2026-09-08
+- Status: ACTIVE — retest, specifically modal+nicht+accusative combined
 
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.

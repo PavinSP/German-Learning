@@ -328,3 +328,23 @@ die-words).
 **Known exception, for later, not now:** some countries DO take an article and
 use "in" instead — in die Schweiz, in die USA. One of the trickier corners of
 German prepositions; noted but not to be worried about yet.
+
+
+### 2026-09-08 — Q17: leben vs wohnen — which to use?
+
+Both mean "to live", different senses.
+
+**wohnen** = to reside / have an address — the physical fact of where you live.
+Ich wohne in Würzburg. (my address)
+
+**leben** = to live in the broader sense — being alive, lifestyle, or living
+WITH people (family, relationships). Ich lebe mit meiner Familie. Er lebt gesund.
+
+**Overlap:** for a simple "where do you live" either can work, but wohnen is
+the more natural choice for addresses. leben leans toward "life" in general or
+"living with" someone.
+
+**Quick test:** answering an address/city question → wohnen. Talking about
+living WITH people, lifestyle, or being alive generally → leben. This is
+exactly why "Er lebt mit seiner Mutter" (living WITH someone) correctly uses
+leben, not wohnen.
