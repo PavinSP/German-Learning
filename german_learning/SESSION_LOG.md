@@ -4,6 +4,45 @@ Newest entries at the top.
 
 ---
 
+## Session 10 — 2026-09-08
+
+- **Topics:** aus/von/nach polish → Q15/Q16 (nach vs zu) → repo audit →
+  52-question comprehensive review (no limit, learner-requested) → two-way
+  prepositions closed out (Q19) → first real listening comprehension check.
+- **aus/von and article-dropping (von/nach) both resolved.** One light,
+  likely-momentary zum/zur slip remains ("zur Arzt"), not treated as a
+  regression since "zum Arzt" was already correct the same day.
+- **Q15/Q16 answered:** full nach-vs-zu explanation for destinations
+  (no-article→nach, has-article→zu, zum/zur contractions). Immediate 2/2
+  clean retest.
+- **Repo audit performed** (learner-requested, standing rule now): checked
+  all 8 daily_notes files against SESSION_LOG/ANSWERS/GRAMMAR/ERROR_LOG for
+  content logged-but-never-written-to-the-day's-note. Found and fixed one gap
+  (2026-09-07 missing the im/ins error + Q12). Pushed (24da89d).
+- **52-question exhaustive review, no limit, across every topic taught to
+  date** — final score **46.5/52 (~89%)**, up from 37/50 (74%) on
+  2026-09-04, on a larger/harder question set. Zero conceptual gaps found;
+  every miss was a light spelling slip or a specific, nameable
+  gender/verb-pair confusion. Full breakdown in
+  [daily_notes/2026-09-08.md](daily_notes/2026-09-08.md).
+- **Two long-deferred explanations closed out** as a side effect of the
+  review: nicht-placement (Q18, originally flagged 2026-09-04) and two-way
+  prepositions in full (Q19, im/ins — dative=location vs accusative=motion).
+  Immediate correct retest with correct stated reasoning ("cause no movement
+  only location").
+- **First real listening practice.** Learner sourced the actual Nicos Weg
+  Episode 1 video locally. Transcribed via local `whisper-cli`
+  (`ggml-large-v3-turbo` model, on-device, no API — per explicit
+  instruction) after an initial API-based transcription was redone to
+  honor that. Learner watched/listened without the transcript and reported
+  comprehension: correctly identified the greeting-chain scene, the full
+  "die Tasche ist schön" confusion-and-clarification exchange, and the
+  ending — a strong first real-audio comprehension result. Episodes 2 and 3
+  saved locally, not yet reviewed.
+- **Recurring patterns confirmed, not new:** geben/gehen swap (both
+  directions, 2 instances); mein/meine gender agreement under
+  free-production load (3rd instance).
+
 ## Session 9 — 2026-09-07 (Day 1 of 3hrs/day plan)
 
 - **Topics:** Block 1 (geben overnight check, dative prepositions intro,

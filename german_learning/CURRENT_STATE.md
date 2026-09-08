@@ -25,11 +25,11 @@ from the Anki deck.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Dative prepositions introduced (mit/nach/bei/von/zu/aus/seit) — 3/3 clean by end of session, incl. unprompted full dative-plural ("seinen Freunden") |
-| **Last session** | 2026-09-07 (Session 9, Day 1 of 3hrs/day plan — geben genuinely resolved, dative prepositions introduced, free writing jumped 2→7 sentences) |
-| **Next action** | Fresh-day check on dative prepositions (aus/von choice still shaky — light nuance). Continue free-writing volume trend. Block 3 variety: reading or a voice check |
+| **Lesson** | Two-way prepositions closed out (im/ins), nach vs zu fully explained, real listening practice started (Nicos Weg Ep.1) |
+| **Last session** | 2026-09-08 (Session 10 — aus/von/nach polish, 52-question comprehensive review 46.5/52 (89%), first real listening comprehension check) |
+| **Next action** | First real audio comprehension check went well (see below) — continue with Nicos Weg Ep.2/3 (already saved locally), or extend grammar: accusative prepositions (für/durch) or vocabulary (VOCAB_PLAN.md: transport/directions) |
 | **Blocking?** | No |
-| **Last full review** | 50-question deep dive 2026-09-04 — **37/50 (74%)**. [Graded results](https://claude.ai/code/artifact/2847c8d3-e569-4c41-90ed-f787246bf70c) |
+| **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
 
 ## Known weaknesses (watch list)
 
@@ -48,6 +48,15 @@ from the Anki deck.
 | **Free-writing volume / avoidance** | **NEW, 2026-09-06 — first measurement** | Asked for 5-8 sentences, produced 2, both from his most-drilled material. Also substituted English ("Chicken", "Rice") instead of writing `???` as instructed. Structure was clean — **the constraint is vocabulary reach and willingness to attempt, not grammar** |
 | Separable prefix capitalized (Fern, Schwimmen) | Pattern, 2 instances | Infinitives and separable prefixes stay lowercase unless genuinely nominalized (das Schwimmen). Worth one explicit statement |
 | Modal + infinitive placement | Light | One slip, retested clean once — low priority |
+| zum/zur contraction (der/das vs die words) | New, light, likely momentary | "zur Arzt" instead of "zum Arzt" — same day "zum Arzt" was already correct, so read as a slip not a regression. Watch once |
+
+## Listening comprehension (NEW, 2026-09-08)
+
+| Episode | Result |
+|---|---|
+| Nicos Weg Ep.1 "Hallo!" | **Strong first attempt.** Correctly identified the greeting-chain scene, the full bag/"schön" confusion-and-clarification exchange, and the ending (mother intervening, both leaving). Only gap: read the opening greetings as a "podcast" rather than live street dialogue — reasonable inference from audio alone. See [daily note](daily_notes/2026-09-08.md) and [Listening/01_Hallo_Nicos_Weg_transcript.md](Listening/01_Hallo_Nicos_Weg_transcript.md) |
+
+Episodes 2 ("Kein Problem") and 3 ("Tschüss") already saved locally by the learner, not yet transcribed/reviewed — pending his choice of when to watch next.
 
 ## Revision schedule
 

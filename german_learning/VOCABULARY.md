@@ -170,6 +170,9 @@ A word is only MASTERED after correct recall across multiple sessions.
 - der Stuhl | the chair | plural: die Stühle | noun | Ich sehe einen Stuhl. | KNOWN | 2026-09-03 | ⚠️ one invented-umlaut slip (Stühl for Stuhl), corrected on retry
 - das Fenster | the window | plural: die Fenster (unchanged) | noun | Wir haben kein Fenster. | KNOWN | 2026-09-03
 
+**Objects & everyday items**
+- die Tasche | the bag | plural: die Taschen | noun | Die Tasche ist schön. | NEW | 2026-09-08 | surfaced via real listening (Nicos Weg Ep.1); correctly understood in context ("Die Tasche ist schön" / "Ja, die Tasche") without being pre-taught
+
 ## Frequently Forgotten (⚠️ priority revision)
 
 (none at recurring frequency yet — see ⚠️ flags above, all currently single-occurrence)
