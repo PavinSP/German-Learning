@@ -348,3 +348,24 @@ the more natural choice for addresses. leben leans toward "life" in general or
 living WITH people, lifestyle, or being alive generally → leben. This is
 exactly why "Er lebt mit seiner Mutter" (living WITH someone) correctly uses
 leben, not wohnen.
+
+
+### 2026-09-08 — Q18 (was deferred as "Q20" on 2026-09-04): why "den Hund nicht sehen" not "nicht den Hund sehen"?
+
+**nicht sits as close to the end as possible, but BEFORE whatever it negates**
+(a verb, an infinitive, a separable prefix): Ich sehe **nicht** fern. Er kann
+**nicht** schwimmen.
+
+**A definite/specific object (der/die/das-marked) is not what nicht is
+negating — it's established information — so it comes BEFORE nicht, not
+after:** "So kann er den Hund nicht sehen." — den Hund (the specific dog)
+first, nicht right before the infinitive sehen at the very end, negating the
+seeing itself, not the dog.
+
+Contrast with an indefinite object, which uses a completely different
+mechanism (kein, not nicht at all) — see Q8/Q9. This is a separate rule, not
+a variation of this one.
+
+**Rule of thumb:** nicht negates verbs/infinitives/prefixes, and sits right
+before them. A definite direct object sits before nicht, since it isn't the
+thing being negated.
