@@ -23,3 +23,29 @@ Hotel Königshof?
 [76.7s–84.8s] Okay, kein Problem.
 [84.8s–87.8s] Hey, stopp.
 [87.8s–91.5s] Oh.
+
+## Official script (from learngerman.dw.com, added 2026-09-08)
+
+Learner found the official DW course page for this episode ("Symbols at the
+airport" / Nico landing and the bag mix-up). Confirms our local
+transcription's words were accurate; adds speaker roles:
+
+> EMMA: Hallo! Mist!
+> MANN: Ja, ich bin gut angekommen. Du kannst mir die Unterlagen für das
+> Meeting im Hotel hinterlegen.
+> EMMA: Cool! Noch mal!
+> MANN: Ins Zentrum bitte. Zum Königshof.
+> TAXIFAHRER: Ins Zentrum, zum Königshof. Ins Restaurant Königshof oder zum
+> Hotel Königshof?
+> MANN: Hotel Königshof.
+> TAXIFAHRER: Okay, kein Problem.
+> NICO: Hey, stopp!
+
+**Who's who:** the phone call and taxi instructions ("Ins Zentrum bitte, zum
+Königshof") belong to an unnamed **Mann** (business traveler), not Nico.
+Emma is a separate side-thread (her bubble toy — "Mist!" = darn/dang when
+it doesn't work, "Cool! Noch mal!" = cool, again! probably reacting to Nico
+helping her). **Nico** only speaks the final line, objecting when the taxi
+driver takes his bag along with the Mann's by mistake. Königshof is both a
+restaurant and a hotel name in-story, which is the source of the taxi
+driver's clarifying question.

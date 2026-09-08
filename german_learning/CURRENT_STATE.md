@@ -27,7 +27,7 @@ from the Anki deck.
 | **Module** | Foundation |
 | **Lesson** | Two-way prepositions closed out (im/ins), nach vs zu fully explained, real listening practice started (Nicos Weg Ep.1) |
 | **Last session** | 2026-09-08 (Session 10 — aus/von/nach polish, 52-question comprehensive review 46.5/52 (89%), first real listening comprehension check) |
-| **Next action** | First real audio comprehension check went well (see below) — continue with Nicos Weg Ep.2/3 (already saved locally), or extend grammar: accusative prepositions (für/durch) or vocabulary (VOCAB_PLAN.md: transport/directions) |
+| **Next action** | Two listening checks done, both strong (see below) — continue with Nicos Weg Ep.3 "Tschüss" (already saved locally), or extend grammar: accusative prepositions (für/durch) or vocabulary (VOCAB_PLAN.md: transport/directions) |
 | **Blocking?** | No |
 | **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
 
@@ -54,7 +54,8 @@ from the Anki deck.
 
 | Episode | Result |
 |---|---|
-| Nicos Weg Ep.1 "Hallo!" | **Strong first attempt.** Correctly identified the greeting-chain scene, the full bag/"schön" confusion-and-clarification exchange, and the ending (mother intervening, both leaving). Only gap: read the opening greetings as a "podcast" rather than live street dialogue — reasonable inference from audio alone. See [daily note](daily_notes/2026-09-08.md) and [Listening/01_Hallo_Nicos_Weg_transcript.md](Listening/01_Hallo_Nicos_Weg_transcript.md) |
+| Nicos Weg Ep.1 "Hallo!" | **Strong first attempt.** Correctly identified the greeting-chain scene, the full bag/"schön" confusion-and-clarification exchange, and the ending (mother intervening, both leaving). Only gap: read the opening greetings as a "podcast" rather than live street dialogue — reasonable inference from audio alone. Confirmed word-for-word against the official DW script. See [daily note](daily_notes/2026-09-08.md) and [Listening/01_Hallo_Nicos_Weg_transcript.md](Listening/01_Hallo_Nicos_Weg_transcript.md) |
+| Nicos Weg Ep.2 "Kein Problem" | **Full plot/causal chain correct** (bags placed near each other → taxi driver takes both by mistake → Nico objects), incl. sensing the Königshof hotel/restaurant naming confusion. **One character-attribution mix-up:** attributed the phone call and taxi instructions to Nico; script confirms they belong to an unnamed Mann, with Nico only speaking the final "Hey, stoppl!" line. Not a German-comprehension gap — a who-said-it framing miss. See [Listening/02_Kein_Problem_Nicos_Weg_transcript.md](Listening/02_Kein_Problem_Nicos_Weg_transcript.md) |
 
 Episodes 2 ("Kein Problem") and 3 ("Tschüss") already saved locally by the learner, not yet transcribed/reviewed — pending his choice of when to watch next.
 
