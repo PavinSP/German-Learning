@@ -851,6 +851,17 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   unprompted ("cause no movement only location") — confirms the rule was
   understood, not just guessed.
 
+### [article] mein/meine gender slip recurs in free production (Mutter)
+- Incorrect: Mein Mutter sieht mich.
+- Correct:   Meine Mutter sieht mich.
+- Why:       die-word Mutter needs meine, not mein — same recurring
+             gender-agreement pattern from 2026-09-01, resurfacing here under
+             the load of free, unscaffolded multi-sentence production.
+- Frequency: 3 (2026-09-01 both directions, now again 2026-09-08 in free writing)
+- First seen / last seen: 2026-09-01 / 2026-09-08
+- Status: ACTIVE — light, consistent with load-dependent pattern (correct in
+  scaffolded exercises, occasional slip in free production)
+
 ### [spelling] English spelling leaking into German verb forms
 - Incorrect: Er is nicht glücklich. / Du bust hungrig.
 - Correct:   Er ist nicht glücklich. / Du bist hungrig.
