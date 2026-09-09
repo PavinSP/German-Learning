@@ -4,6 +4,11 @@ Newest entries at the top.
 
 ---
 
+## 2026-09-09 — No study day
+
+No session held. Logged so the streak/history stays accurate rather than
+silently skipping a date.
+
 ## Session 10 — 2026-09-08
 
 - **Topics:** aus/von/nach polish → Q15/Q16 (nach vs zu) → repo audit →
