@@ -387,3 +387,24 @@ located there (no movement)?**
 being somewhere (dative)? "Ich sehe euch im Raum" is dative because nobody is
 moving into the room in that sentence — you're describing where you already
 are while seeing them.
+
+
+### 2026-09-10 — Q20: "Ich gehe zu meiner Mutter" or "zur Mutter"? — possessives don't contract
+
+**"Ich gehe zu meiner Mutter"** is correct — not "zu meine Mutter" and not
+"zur Mutter" for this sentence.
+
+Two separate things are happening:
+1. **zu** forces dative, so the possessive must take the dative ending.
+   die Mutter is a die-word, and die-words take **-er** in dative
+   (mirrors der Mutter → der Mutter with the plain article) — so mein
+   becomes **meiner**, not meine.
+2. **zur** is a contraction of **zu + der** (the plain definite article),
+   not zu + a possessive. Contractions like zum (zu+dem) and zur (zu+der)
+   only happen with the bare article — "zur Mutter" would mean "to THE
+   mother," not "to MY mother." Possessives never contract with
+   prepositions.
+
+**Rule of thumb:** zu/zur/zum contractions apply only to der/die/das.
+Swap in any possessive (mein/dein/sein/ihr/unser) and you spell it out in
+full — zu + the possessive's dative-ending form.

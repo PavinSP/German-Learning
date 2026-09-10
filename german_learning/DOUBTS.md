@@ -1,1 +1,0 @@
-question 39 when to use nicht ie which place in the sentence? 
