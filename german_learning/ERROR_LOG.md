@@ -872,6 +872,31 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-08-29
 - Status: ACTIVE — light, watch for recurrence
 
+### [pronoun] es/sie dative forms swapped
+- Incorrect: es → ihr, sie (she) → ihm (reversed from a memory-recall table)
+- Correct:   es → ihm, sie (she) → ihr
+- Why:       es and er share the same dative form (ihm); sie (she) takes ihr.
+             Learner reversed these two specifically when reciting the full
+             pronoun table from memory.
+- Frequency: 1
+- First seen / last seen: 2026-09-10
+- Status: RESOLVED same session — isolated 4-question drill (er/es/sie/helfen
+  context) went 4/4 clean immediately after
+
+### [verb-case] helfen (and dative-only verbs) treated as taking accusative
+- Incorrect: Ich helfe sie.
+- Correct:   Ich helfe ihr.
+- Why:       helfen, danken, gehören (and a few others) take ONLY a dative
+             object, never accusative — even though there's just one object,
+             which normally signals accusative. English "I help her" looks
+             like a direct object, but German treats the helped person as a
+             recipient, not a direct object.
+- Frequency: 1
+- First seen / last seen: 2026-09-10
+- Status: RESOLVED same session — immediate correct retest with danken (ihm)
+  and gehören (mir), the latter generalizing correctly on a verb never
+  pre-taught
+
 ### [case-confusion] dative-plural ending (unseren) leaking into accusative-plural slot
 - Incorrect: "Wir spielen gegen unseren Eltern."
 - Correct:   "Wir spielen gegen unsere Eltern."
