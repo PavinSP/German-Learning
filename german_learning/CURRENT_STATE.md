@@ -26,8 +26,8 @@ from the Anki deck.
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
 | **Lesson** | Accusative prepositions introduced (für/durch/ohne/gegen/um) — 4/5 clean first attempt; listening vocab (schön/Entschuldigung/kein Problem/noch mal/bitte) confirmed cold |
-| **Last session** | 2026-09-08 (Session 10 — aus/von/nach polish, 52-question comprehensive review 46.5/52 (89%), first real listening comprehension check) |
-| **Next action** | Fresh-day check on accusative prepositions (watch for unseren/unsere case-confusion recurring). Imperative flagged as a natural next micro-topic (spontaneous attempt: "Gibt mir" → "Gib mir"). Episode 3 "Tschüss" ready whenever chosen for listening |
+| **Last session** | 2026-09-10 (Session 11 — no-study gap on 09-09, then a 6/6 confidence-check on Session 10 material incl. one unprompted self-correction; confirmed as retrieval anxiety, not a real gap) |
+| **Next action** | Choose one: fresh-day accusative-prepositions retest (watch for unseren/unsere case-confusion recurring), the imperative (flagged after a spontaneous "Gibt mir" → "Gib mir" attempt), or Episode 3 "Tschüss" for listening |
 | **Blocking?** | No |
 | **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
 

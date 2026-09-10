@@ -4,6 +4,17 @@ Newest entries at the top.
 
 ---
 
+## Session 11 — 2026-09-10
+
+- **Opened worried about forgetting material after the 2026-09-09 gap.** Ran
+  a 6-question spread-check across Session 10's content instead of taking
+  the feeling at face value: für, durch, ohne (+ correct instinct to skip
+  the article on general/uncountable Milch), um+time, mit+dative
+  (self-corrected seine→seiner mid-sentence, unprompted), and a dative
+  pronoun (ihm). **6/6, including one genuine self-correction.** Confirmed
+  the "I forgot everything" feeling was retrieval anxiety, not an actual
+  gap — full detail in [daily_notes/2026-09-10.md](daily_notes/2026-09-10.md).
+
 ## 2026-09-09 — No study day
 
 No session held. Logged so the streak/history stays accurate rather than
