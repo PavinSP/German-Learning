@@ -4,7 +4,7 @@ Newest entries at the top.
 
 ---
 
-## Session 12 — 2026-09-11 (IN PROGRESS)
+## Session 12 — 2026-09-11
 
 - **Continuing the grammar-concepts test from Session 11, Q5 onward.**
 - **Q5 (nach vs zu):** initial rule was invented ("nach = infinitive-form
@@ -16,12 +16,15 @@ Newest entries at the top.
 - **Q6 (separable verbs): 3/3, clean, no nudge needed.** Split rule, two
   examples (incl. an unprompted correct accusative pronoun, "Ich rufe dich
   an"), and the modal-verb-keeps-it-whole rule all correct first try.
-- **Q7 (verb-second) in progress** — learner answering in smaller layers;
-  logging live turn-by-turn per their request rather than batching at the end.
+- **Q7 (verb-second): all 3 parts correct**, with one nuance needing an
+  isolated nudge — correctly separated weil (own verb to the end) from denn
+  (normal order), but initially missed that the main clause AFTER a
+  weil-clause still needs verb-second ("Weil es regnet, gehe ich..." not
+  "...ich gehe..."). Fixed immediately on an isolated retest.
 - **Pattern flagged:** three topics in two days (es/sie dative swap, two-way
-  prepositions, now nach/zu) have needed a nudge back to already-answered
-  material rather than landing clean cold. Logged as a new watch-item, not
-  yet treated as a real regression pattern — see ERROR_LOG.md.
+  prepositions, nach/zu) needed a nudge back to already-answered material
+  rather than landing clean cold. Logged as a watch-item, not yet treated as
+  a real regression pattern — see ERROR_LOG.md.
 - Full detail: [daily_notes/2026-09-11.md](daily_notes/2026-09-11.md)
 
 ## Session 11 — 2026-09-10

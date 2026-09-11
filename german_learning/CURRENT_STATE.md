@@ -25,9 +25,9 @@ from the Anki deck.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Grammar-concepts test (rules, not sentences) — started Session 11 (2026-09-10), continuing live in Session 12 (2026-09-11). Currently on Q7 (verb-second), answered in layers |
-| **Last session** | 2026-09-11 (Session 12, IN PROGRESS) — Q5 (nach/zu) corrected via self-directed ANSWERS.md check, Q6 (separable verbs) 3/3 clean first try, Q7 pending |
-| **Next action** | Finish Q7 (verb-second) then continue the grammar-concepts test: nicht placement, modal verb structure. Still open from before: accusative-prepositions sentence retest (watch unseren/unsere), the imperative, Episode 3 "Tschüss" |
+| **Lesson** | Grammar-concepts test (rules, not sentences) — Session 11-12 (2026-09-10/11) covered cases/pronouns, dative-only verbs, dative/accusative/two-way prepositions, separable verbs, verb-second (incl. weil/denn word order) |
+| **Last session** | 2026-09-11 (Session 12) — Q5 (nach/zu) self-corrected via ANSWERS.md, Q6 (separable verbs) 3/3 clean, Q7 (verb-second) 3/3 with one nuance (weil-clause fills position 1) fixed on isolated retest |
+| **Next action** | Continue the grammar-concepts test: Q8+ (nicht placement, modal verb structure). Still open from before: accusative-prepositions sentence retest (watch unseren/unsere), the imperative, Episode 3 "Tschüss" |
 | **Blocking?** | No |
 | **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
 
