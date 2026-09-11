@@ -28,7 +28,7 @@ automatic — and on day one the two disagreed in both directions (accusative wa
 | Key irregular verbs (fahren, sprechen, essen, lesen...) | NOT_STARTED | — | — | — | — | — | — |
 | Definite articles (der/die/das) | FUNCTIONAL | Good | Correct for Mann/Frau/Buch/Katze/Haus | — | 2026-08-29 | 2026-09-01 | Yes |
 | Indefinite articles (ein/eine) | FUNCTIONAL | Good | Correct, including das-word gender on retrieval check | Earlier slip (eine Buch) not repeated | 2026-08-29 | 2026-09-01 | Yes |
-| Negation: nicht | FUNCTIONAL | Good | Correct | — | 2026-08-29 | 2026-09-01 | Yes |
+| Negation: nicht (placement rule + definite-object nuance) | FUNCTIONAL | Good | 2026-09-11 concepts test: general rule (sits before whatever it negates) stated correctly first try; definite-object nuance (object comes BEFORE nicht, since it isn't what's negated) initially incomplete, self-corrected fully after being pointed to ANSWERS.md Q18 | Initial answer only covered general placement, not the definite-object piece — resolved same turn via self-directed reference check | 2026-09-11 | 2026-09-18 | Yes |
 | Negation: kein/keine | FUNCTIONAL | Good | Correct, including unprompted retrieval check | Earlier nicht/keine confusion resolved | 2026-08-29 | 2026-09-01 | Yes |
 | Nominative case | NOT_STARTED | — | — | — | — | — | — |
 | Accusative case | FUNCTIONAL | Good | 9/9 first session, 6/6 on review #2, and **8/8 on a written check 2026-09-06** incl. das-word probes (kein Buch, das Buch) | Breaks only under spoken real-time load ("den Buch"), never in writing | 2026-09-06 | 2026-09-13 | Yes |
