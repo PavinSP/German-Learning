@@ -21,6 +21,17 @@ Newest entries at the top.
   (normal order), but initially missed that the main clause AFTER a
   weil-clause still needs verb-second ("Weil es regnet, gehe ich..." not
   "...ich gehe..."). Fixed immediately on an isolated retest.
+- **Q8 (nicht placement):** general rule clean first try; definite-object
+  nuance self-corrected via ANSWERS.md Q18 (same self-correction pattern
+  as Q5).
+- **Q9 (modal verb structure): clean, no help needed, first try.**
+- **GRAMMAR-CONCEPTS TEST (Q1-Q9) COMPLETE.** Final pattern: 4/9 fully clean
+  with zero help (dative preps, accusative preps, separable verbs, modal
+  structure); 3/9 resolved via self-directed reference checks (nach/zu,
+  verb-second nuance, nicht-placement nuance) — a genuine strength, real
+  debugging rather than memorization; 2/9 needed an actual re-teach (the
+  four-cases logic, two-way prepositions after real forgetting). No topic
+  stayed wrong after correction.
 - **Pattern flagged:** three topics in two days (es/sie dative swap, two-way
   prepositions, nach/zu) needed a nudge back to already-answered material
   rather than landing clean cold. Logged as a watch-item, not yet treated as
