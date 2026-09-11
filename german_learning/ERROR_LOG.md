@@ -911,6 +911,49 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Status: ACTIVE — first exposure to accusative prepositions, expected friction
   point; watch on next accusative-plural check
 
+### [other] invented grammatical rule (nach = "nouns in infinitive form")
+- Incorrect: stated rule — "nach is used when the noun is in infinitive form"
+- Correct:   nach = destination has NO article (place names, mostly); zu =
+             destination DOES take an article (zum Arzt, since der Arzt)
+- Why:       "Infinitive form" is a property of VERBS (gehen, essen), not nouns —
+             the phrase doesn't map to any real German grammar category. Notably
+             BOTH worked examples given alongside the invented rule (nach Berlin;
+             zu die Stadt self-corrected to zur Stadt) were correct, so the
+             conclusion was right despite the reasoning being fabricated. This
+             matters because a wrong rule that happens to produce right answers
+             here may not generalize to the next example.
+- Frequency: 1
+- First seen / last seen: 2026-09-11
+- Status: RESOLVED same session — rather than re-teaching, pointed back to
+  ANSWERS.md Q16 (already answered 2026-09-08) per the learner's own requested
+  process. Learner opened it and restated the correct rule unprompted.
+
+### [pattern] repeated need for a nudge back to already-answered material
+- Three instances in two days, each on a DIFFERENT topic:
+  1. 2026-09-10 — es/sie dative pronoun table: swapped es↔ihr and sie↔ihm.
+     Isolated retest 4/4 clean immediately.
+  2. 2026-09-10 — two-way prepositions: "I don't know" outright after a 2-day
+     gap, despite a clean explained-and-retested round on 09-08. Recovered
+     3/3 with correct reasoning after a ~2-minute re-explanation.
+  3. 2026-09-11 — nach vs zu: stated an invented rule instead of the real one
+     (already answered as Q16). Self-corrected by re-reading the tracker
+     rather than needing re-teaching.
+- Why flagged as one pattern rather than three unrelated incidents: all three
+  are topics that were TAUGHT AND TESTED CLEAN once, then either forgotten
+  outright or reconstructed with confabulated reasoning shortly after —
+  distinct from this learner's usual error shape (a stated rule applied
+  correctly, or a load-dependent slip). This looks more like insufficient
+  SPACING between first exposure and next retrieval, not a conceptual issue —
+  consistent with the two-way-prepositions entry's own conclusion.
+- Frequency: 3 (three different topics, same shape, 2026-09-10 to 2026-09-11)
+- Status: WATCHING — not yet a confirmed pattern with enough data to act on
+  beyond what's already been done (shortened revision intervals on the
+  affected items). If a fourth instance appears, consider deliberately
+  increasing spacing/repetition frequency across ALL recently-taught topics,
+  not just the specific one that failed, per standard spaced-repetition
+  practice (forgetting on one item is often a sign the whole recent batch is
+  under-spaced).
+
 ### [vocab-confusion] Tisch/Stuhl (table/chair) swap
 - Incorrect: "Der Tisch ist schön." (asked for "the chair is beautiful")
 - Correct:   "Der Stuhl ist schön."

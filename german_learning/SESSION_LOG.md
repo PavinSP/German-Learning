@@ -4,6 +4,26 @@ Newest entries at the top.
 
 ---
 
+## Session 12 — 2026-09-11 (IN PROGRESS)
+
+- **Continuing the grammar-concepts test from Session 11, Q5 onward.**
+- **Q5 (nach vs zu):** initial rule was invented ("nach = infinitive-form
+  nouns," not real grammar) though both examples came out correct anyway.
+  Per the learner's requested process, pointed back to ANSWERS.md Q16 rather
+  than re-teaching — learner opened it and restated the real rule correctly
+  (nach = no-article destinations, zu = has-article destinations) plus
+  correct zum/zur contraction reasoning. Fully correct after self-correction.
+- **Q6 (separable verbs): 3/3, clean, no nudge needed.** Split rule, two
+  examples (incl. an unprompted correct accusative pronoun, "Ich rufe dich
+  an"), and the modal-verb-keeps-it-whole rule all correct first try.
+- **Q7 (verb-second) in progress** — learner answering in smaller layers;
+  logging live turn-by-turn per their request rather than batching at the end.
+- **Pattern flagged:** three topics in two days (es/sie dative swap, two-way
+  prepositions, now nach/zu) have needed a nudge back to already-answered
+  material rather than landing clean cold. Logged as a new watch-item, not
+  yet treated as a real regression pattern — see ERROR_LOG.md.
+- Full detail: [daily_notes/2026-09-11.md](daily_notes/2026-09-11.md)
+
 ## Session 11 — 2026-09-10
 
 - **Opened worried about forgetting material after the 2026-09-09 gap.** Ran

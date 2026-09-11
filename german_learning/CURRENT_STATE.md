@@ -25,9 +25,9 @@ from the Anki deck.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Accusative prepositions introduced (für/durch/ohne/gegen/um) — 4/5 clean first attempt; listening vocab (schön/Entschuldigung/kein Problem/noch mal/bitte) confirmed cold |
-| **Last session** | 2026-09-10 (Session 11 — no-study gap on 09-09, then a 6/6 confidence-check on Session 10 material incl. one unprompted self-correction; confirmed as retrieval anxiety, not a real gap) |
-| **Next action** | Choose one: fresh-day accusative-prepositions retest (watch for unseren/unsere case-confusion recurring), the imperative (flagged after a spontaneous "Gibt mir" → "Gib mir" attempt), or Episode 3 "Tschüss" for listening |
+| **Lesson** | Grammar-concepts test (rules, not sentences) — started Session 11 (2026-09-10), continuing live in Session 12 (2026-09-11). Currently on Q7 (verb-second), answered in layers |
+| **Last session** | 2026-09-11 (Session 12, IN PROGRESS) — Q5 (nach/zu) corrected via self-directed ANSWERS.md check, Q6 (separable verbs) 3/3 clean first try, Q7 pending |
+| **Next action** | Finish Q7 (verb-second) then continue the grammar-concepts test: nicht placement, modal verb structure. Still open from before: accusative-prepositions sentence retest (watch unseren/unsere), the imperative, Episode 3 "Tschüss" |
 | **Blocking?** | No |
 | **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
 
@@ -49,6 +49,7 @@ from the Anki deck.
 | Separable prefix capitalized (Fern, Schwimmen) | Pattern, 2 instances | Infinitives and separable prefixes stay lowercase unless genuinely nominalized (das Schwimmen). Worth one explicit statement |
 | Modal + infinitive placement | Light | One slip, retested clean once — low priority |
 | zum/zur contraction (der/das vs die words) | New, light, likely momentary | "zur Arzt" instead of "zum Arzt" — same day "zum Arzt" was already correct, so read as a slip not a regression. Watch once |
+| **Repeated need for a nudge back to already-answered material** | **WATCHING, new 2026-09-11** | Three different topics in two days (es/sie dative swap, two-way prepositions, nach/zu) each taught-and-tested-clean once, then forgotten or confabulated shortly after. Looks like a spacing issue, not conceptual. If a 4th instance appears, consider widening revision spacing across ALL recent topics, not just the one that fails |
 
 ## Listening comprehension (NEW, 2026-09-08)
 
