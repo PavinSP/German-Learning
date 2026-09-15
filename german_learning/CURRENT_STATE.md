@@ -19,6 +19,16 @@ it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
 order. Update it (mark lessons covered) after any vocabulary session that draws
 from the Anki deck.
 
+**Token-efficiency convention (added 2026-09-15):** ERROR_LOG.md and SESSION_LOG.md
+now hold only ACTIVE/IMPROVING entries and the last 3 sessions respectively.
+Resolved entries and older sessions live in `archive/ERROR_LOG_ARCHIVE.md` and
+`archive/SESSION_LOG_ARCHIVE.md` — do NOT read the archive files at session
+start; only open them if you need historical detail a one-line summary doesn't
+cover. Keep applying this convention going forward: when an ERROR_LOG entry
+gets marked RESOLVED, move it to the archive same-session rather than leaving
+it in the live file; when SESSION_LOG grows past 3 entries, archive the oldest
+with a one-line summary rather than letting it grow unbounded.
+
 ## Quick summary
 
 | Field | Value |
