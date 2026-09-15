@@ -904,3 +904,14 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   chose in+accusative for motion (die Küche stays die in accusative). One
   unrelated conjugation slip (gehst instead of geht for sie) on the retest,
   not connected to this preposition confusion.
+
+### [preposition] dropped "an" for location "on the corner"
+- Incorrect: Der Park ist die Ecke.
+- Correct:   Der Park ist an der Ecke.
+- Why:       "on the corner" needs the two-way preposition "an" (location, no
+             movement = dative: an der Ecke). Preposition dropped entirely,
+             not a wrong-preposition choice — first exposure to this specific
+             phrase, brand-new vocabulary (A1-L7 transport/directions).
+- Frequency: 1
+- First seen / last seen: 2026-09-15
+- Status: ACTIVE — new vocabulary context, watch on next use

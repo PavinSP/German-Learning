@@ -21,7 +21,7 @@ then mark words as covered here AND log them properly in VOCABULARY.md.
 | A1-L4 | Food, shopping basics | PARTIAL | Brot, Käse, Milch, Apfel, Wasser, essen, trinken, mögen, kaufen, kosten known. Missing: most specific foods (Gemüse, Fleisch, Obst, etc.), quantities (Kilo, Liter, Stück) |
 | A1-L5 | Daily routine, frequency words | PARTIAL | aufstehen, arbeiten, schlafen, immer/oft/manchmal/selten/nie known (2026-09-04). Missing: duschen, frühstücken, telefonieren |
 | A1-L6 | Apartment, furniture, numbers 100+ | PARTIAL | Zimmer, Küche, Schlafzimmer, Bad, Tisch, Stuhl, Fenster known. Missing: most furniture (Bett, Schrank, Sofa, Kühlschrank...), bigger numbers |
-| A1-L7 | Transport, directions, places in town | NOT STARTED | schwimmen known from hobbies. Bus/Bahn/Zug, directions (rechts/links), places (Bank, Schule, Park) all new — good next theme |
+| A1-L7 | Transport, directions, places in town | STARTED 2026-09-15 | Core directions (rechts/links/geradeaus) + Bank/Post/Ampel all KNOWN, confirmed clean in production. Bus/Bahn/Zug/Straße/Rathaus taught but not yet produced (LEARNING). die Ecke known but needs the "an der Ecke" preposition retested |
 | A1-L8 | Professions, workplace | NOT STARTED | können, müssen, möchten known (grammar). Job vocabulary all new |
 | A1-L9 | Body parts, health, illness | NOT STARTED | müde known. Body parts and illness vocab all new |
 | A1-L10 | Vacation, travel activities | NOT STARTED | sehen known. All new |
