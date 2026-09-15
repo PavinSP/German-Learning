@@ -906,10 +906,13 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              been heavily drilled in the dative-plural context (mit unseren
              Eltern, correct multiple times) and is now leaking into a new
              accusative-plural slot where it doesn't belong.
-- Frequency: 1
-- First seen / last seen: 2026-09-08
-- Status: ACTIVE — first exposure to accusative prepositions, expected friction
-  point; watch on next accusative-plural check
+- Frequency: 2 (2026-09-08, recurred 2026-09-15 in exhaustive review, same
+  exact sentence pattern "gegen unseren Eltern")
+- First seen / last seen: 2026-09-08 / 2026-09-15
+- Status: ACTIVE — recurring, no longer just first-exposure friction. Learner's
+  own theory ("plural always takes -en") is the actual misconception to
+  correct directly: -en is specifically DATIVE-plural, not plural-in-general;
+  accusative plural possessives stay unmarked (unsere)
 
 ### [other] invented grammatical rule (nach = "nouns in infinitive form")
 - Incorrect: stated rule — "nach is used when the noun is in infinitive form"
@@ -975,3 +978,39 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Frequency: 1
 - First seen / last seen: 2026-09-08
 - Status: ACTIVE — single instance, watch once
+
+### [article] von missing dative article
+- Incorrect: Sie kommt von Arbeit.
+- Correct:   Sie kommt von der Arbeit.
+- Why:       von forces dative; die Arbeit is a die-word, dative = der (von der
+             Arbeit). Learner's own reasoning conflated this with vom (von+dem),
+             which only applies to der/das-words — no contraction exists for von+der.
+- Frequency: 1
+- First seen / last seen: 2026-09-15
+- Status: ACTIVE — light, single instance in exhaustive review
+
+### [preposition] nach's "after" (time) meaning not distinguished from "to"
+- Incorrect: Wir gehen nach die Termin zu Arzt.
+- Correct:   Wir gehen nach dem Termin zum Arzt.
+- Why:       nach has two separate jobs: "after" (time, forces dative — nach dem
+             Termin) and "to" (only for article-less destinations like nach
+             Berlin — a different job entirely). Also missed zum (zu+dem
+             contraction) for zu Arzt. This directly echoes ANSWERS.md Q15/Q16
+             (answered 2026-09-08), which the learner didn't recall.
+- Frequency: 1 (as an "after"-vs-"to" mixup this specific time; article-dropping
+  itself is an older, separate pattern)
+- First seen / last seen: 2026-09-15
+- Status: ACTIVE — re-anchor via Q15/Q16, then retest
+
+### [preposition] nach used for motion into an enclosed space (should be two-way "in")
+- Incorrect: Ich gehe nach der Raum.
+- Correct:   Ich gehe in den Raum.
+- Why:       nach is not used for entering an enclosed/defined space like a room —
+             it's for cities/countries/directions, or "after" in time. Motion INTO
+             a room/space uses the two-way preposition "in" (accusative for
+             motion: in den Raum). This is a genuinely new confusion — nach
+             overgeneralized into two-way-preposition territory — not the same
+             as the already-tracked im/ins two-way slip.
+- Frequency: 1
+- First seen / last seen: 2026-09-15
+- Status: ACTIVE — new confusion, watch for recurrence
