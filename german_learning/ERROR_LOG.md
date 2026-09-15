@@ -855,7 +855,23 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              which only applies to der/das-words — no contraction exists for von+der.
 - Frequency: 1
 - First seen / last seen: 2026-09-15
-- Status: ACTIVE — light, single instance in exhaustive review
+- Status: IMPROVING — same-session retest ("Er kommt von der Schule") still
+  needed re-explanation, but the underlying article issue (der not dem/den)
+  is now landing correctly; the remaining confusion is aus-vs-von word
+  choice, not the article mechanics — see new entry below
+
+### [preposition] aus vs von — which "from" preposition to use
+- Incorrect: Er kommt aus die Schule. (meant: "he comes from school")
+- Correct:   Er kommt von der Schule.
+- Why:       aus = exiting an enclosed space right now (physically walking out —
+             aus dem Haus); von = the more general "coming from [a place you
+             were]" (returning from school/work). "Coming from school" as a
+             general statement is von, not aus. Separate from the article
+             mechanics, which were also wrong here (die instead of der).
+- Frequency: 1
+- First seen / last seen: 2026-09-15
+- Status: ACTIVE — new item, this specific aus/von word-choice distinction
+  hasn't been isolated and tested before
 
 ### [preposition] nach's "after" (time) meaning not distinguished from "to"
 - Incorrect: Wir gehen nach die Termin zu Arzt.
@@ -868,7 +884,10 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Frequency: 1 (as an "after"-vs-"to" mixup this specific time; article-dropping
   itself is an older, separate pattern)
 - First seen / last seen: 2026-09-15
-- Status: ACTIVE — re-anchor via Q15/Q16, then retest
+- Status: RESOLVED same session — retest "Wir gehen nach dem Frühstück zur
+  Apotheke" correct (nach+dative for "after", zu for destination, correct
+  Time-Manner-Place word order all landed); one unrelated spelling slip
+  (Frühstuck for Frühstück)
 
 ### [preposition] nach used for motion into an enclosed space (should be two-way "in")
 - Incorrect: Ich gehe nach der Raum.
@@ -881,4 +900,7 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              as the already-tracked im/ins two-way slip.
 - Frequency: 1
 - First seen / last seen: 2026-09-15
-- Status: ACTIVE — new confusion, watch for recurrence
+- Status: RESOLVED same session — retest "Sie geht in die Küche" ✅ correctly
+  chose in+accusative for motion (die Küche stays die in accusative). One
+  unrelated conjugation slip (gehst instead of geht for sie) on the retest,
+  not connected to this preposition confusion.
