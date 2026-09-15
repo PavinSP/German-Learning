@@ -962,7 +962,8 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              of the verb + Sie. Du/ihr-forms in the same exercise were both correct.
 - Frequency: 1
 - First seen / last seen: 2026-09-15
-- Status: ACTIVE — single instance, first exposure to the Sie-imperative, watch once
+- Status: RESOLVED same session — isolated retest 2/2 clean ("Setzen Sie sich!",
+  "Öffnen Sie das Fenster!"), correct pattern applied even with new vocabulary
 
 ### [vocab-confusion] Tisch/Stuhl (table/chair) swap
 - Incorrect: "Der Tisch ist schön." (asked for "the chair is beautiful")

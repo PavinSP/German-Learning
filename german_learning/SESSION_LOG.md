@@ -14,8 +14,10 @@ Newest entries at the top.
   understood the dative/accusative object pattern carries over unchanged
   from normal sentences. Sie-form missed the required Sie pronoun + verb-
   first inversion ("Kommen herein" → "Kommen Sie herein!") — single,
-  expected first-exposure miss. GRAMMAR.md's imperative row upgraded
-  INTRODUCED → LEARNING.
+  expected first-exposure miss. **Isolated Sie-form retest: 2/2 clean**
+  ("Setzen Sie sich!", "Öffnen Sie das Fenster!") — pattern applied
+  correctly even with untaught vocabulary. Imperative upgraded to
+  FUNCTIONAL, 5/5 across both rounds.
 - Full detail: [daily_notes/2026-09-15.md](daily_notes/2026-09-15.md)
 
 ## Session 12 — 2026-09-11

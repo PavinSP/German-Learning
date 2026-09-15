@@ -25,9 +25,9 @@ from the Anki deck.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Imperative (du/ihr/Sie forms), self-studied then checked — 3/4 clean, du/ihr solid, Sie-form (pronoun + inversion) needs one retest |
-| **Last session** | 2026-09-15 (Session 13) — imperative practice 3/4, one Sie-form miss ("Kommen herein" → "Kommen Sie herein!") |
-| **Next action** | Isolated Sie-imperative retest, then pick: accusative-prepositions sentence retest (watch unseren/unsere), Episode 3 "Tschüss" for listening, or voice practice (actively offer this — see memory note) |
+| **Lesson** | Imperative (du/ihr/Sie forms) — **FUNCTIONAL**, 5/5 across two rounds today (du/ihr clean first try, Sie-form gap found and resolved same session) |
+| **Last session** | 2026-09-15 (Session 13) — imperative 3/4 then 2/2 on Sie-form retest ("Setzen Sie sich!", "Öffnen Sie das Fenster!") |
+| **Next action** | Pick next: accusative-prepositions sentence retest (watch unseren/unsere), Episode 3 "Tschüss" for listening, or voice practice (actively offer this — see memory note) |
 | **Blocking?** | No |
 | **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
 
