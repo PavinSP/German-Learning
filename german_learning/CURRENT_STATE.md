@@ -37,7 +37,7 @@ with a one-line summary rather than letting it grow unbounded.
 | **Module** | Foundation |
 | **Lesson** | 37-question exhaustive review after a 4-day gap — 25/37 clean first pass (~68%), nearly all rest resolved on self-directed retest. Two new findings: nach vs two-way "in" confusion, weil verb-last regression |
 | **Last session** | 2026-09-15 (Session 13) — imperative closed out FUNCTIONAL, then full exhaustive review; gegen+unsere/unseren confirmed recurring (2nd instance) |
-| **Next action** | Past tense (Perfekt/Präteritum) planned for tomorrow (Wed = new-grammar day per STUDY_PLAN.md). Evening voice practice done (4 exchanges, fast/fluent, dative+possessive "mit meiner Freundin" held under real-time speech). New item to drill: aus-vs-von word choice. weil verb-last still needs its 2-day recheck |
+| **Next action** | Past tense (Perfekt/Präteritum) planned for tomorrow (Wed = new-grammar day per STUDY_PLAN.md). Yes/no questions closed out FUNCTIONAL tonight. Remaining A1 gaps (GRAMMAR.md audited): regular verb conjugation pattern, key irregular verbs, nominative case as a named concept. Also open: aus-vs-von word-choice drill, weil verb-last 2-day recheck |
 | **Blocking?** | No |
 | **Last full review** | 37-question exhaustive review 2026-09-15 — **25/37 (~68%) clean on first pass**, nearly all rest resolved on self-directed retest. Lower % than 09-08's 89% mainly reflects the 4-day gap and harder word-order/preposition-nuance questions, not new material — see full breakdown in daily_notes/2026-09-15.md |
 
