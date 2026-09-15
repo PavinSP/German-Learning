@@ -251,6 +251,17 @@ More hours makes it tempting to cover more. The specific risks and their guards:
 - **Risk: vocabulary volume outrunning usage.** → Guard: every new word must
   appear in a produced sentence the same day, and again in that week's review.
 
+## Daily vocabulary requirement (added 2026-09-15, learner-requested)
+
+**Every session teaches new vocabulary AND retests previously-taught words
+— non-optional by default, even on grammar-focused days.** New words follow
+VOCAB_PLAN.md's recommended order, ~10-15 at a time. Retesting prioritizes
+words still at LEARNING or flagged ⚠️ frequently-forgotten in
+VOCABULARY.md, not ones already comfortably KNOWN. See VOCABULARY.md's own
+hard rules: a word only gets marked KNOWN after a clean unprompted
+production, and no word appears in a test prompt before being formally
+introduced.
+
 ---
 
 ## Immediate next steps (first week, 2026-09-07 onward)
