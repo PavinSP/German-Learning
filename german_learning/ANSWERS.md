@@ -408,3 +408,22 @@ Two separate things are happening:
 **Rule of thumb:** zu/zur/zum contractions apply only to der/die/das.
 Swap in any possessive (mein/dein/sein/ihr/unser) and you spell it out in
 full — zu + the possessive's dative-ending form.
+
+
+### 2026-09-15 — Q21: Where does "heute" (or other time words) go in a sentence?
+
+**Right after the conjugated verb, in position 3** — position 1 is the
+subject (or another fronted element), position 2 is always the verb, and
+everything after that follows a rough order called **Time–Manner–Place
+(TMP)**: time first, then manner (how/with whom), then place (where).
+
+Examples:
+- "Ich muss **heute** schlafen." — heute (time) sits right after the modal
+  verb, before the infinitive at the end.
+- "Ich gehe **heute** **mit meiner Mutter** **nach Berlin**." — time →
+  manner → place, in that order.
+
+This is the same instinct already confirmed working back on 2026-09-07/08
+with "Wir gehen nach dem Wochenende zum Arzt" (time-before-place produced
+unprompted) — heute after the verb is the time-word version of the same
+rule.

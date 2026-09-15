@@ -979,6 +979,31 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - First seen / last seen: 2026-09-08
 - Status: ACTIVE — single instance, watch once
 
+### [word-order] weil clause-internal verb-last rule forgotten
+- Incorrect: Weil bin ich müde, ich stay die Haus. / Weil regnet es, bleibe ich zur Haus.
+- Correct:   Weil ich müde bin, bleibe ich zu Hause. / Weil es regnet, bleibe ich zu Hause.
+- Why:       weil sends its OWN clause's verb to the very end (verb-last), not
+             position 2. This is the inverse of what was fragile on 2026-09-11,
+             where the piece that slipped was the MAIN clause needing verb-second
+             after the weil-clause — that piece actually held correctly this time
+             ("bleibe ich" both attempts, unprompted). So the specific fragile
+             point flipped to the other half of the same rule.
+- Frequency: 2 (both attempts in the same exhaustive review before landing)
+- First seen / last seen: 2026-09-15
+- Status: ACTIVE — needs a shorter revision interval; also English leaked in
+  ("ich stay") on the first attempt
+
+### [phrase] zu Hause treated as der/das-word contraction (zur/die Haus)
+- Incorrect: zur Haus / die Haus
+- Correct:   zu Hause
+- Why:       "at home" is a fixed idiom (zu Hause), not a normal noun+article
+             construction — das Haus's normal dative would be dem Hause/im Haus,
+             but the "at home" idiom is its own fixed form, no zu-contraction logic
+             applies.
+- Frequency: 1
+- First seen / last seen: 2026-09-15
+- Status: ACTIVE — new item, single instance
+
 ### [article] von missing dative article
 - Incorrect: Sie kommt von Arbeit.
 - Correct:   Sie kommt von der Arbeit.
