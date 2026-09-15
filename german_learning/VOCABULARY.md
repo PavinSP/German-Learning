@@ -6,6 +6,12 @@ Format per entry:
 Statuses: NEW → LEARNING → KNOWN → MASTERED. Flag repeatedly-forgotten words with ⚠️.
 A word is only MASTERED after correct recall across multiple sessions.
 
+**Hard rules (added 2026-09-15, learner-requested):**
+1. Never mark a word KNOWN just because it was taught — require at least one
+   clean, unprompted production first. "Taught" ≠ "known."
+2. Never use a word in a test/example prompt unless it's already in this
+   file (any status). Introduce a new word explicitly before testing it.
+
 ---
 
 ## Active Vocabulary
