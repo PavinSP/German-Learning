@@ -4,6 +4,20 @@ Newest entries at the top.
 
 ---
 
+## Session 13 — 2026-09-15
+
+- **Gap since 2026-09-11** (no daily notes 09-12 through 09-14 — likely
+  no-study days, not confirmed).
+- **Imperative (du/ihr/Sie forms), self-studied then checked — 3/4 clean.**
+  du-form ("Gib mir das Buch") and ihr-form ("Esst das Brot") both correct;
+  learner also asked why mir not mich in the du-imperative and correctly
+  understood the dative/accusative object pattern carries over unchanged
+  from normal sentences. Sie-form missed the required Sie pronoun + verb-
+  first inversion ("Kommen herein" → "Kommen Sie herein!") — single,
+  expected first-exposure miss. GRAMMAR.md's imperative row upgraded
+  INTRODUCED → LEARNING.
+- Full detail: [daily_notes/2026-09-15.md](daily_notes/2026-09-15.md)
+
 ## Session 12 — 2026-09-11
 
 - **Continuing the grammar-concepts test from Session 11, Q5 onward.**

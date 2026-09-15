@@ -25,9 +25,9 @@ from the Anki deck.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | **Grammar-concepts test (Q1-Q9) COMPLETE** — cases/pronouns, dative-only verbs, dative/accusative/two-way prepositions, separable verbs, verb-second (weil/denn), nicht placement, modal structure. See table in daily_notes/2026-09-11.md |
-| **Last session** | 2026-09-11 (Session 12) — finished the concepts test: Q8 (nicht) self-corrected via ANSWERS.md, Q9 (modal structure) clean first try |
-| **Next action** | Concepts test done — pick a next activity: accusative-prepositions sentence retest (watch unseren/unsere), the imperative (spontaneous "Gibt mir" → "Gib mir" flagged), or Episode 3 "Tschüss" for listening |
+| **Lesson** | Imperative (du/ihr/Sie forms), self-studied then checked — 3/4 clean, du/ihr solid, Sie-form (pronoun + inversion) needs one retest |
+| **Last session** | 2026-09-15 (Session 13) — imperative practice 3/4, one Sie-form miss ("Kommen herein" → "Kommen Sie herein!") |
+| **Next action** | Isolated Sie-imperative retest, then pick: accusative-prepositions sentence retest (watch unseren/unsere), Episode 3 "Tschüss" for listening, or voice practice (actively offer this — see memory note) |
 | **Blocking?** | No |
 | **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
 

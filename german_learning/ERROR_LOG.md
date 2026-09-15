@@ -954,6 +954,16 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   practice (forgetting on one item is often a sign the whole recent batch is
   under-spaced).
 
+### [imperative] Sie-form imperative missing pronoun + verb-first inversion
+- Incorrect: Kommen herein. (meant: "Come in!" formal)
+- Correct:   Kommen Sie herein!
+- Why:       Sie-imperatives keep the Sie pronoun stated (unlike du/ihr, where the
+             pronoun is dropped) and invert to verb-first order — infinitive form
+             of the verb + Sie. Du/ihr-forms in the same exercise were both correct.
+- Frequency: 1
+- First seen / last seen: 2026-09-15
+- Status: ACTIVE — single instance, first exposure to the Sie-imperative, watch once
+
 ### [vocab-confusion] Tisch/Stuhl (table/chair) swap
 - Incorrect: "Der Tisch ist schön." (asked for "the chair is beautiful")
 - Correct:   "Der Stuhl ist schön."
