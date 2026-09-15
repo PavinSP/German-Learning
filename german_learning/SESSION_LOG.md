@@ -18,6 +18,18 @@ Newest entries at the top.
   ("Setzen Sie sich!", "Öffnen Sie das Fenster!") — pattern applied
   correctly even with untaught vocabulary. Imperative upgraded to
   FUNCTIONAL, 5/5 across both rounds.
+- **Exhaustive review requested** after a 4-day gap since 09-11 — 37
+  questions across 9 parts, covering every GRAMMAR.md topic. **25/37 clean
+  on first pass (~68%), with nearly all the rest resolved on immediate
+  retest** once pointed to the relevant reference — self-correction
+  strength held up again. Two genuinely NEW findings: nach overreaching
+  into two-way-preposition territory ("nach der Raum" instead of "in den
+  Raum"), and a regression on weil's clause-internal verb-last rule (the
+  piece that was fragile on 09-11 — main clause after weil — actually held
+  fine this time; the fragile point flipped to the other half of the same
+  rule). gegen+unsere/unseren confirmed recurring (2nd instance) — the
+  learner's own "plural always takes -en" theory identified as the actual
+  misconception. Full breakdown table in daily_notes/2026-09-15.md.
 - Full detail: [daily_notes/2026-09-15.md](daily_notes/2026-09-15.md)
 
 ## Session 12 — 2026-09-11

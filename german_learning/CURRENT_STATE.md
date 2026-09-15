@@ -25,11 +25,11 @@ from the Anki deck.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Imperative (du/ihr/Sie forms) — **FUNCTIONAL**, 5/5 across two rounds today (du/ihr clean first try, Sie-form gap found and resolved same session) |
-| **Last session** | 2026-09-15 (Session 13) — imperative 3/4 then 2/2 on Sie-form retest ("Setzen Sie sich!", "Öffnen Sie das Fenster!") |
-| **Next action** | Pick next: accusative-prepositions sentence retest (watch unseren/unsere), Episode 3 "Tschüss" for listening, or voice practice (actively offer this — see memory note) |
+| **Lesson** | 37-question exhaustive review after a 4-day gap — 25/37 clean first pass (~68%), nearly all rest resolved on self-directed retest. Two new findings: nach vs two-way "in" confusion, weil verb-last regression |
+| **Last session** | 2026-09-15 (Session 13) — imperative closed out FUNCTIONAL, then full exhaustive review; gegen+unsere/unseren confirmed recurring (2nd instance) |
+| **Next action** | Retest Part D's remaining items (von+article, nach after-vs-to, nach-vs-in for rooms) and weil verb-last (shortened 2-day interval). Consider past tense (Perfekt/Präteritum) as next new topic — learner asked "I didn't wake up at 7am." Also open: Episode 3 listening, voice practice (actively offer — see memory note) |
 | **Blocking?** | No |
-| **Last full review** | 52-question exhaustive review 2026-09-08 — **46.5/52 (~89%)**, up from 37/50 (74%) on 2026-09-04, larger/harder question set (dative case + prepositions + two-way prepositions all included this time) |
+| **Last full review** | 37-question exhaustive review 2026-09-15 — **25/37 (~68%) clean on first pass**, nearly all rest resolved on self-directed retest. Lower % than 09-08's 89% mainly reflects the 4-day gap and harder word-order/preposition-nuance questions, not new material — see full breakdown in daily_notes/2026-09-15.md |
 
 ## Known weaknesses (watch list)
 
