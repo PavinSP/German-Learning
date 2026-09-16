@@ -37,7 +37,7 @@ with a one-line summary rather than letting it grow unbounded.
 | **Module** | Foundation |
 | **Lesson** | Perfekt (past tense) introduced — 3/4 clean on first exposure, incl. an irregular sein-verb participle (gegangen) produced correctly unprompted |
 | **Last session** | 2026-09-16 (Session 14) — vocab warmup (2/3, Bus/Straße promoted to KNOWN), then Perfekt introduced |
-| **Next action** | Continue Perfekt: more sein-verbs, more irregular participles, then Präteritum. Still open: an der Ecke (an vs in) retest, aus-vs-von drill, two-way prepositions 2-day recheck |
+| **Next action** | **Learner requested a 100+ question full-coverage test next session** — every concept in GRAMMAR.md, every word in VOCABULARY.md, nothing skipped. Build it fresh from those files, don't reuse an old question set. After that: separable-verb participle rule (ge- goes mid-word), more Perfekt, then Präteritum. Still open: an-vs-zu for "corner," aus-vs-von drill, two-way prepositions 2-day recheck |
 | **Blocking?** | No |
 | **Last full review** | 37-question exhaustive review 2026-09-15 — **25/37 (~68%) clean on first pass**, nearly all rest resolved on self-directed retest. Lower % than 09-08's 89% mainly reflects the 4-day gap and harder word-order/preposition-nuance questions, not new material — see full breakdown in daily_notes/2026-09-15.md |
 
