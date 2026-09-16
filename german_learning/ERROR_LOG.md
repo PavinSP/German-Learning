@@ -946,3 +946,27 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Frequency: 1
 - First seen / last seen: 2026-09-16
 - Status: ACTIVE — nuance, watch once
+
+### [tense] irregular Perfekt participles mis-formed (fahren, bleiben)
+- Incorrect: gefähren (for fahren); gebleibt (for bleiben)
+- Correct:   gefahren; geblieben
+- Why:       Two separate slips: (1) added a false umlaut to fahren's
+             participle — no umlaut belongs there (ge+fahr+en, stem vowel
+             unchanged); (2) regularized bleiben's participle as if it
+             followed the standard ge+stem+t pattern, when bleiben is
+             irregular and must be memorized as geblieben.
+- Frequency: 1 each
+- First seen / last seen: 2026-09-16
+- Status: ACTIVE — expected friction, still very early in Perfekt
+
+### [tense] separable-verb Perfekt participle — ge- misplaced
+- Incorrect: gegeinschlafen (for einschlafen)
+- Correct:   eingeschlafen
+- Why:       Separable verbs insert "ge-" BETWEEN the prefix and the stem
+             in the participle (ein-ge-schlafen), not at the very front of
+             the whole word. This sub-rule for separable verbs + Perfekt
+             hadn't been explicitly taught before it was tested — new
+             pattern, not a real gap yet.
+- Frequency: 1
+- First seen / last seen: 2026-09-16
+- Status: ACTIVE — new pattern, needs explicit teaching before retesting

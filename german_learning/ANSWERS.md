@@ -448,3 +448,31 @@ DIFFERENT place, or a genuine change of state? → sein. Otherwise → haben.
 Counter-intuitive case: stehen (to stand) feels physical/motion-adjacent
 but is haben, because standing doesn't involve going anywhere — you're
 just occupying a position, not moving between two locations.
+
+
+### 2026-09-16 — Q23: Is sein-vs-haben related to regular-vs-irregular participle spelling?
+
+**No — these are two completely independent systems.** Tested directly
+after the learner proposed a combined rule ("regular = -t, irregular =
+-en, and irregular verbs need sein"). That's not correct:
+
+- **gehen** (irregular) → sein
+- **arbeiten** (regular) → haben
+- **bleiben** (irregular) → sein
+- **kaufen** (regular) → haben
+- **spielen** (regular) → haben
+- **kommen** (irregular) → sein
+
+There's no pattern linking them. **sein vs haben** is entirely about
+meaning (motion-between-places / change-of-state / 2 memorized exceptions
+→ sein; everything else → haben) — see Q22. **Regular vs irregular** is
+entirely about spelling (ge+stem+t vs an often-unpredictable participle
+form) — and has to be memorized verb by verb, the same way English
+irregular past tense (go→went, not "goed") isn't guessable from a rule.
+
+**Bonus finding from the same test — separable verbs get their own
+sub-rule:** the participle's "ge-" goes BETWEEN the separable prefix and
+the verb stem, not at the very front. einschlafen → **ein-ge-schlafen**
+(not "ge-einschlafen"). Same idea as aufstehen → **auf-ge-standen** if it
+comes up. This wasn't explicitly taught before it was tested — flagged
+as new ground to revisit.
