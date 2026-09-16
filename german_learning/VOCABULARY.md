@@ -187,13 +187,13 @@ A word is only MASTERED after correct recall across multiple sessions.
 - bitte | please | adverb | Ins Zentrum, bitte. | KNOWN | 2026-09-08 | confirmed cold (embedded in "Noch mal, bitte")
 
 **Transport & directions (A1-L7, VOCAB_PLAN.md priority)**
-- der Bus | bus | plural: die Busse | noun | — | LEARNING | 2026-09-15 | taught, not yet produced in a sentence
+- der Bus | bus | plural: die Busse | noun | Ich nehme den Bus. | KNOWN | 2026-09-16 | confirmed clean production, correct accusative (den Bus)
 - die Bahn / der Zug | train | die Bahnen / die Züge | noun | — | LEARNING | 2026-09-15 | taught, not yet produced
 - rechts | right (direction) | adverb | Die Bank ist rechts. | KNOWN | 2026-09-15 | confirmed clean first production
 - links | left (direction) | adverb | Geh geradeaus, dann links. | KNOWN | 2026-09-15 | confirmed clean first production
 - geradeaus | straight ahead | adverb | Geh geradeaus, dann links. | KNOWN | 2026-09-15 | confirmed clean first production
-- die Ecke | the corner | plural: die Ecken | noun | Der Park ist an der Ecke. | LEARNING | 2026-09-15 | word itself recalled correctly, but dropped the required preposition "an" (an der Ecke) — needs a retest with the preposition included
-- die Straße | the street | plural: die Straßen | noun | — | LEARNING | 2026-09-15 | taught, not yet produced
+- die Ecke | the corner | plural: die Ecken | noun | Der Park ist an der Ecke. | LEARNING | 2026-09-16 | 2nd attempt still used "in der Ecke" instead of "an der Ecke" — case reasoning (dative, location) now correct, but the specific preposition (an, not in) for this idiom needs one more clean pass
+- die Straße | the street | plural: die Straßen | noun | Die Straße ist lang. | KNOWN | 2026-09-16 | confirmed clean production
 - die Ampel | the traffic light | plural: die Ampeln | noun | Ist die Ampel rot? | KNOWN | 2026-09-15 | confirmed clean, embedded correctly in a fresh yes/no question
 
 **Places in town (A1-L7)**

@@ -905,13 +905,16 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   unrelated conjugation slip (gehst instead of geht for sie) on the retest,
   not connected to this preposition confusion.
 
-### [preposition] dropped "an" for location "on the corner"
-- Incorrect: Der Park ist die Ecke.
+### [preposition] "on the corner" — wrong preposition (in vs an)
+- Incorrect: Der Park ist die Ecke. / Der Park ist in der Ecke.
 - Correct:   Der Park ist an der Ecke.
-- Why:       "on the corner" needs the two-way preposition "an" (location, no
-             movement = dative: an der Ecke). Preposition dropped entirely,
-             not a wrong-preposition choice — first exposure to this specific
-             phrase, brand-new vocabulary (A1-L7 transport/directions).
-- Frequency: 1
-- First seen / last seen: 2026-09-15
-- Status: ACTIVE — new vocabulary context, watch on next use
+- Why:       "on the corner" (a street-location idiom) uses "an", not "in" —
+             in der Ecke would mean something tucked INSIDE a corner space
+             (e.g. a lamp in the corner of a room). Case reasoning has
+             improved across both attempts (correctly identified dative/
+             location both times); the remaining issue is specifically WHICH
+             two-way preposition (an vs in), not the case mechanics.
+- Frequency: 2 (1st: dropped the preposition entirely; 2nd: used "in"
+  instead of "an" — genuine progress, not a repeat of the same mistake)
+- First seen / last seen: 2026-09-15 / 2026-09-16
+- Status: ACTIVE — specific idiom, needs one more clean pass
