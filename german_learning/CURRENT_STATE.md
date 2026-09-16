@@ -35,9 +35,9 @@ with a one-line summary rather than letting it grow unbounded.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | 37-question exhaustive review after a 4-day gap — 25/37 clean first pass (~68%), nearly all rest resolved on self-directed retest. Two new findings: nach vs two-way "in" confusion, weil verb-last regression |
-| **Last session** | 2026-09-15 (Session 13) — imperative closed out FUNCTIONAL, then full exhaustive review; gegen+unsere/unseren confirmed recurring (2nd instance) |
-| **Next action** | Past tense (Perfekt/Präteritum) planned for tomorrow (Wed = new-grammar day). Two-way prepositions: 3rd refresh needed tonight, simplified to "just wohin/wo" framing, 2/2 on isolated retest — short 2-day recheck. A1-L7 vocab started (8/13 KNOWN, "an der Ecke" needs retest). Also open: aus-vs-von drill, weil verb-last 2-day recheck |
+| **Lesson** | Perfekt (past tense) introduced — 3/4 clean on first exposure, incl. an irregular sein-verb participle (gegangen) produced correctly unprompted |
+| **Last session** | 2026-09-16 (Session 14) — vocab warmup (2/3, Bus/Straße promoted to KNOWN), then Perfekt introduced |
+| **Next action** | Continue Perfekt: more sein-verbs, more irregular participles, then Präteritum. Still open: an der Ecke (an vs in) retest, aus-vs-von drill, two-way prepositions 2-day recheck |
 | **Blocking?** | No |
 | **Last full review** | 37-question exhaustive review 2026-09-15 — **25/37 (~68%) clean on first pass**, nearly all rest resolved on self-directed retest. Lower % than 09-08's 89% mainly reflects the 4-day gap and harder word-order/preposition-nuance questions, not new material — see full breakdown in daily_notes/2026-09-15.md |
 
