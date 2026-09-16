@@ -427,3 +427,24 @@ This is the same instinct already confirmed working back on 2026-09-07/08
 with "Wir gehen nach dem Wochenende zum Arzt" (time-before-place produced
 unprompted) — heute after the verb is the time-word version of the same
 rule.
+
+
+### 2026-09-16 — Q22: How do I know which verbs use sein vs haben in Perfekt?
+
+**sein-verbs** are specifically:
+- **Motion/movement from one place to another**: gehen, kommen, fahren,
+  fliegen, laufen
+- **Change of state**: aufstehen, einschlafen, sterben, werden
+- Two irregular exceptions to just memorize: **sein** (ich bin gewesen) and
+  **bleiben** (ich bin geblieben — even though "staying" isn't motion)
+
+**haben-verbs** are everything else — the large majority, including:
+- Verbs with a direct object: essen, trinken, sehen, kaufen, lesen
+- "Static" verbs — no destination involved: stehen, sitzen, schlafen,
+  spielen, arbeiten
+
+**Quick mental test:** does the verb describe moving from one place to a
+DIFFERENT place, or a genuine change of state? → sein. Otherwise → haben.
+Counter-intuitive case: stehen (to stand) feels physical/motion-adjacent
+but is haben, because standing doesn't involve going anywhere — you're
+just occupying a position, not moving between two locations.

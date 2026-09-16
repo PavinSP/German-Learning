@@ -917,4 +917,32 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Frequency: 2 (1st: dropped the preposition entirely; 2nd: used "in"
   instead of "an" — genuine progress, not a repeat of the same mistake)
 - First seen / last seen: 2026-09-15 / 2026-09-16
-- Status: ACTIVE — specific idiom, needs one more clean pass
+- Status: RESOLVED — "an der Ecke" used correctly twice more same day
+  (2026-09-16, Perfekt practice round), both as location. Watch once more
+  for zu der Ecke / zur Ecke (destination version) before fully retiring.
+
+### [verb-case] kommen used with haben instead of sein
+- Incorrect: Er hat von die Arbeit gekommen.
+- Correct:   Er ist von der Arbeit gekommen.
+- Why:       kommen is a motion verb, always uses sein in Perfekt, never
+             haben. Also a second error in the same sentence: von needs
+             dative (von der Arbeit), not accusative (von die Arbeit) —
+             an older, separately-tracked article-dropping pattern
+             resurfacing under the load of a new grammar structure (Perfekt).
+- Frequency: 1
+- First seen / last seen: 2026-09-16
+- Status: ACTIVE — first Perfekt-specific sein/haben verb-choice error,
+  watch for recurrence with other motion verbs
+
+### [preposition] an (location) vs zu (destination) for "the corner"
+- Incorrect: Ich bin an der Ecke gegangen. (meant: "I went TO the corner")
+- Correct:   Ich bin zur Ecke gegangen.
+- Why:       an der Ecke = AT the corner (location, no implied motion
+             toward it). "Went to the corner" describes reaching a
+             destination, which needs zu (zur = zu+der), not an. Not a
+             hard error — the sentence is grammatically valid, just
+             describes a different meaning (walking around at the corner,
+             not traveling there).
+- Frequency: 1
+- First seen / last seen: 2026-09-16
+- Status: ACTIVE — nuance, watch once
