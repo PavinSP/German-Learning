@@ -970,3 +970,28 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
 - Frequency: 1
 - First seen / last seen: 2026-09-16
 - Status: ACTIVE — new pattern, needs explicit teaching before retesting
+
+### [pronoun] dative-only verbs — wrong pronoun case (danken, gehören)
+- Incorrect: Ich danke ihn. / Das Buch gehört mich.
+- Correct:   Ich danke ihm. / Das Buch gehört mir.
+- Why:       danken and gehören are dative-only verbs (like helfen) — the
+             verb itself was correctly IDENTIFIED as needing dative both
+             times (no accusative-case reasoning attempted), but the wrong
+             dative-vs-accusative form was picked anyway (ihn instead of
+             ihm; mich instead of mir). This is a cluster: all 3 dative-
+             only verbs tested same session, only 1/3 fully correct.
+- Frequency: 2 (one each for danken, gehören)
+- First seen / last seen: 2026-09-17
+- Status: ACTIVE — cluster regression across the whole dative-only-verb
+  family, needs a dedicated isolated drill
+
+### [pronoun] es/sie dative swap — recurring (3rd occurrence)
+- Incorrect: es → ihm ✅ (correct), sie (she) → ihm ❌ (should be ihr)
+- Correct:   es → ihm, sie → ihr
+- Why:       es and er share dative ihm; sie (she) takes ihr. Same exact
+             swap direction as 2026-09-10 (gave sie→ihm both times).
+- Frequency: 3 (2026-09-10 first occurrence, isolated-drill-resolved same
+  day; recurred 2026-09-17 in the full pronoun table)
+- First seen / last seen: 2026-09-10 / 2026-09-17
+- Status: ACTIVE — confirmed recurring pattern, not a one-off; needs
+  dedicated spaced repetition, not just one correction
