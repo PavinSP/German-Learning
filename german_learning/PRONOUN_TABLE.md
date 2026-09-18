@@ -43,6 +43,15 @@ der → den → dem. Same shape, so if one is solid the other should follow.
 es stays es in the accusative (like das Buch → das Buch), and sie stays sie.
 Only the dative shifts them: es → ihm, sie → ihr.
 
+> ⚠️ **This last line is the single most error-prone cell in the table.**
+> *es* shares its dative form with *er* — both become **ihm** — which is
+> counter-intuitive enough that it is easy to over-apply and give **ihm** for
+> *sie* as well. It has gone wrong three times (2026-09-10, 2026-09-17),
+> always in that same direction.
+>
+> **es → ihm. sie → ihr.** If one line from this page is worth memorising
+> outright, it is this one.
+
 ---
 
 ## Choosing between accusative and dative
@@ -60,12 +69,16 @@ With a giving/showing/telling verb you often get both at once:
 > ihm = dative (the receiver) · den Hund = accusative (the thing given)
 
 **And the second cause of dative:** some prepositions simply demand it,
-regardless of any object role — **mit** is the one covered so far.
+regardless of any object role.
 
 > **Er spielt mit mir.** — He plays with me.
 
-Here *mir* isn't receiving anything; *mit* just forces dative. (Full list of
-dative prepositions is still queued in DOUBTS.md.)
+Here *mir* isn't receiving anything; *mit* just forces dative.
+
+The full set: **aus, außer, bei, mit, nach, seit, von, zu** — all of them
+force dative on whatever follows, every time. (Taught 2026-09-07/08; see
+ANSWERS.md Q16 for nach-vs-zu, and Part V of
+[Complete Notes.md](Complete%20Notes.md).)
 
 ---
 

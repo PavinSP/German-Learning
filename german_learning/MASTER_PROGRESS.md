@@ -192,10 +192,17 @@ broad: the dative-only verbs are correctly identified and then given the wrong
 pronoun form, and the es/sie swap is a single table cell.
 
 Also in this stretch: all three Nicos Weg episodes completed, voice practice
-resumed after a gap, A1-L7 vocabulary started, and the repository itself
-restructured — resolved entries archived to cut the per-session read cost, and
-[Complete Notes.md](Complete%20Notes.md) created as a single study document
-with a LaTeX/PDF build.
+resumed after a gap, A1-L7 vocabulary largely finished (11 of 13 words
+confirmed), and the repository itself restructured — resolved entries archived
+to cut the per-session read cost, and [Complete Notes.md](Complete%20Notes.md)
+created as a single study document with a LaTeX/PDF build.
+
+A full staleness audit on 2026-09-18 found four files out of date besides this
+one: SESSION_LOG.md was missing two sessions, VOCAB_PLAN.md still listed words
+that had since been confirmed, PRONOUN_TABLE.md described the dative
+prepositions as "queued" a fortnight after they were taught, and README.md
+carried the same Session-7 figures this file did. All corrected, and the hard
+rule extended so status files refresh whenever anything is logged.
 
 ## Exact Next Step
 

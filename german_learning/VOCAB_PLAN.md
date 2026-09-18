@@ -21,7 +21,7 @@ then mark words as covered here AND log them properly in VOCABULARY.md.
 | A1-L4 | Food, shopping basics | PARTIAL | Brot, Käse, Milch, Apfel, Wasser, essen, trinken, mögen, kaufen, kosten known. Missing: most specific foods (Gemüse, Fleisch, Obst, etc.), quantities (Kilo, Liter, Stück) |
 | A1-L5 | Daily routine, frequency words | PARTIAL | aufstehen, arbeiten, schlafen, immer/oft/manchmal/selten/nie known (2026-09-04). Missing: duschen, frühstücken, telefonieren |
 | A1-L6 | Apartment, furniture, numbers 100+ | PARTIAL | Zimmer, Küche, Schlafzimmer, Bad, Tisch, Stuhl, Fenster known. Missing: most furniture (Bett, Schrank, Sofa, Kühlschrank...), bigger numbers |
-| A1-L7 | Transport, directions, places in town | STARTED 2026-09-15 | Core directions (rechts/links/geradeaus) + Bank/Post/Ampel all KNOWN, confirmed clean in production. Bus/Bahn/Zug/Straße/Rathaus taught but not yet produced (LEARNING). die Ecke known but needs the "an der Ecke" preposition retested |
+| A1-L7 | Transport, directions, places in town | MOSTLY COVERED (2026-09-15/16) | KNOWN: rechts, links, geradeaus, die Ampel, die Bank, die Post, der Bus, die Straße, die Ecke (incl. "an der Ecke"), der Park. Still LEARNING (taught, not yet produced): die Bahn / der Zug, das Rathaus. Watch "zur Ecke" (destination) separately from "an der Ecke" (location) |
 | A1-L8 | Professions, workplace | NOT STARTED | können, müssen, möchten known (grammar). Job vocabulary all new |
 | A1-L9 | Body parts, health, illness | NOT STARTED | müde known. Body parts and illness vocab all new |
 | A1-L10 | Vacation, travel activities | NOT STARTED | sehen known. All new |
@@ -54,8 +54,10 @@ already followed:
    3/4 clean on first exercise set). Small remainder: duschen, frühstücken, telefonieren
 2. ~~A1-L11 clothing/colors~~ — PARTIAL, core set done 2026-09-04. Remainder
    (more colors, more clothing items) can be picked up anytime, lower urgency now
-3. **A1-L7 (transport/directions)** — genuinely useful, unlocks navigation sentences
-4. **A1-L6 completion** — remaining furniture words
+3. ~~A1-L7 (transport/directions)~~ — MOSTLY DONE 2026-09-15/16. 11 of 13 words
+   confirmed KNOWN through production; only die Bahn/der Zug and das Rathaus
+   remain untested
+4. **A1-L6 completion** — remaining furniture words ← *next up*
 5. **A1-L9 (health/body)** — useful, moderate priority
 6. **A1-L3 (weekdays, classroom)** — weekdays specifically are high-value and quick
 7. **A1-L1 completion** — countries/languages, lower urgency

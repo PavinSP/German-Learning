@@ -4,6 +4,55 @@ Newest entries at the top.
 
 ---
 
+## Session 15 — 2026-09-17/18
+
+- **Comprehensive 100+ question review begun**, built fresh from GRAMMAR.md
+  and VOCABULARY.md at the learner's request, run in parts.
+- **Part 1 (core verbs and basics, Q1–15): 15/15 clean.** sein, haben,
+  accusative, yes/no questions, possessives, numbers, separable and modal
+  verbs, irregular conjugations. Also an unprompted and accurate observation
+  that fronting *Heute* shifts emphasis onto the day — a real insight, never
+  taught.
+- **Part 2 (dative, Q16–30): 10/15, two genuine regressions surfaced.**
+  Dative-only verbs fell from 3/3 (09-10) to 1/3 — notably, the verbs are
+  *correctly identified* as dative-taking every time, then given an accusative
+  pronoun by reflex (*danke ihn*, *gehört mich*). The es/sie dative swap
+  recurred a third time, same direction. Both downgraded to LEARNING with
+  shortened intervals.
+- **Repository work:** created [Complete Notes.md](Complete%20Notes.md) as a
+  single study document covering everything, then rewrote it after the learner
+  correctly observed the first draft read as a log rather than notes. Added a
+  LaTeX/PDF build (`build_notes.sh`, pandoc + xelatex) so the study copy is
+  generated rather than hand-maintained.
+- **Staleness audit.** MASTER_PROGRESS.md was found 13 days out of date,
+  claiming Session 7 and "listening/speaking not yet practiced". Rewritten
+  against the trackers; README had the same problem and was fixed too. The
+  hard rule now covers both, so they refresh whenever anything is logged.
+- Full detail: [daily_notes/2026-09-17.md](daily_notes/2026-09-17.md),
+  [daily_notes/2026-09-18.md](daily_notes/2026-09-18.md)
+
+## Session 14 — 2026-09-16
+
+- **Perfekt (past tense) introduced** — the first substantial A2 topic, and it
+  landed unusually well: **9/10 across three rounds on first exposure.**
+- Structure (haben/sein in position two, participle at the end) was correct
+  from the first attempt. Helper-verb selection held even in the
+  counter-intuitive cases. An irregular participle (*gegangen*, with its e→a
+  stem change) was produced correctly unprompted, and the learner asked why it
+  isn't "gegehen" — exactly the right question.
+- **Dedicated sein/haben test: 5/6**, including *bleiben* (a memorised
+  exception) and correctly treating *stehen* as haben despite it feeling
+  physical. The one miss used sein for *spielen*.
+- **The errors were all participle spelling**, not structure: *gefähren* (a
+  false umlaut), *gebleibt* (regularising an irregular), *gegeinschlafen*
+  (ge- at the front of a separable verb rather than the middle).
+- **A proposed rule was corrected:** that regular/irregular spelling predicts
+  haben/sein. It doesn't — they are independent systems (ANSWERS Q23). The
+  GRAMMAR.md row was split in two to reflect that, since selection is
+  FUNCTIONAL while spelling is still LEARNING.
+- Vocabulary warmup retested A1-L7: Bus and Straße promoted to KNOWN.
+- Full detail: [daily_notes/2026-09-16.md](daily_notes/2026-09-16.md)
+
 ## Session 13 — 2026-09-15
 
 - **Gap since 2026-09-11** (no daily notes 09-12 through 09-14 — likely
@@ -32,55 +81,10 @@ Newest entries at the top.
   misconception. Full breakdown table in daily_notes/2026-09-15.md.
 - Full detail: [daily_notes/2026-09-15.md](daily_notes/2026-09-15.md)
 
-## Session 12 — 2026-09-11
-
-- **Continuing the grammar-concepts test from Session 11, Q5 onward.**
-- **Q5 (nach vs zu):** initial rule was invented ("nach = infinitive-form
-  nouns," not real grammar) though both examples came out correct anyway.
-  Per the learner's requested process, pointed back to ANSWERS.md Q16 rather
-  than re-teaching — learner opened it and restated the real rule correctly
-  (nach = no-article destinations, zu = has-article destinations) plus
-  correct zum/zur contraction reasoning. Fully correct after self-correction.
-- **Q6 (separable verbs): 3/3, clean, no nudge needed.** Split rule, two
-  examples (incl. an unprompted correct accusative pronoun, "Ich rufe dich
-  an"), and the modal-verb-keeps-it-whole rule all correct first try.
-- **Q7 (verb-second): all 3 parts correct**, with one nuance needing an
-  isolated nudge — correctly separated weil (own verb to the end) from denn
-  (normal order), but initially missed that the main clause AFTER a
-  weil-clause still needs verb-second ("Weil es regnet, gehe ich..." not
-  "...ich gehe..."). Fixed immediately on an isolated retest.
-- **Q8 (nicht placement):** general rule clean first try; definite-object
-  nuance self-corrected via ANSWERS.md Q18 (same self-correction pattern
-  as Q5).
-- **Q9 (modal verb structure): clean, no help needed, first try.**
-- **GRAMMAR-CONCEPTS TEST (Q1-Q9) COMPLETE.** Final pattern: 4/9 fully clean
-  with zero help (dative preps, accusative preps, separable verbs, modal
-  structure); 3/9 resolved via self-directed reference checks (nach/zu,
-  verb-second nuance, nicht-placement nuance) — a genuine strength, real
-  debugging rather than memorization; 2/9 needed an actual re-teach (the
-  four-cases logic, two-way prepositions after real forgetting). No topic
-  stayed wrong after correction.
-- **Pattern flagged:** three topics in two days (es/sie dative swap, two-way
-  prepositions, nach/zu) needed a nudge back to already-answered material
-  rather than landing clean cold. Logged as a watch-item, not yet treated as
-  a real regression pattern — see ERROR_LOG.md.
-- Full detail: [daily_notes/2026-09-11.md](daily_notes/2026-09-11.md)
-
-## Session 11 — 2026-09-10
-
-- **Opened worried about forgetting material after the 2026-09-09 gap.** Ran
-  a 6-question spread-check across Session 10's content instead of taking
-  the feeling at face value: für, durch, ohne (+ correct instinct to skip
-  the article on general/uncountable Milch), um+time, mit+dative
-  (self-corrected seine→seiner mid-sentence, unprompted), and a dative
-  pronoun (ihm). **6/6, including one genuine self-correction.** Confirmed
-  the "I forgot everything" feeling was retrieval anxiety, not an actual
-  gap — full detail in [daily_notes/2026-09-10.md](daily_notes/2026-09-10.md).
-
----
-
 ## Archived sessions (summary)
 
+- Session 12 — 2026-09-11: Grammar-concepts test Q5-Q9 completed (testing the rules themselves, not sentences) - 4/9 clean unaided, 3/9 self-corrected via reference checks, 2/9 needed a re-teach.
+- Session 11 — 2026-09-10: Post-gap confidence check 6/6 including an unprompted self-correction; grammar-concepts test begun (cases, pronoun table, dative-only verbs introduced).
 - Session (no session) — 2026-09-09: No session held; logged to keep streak/history accurate.
 - Session 10 — 2026-09-08: aus/von/nach polish, Q15/Q16, repo audit, 52-question review scored 46.5/52 (~89%), first real listening practice (Nicos Weg Ep. 1).
 - Session 9 — 2026-09-07: geben genuinely resolved (real overnight check), dative prepositions introduced, vocab sweep, free writing #2 (7 sentences), "never assume, push every turn" process fix adopted.

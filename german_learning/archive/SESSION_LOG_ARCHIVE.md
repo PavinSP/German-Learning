@@ -6,6 +6,53 @@ Newest entries at the top (same order as before).
 
 ---
 
+## Session 12 — 2026-09-11
+
+- **Continuing the grammar-concepts test from Session 11, Q5 onward.**
+- **Q5 (nach vs zu):** initial rule was invented ("nach = infinitive-form
+  nouns," not real grammar) though both examples came out correct anyway.
+  Per the learner's requested process, pointed back to ANSWERS.md Q16 rather
+  than re-teaching — learner opened it and restated the real rule correctly
+  (nach = no-article destinations, zu = has-article destinations) plus
+  correct zum/zur contraction reasoning. Fully correct after self-correction.
+- **Q6 (separable verbs): 3/3, clean, no nudge needed.** Split rule, two
+  examples (incl. an unprompted correct accusative pronoun, "Ich rufe dich
+  an"), and the modal-verb-keeps-it-whole rule all correct first try.
+- **Q7 (verb-second): all 3 parts correct**, with one nuance needing an
+  isolated nudge — correctly separated weil (own verb to the end) from denn
+  (normal order), but initially missed that the main clause AFTER a
+  weil-clause still needs verb-second ("Weil es regnet, gehe ich..." not
+  "...ich gehe..."). Fixed immediately on an isolated retest.
+- **Q8 (nicht placement):** general rule clean first try; definite-object
+  nuance self-corrected via ANSWERS.md Q18 (same self-correction pattern
+  as Q5).
+- **Q9 (modal verb structure): clean, no help needed, first try.**
+- **GRAMMAR-CONCEPTS TEST (Q1-Q9) COMPLETE.** Final pattern: 4/9 fully clean
+  with zero help (dative preps, accusative preps, separable verbs, modal
+  structure); 3/9 resolved via self-directed reference checks (nach/zu,
+  verb-second nuance, nicht-placement nuance) — a genuine strength, real
+  debugging rather than memorization; 2/9 needed an actual re-teach (the
+  four-cases logic, two-way prepositions after real forgetting). No topic
+  stayed wrong after correction.
+- **Pattern flagged:** three topics in two days (es/sie dative swap, two-way
+  prepositions, nach/zu) needed a nudge back to already-answered material
+  rather than landing clean cold. Logged as a watch-item, not yet treated as
+  a real regression pattern — see ERROR_LOG.md.
+- Full detail: [daily_notes/2026-09-11.md](daily_notes/2026-09-11.md)
+
+## Session 11 — 2026-09-10
+
+- **Opened worried about forgetting material after the 2026-09-09 gap.** Ran
+  a 6-question spread-check across Session 10's content instead of taking
+  the feeling at face value: für, durch, ohne (+ correct instinct to skip
+  the article on general/uncountable Milch), um+time, mit+dative
+  (self-corrected seine→seiner mid-sentence, unprompted), and a dative
+  pronoun (ihm). **6/6, including one genuine self-correction.** Confirmed
+  the "I forgot everything" feeling was retrieval anxiety, not an actual
+  gap — full detail in [daily_notes/2026-09-10.md](daily_notes/2026-09-10.md).
+
+---
+
 ## 2026-09-09 — No study day
 
 No session held. Logged so the streak/history stays accurate rather than
