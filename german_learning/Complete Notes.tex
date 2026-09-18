@@ -50,6 +50,12 @@
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
+\ifLuaTeX
+  \usepackage{luacolor}
+  \usepackage[soul]{lua-ul}
+\else
+  \usepackage{soul}
+\fi
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -139,36 +145,26 @@
 \setcounter{tocdepth}{2}
 \tableofcontents
 }
-\section{COMPLETE NOTES --- Everything, in study
-format}\label{complete-notes-everything-in-study-format}
+\section{German --- Complete Notes}\label{german-complete-notes}
 
-Generated 2026-09-18 from the whole repository: GRAMMAR.md,
-VOCABULARY.md, ANSWERS.md (Q1--Q23), ERROR\_LOG.md (\textasciitilde70
-entries), PRONOUN\_TABLE.md, STUDY\_PLAN.md and the daily notes.
+Everything covered so far, written to be studied rather than skimmed.
 
-\textbf{This file is a study document, not a tracker.} It does not
-replace the trackers --- it is the thing to read and revise from. If you
-study only this file, you have covered everything taught so far.
+Parts I--VII are grammar, VIII is vocabulary, IX is the traps that catch
+people most often, X is method. The quick-reference card at the back is
+the thing to glance at before an exercise.
 
-\textbf{How to use it:} Part I--VII are the grammar. Part VIII is
-vocabulary. Part IX is the error catalogue (your actual mistakes --- the
-highest-value section). Part X is tips, traps and method.
-
-\textbf{This file is kept live.} By standing rule, every time anything
-is logged to the trackers, this document is updated too and
-\texttt{build\_notes.sh} is re-run to refresh
-\texttt{Complete\ Notes.tex} and \texttt{Complete\ Notes.pdf}. The PDF
-is the study copy --- it should never lag behind the trackers.
-\emph{(The .tex and .pdf are generated from this Markdown --- don't edit
-them directly.)}
+\emph{Kept in sync with the rest of the repo --- see the note at the
+end.}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \section{PART I --- THE FOUNDATION}\label{part-i-the-foundation}
 
-\subsection{1.1 The two core verbs}\label{the-two-core-verbs}
+\subsection{1.1 The two verbs everything is built
+on}\label{the-two-verbs-everything-is-built-on}
 
-\textbf{sein} (to be) --- irregular, must be memorised.
+\textbf{sein} --- to be. Irregular; there is no pattern to derive, it
+just has to be known cold.
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}ll@{}}
@@ -182,7 +178,7 @@ er/sie/es \textbf{ist} & sie/Sie \textbf{sind} \\
 \end{longtable}
 }
 
-\textbf{haben} (to have) --- irregular in du/er forms.
+\textbf{haben} --- to have. Regular except the du and er forms.
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}ll@{}}
@@ -196,45 +192,71 @@ er/sie/es \textbf{hat} & sie/Sie \textbf{haben} \\
 \end{longtable}
 }
 
-\textbf{!} \textbf{Your recorded mistakes here:} ``Was haben du?''
-(-\textgreater{} hast), ``habst'' (-\textgreater{} hast), ``Ich haben
-gegessen'' (-\textgreater{} habe), ``Er is nicht'' (-\textgreater{} ist,
-English spelling leaking in), ``Du bust'' (-\textgreater{} bist).
+These two carry more weight than any other verbs in the language. Beyond
+their own meanings, \textbf{haben} and \textbf{sein} are what build the
+past tense later (Part VII), so time spent making them automatic pays
+twice.
 
-\subsection{1.2 Feelings: two constructions, never
-mixed}\label{feelings-two-constructions-never-mixed}
+\begin{quote}
+\textbf{The slip to watch:} \emph{du} takes \textbf{hast} and
+\textbf{bist} --- never the unchanged forms \emph{haben}/\emph{sein}.
+``Was hast du?'', not ``Was haben du?''
+\end{quote}
 
-German expresses feelings two ways, and they cannot be combined:
+\subsection{1.2 Two ways to say how you feel --- never
+mixed}\label{two-ways-to-say-how-you-feel-never-mixed}
+
+German has two constructions for states like hunger and tiredness, and
+they cannot be combined:
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{sein + adjective}: Ich bin hungrig. / Ich bin müde.
+  \textbf{sein + adjective} --- Ich \textbf{bin} hungrig. / Ich
+  \textbf{bin} müde.
 \item
-  \textbf{haben + noun}: Ich habe Hunger. / Ich habe Durst.
+  \textbf{haben + noun} --- Ich \textbf{habe} Hunger. / Ich
+  \textbf{habe} Durst.
 \end{itemize}
 
-(wrong) ``Ich habe hungrig'' --- mixes the two. This was your first
-logged error.
+English ``I am hungry'' maps onto the first pattern, which makes it the
+natural default. The second is equally correct but needs the noun form.
 
-\subsection{1.3 Noun capitalization}\label{noun-capitalization}
+\begin{quote}
+\textbf{Wrong:} \emph{Ich habe hungrig} --- this mixes the two patterns.
+Either \emph{bin hungrig} or \emph{habe Hunger}, never a hybrid.
+\end{quote}
 
-\textbf{Every German noun is always capitalized}, everywhere in the
-sentence, not just proper names: das Buch, die Katze, der Hunger, die
-Zeit.
+\subsection{1.3 Capitalization is grammar, not
+decoration}\label{capitalization-is-grammar-not-decoration}
 
-\textbf{!} Recorded slips: ``buch'', ``Hunger'' written lowercase.
+\textbf{Every German noun is capitalized}, wherever it appears in the
+sentence: das Buch, die Katze, der Hunger, die Zeit.
 
-But: \textbf{infinitives and separable prefixes stay lowercase} unless
-genuinely nominalized. - Ich sehe \textbf{fern}. (prefix, lowercase) vs
-das \textbf{Fernsehen} (the noun) - Ich kann \textbf{schwimmen}.
-(infinitive) vs das \textbf{Schwimmen} (the activity)
+But \textbf{infinitives and separable prefixes stay lowercase} ---
+unless the word has genuinely been turned into a noun:
 
-\textbf{!} Recorded 3× as a pattern: ``Fern'', ``Schwimmen'' wrongly
-capitalized.
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+lowercase (verb) & capitalized (noun) \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Ich sehe \textbf{fern}. & das \textbf{Fernsehen} (television) \\
+Ich kann \textbf{schwimmen}. & das \textbf{Schwimmen} (swimming, the
+activity) \\
+\end{longtable}
+}
 
-\subsection{1.4 sie vs Sie --- the capitalization that changes
-meaning}\label{sie-vs-sie-the-capitalization-that-changes-meaning}
+The distinction is real: \emph{fern} is a prefix doing verb work,
+\emph{Fernsehen} is a thing. Same letters, different jobs.
+
+\subsection{1.4 sie, sie, and Sie}\label{sie-sie-and-sie}
+
+Three words, spelled almost identically, told apart by capitalization
+and by the verb:
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
@@ -244,28 +266,35 @@ Form & Meaning & Verb \\
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-sie (lowercase) & she & sie \textbf{ist} \\
-sie (lowercase) & they & sie \textbf{sind} \\
-\textbf{Sie} (always capital) & you (formal) & Sie \textbf{sind} \\
+sie & she & sie \textbf{ist} \\
+sie & they & sie \textbf{sind} \\
+\textbf{Sie} \emph{(always capital)} & you (formal) & Sie
+\textbf{sind} \\
 \end{longtable}
 }
 
-Mid-sentence, capitalization is the only thing distinguishing them: -
-``Die Frau ist glücklich, denn \textbf{sie} hat ein Buch.'' (she) -
-``\textbf{Sie} haben ein Buch.'' (you, formal)
+Mid-sentence, the capital is the only visible difference:
 
-\textbf{ihr} is never formal --- it is informal plural ``you all'' only.
-Formal is always \textbf{Sie + sind}, singular or plural. \emph{(ANSWERS
-Q1, Q2)}
+\begin{itemize}
+\tightlist
+\item
+  ``Die Frau ist glücklich, denn \textbf{sie} hat ein Buch.'' ---
+  \emph{she}
+\item
+  ``\textbf{Sie} haben ein Buch.'' --- \emph{you}, formal
+\end{itemize}
+
+And \textbf{ihr} is never formal. It is informal plural ``you all'' only
+--- for friends, family, a group of kids. Formal address is always
+\textbf{Sie + sind}, whether you are talking to one person or twenty.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\section{PART II --- ARTICLES, GENDER, AND THE CASE
-SYSTEM}\label{part-ii-articles-gender-and-the-case-system}
+\section{PART II --- ARTICLES, GENDER, AND
+CASE}\label{part-ii-articles-gender-and-case}
 
-\subsection{2.1 The article table --- the single most load-bearing table
-in
-German}\label{the-article-table-the-single-most-load-bearing-table-in-german}
+\subsection{2.1 The table everything else depends
+on}\label{the-table-everything-else-depends-on}
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
@@ -277,11 +306,11 @@ German}\label{the-article-table-the-single-most-load-bearing-table-in-german}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-der-word (masc)
+der-word
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-die-word (fem)
+die-word
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-das-word (neut)
+das-word
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 plural
 \end{minipage} \\
@@ -289,116 +318,155 @@ plural
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-\textbf{Nominative} (subject) & der & die & das & die \\
-\textbf{Accusative} (direct obj) & \textbf{den} & die & das & die \\
-\textbf{Dative} (indirect obj) & \textbf{dem} & \textbf{der} &
-\textbf{dem} & \textbf{den} (+ -n on noun) \\
+\textbf{Nominative} --- subject & der & die & das & die \\
+\textbf{Accusative} --- direct object & \textbf{den} & die & das &
+die \\
+\textbf{Dative} --- indirect object & \textbf{dem} & \textbf{der} &
+\textbf{dem} & \textbf{den} \emph{(+ -n on the noun)} \\
 \end{longtable}
 }
 
-\textbf{Notice:} in accusative, ONLY the der-word changes. That single
-fact carries over everywhere --- pronouns, possessives, everything.
+\textbf{The single most useful observation:} in the accusative, only the
+der-word changes. die and das sit still. That one asymmetry repeats
+everywhere --- in pronouns, in possessives, in kein. Learn it once, and
+several other tables come free.
 
-Indefinite: ein (der/das) / eine (die) -\textgreater{} accusative
-\textbf{einen} (der-word only) -\textgreater{} dative \textbf{einem}
-(der/das) / \textbf{einer} (die).
+Indefinite articles follow the same shape:
 
-\subsection{2.2 The four cases --- what each one
-marks}\label{the-four-cases-what-each-one-marks}
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+& der-word & die-word & das-word \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Nominative & ein & eine & ein \\
+Accusative & \textbf{einen} & eine & ein \\
+Dative & \textbf{einem} & \textbf{einer} & \textbf{einem} \\
+\end{longtable}
+}
+
+\subsection{2.2 What the cases actually
+mark}\label{what-the-cases-actually-mark}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \textbf{Nominative} --- the subject. Who/what is doing the verb.
+  \textbf{Nominative} --- the subject. Who or what is doing the verb.
 \item
-  \textbf{Accusative} --- the direct object. What the verb is done TO.
+  \textbf{Accusative} --- the direct object. What the verb is done
+  \emph{to}.
 \item
-  \textbf{Dative} --- the indirect object. The receiver/beneficiary.
+  \textbf{Dative} --- the indirect object. Who \emph{receives} it.
 \item
-  \textbf{Genitive} --- possession (not yet taught).
+  \textbf{Genitive} --- possession. Not yet covered.
 \end{enumerate}
 
-\textbf{!} \textbf{The misconception you formed and had corrected
-(2026-09-10):} case is NOT decided by whether a verb is an ``action
-verb'' or not. It is decided by the noun's ROLE in the sentence. haben,
-sehen, geben --- all take accusative direct objects. Nothing about
-``action-ness'' is involved.
+Case is decided by \textbf{the noun's role in the sentence}. It is not a
+property of the verb's type --- there is no such thing as an
+``accusative verb'' versus a ``dative verb'' in general. haben, sehen
+and geben all take accusative direct objects.
 
-\subsection{2.3 When accusative applies}\label{when-accusative-applies}
+\subsection{2.3 When to use accusative}\label{when-to-use-accusative}
 
-\textbf{Accusative = direct object of a verb.} \emph{(ANSWERS Q6)}
+\textbf{Accusative marks the direct object of a verb.} Most ``doing''
+verbs take one: haben, sehen, essen, trinken, kaufen, lesen, nehmen.
 
-Verbs that take accusative objects: haben, sehen, essen, trinken,
-kaufen, lesen, nehmen --- most ``doing'' verbs.
+\begin{quote}
+\textbf{The test:} ask \emph{what is the verb doing something to?} A
+clear answer means that noun is accusative.
+\end{quote}
 
-\textbf{The one big exception: sein never takes accusative.} ``To be''
-doesn't act on anything, it equates two things, so nouns after sein stay
-nominative.
+\textbf{The one big exception is sein.} ``To be'' doesn't act on
+anything --- it equates two things --- so nouns after \emph{sein} stay
+nominative:
 
 \begin{itemize}
 \tightlist
 \item
-  (correct) Das ist \textbf{mein} Hund. (not meinen --- sein-sentence)
+  Das ist \textbf{mein} Hund. \emph{(not meinen)}
 \item
-  (correct) Ist das \textbf{dein} Hund? (same reason)
+  Ist das \textbf{dein} Hund? \emph{(same reason --- still a
+  sein-sentence)}
 \end{itemize}
 
-\textbf{!} Recorded 2×: ``Ist das deinen Hund?'' --- accusative
-over-applied after sein. \emph{(ANSWERS Q4)}
-
-\textbf{Modal verbs do not change any of this.} \emph{(ANSWERS Q7)} The
-second verb (the infinitive at the end) decides the case, exactly as it
-would alone: - Ich möchte \textbf{den Hund} sehen. (sehen takes
-accusative) - Ich kann schlafen. (schlafen takes no object)
-
-\subsection{2.4 When dative applies --- TWO separate
-causes}\label{when-dative-applies-two-separate-causes}
-
-\textbf{Cause 1: the indirect object} (the receiver, usually a person).
-
 \begin{quote}
-\textbf{Ich gebe dem Mann ein Buch.} dem Mann = dative (receiver) · ein
-Buch = accusative (thing given)
+\textbf{Why this trips people:} ``Ist das deinen Hund?'' feels right
+because \emph{Hund} looks like an object. But nothing is being done to
+the dog; the sentence is just saying \emph{that = your dog}. No action,
+no accusative.
 \end{quote}
 
-\textbf{Cause 2: certain prepositions simply demand it}, regardless of
-role.
-
-\begin{quote}
-\textbf{Er spielt mit mir.} --- mir isn't receiving anything; \emph{mit}
-forces dative.
-\end{quote}
-
-These are genuinely two different mechanisms producing the same endings.
-
-\subsection{\texorpdfstring{2.5 Dative-only verbs \textbf{!}
-HIGH-PRIORITY WEAK
-SPOT}{2.5 Dative-only verbs ! HIGH-PRIORITY WEAK SPOT}}\label{dative-only-verbs-high-priority-weak-spot}
-
-Some verbs take a dative object even though there is only ONE object and
-it looks like a direct object in English:
+\textbf{Modal verbs change nothing here.} The infinitive at the end
+decides the case, exactly as it would on its own:
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{helfen} --- Ich helfe \textbf{ihr}. (not sie)
+  Ich möchte \textbf{den Hund} sehen. --- \emph{sehen} takes accusative,
+  so den Hund.
 \item
-  \textbf{danken} --- Ich danke \textbf{ihm}. (not ihn)
-\item
-  \textbf{gehören} --- Das Buch gehört \textbf{mir}. (not mich)
-\item
-  gefallen, antworten (same family)
+  Ich kann schlafen. --- \emph{schlafen} takes no object at all.
 \end{itemize}
 
-English ``I help her'' \emph{looks} like a direct object. German treats
-the person as a recipient.
+\subsection{2.4 Dative arrives by two separate
+routes}\label{dative-arrives-by-two-separate-routes}
 
-\textbf{!} \textbf{This is a confirmed regression cluster.} 3/3 clean on
-2026-09-10, then \textbf{1/3 on 2026-09-17} (``Ich danke ihn'' (wrong),
-``Das Buch gehört mich'' (wrong)). You correctly identify the verbs as
-dative-only --- you then pick the wrong form. \textbf{Drill:
-mir/dir/ihm/ihr, not mich/dich/ihn/sie.}
+This is worth separating clearly, because the endings look identical but
+the reasons are unrelated.
+
+\textbf{Route 1 --- the indirect object.} The receiver, usually a
+person:
+
+\begin{quote}
+\textbf{Ich gebe dem Mann ein Buch.} \emph{dem Mann} = dative (who
+receives) · \emph{ein Buch} = accusative (what is given)
+\end{quote}
+
+\textbf{Route 2 --- certain prepositions simply demand it}, with no
+object role involved at all:
+
+\begin{quote}
+\textbf{Er spielt mit mir.} \emph{mir} isn't receiving anything.
+\emph{mit} just forces dative. Full list in Part V.
+\end{quote}
+
+\subsection{2.5 Verbs that take dative and nothing
+else}\label{verbs-that-take-dative-and-nothing-else}
+
+A small group of verbs takes a \textbf{dative} object even though there
+is only one object, and even though English makes it look direct:
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+Verb & Correct & Not \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+helfen --- to help & Ich helfe \textbf{ihr}. & \st{Ich helfe sie} \\
+danken --- to thank & Ich danke \textbf{ihm}. & \st{Ich danke ihn} \\
+gehören --- to belong to & Das Buch gehört \textbf{mir}. & \st{gehört
+mich} \\
+\end{longtable}
+}
+
+Also in this family: \emph{gefallen}, \emph{antworten}.
+
+\begin{quote}
+\textbf{Why it feels wrong:} ``I help her'' looks like a plain direct
+object in English. German treats the helped person as a
+\textbf{recipient} of help, not a thing being acted on. Once you hear it
+as ``I give help \emph{to} her,'' the dative stops feeling arbitrary.
+
+\textbf{The practical trap:} it is easy to spot that these verbs
+\emph{need} dative and still reach for the accusative pronoun by reflex.
+The forms you want are \textbf{mir, dir, ihm, ihr, uns, euch, ihnen} ---
+never mich, dich, ihn, sie.
+\end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -426,20 +494,35 @@ Sie --- you (formal) & Sie & \textbf{Ihnen} \\
 \end{longtable}
 }
 
-\textbf{What to notice:} 1. Only four dative forms are genuinely new:
-mir, dir, ihm, ihnen. 2. \textbf{er changes twice}
-(er-\textgreater ihn-\textgreater ihm), mirroring
-der-\textgreater den-\textgreater dem exactly. 3. \textbf{es and sie
-barely move} --- only the dative shifts them:
-es-\textgreater{}\textbf{ihm}, sie-\textgreater{}\textbf{ihr}.
+\textbf{Three things make this much smaller than it looks:}
 
-\textbf{!} \textbf{es/sie dative swap --- RECURRING, 3 occurrences}
-(2026-09-10, again 2026-09-17). You give \textbf{ihm} for both es and
-sie. Correct: es-\textgreater ihm, sie-\textgreater{}\textbf{ihr}. This
-is your most persistent pronoun error.
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Only four dative forms are genuinely new} --- mir, dir, ihm,
+  ihnen. \emph{uns} and \emph{euch} are identical in both object cases;
+  es/sie/Sie carry over.
+\item
+  \textbf{er changes twice} --- er -\textgreater{} ihn -\textgreater{}
+  ihm, mirroring der -\textgreater{} den -\textgreater{} dem exactly.
+  The same shape, so if the articles are solid these follow.
+\item
+  \textbf{es and sie barely move.} Both hold still in the accusative.
+  Only the dative shifts them --- and that is where the one real trap
+  lives:
+\end{enumerate}
 
-\subsection{3.2 The ``ihr'' trap --- three separate
-jobs}\label{the-ihr-trap-three-separate-jobs}
+\begin{quote}
+\textbf{es -\textgreater{} ihm. sie -\textgreater{} ihr.}
+
+\emph{es} shares its dative form with \emph{er}, which is
+counter-intuitive enough that it is easy to over-apply and give
+\textbf{ihm} for both es and sie. If you remember one thing from this
+table, make it this line.
+\end{quote}
+
+\subsection{3.2 The three jobs of ``ihr''}\label{the-three-jobs-of-ihr}
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
@@ -458,67 +541,87 @@ Example
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-ihr & ``you all'' (nominative) & \textbf{Ihr} habt ein Buch \\
-ihr & ``to her'' (dative) & Ich gebe \textbf{ihr} ein Buch \\
-ihr/ihre & ``her'' (possessive) & \textbf{Ihre} Katze ist müde \\
-\textbf{Ihr/Ihnen} (capital) & formal ``your''/``to you'' & Ist das
-\textbf{Ihr} Buch? \\
+ihr & ``you all'' --- subject & \textbf{Ihr} habt ein Buch \\
+ihr & ``to her'' --- dative & Ich gebe \textbf{ihr} ein Buch \\
+ihr / ihre & ``her'' --- possessive & \textbf{Ihre} Katze ist müde \\
+\textbf{Ihr / Ihnen} \emph{(capital)} & formal ``your'' / ``to you'' &
+Ist das \textbf{Ihr} Buch? \\
 \end{longtable}
 }
 
-The verb form usually disambiguates: \emph{ihr habt} (you all) vs
-\emph{ihr gibt} (impossible as a subject -\textgreater{} must be
-dative).
+Context resolves it, and usually the verb does the work: \emph{ihr habt}
+can only be ``you all'', because a dative \emph{ihr} could never be the
+subject of \emph{habt}.
 
-\subsection{\texorpdfstring{3.3 THE BIG PRONOUN TRAP --- gender, not
-meaning \emph{(ANSWERS
-Q11)}}{3.3 THE BIG PRONOUN TRAP --- gender, not meaning (ANSWERS Q11)}}\label{the-big-pronoun-trap-gender-not-meaning-answers-q11}
+\subsection{3.3 The pronoun trap worth real
+attention}\label{the-pronoun-trap-worth-real-attention}
 
-\textbf{A German pronoun follows the noun's GRAMMATICAL GENDER, never
-the English meaning, never whether it is a person or a thing.}
+\textbf{A German pronoun follows the noun's grammatical gender --- never
+the English meaning, never whether the thing is a person or an object.}
 
-Three-step method: 1. Find the noun being replaced. 2. Recall its
-article --- der/die/das. 3. Convert: der-\textgreater er/ihn ·
-die-\textgreater sie/sie · das-\textgreater es/es
+Three steps, every time:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Find the noun being replaced.
+\item
+  Recall its article --- der, die, or das.
+\item
+  Convert: der -\textgreater{} er/ihn · die -\textgreater{} sie/sie ·
+  das -\textgreater{} es/es
+\end{enumerate}
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
 \toprule\noalign{}
-Sentence & Pronoun & Why \\
+Sentence & Becomes & Why \\
 \midrule\noalign{}
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-Ich sehe \textbf{den Tisch} -\textgreater{} Ich sehe \textbf{ihn} & ihn
-& der-word \\
-Ich habe \textbf{das Buch} -\textgreater{} Ich habe \textbf{es} & es &
-das-word \\
-Sie kauft \textbf{die Milch} -\textgreater{} Sie kauft \textbf{sie} &
-sie & die-word \\
-Ich esse \textbf{einen Apfel} -\textgreater{} Ich esse \textbf{ihn} &
-ihn & der Apfel \\
+Ich sehe \textbf{den Tisch}. & Ich sehe \textbf{ihn}. & der Tisch \\
+Ich habe \textbf{das Buch}. & Ich habe \textbf{es}. & das Buch \\
+Sie kauft \textbf{die Milch}. & Sie kauft \textbf{sie}. & die Milch \\
+Ich esse \textbf{einen Apfel}. & Ich esse \textbf{ihn}. & der Apfel \\
 \end{longtable}
 }
 
-\textbf{The trap, stated plainly:} - \textbf{der Apfel} is a thing, but
-takes \textbf{ihn} --- literally ``I eat him.'' Correct. - \textbf{das
-Kind} is a person, but takes \textbf{es} --- ``she sees it.'' Correct. -
-\textbf{das Mädchen} (girl) -\textgreater{} \textbf{es}. Yes, really.
+\textbf{Now the part that feels wrong and is correct anyway:}
 
-If a German pronoun feels wrong to your English ear, that is expected
-and is not a sign of error.
+\begin{itemize}
+\tightlist
+\item
+  \textbf{der Apfel} is an object, but takes \textbf{ihn} --- literally
+  ``I eat him.''
+\item
+  \textbf{das Kind} is a person, but takes \textbf{es} --- ``she sees
+  it.''
+\item
+  \textbf{das Mädchen} (girl) is also a das-word -\textgreater{}
+  \textbf{es}.
+\end{itemize}
 
-\textbf{Practical self-check:} say the noun WITH its article first ---
-\emph{``der Apfel''} -\textgreater{} der -\textgreater{} ihn. Side
-effect: if you can't recall the article, you can't choose the pronoun.
-\textbf{That is why nouns must always be learned with der/die/das
-attached.}
+English picks \emph{it} or \emph{him/her} based on whether something is
+a thing or a person. German does not make that distinction at all. When
+a German pronoun sounds wrong to an English ear, that is expected --- it
+is not a signal that you have made a mistake.
 
-\textbf{!} Recorded 2× (same check, opposite directions): pronouns
-chosen by English semantics instead of gender.
+\begin{quote}
+\textbf{Self-check that makes this automatic:} before choosing a
+pronoun, say the noun \emph{with its article} --- ``der Apfel''
+-\textgreater{} der -\textgreater{} ihn.
 
-\subsection{3.4 Possessives take the same
-endings}\label{possessives-take-the-same-endings}
+This has a useful consequence: if you cannot recall a noun's article,
+you cannot choose its pronoun. That is the strongest practical argument
+for \textbf{always learning nouns together with der/die/das}. The
+article isn't decoration; it is load-bearing information you will need
+repeatedly.
+\end{quote}
+
+\subsection{3.4 Possessives use the same
+endings}\label{possessives-use-the-same-endings}
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
@@ -539,7 +642,7 @@ plural
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-Nominative & mein Vater / \textbf{unser} Auto & mein\textbf{e} Mutter &
+Nominative & mein Vater · \textbf{unser} Auto & mein\textbf{e} Mutter &
 mein\textbf{e} Eltern \\
 Accusative & mein\textbf{en} Vater & mein\textbf{e} Mutter &
 mein\textbf{e} Eltern \\
@@ -548,127 +651,205 @@ mein\textbf{en} Eltern \\
 \end{longtable}
 }
 
-Same pattern for dein-, sein-, ihr-, unser-, Ihr-.
+Identical pattern for dein-, sein-, ihr-, unser-, Ihr-.
 
-\textbf{!} \textbf{Critical correction you needed twice:} the
-\textbf{-en} ending is \textbf{DATIVE plural}, not ``plural in
-general.'' - (correct) mit \textbf{unseren} Eltern (dative --- mit
-forces it) - (correct) gegen \textbf{unsere} Eltern (accusative plural
---- NO -en)
-
-You have twice stated the rule as ``plural always takes -en''
-(2026-09-08, 2026-09-17). That is the misconception to kill.
-\emph{(ANSWERS Q14)}
-
-\subsection{\texorpdfstring{3.5 uns vs unser- \emph{(ANSWERS
-Q13)}}{3.5 uns vs unser- (ANSWERS Q13)}}\label{uns-vs-unser--answers-q13}
+\begin{quote}
+\textbf{The ending to be careful with: -en is DATIVE plural, not plural
+in general.} This one is genuinely easy to over-generalise:
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{uns} = PRONOUN, ``us'' --- Er sieht \textbf{uns}.
+  mit \textbf{unseren} Eltern --- dative, because \emph{mit} forces it
+  -\textgreater{} \textbf{-en}
 \item
-  \textbf{unser-} = POSSESSIVE, ``our'' --- \textbf{unsere} Eltern, mit
+  gegen \textbf{unsere} Eltern --- accusative plural -\textgreater{}
+  \textbf{no -en}
+\end{itemize}
+
+``Plural takes -en'' is a tempting rule and a false one. The plural
+accusative leaves the possessive unmarked, exactly like the singular
+die-word form.
+\end{quote}
+
+Note also that \textbf{neuter nominative stays bare}: \emph{unser Auto},
+not \emph{unsere Auto} --- same as \emph{mein Buch}.
+
+\subsection{3.5 uns versus unser-}\label{uns-versus-unser-}
+
+Two different words that look related:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{uns} --- pronoun, ``us'': Er sieht \textbf{uns}.
+\item
+  \textbf{unser-} --- possessive, ``our'': \textbf{unsere} Eltern, mit
   \textbf{unseren} Eltern
 \end{itemize}
 
-Same shape as the ihr/ihre confusion: a pronoun and its look-alike
-possessive are two different words with two different jobs.
+Same shape of confusion as \emph{ihr} (you all) versus \emph{ihre}
+(her). A pronoun and its look-alike possessive do different jobs and
+take different endings.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \section{PART IV --- NEGATION}\label{part-iv-negation}
 
-\subsection{\texorpdfstring{4.1 nicht vs kein --- the decision
-\emph{(ANSWERS Q3, Q8, Q9,
-Q10)}}{4.1 nicht vs kein --- the decision (ANSWERS Q3, Q8, Q9, Q10)}}\label{nicht-vs-kein-the-decision-answers-q3-q8-q9-q10}
+\subsection{4.1 Choosing between nicht and
+kein}\label{choosing-between-nicht-and-kein}
 
-\textbf{Use kein/keine when} negating a noun that would otherwise take
-ein/eine or no article (indefinite/general): - Ich habe \textbf{keinen}
-Hund. (vs ``ein Hund'') - Ich habe \textbf{keine} Zeit. (Zeit normally
-takes no article)
-
-\textbf{Use nicht when:} - Negating a verb: Ich arbeite \textbf{nicht}.
-- Negating an adjective: Ich bin \textbf{nicht} müde. - Negating a
-\textbf{specific/definite} noun (der/die/das): Ich sehe den Hund
-\textbf{nicht}.
-
-\textbf{kein takes the same endings as ein:} keinen Hund (acc.
-der-word), keine Zeit, kein Buch.
-
-\subsection{\texorpdfstring{4.2 Why ``kein den Hund'' is impossible
-\emph{(ANSWERS
-Q9)}}{4.2 Why ``kein den Hund'' is impossible (ANSWERS Q9)}}\label{why-kein-den-hund-is-impossible-answers-q9}
-
-\textbf{kein and der/die/das are mutually exclusive} --- kein REPLACES
-the article slot. nicht doesn't touch the article at all.
+\textbf{kein} negates a noun that would otherwise take \emph{ein/eine}
+or no article at all --- something indefinite or general:
 
 \begin{itemize}
 \tightlist
 \item
-  kein = article-equivalent -\textgreater{} ``Ich habe \textbf{keinen}
-  Hund'' (no separate ein)
+  Ich habe \textbf{keinen} Hund. \emph{(versus ``einen Hund'')}
 \item
-  nicht = separate word, article stays -\textgreater{} ``Ich sehe
-  \textbf{den} Hund \textbf{nicht}''
+  Ich habe \textbf{keine} Zeit. \emph{(Zeit normally takes no article)}
 \end{itemize}
 
-Two articles cannot attach to one noun, which is what ``kein den Hund''
-would be.
+\textbf{nicht} negates everything else:
 
-\textbf{The real trigger:} was there originally an ein/eine (or no
-article)? -\textgreater{} kein replaces it. Was there a der/die/das?
--\textgreater{} keep it, add nicht.
+\begin{itemize}
+\tightlist
+\item
+  a verb --- Ich arbeite \textbf{nicht}.
+\item
+  an adjective --- Ich bin \textbf{nicht} müde.
+\item
+  a \textbf{specific, definite} noun --- Ich sehe den Hund
+  \textbf{nicht}.
+\end{itemize}
 
-\subsection{\texorpdfstring{4.3 Where nicht goes \emph{(ANSWERS Q18)}
-\textbf{!}
-RECURRING}{4.3 Where nicht goes (ANSWERS Q18) ! RECURRING}}\label{where-nicht-goes-answers-q18-recurring}
+\emph{kein} takes the same endings as \emph{ein}: keinen Hund, keine
+Zeit, kein Buch.
 
-\textbf{nicht sits as close to the end as possible, but BEFORE whatever
-it negates} (verb, infinitive, or separable prefix): - Ich sehe
-\textbf{nicht} fern. - Er kann \textbf{nicht} schwimmen. - Ich stehe um
-sieben Uhr \textbf{nicht} auf.
+\begin{quote}
+\textbf{The test:} could the word be replaced with ``no \_\_\_''
+naturally, as a general thing? -\textgreater{} kein. Is it a verb, an
+adjective, or a specific already-identified noun? -\textgreater{} nicht.
+\end{quote}
 
-\textbf{A definite object comes BEFORE nicht}, because the object is not
-what is being negated --- it's established information: - (correct) Ich
-sehe \textbf{den Hund nicht}. - (wrong) Ich sehe nicht den Hund. -
-(correct) So kann er \textbf{den Hund nicht} sehen.
+\subsection{4.2 Why ``kein den Hund'' cannot
+exist}\label{why-kein-den-hund-cannot-exist}
 
-\textbf{!} You have forgotten this twice after gaps (2026-09-11,
-2026-09-15) and self-corrected both times once pointed back to the rule.
+Because \textbf{kein and der/die/das are alternatives, not stackable}.
 
-\subsection{\texorpdfstring{4.4 keine Zeit vs nicht viel Zeit
-\emph{(ANSWERS
-Q3)}}{4.4 keine Zeit vs nicht viel Zeit (ANSWERS Q3)}}\label{keine-zeit-vs-nicht-viel-zeit-answers-q3}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{kein replaces the article slot entirely.} In \emph{Ich habe
+  keinen Hund} there is no separate \emph{ein} --- kein \emph{is} the
+  article.
+\item
+  \textbf{nicht doesn't touch the article at all.} In \emph{Ich sehe den
+  Hund nicht}, \emph{den} stays exactly as it was and nicht sits
+  separately, negating the action.
+\end{itemize}
 
-Not interchangeable: - \textbf{Wir haben keine Zeit.} --- no time at
-all, complete negation. - \textbf{Wir haben nicht viel Zeit.} --- some
-time exists, just not much. (nicht negates \emph{viel}, the quantifier
---- consistent with the rule, not an exception.)
+``kein den Hund'' would put two articles on one noun.
+
+\begin{quote}
+\textbf{So the real question is always: what was there originally?} An
+ein/eine (or nothing) -\textgreater{} kein replaces it. A der/die/das
+-\textgreater{} keep it and add nicht.
+\end{quote}
+
+\subsection{4.3 Where nicht goes}\label{where-nicht-goes}
+
+\textbf{nicht sits as late in the sentence as it can, but immediately
+before whatever it negates} --- a verb, an infinitive, or a separable
+prefix:
+
+\begin{itemize}
+\tightlist
+\item
+  Ich sehe \textbf{nicht} fern.
+\item
+  Er kann \textbf{nicht} schwimmen.
+\item
+  Ich stehe um sieben Uhr \textbf{nicht} auf.
+\end{itemize}
+
+\textbf{A definite object comes before nicht}, because the object isn't
+what's being negated --- it is established information:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Right:} Ich sehe \textbf{den Hund nicht}.
+\item
+  \textbf{Wrong:} Ich sehe nicht den Hund.
+\item
+  \textbf{Right:} So kann er \textbf{den Hund nicht} sehen.
+\end{itemize}
+
+\begin{quote}
+The logic is worth holding onto rather than memorising the order: you
+aren't negating \emph{the dog}, you're negating \emph{the seeing}. So
+nicht attaches to the verb, and the dog --- already known information
+--- stays in front.
+\end{quote}
+
+\subsection{4.4 keine Zeit versus nicht viel
+Zeit}\label{keine-zeit-versus-nicht-viel-zeit}
+
+Not two ways of saying one thing:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Wir haben keine Zeit.} --- no time at all.
+\item
+  \textbf{Wir haben nicht viel Zeit.} --- some time exists, just not
+  much.
+\end{itemize}
+
+The second one uses \emph{nicht} despite \emph{Zeit} being a noun,
+because nicht is negating \textbf{viel} (the quantifier), not the noun.
+That is consistent with the rule in 4.1, not an exception to it.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \section{PART V --- PREPOSITIONS}\label{part-v-prepositions}
 
-\subsection{5.1 Dative prepositions --- always dative, no
-exceptions}\label{dative-prepositions-always-dative-no-exceptions}
+\subsection{5.1 Prepositions that always take
+dative}\label{prepositions-that-always-take-dative}
 
-\textbf{mit, nach, bei, von, zu, aus, seit} (+ außer)
+\textbf{aus · außer · bei · mit · nach · seit · von · zu}
 
-Mnemonic rhyme: \emph{aus, außer, bei, mit, nach, seit, von, zu}
+Worth memorising as a rhythm --- \emph{``aus, außer, bei, mit, nach,
+seit, von, zu''} --- because there is no logic to derive; membership in
+this list is the whole rule. Whatever follows goes into dative,
+regardless of its role:
 
-Every one of them forces dative on whatever follows: - mit \textbf{dem}
-Hund · bei \textbf{der} Arbeit · seit \textbf{dem} Jahr - von
-\textbf{der} Arbeit · aus \textbf{dem} Haus · zu \textbf{meiner} Mutter
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+mit \textbf{dem} Hund & bei \textbf{der} Arbeit \\
+von \textbf{der} Arbeit & aus \textbf{dem} Haus \\
+seit \textbf{dem} Jahr & zu \textbf{meiner} Mutter \\
+\end{longtable}
+}
 
-\textbf{!} \textbf{Your recurring habit: dropping the article entirely}
---- ``von Arbeit'', ``nach Wochenende'', ``von Schule''. Logged 4+
-times. A dative preposition ALWAYS keeps its article.
+\begin{quote}
+\textbf{The habit to guard against: dropping the article.} \emph{von
+Arbeit}, \emph{nach Wochenende}, \emph{von Schule} all feel acceptable
+because English drops articles freely (``from work'', ``after the
+weekend''). German doesn't --- a dative preposition keeps its article
+every time.
+\end{quote}
 
-\subsection{5.2 Accusative prepositions --- always
-accusative}\label{accusative-prepositions-always-accusative}
+\subsection{5.2 Prepositions that always take
+accusative}\label{prepositions-that-always-take-accusative}
 
-\textbf{FUDGO: für, um, durch, gegen, ohne}
+\textbf{für · um · durch · gegen · ohne} --- the initials spell
+\textbf{FUDGO}.
 
 \begin{itemize}
 \tightlist
@@ -679,141 +860,161 @@ accusative}\label{accusative-prepositions-always-accusative}
 \item
   Ich esse Brot \textbf{ohne} Milch.
 \item
-  Wir spielen \textbf{gegen unsere} Eltern. \textbf{!} (not unseren ---
-  see 3.4)
+  Wir spielen \textbf{gegen unsere} Eltern.
 \item
   Ich stehe \textbf{um} sieben Uhr auf.
 \end{itemize}
 
-\subsection{\texorpdfstring{5.3 Two-way prepositions \textbf{!} NEEDED 4
-REFRESHERS --- your hardest
-topic}{5.3 Two-way prepositions ! NEEDED 4 REFRESHERS --- your hardest topic}}\label{two-way-prepositions-needed-4-refreshers-your-hardest-topic}
+\subsection{5.3 Two-way prepositions --- the hardest thing here so
+far}\label{two-way-prepositions-the-hardest-thing-here-so-far}
 
-\textbf{in, an, auf, über, unter, vor, hinter, neben, zwischen}
+\textbf{in · an · auf · über · unter · vor · hinter · neben · zwischen}
 
-\textbf{The ONLY thing to memorise --- one question:}
+These take \emph{either} case. Which one is decided by a single
+question:
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
 \toprule\noalign{}
-Question & Meaning & Case \\
+Ask & Meaning & Case \\
 \midrule\noalign{}
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-\textbf{wohin?} (where TO?) & movement into/onto &
-\textbf{ACCUSATIVE} \\
-\textbf{wo?} (where?) & static location, no movement &
-\textbf{DATIVE} \\
+\textbf{wohin?} --- where \emph{to}? & movement into/onto &
+\textbf{accusative} \\
+\textbf{wo?} --- where? & static location & \textbf{dative} \\
 \end{longtable}
 }
 
-Worked pairs: - Ich gehe \textbf{ins} Zimmer. (motion -\textgreater{}
-acc) / Ich bin \textbf{im} Zimmer. (location -\textgreater{} dat) - Ich
-gehe \textbf{in den} Garten. (motion) / Der Hund ist \textbf{im} Garten.
-(location) - Er legt das Buch \textbf{auf den} Tisch. (motion) / Die
-Katze sitzt \textbf{auf dem} Tisch. (location)
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Movement (accusative)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Location (dative)
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Ich gehe \textbf{ins} Zimmer. & Ich bin \textbf{im} Zimmer. \\
+Ich gehe \textbf{in den} Garten. & Der Hund ist \textbf{im} Garten. \\
+Er legt das Buch \textbf{auf den} Tisch. & Die Katze sitzt \textbf{auf
+dem} Tisch. \\
+\end{longtable}
+}
 
-\textbf{Contractions:} in+das -\textgreater{} \textbf{ins} · in+dem
--\textgreater{} \textbf{im} · an+das -\textgreater{} \textbf{ans} ·
-an+dem -\textgreater{} \textbf{am}
+\textbf{Contractions:} in + das -\textgreater{} \textbf{ins} · in + dem
+-\textgreater{} \textbf{im} · an + das -\textgreater{} \textbf{ans} · an
++ dem -\textgreater{} \textbf{am}
 
-\textbf{!} \textbf{Your actual friction points} (diagnosed 2026-09-15):
-the wohin/wo \emph{concept} lands fine. What breaks is (a) matching the
-case to the right sentence under time pressure, and (b) der-word gender
-inside the phrase (der Garten -\textgreater{} dem/den, not der).
+\begin{quote}
+\textbf{Why this one takes several passes to stick:} the \emph{wohin/wo}
+question itself is easy and lands almost immediately. What stays
+slippery is applying it under time pressure --- matching the right case
+to the right sentence while also getting the noun's gender right
+(\emph{der Garten} -\textgreater{} dem or den, never der).
 
-\textbf{!} \textbf{New confusion (2026-09-15):} using \textbf{nach} for
-motion into a room. nach is NEVER used for entering an enclosed space.
-``Ich gehe \textbf{in den} Raum,'' not ``nach der Raum.''
+If it helps, ignore the list of nine words entirely. They all follow the
+one question, so the question is the only thing worth memorising.
+\end{quote}
 
-\subsection{\texorpdfstring{5.4 nach vs zu --- destinations
-\emph{(ANSWERS Q15,
-Q16)}}{5.4 nach vs zu --- destinations (ANSWERS Q15, Q16)}}\label{nach-vs-zu-destinations-answers-q15-q16}
+\textbf{A boundary worth being explicit about:} \emph{nach} is never
+used for moving into an enclosed space. Going into a room is \textbf{in
+den Raum}, not ``nach dem Raum''. nach is for cities, countries,
+directions --- and for ``after'' in time (below).
 
-\textbf{nach} --- destinations with NO article: - Cities/countries: nach
-Berlin, nach Deutschland, nach München, nach Spanien - Directions: nach
-links, nach oben - \textbf{ALSO means ``after'' (time)} --- nach dem
-Wochenende, nach dem Termin. Completely different job, always dative.
+\subsection{5.4 nach versus zu}\label{nach-versus-zu}
 
-\textbf{zu} --- destinations that DO take an article: - People: zu
-meiner Mutter - Places: zur Schule, zum Bahnhof, zum Arzt, zur Post -
+Both can mean ``to''. They split on whether the destination takes an
+article.
+
+\textbf{nach} --- destinations with \textbf{no} article: - Cities and
+countries: nach Berlin, nach München, nach Deutschland, nach Indien -
+Directions: nach links, nach oben - \textbf{And separately, ``after'' in
+time:} nach dem Wochenende, nach dem Termin
+
+\textbf{zu} --- destinations that \textbf{do} take an article: - People:
+zu meiner Mutter - Places: zur Schule, zum Bahnhof, zum Arzt, zur Post -
 Events: zur Arbeit
 
-\textbf{Test:} does the destination normally take der/die/das? No
--\textgreater{} nach. Yes -\textgreater{} zu.
+\begin{quote}
+\textbf{The test:} does the destination normally come with der/die/das?
+No -\textgreater{} nach. Yes -\textgreater{} zu.
+\end{quote}
 
-\textbf{Contractions:} zu+dem -\textgreater{} \textbf{zum} · zu+der
+\textbf{Contractions:} zu + dem -\textgreater{} \textbf{zum} · zu + der
 -\textgreater{} \textbf{zur}
 
-\textbf{!} \textbf{Possessives never contract} \emph{(ANSWERS Q20)}:
-``zu \textbf{meiner} Mutter,'' never ``zur Mutter'' (that would mean
-``to THE mother'').
+\textbf{But possessives never contract.} \emph{zu meiner Mutter} stays
+spelled out --- ``zur Mutter'' would mean ``to \emph{the} mother'', a
+different sentence. Contractions only ever happen with the bare article.
 
-\textbf{Both prepositions can appear in one sentence doing different
-jobs:} \textgreater{} Wir gehen \textbf{nach dem Termin} (after ---
-time) \textbf{zum Arzt} (to --- destination).
+\textbf{Both can appear in one sentence doing different jobs:}
 
-Word order: \textbf{time before place} --- see Part VI.
+\begin{quote}
+Wir gehen \textbf{nach dem Termin} \emph{(after --- time)} \textbf{zum
+Arzt} \emph{(to --- destination)}.
+\end{quote}
 
-\textbf{Exception for later:} some countries take an article and use
-``in'' --- in die Schweiz, in die USA.
+Time before place --- see Part VI.
 
-\subsection{5.5 aus vs von --- both mean
-``from''}\label{aus-vs-von-both-mean-from}
+\emph{Later complication, not needed yet: a few countries take an
+article and use }in* instead --- in die Schweiz, in die USA.*
+
+\subsection{5.5 aus versus von --- two kinds of
+``from''}\label{aus-versus-von-two-kinds-of-from}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{aus} = exiting an enclosed space, or origin/nationality
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Ich komme \textbf{aus} Indien. · Ich komme \textbf{aus dem} Haus.
-  \end{itemize}
+  \textbf{aus} --- out of an enclosed space, or origin/nationality Ich
+  komme \textbf{aus} Indien. · Ich komme \textbf{aus dem} Haus.
 \item
-  \textbf{von} = the general ``coming from {[}a place you were{]}''
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Sie kommt \textbf{von der} Arbeit. · Er kommt \textbf{von der}
-    Schule.
-  \end{itemize}
+  \textbf{von} --- coming from a place you were at Sie kommt \textbf{von
+  der} Arbeit. · Er kommt \textbf{von der} Schule.
 \end{itemize}
 
-\textbf{!} Still ACTIVE, not yet drilled. ``Er kommt aus die Schule''
--\textgreater{} should be \textbf{von der} Schule.
+Returning from work or school is \emph{von}. Physically exiting a
+building is \emph{aus}. The overlap is genuinely subtle and native
+speakers lean on feel.
 
-\subsection{5.6 Fixed idioms that break the
-rules}\label{fixed-idioms-that-break-the-rules}
+\subsection{5.6 Fixed phrases that ignore the
+rules}\label{fixed-phrases-that-ignore-the-rules}
+
+Some phrases are set expressions and don't decompose:
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{zu Hause} = ``at home'' --- a fixed phrase, NOT zur Haus / im
-  Haus / die Haus
+  \textbf{zu Hause} --- ``at home''. Not \emph{zur Haus}, not \emph{im
+  Haus}.
 \item
-  \textbf{an der Ecke} = ``on the corner'' (location) --- an, not in
+  \textbf{an der Ecke} --- ``on the corner'' (location). \emph{an}, not
+  \emph{in}.
 \item
-  \textbf{zur Ecke} = ``to the corner'' (destination)
+  \textbf{zur Ecke} --- ``to the corner'' (destination).
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \section{PART VI --- WORD ORDER}\label{part-vi-word-order}
 
-\subsection{6.1 Verb-second (V2) --- the backbone
-rule}\label{verb-second-v2-the-backbone-rule}
+\subsection{6.1 Verb-second --- the
+backbone}\label{verb-second-the-backbone}
 
-\textbf{The conjugated verb is always in the SECOND POSITION} --- second
-\emph{slot}, not second \emph{word}. Position 1 can hold a whole phrase.
+\textbf{The conjugated verb occupies the second position} --- second
+\emph{slot}, not second \emph{word}. Position one can hold an entire
+phrase.
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
 \toprule\noalign{}
-Position 1 & Position 2 (VERB) & Rest \\
+Position 1 & Position 2 --- VERB & Rest \\
 \midrule\noalign{}
 \endhead
 \bottomrule\noalign{}
@@ -825,86 +1026,136 @@ Weil ich müde bin, & bleibe & ich zu Hause \\
 \end{longtable}
 }
 
-When something else takes position 1, \textbf{the subject moves after
-the verb}.
+When something other than the subject takes position one, \textbf{the
+subject moves behind the verb}. The verb never moves.
 
-\textbf{Tip:} \textbf{Your own insight (2026-09-17), and it's correct:}
-fronting changes emphasis. ``Mein Vater arbeitet heute'' foregrounds the
-father; ``Heute arbeitet mein Vater'' foregrounds the day.
+\begin{quote}
+\textbf{Fronting changes emphasis, not just order.} \emph{Mein Vater
+arbeitet heute} foregrounds the father; \emph{Heute arbeitet mein Vater}
+foregrounds the day. Both are correct --- they answer different
+questions.
+\end{quote}
 
 \subsection{6.2 Yes/no questions --- verb
-FIRST}\label{yesno-questions-verb-first}
+first}\label{yesno-questions-verb-first}
 
-Verb and subject swap places: - Du bist müde. -\textgreater{}
-\textbf{Bist du} müde? - Sie wohnt in Berlin. -\textgreater{}
-\textbf{Wohnt sie} in Berlin? - Er kann schwimmen. -\textgreater{}
-\textbf{Kann er} schwimmen? - Du hast Zeit. -\textgreater{} \textbf{Hast
-du} Zeit? \textbf{!} (not ``Habt du'')
+Verb and subject swap:
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+Statement & Question \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Du bist müde. & \textbf{Bist du} müde? \\
+Sie wohnt in Berlin. & \textbf{Wohnt sie} in Berlin? \\
+Er kann schwimmen. & \textbf{Kann er} schwimmen? \\
+Du hast Zeit. & \textbf{Hast du} Zeit? \\
+\end{longtable}
+}
 
 \subsection{6.3 W-questions --- question word first, verb
 second}\label{w-questions-question-word-first-verb-second}
 
-Wer, was, wo, wann, warum, wie, wohin. \textgreater{} \textbf{Wo ist}
-der Mann? · \textbf{Was hast} du? · \textbf{Wie geht's} dir?
-
-\subsection{\texorpdfstring{6.4 Subordinate clauses --- weil sends the
-verb to the END \textbf{!}
-REGRESSED}{6.4 Subordinate clauses --- weil sends the verb to the END ! REGRESSED}}\label{subordinate-clauses-weil-sends-the-verb-to-the-end-regressed}
-
-\textbf{weil} (because) pushes its own clause's verb to the very end: -
-Weil ich müde \textbf{bin}, \ldots{} - Weil es \textbf{regnet}, \ldots{}
-
-\textbf{AND the main clause still needs verb-second} --- because the
-entire weil-clause occupies position 1:
+\textbf{wer · was · wo · wohin · wann · warum · wie}
 
 \begin{quote}
-\textbf{Weil es regnet, bleibe ich zu Hause.} \^{} position 1 (whole
-clause) \^{} position 2 (verb) \^{} subject third
+\textbf{Wo ist} der Mann? · \textbf{Was hast} du? · \textbf{Wie geht's}
+dir?
 \end{quote}
 
-(wrong) ``Weil bin ich müde, ich bleibe\ldots{}'' --- both halves wrong.
+\subsection{6.4 weil sends the verb to the end --- and the main clause
+still needs
+V2}\label{weil-sends-the-verb-to-the-end-and-the-main-clause-still-needs-v2}
 
-\textbf{denn} (because) is different --- it's a coordinating conjunction
-like und/aber/oder, so it does NOT send the verb to the end:
-\textgreater{} Ich bleibe zu Hause, \textbf{denn ich bin} müde. (normal
-order both halves)
+Two rules apply at once here, which is what makes this construction
+genuinely tricky.
 
-\textbf{!} \textbf{Status:} the two halves of this rule have failed in
-\emph{alternation} --- 09-11 the main clause broke, 09-15 the
-weil-clause broke. Both halves need to hold at once.
+\textbf{First:} \emph{weil} pushes its own clause's verb to the very
+end.
 
-\subsection{\texorpdfstring{6.5 Time --- Manner --- Place \emph{(ANSWERS
-Q21)}}{6.5 Time --- Manner --- Place (ANSWERS Q21)}}\label{time-manner-place-answers-q21}
+\begin{quote}
+Weil ich müde \textbf{bin}, \ldots{} · Weil es \textbf{regnet}, \ldots{}
+\end{quote}
 
-After the verb, elements order as \textbf{Time -\textgreater{} Manner
--\textgreater{} Place}: \textgreater{} Ich gehe \textbf{heute} (time)
-\textbf{mit meiner Mutter} (manner) \textbf{nach Berlin} (place).
+\textbf{Second:} the main clause that follows still needs verb-second
+--- because the entire weil-clause counts as position one:
 
-Time words sit right after the conjugated verb: \textgreater{} Ich muss
-\textbf{heute} schlafen.
+\begin{quote}
+\textbf{Weil es regnet, bleibe ich zu Hause.}
 
-\textbf{This is the opposite of English}, which tends to put place
-before time. This is why ``Wir gehen \textbf{nach dem Termin zum Arzt}''
-has the time phrase first.
+position 1 = the whole clause · position 2 = \emph{bleibe} · subject
+third
+\end{quote}
+
+Getting one half right and the other wrong is the usual outcome. Both
+have to hold simultaneously.
+
+\textbf{denn also means ``because'' but behaves completely differently.}
+It is a coordinating conjunction, like \emph{und/aber/oder}, so word
+order stays normal in both halves:
+
+\begin{quote}
+Ich bleibe zu Hause, \textbf{denn ich bin} müde.
+\end{quote}
+
+\subsection{6.5 Time --- Manner --- Place}\label{time-manner-place}
+
+After the verb, elements line up \textbf{time -\textgreater{} manner
+-\textgreater{} place}:
+
+\begin{quote}
+Ich gehe \textbf{heute} \emph{(time)} \textbf{mit meiner Mutter}
+\emph{(manner)} \textbf{nach Berlin} \emph{(place)}.
+\end{quote}
+
+Time words sit right after the conjugated verb: \emph{Ich muss
+\textbf{heute} schlafen.}
+
+\begin{quote}
+\textbf{This is the reverse of English}, which tends to put place before
+time (``I'm going to Berlin today''). It is why \emph{Wir gehen nach dem
+Termin zum Arzt} puts the appointment before the doctor.
+\end{quote}
 
 \subsection{6.6 Separable verbs}\label{separable-verbs}
 
-In a normal present-tense sentence, the \textbf{prefix splits off and
-goes to the very end}: - aufstehen -\textgreater{} Ich \textbf{stehe} um
-sieben Uhr \textbf{auf}. - anrufen -\textgreater{} Ich \textbf{rufe}
-dich \textbf{an}. - fernsehen -\textgreater{} Ich \textbf{sehe} gern
-\textbf{fern}.
+In an ordinary present-tense sentence, the \textbf{prefix detaches and
+goes to the very end}:
 
-\textbf{With a modal verb, it does NOT split} --- it goes to the end
-whole, as an infinitive: - Ich muss um sieben Uhr \textbf{aufstehen}.
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+Verb & In a sentence \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+aufstehen & Ich \textbf{stehe} um sieben Uhr \textbf{auf}. \\
+anrufen & Ich \textbf{rufe} dich \textbf{an}. \\
+fernsehen & Ich \textbf{sehe} gern \textbf{fern}. \\
+\end{longtable}
+}
 
-\textbf{With nicht:} nicht goes right before the prefix. - Ich stehe um
-sieben Uhr \textbf{nicht auf}.
+\textbf{With a modal verb it does not split} --- the whole infinitive
+goes to the end intact:
+
+\begin{quote}
+Ich muss um sieben Uhr \textbf{aufstehen}.
+\end{quote}
+
+\textbf{With nicht}, the negation sits immediately before the prefix:
+
+\begin{quote}
+Ich stehe um sieben Uhr \textbf{nicht auf}.
+\end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\section{PART VII --- VERBS BEYOND THE
-PRESENT}\label{part-vii-verbs-beyond-the-present}
+\section{PART VII --- BEYOND THE PRESENT
+TENSE}\label{part-vii-beyond-the-present-tense}
 
 \subsection{7.1 Modal verbs}\label{modal-verbs}
 
@@ -925,15 +1176,19 @@ sie/Sie & können & müssen & möchten \\
 \end{longtable}
 }
 
-\textbf{Structure:} the modal conjugates and sits in \textbf{position
-2}; the second verb goes to the \textbf{very end in plain infinitive
-form}. \textgreater{} Ich \textbf{muss} heute \textbf{schlafen}. ·
-\textbf{Kann} er \textbf{schwimmen}?
+\textbf{Structure:} the modal conjugates and takes position two; the
+second verb goes to the very end \textbf{in plain infinitive form}.
 
-Modals never have their own object --- see ANSWERS Q7 / section 2.3.
+\begin{quote}
+Ich \textbf{muss} heute \textbf{schlafen}. · \textbf{Kann} er
+\textbf{schwimmen}?
+\end{quote}
 
-\subsection{7.2 The imperative
-(commands)}\label{the-imperative-commands}
+Note that ich and er/sie/es are identical in all three --- unusual, and
+worth noticing because it removes a conjugation decision rather than
+adding one.
+
+\subsection{7.2 The imperative}\label{the-imperative}
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
@@ -942,9 +1197,9 @@ Modals never have their own object --- see ANSWERS Q7 / section 2.3.
   >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}@{}}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
-Form
+Addressing
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-How
+How it's formed
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Example
 \end{minipage} \\
@@ -952,82 +1207,94 @@ Example
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-\textbf{du} & drop the -st ending & du gibst -\textgreater{}
-\textbf{Gib} mir das Buch! \\
-\textbf{ihr} & plain ihr-form, no pronoun & ihr esst -\textgreater{}
-\textbf{Esst} das Brot! \\
-\textbf{Sie} & infinitive + \textbf{Sie} stated, verb first &
-\textbf{Kommen Sie} herein! \\
+\textbf{du} & drop the -st & du gibst -\textgreater{} \textbf{Gib} mir
+das Buch! \\
+\textbf{ihr} & plain ihr-form, drop the pronoun & ihr esst
+-\textgreater{} \textbf{Esst} das Brot! \\
+\textbf{Sie} & infinitive + \textbf{Sie}, verb first & \textbf{Kommen
+Sie} herein! \\
 \end{longtable}
 }
+
+Two details about stem changes:
 
 \begin{itemize}
 \tightlist
 \item
-  Stem-change e-\textgreater i/ie \textbf{is kept}: geben
+  \textbf{e -\textgreater{} i/ie changes are kept}: geben
   -\textgreater{} \textbf{Gib!} · sehen -\textgreater{} \textbf{Sieh!}
 \item
-  Umlaut stem-changes are \textbf{dropped}: fahren -\textgreater{}
-  \textbf{Fahr!} (not Fähr!)
+  \textbf{umlaut changes are dropped}: fahren -\textgreater{}
+  \textbf{Fahr!} \emph{(not Fähr)}
 \end{itemize}
 
-\textbf{!} Sie-form must keep the pronoun --- ``Kommen herein'' (wrong)
--\textgreater{} ``Kommen \textbf{Sie} herein!'' (correct)
+\begin{quote}
+\textbf{The Sie-form keeps its pronoun.} ``Kommen herein'' is incomplete
+--- German doesn't drop \emph{Sie} the way English drops ``you'' in
+commands.
+\end{quote}
 
-\textbf{Object cases don't change in the imperative:} ``Gib \textbf{mir}
-das Buch'' --- mir is dative (receiver), das Buch accusative. Same as
-any other sentence.
+Object cases work exactly as they always do: \emph{Gib \textbf{mir} das
+Buch} --- \emph{mir} dative (receiver), \emph{das Buch} accusative
+(thing given). The imperative changes the verb form and nothing else.
 
-\subsection{\texorpdfstring{7.3 Perfekt --- the conversational past
-\textbf{!} NEWEST
-TOPIC}{7.3 Perfekt --- the conversational past ! NEWEST TOPIC}}\label{perfekt-the-conversational-past-newest-topic}
+\subsection{7.3 Perfekt --- the past tense of
+conversation}\label{perfekt-the-past-tense-of-conversation}
 
 \textbf{Structure:} helper verb (\textbf{haben} or \textbf{sein},
-conjugated, position 2) + \textbf{past participle at the very end}.
+conjugated, position two) + \textbf{past participle at the very end}.
 
 \begin{quote}
 Ich \textbf{habe} gestern Fußball \textbf{gespielt}. Ich \textbf{bin}
 ins Kino \textbf{gegangen}.
 \end{quote}
 
-\subsubsection{\texorpdfstring{Which helper? \emph{(ANSWERS
-Q22)}}{Which helper? (ANSWERS Q22)}}\label{which-helper-answers-q22}
+The shape should feel familiar --- it is the same ``conjugated verb
+second, other verb thrown to the end'' pattern as modal verbs and
+separable verbs.
 
-\textbf{sein} for: - \textbf{Motion between two places}: gehen, kommen,
-fahren, fliegen, laufen - \textbf{Change of state}: aufstehen,
-einschlafen, sterben, werden - \textbf{Two memorised exceptions}: sein
-(ich bin gewesen), bleiben (ich bin geblieben)
+\subsubsection{Choosing haben or sein}\label{choosing-haben-or-sein}
 
-\textbf{haben} for everything else --- including ``static'' verbs that
-feel physical: stehen, sitzen, schlafen, spielen, arbeiten.
+\textbf{sein} is used for: - \textbf{movement from one place to another}
+--- gehen, kommen, fahren, fliegen, laufen - \textbf{change of state}
+--- aufstehen, einschlafen, sterben, werden - \textbf{two exceptions to
+memorise} --- \emph{sein} itself (ich bin gewesen) and \emph{bleiben}
+(ich bin geblieben)
 
-\textbf{Test:} moving from place A to place B, or genuinely changing
-state? -\textgreater{} sein. Otherwise -\textgreater{} haben.
+\textbf{haben} covers everything else --- which is the large majority.
 
-\textbf{!} \textbf{Counter-intuitive:} \emph{stehen} is haben (you're
-not going anywhere). \emph{spielen} is haben. \emph{bleiben} is sein
-despite not being motion.
+\begin{quote}
+\textbf{The test:} does the verb describe moving between two places, or
+a genuine change of state? -\textgreater{} sein. Otherwise
+-\textgreater{} haben.
 
-\subsubsection{Participle formation}\label{participle-formation}
+\textbf{Where intuition misleads:} \emph{stehen} feels physical, but
+standing still isn't going anywhere -\textgreater{} \textbf{haben}.
+\emph{spielen} is energetic but involves no destination -\textgreater{}
+\textbf{haben}. Meanwhile \emph{bleiben} means staying put and takes
+\textbf{sein} anyway, purely as an exception.
+\end{quote}
+
+\subsubsection{Building the participle}\label{building-the-participle}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Regular (weak):} ge + stem + \textbf{t} -\textgreater{} machen
-  -\textgreater{} ge\textbf{mach}t, spielen -\textgreater{}
-  ge\textbf{spiel}t, kaufen -\textgreater{} ge\textbf{kauf}t
+  \textbf{Regular (weak):} ge + stem + \textbf{t} machen -\textgreater{}
+  ge\textbf{mach}t · spielen -\textgreater{} ge\textbf{spiel}t · kaufen
+  -\textgreater{} ge\textbf{kauf}t
 \item
-  \textbf{Irregular (strong):} ge + (often changed) stem + \textbf{en}
-  --- must be memorised per verb, like English go-\textgreater went.
+  \textbf{Irregular (strong):} ge + (often altered) stem + \textbf{en}
+  --- no rule, memorised per verb, exactly like English \emph{go
+  -\textgreater{} went}.
 \item
-  \textbf{Separable verbs:} ge- goes \textbf{BETWEEN prefix and stem}
-  -\textgreater{} einschlafen -\textgreater{} \textbf{ein·ge·schlafen}
-  (NOT ``geeinschlafen''), aufstehen -\textgreater{}
-  \textbf{auf·ge·standen}
+  \textbf{Separable verbs:} the \emph{ge-} goes \textbf{between prefix
+  and stem} einschlafen -\textgreater{} \textbf{ein·ge·schlafen} ·
+  aufstehen -\textgreater{} \textbf{auf·ge·standen}
 \end{itemize}
 
-\subsubsection{Irregular participles covered so
-far}\label{irregular-participles-covered-so-far}
+\subsubsection{The irregular participles covered so
+far}\label{the-irregular-participles-covered-so-far}
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
@@ -1037,9 +1304,9 @@ Verb & Participle & Helper \\
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-gehen & ge\textbf{gang}en (e-\textgreater a) & sein \\
+gehen & ge\textbf{gang}en \emph{(e-\textgreater a)} & sein \\
 kommen & gekommen & sein \\
-fahren & ge\textbf{fahr}en (no umlaut!) & sein \\
+fahren & ge\textbf{fahr}en \emph{(no umlaut)} & sein \\
 fliegen & ge\textbf{flog}en & sein \\
 bleiben & ge\textbf{blieb}en & sein \\
 einschlafen & ein\textbf{ge}schlafen & sein \\
@@ -1051,17 +1318,19 @@ stehen & ge\textbf{stand}en & haben \\
 \end{longtable}
 }
 
-\textbf{!} \textbf{Your errors:} ``gefähren'' (invented umlaut
--\textgreater{} ge\textbf{fahr}en), ``gebleibt'' (regularised an
-irregular verb -\textgreater{} ge\textbf{blieb}en), ``gegeinschlafen''
-(ge- at the front -\textgreater{} \textbf{ein}geschlafen).
+\begin{quote}
+\textbf{Three specific traps in that table:} \emph{fahren} has an umlaut
+in the present tense (\emph{er fährt}) but \textbf{none} in the
+participle --- ge\textbf{fahr}en. \emph{bleiben} looks like it should
+take the regular -t and doesn't. And separable verbs hide the \emph{ge-}
+in the middle, where it is easy to miss.
+\end{quote}
 
-\subsubsection{\texorpdfstring{\textbf{!} THE MISCONCEPTION TO KILL
-\emph{(ANSWERS
-Q23)}}{! THE MISCONCEPTION TO KILL (ANSWERS Q23)}}\label{the-misconception-to-kill-answers-q23}
+\subsubsection{Two systems that are often confused, and shouldn't
+be}\label{two-systems-that-are-often-confused-and-shouldnt-be}
 
-\textbf{sein-vs-haben and regular-vs-irregular are COMPLETELY
-INDEPENDENT.} There is no correlation:
+\textbf{Choosing haben/sein and spelling the participle are completely
+independent questions.} There is no correlation whatsoever:
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
@@ -1079,15 +1348,16 @@ kommen & irregular & sein \\
 \end{longtable}
 }
 
-You proposed ``irregular verbs need sein'' --- this is false. Helper
-choice is about \textbf{meaning} (motion/state-change). Participle
-spelling is about \textbf{memorisation}. Two separate systems.
+``Irregular verbs take sein'' is a tempting shortcut and simply false.
+The helper depends on \textbf{meaning} (motion or state-change). The
+participle spelling depends on \textbf{memorisation}. Neither predicts
+the other.
 
-\subsection{7.4 Stem-changing verbs (present
-tense)}\label{stem-changing-verbs-present-tense}
+\subsection{7.4 Stem-changing verbs in the
+present}\label{stem-changing-verbs-in-the-present}
 
-Some verbs change their stem vowel in \textbf{du} and \textbf{er/sie/es}
-forms only:
+Some verbs shift their stem vowel in the \textbf{du} and
+\textbf{er/sie/es} forms --- and nowhere else:
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
@@ -1101,68 +1371,76 @@ essen & isst & \textbf{isst} \\
 sehen & siehst & \textbf{sieht} \\
 lesen & liest & \textbf{liest} \\
 geben & gibst & \textbf{gibt} \\
+helfen & hilfst & \textbf{hilft} \\
 schlafen & schläfst & \textbf{schläft} \\
 tragen & trägst & \textbf{trägt} \\
 fahren & fährst & \textbf{fährt} \\
-helfen & hilfst & \textbf{hilft} \\
 \end{longtable}
 }
 
-\textbf{!} \textbf{ich never changes:} ich esse, ich sehe, ich
-\textbf{helfe} (not ``hilfe''), ich gebe.
+\begin{quote}
+\textbf{The ich form never changes.} ich esse, ich sehe, ich
+\textbf{helfe}, ich gebe. Reaching for ``ich hilfe'' is over-applying a
+change that belongs only to du and er.
+\end{quote}
 
-\subsection{\texorpdfstring{7.5 leben vs wohnen \emph{(ANSWERS
-Q17)}}{7.5 leben vs wohnen (ANSWERS Q17)}}\label{leben-vs-wohnen-answers-q17}
+\subsection{7.5 leben versus wohnen}\label{leben-versus-wohnen}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{wohnen} = to reside, have an address -\textgreater{} Ich
-  \textbf{wohne} in Würzburg.
+  \textbf{wohnen} --- to reside, to have an address: Ich \textbf{wohne}
+  in Würzburg.
 \item
-  \textbf{leben} = to be alive / lifestyle / to live WITH people
-  -\textgreater{} Er \textbf{lebt} mit seiner Mutter.
+  \textbf{leben} --- to be alive, a way of life, or living \emph{with}
+  people: Er \textbf{lebt} mit seiner Mutter.
 \end{itemize}
 
-Address question -\textgreater{} wohnen. Living \emph{with} someone, or
-life in general -\textgreater{} leben.
+An address question takes \emph{wohnen}. Living \emph{with} someone, or
+life in general, takes \emph{leben}.
 
-\subsection{7.6 mögen vs gern}\label{muxf6gen-vs-gern}
+\subsection{7.6 mögen versus gern}\label{muxf6gen-versus-gern}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{mögen} pairs with a \textbf{NOUN}: Ich \textbf{mag} Musik.
+  \textbf{mögen} pairs with a \textbf{noun} --- Ich \textbf{mag} Musik.
 \item
-  \textbf{gern} pairs with a \textbf{VERB}: Ich lese \textbf{gern}. /
+  \textbf{gern} pairs with a \textbf{verb} --- Ich lese \textbf{gern}. ·
   Ich sehe \textbf{gern} fern.
 \end{itemize}
 
-\textbf{!} Recorded 2×: ``Ich mag kochen'' -\textgreater{} should be
-``Ich koche \textbf{gern}.''
-
-\subsection{7.7 geben --- the dative/accusative double-object
-verb}\label{geben-the-dativeaccusative-double-object-verb}
-
 \begin{quote}
-\textbf{Ich gebe dem Mann ein Buch.} --- dem Mann (dative receiver) +
-ein Buch (accusative thing)
+``Ich mag kochen'' is the natural English-shaped guess and the wrong
+one. To like \emph{doing} something, use \textbf{gern} + the verb:
+\emph{Ich koche gern.}
 \end{quote}
 
-Order: \textbf{dative before accusative} when both are nouns.
+\subsection{7.7 geben --- the double-object
+verb}\label{geben-the-double-object-verb}
 
-\textbf{!} \textbf{zu is redundant with geben} --- the dative already
-means ``to'': (wrong) ``Er gibt das Buch \textbf{zu} seiner Mutter''
--\textgreater{} (correct) ``Er gibt \textbf{seiner Mutter} das Buch.''
+\begin{quote}
+\textbf{Ich gebe dem Mann ein Buch.} \emph{dem Mann} dative (receiver) ·
+\emph{ein Buch} accusative (thing)
+\end{quote}
 
-\textbf{!} \textbf{geben/gehen swap} --- recorded in both directions, 2
-instances.
+When both objects are nouns, \textbf{dative comes first}.
+
+\begin{quote}
+\textbf{Don't add \emph{zu}.} The dative already carries ``to'':
+\emph{Er gibt \textbf{seiner Mutter} das Buch}, not ``gibt das Buch zu
+seiner Mutter.''
+
+Also worth keeping apart by sound: \textbf{geben} (to give) and
+\textbf{gehen} (to go) are easy to swap when writing quickly.
+\end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \section{PART VIII --- VOCABULARY}\label{part-viii-vocabulary}
 
-\subsection{8.1 Greetings \& phrases}\label{greetings-phrases}
+\subsection{8.1 Greetings and everyday
+phrases}\label{greetings-and-everyday-phrases}
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}ll@{}}
@@ -1177,271 +1455,313 @@ Guten Morgen / Tag / Abend & good morning / day / evening \\
 Gute Nacht & good night \\
 Tschüss & bye (informal) \\
 Auf Wiedersehen & goodbye (formal) \\
-Bis später / bis bald & see you later / soon \\
+Bis später · bis bald & see you later · see you soon \\
 Wie geht's? & how's it going? \\
 Mir geht's gut & I'm doing well \\
-Entschuldigung & excuse me / sorry \\
+Entschuldigung & excuse me · sorry \\
 bitte & please \\
 danke & thank you \\
 kein Problem & no problem \\
-noch mal & again / one more time \\
+noch mal & again · one more time \\
 Gute Reise & have a good trip \\
 Mach's gut & take care \\
 \end{longtable}
 }
 
-\textbf{!} It is \textbf{Guten} Morgen (accusative-style set phrase),
-never ``Guter Morgen.''
+\emph{It is \textbf{Guten} Morgen --- a fixed accusative-shaped phrase,
+never ``Guter''.}
 
-\subsection{8.2 People \& family}\label{people-family}
+\subsection{8.2 People and family}\label{people-and-family}
 
-der Mann (Männer) · die Frau (Frauen) · das Kind (Kinder) · die Familie
-· die Mutter (Mütter) · der Vater (Väter) · die Eltern (pl. only) · der
-Bruder (Brüder) · die Schwester (Schwestern) · der Freund (Freunde)
+der Mann \emph{(Männer)} · die Frau \emph{(Frauen)} · das Kind
+\emph{(Kinder)} · die Familie · die Mutter \emph{(Mütter)} · der Vater
+\emph{(Väter)} · die Eltern \emph{(plural only)} · der Bruder
+\emph{(Brüder)} · die Schwester \emph{(Schwestern)} · der Freund
+\emph{(Freunde)}
 
-\subsection{8.3 Food \& drink}\label{food-drink}
+\subsection{8.3 Food and drink}\label{food-and-drink}
 
 das Brot · das Hähnchen · der Reis · die Suppe · der Käse · die Milch ·
-der Apfel (Äpfel) · das Wasser · \textbf{essen} (isst) ·
+der Apfel \emph{(Äpfel)} · das Wasser · \textbf{essen} \emph{(isst)} ·
 \textbf{trinken}
 
-\textbf{!} ``Äpfel'' is the PLURAL. Singular is \textbf{Apfel} --- don't
-invent umlauts.
+\emph{Äpfel is the plural --- the singular is plain \textbf{Apfel}, with
+no umlaut.}
 
-\subsection{8.4 House \& rooms}\label{house-rooms}
+\subsection{8.4 House and rooms}\label{house-and-rooms}
 
-das Haus (Häuser) · das Zimmer (unchanged pl.) · der Raum (Räume) · die
-Küche · das Schlafzimmer · das Bad · der Tisch (Tische) · der Stuhl
-(Stühle) · das Fenster (unchanged pl.)
+das Haus \emph{(Häuser)} · das Zimmer \emph{(unchanged in plural)} · der
+Raum \emph{(Räume)} · die Küche · das Schlafzimmer · das Bad · der Tisch
+\emph{(Tische)} · der Stuhl \emph{(Stühle)} · das Fenster
+\emph{(unchanged)}
 
-\textbf{!} \textbf{Tisch = table, Stuhl = chair} --- swapped once.
-\textbf{!} Singular is \textbf{Stuhl}, not ``Stühl.''
+\emph{der \textbf{Tisch} is the table, der \textbf{Stuhl} is the chair.}
 
-\textbf{Compound nouns take the gender of the LAST part:} schlafen + das
-Zimmer = \textbf{das} Schlafzimmer.
+\textbf{Compound nouns take the gender of their last part:} schlafen +
+das Zimmer = \textbf{das} Schlafzimmer.
 
-\subsection{8.5 Transport, directions \& places in
-town}\label{transport-directions-places-in-town}
+\subsection{8.5 Getting around town}\label{getting-around-town}
 
-der Bus (Busse) · die Bahn / der Zug · die Straße (Straßen) · die Ampel
-(Ampeln) · die Ecke (Ecken) · \textbf{rechts} · \textbf{links} ·
-\textbf{geradeaus} · die Bank (Banken) · der Park · das Rathaus · die
-Post · das Kino · das Geschäft · der Bahnhof · die Schule
+der Bus \emph{(Busse)} · die Bahn · der Zug · die Straße
+\emph{(Straßen)} · die Ampel \emph{(Ampeln)} · die Ecke \emph{(Ecken)} ·
+\textbf{rechts} · \textbf{links} · \textbf{geradeaus} · die Bank
+\emph{(Banken)} · der Park · das Rathaus · die Post · das Kino · das
+Geschäft · der Bahnhof · die Schule
 
-Phrases: \textbf{an der Ecke} (on the corner) · \textbf{zur Post} ·
-\textbf{zum Bahnhof} · \textbf{ins Zentrum}
+Useful phrases: \textbf{an der Ecke} · \textbf{zur Post} · \textbf{zum
+Bahnhof} · \textbf{ins Zentrum}
 
-\subsection{8.6 Time \& daily routine}\label{time-daily-routine}
+\subsection{8.6 Time and daily routine}\label{time-and-daily-routine}
 
-die Zeit · die Uhr · \textbf{heute} (today) · \textbf{morgen} (tomorrow)
-· \textbf{der Morgen} (the morning --- capital M!) · das Wochenende ·
-der Termin · \textbf{aufstehen} (sep.) · \textbf{arbeiten} ·
-\textbf{schlafen} (schläft) · \textbf{wohnen} · \textbf{leben} ·
-\textbf{um} (at, for times)
+die Zeit · die Uhr · \textbf{heute} · \textbf{morgen} \emph{(tomorrow)}
+· \textbf{der Morgen} \emph{(the morning)} · das Wochenende · der Termin
+· \textbf{aufstehen} \emph{(separable)} · \textbf{arbeiten} ·
+\textbf{schlafen} \emph{(schläft)} · \textbf{wohnen} · \textbf{leben} ·
+\textbf{um} \emph{(at, for clock times)}
 
-\textbf{!} morgen (tomorrow) vs \textbf{der Morgen} (the morning) ---
-identical except capitalization.
+\emph{Note \textbf{morgen} (tomorrow) versus \textbf{der Morgen} (the
+morning) --- identical but for the capital.}
 
 \subsection{8.7 Weather}\label{weather}
 
 das Wetter · die Sonne · der Regen · \textbf{kalt} · \textbf{warm} ·
-\textbf{regnen} (impersonal: \emph{es regnet})
+\textbf{regnen} \emph{(impersonal --- es regnet)}
 
-\subsection{8.8 Hobbies \& activities}\label{hobbies-activities}
+\subsection{8.8 Hobbies}\label{hobbies}
 
-das Hobby (Hobbys) · \textbf{lesen} (liest) · \textbf{spielen} ·
-\textbf{schwimmen} · die Musik · \textbf{gern} · \textbf{fernsehen}
-(sehe fern) · \textbf{mögen} (mag) · das Fernsehen (the noun)
+das Hobby \emph{(Hobbys)} · \textbf{lesen} \emph{(liest)} ·
+\textbf{spielen} · \textbf{schwimmen} · die Musik · \textbf{gern} ·
+\textbf{fernsehen} \emph{(sehe fern)} · \textbf{mögen} \emph{(mag)} ·
+das Fernsehen \emph{(the noun)}
 
-\subsection{8.9 Clothing \& colours}\label{clothing-colours}
+\subsection{8.9 Clothing and colours}\label{clothing-and-colours}
 
-das T-Shirt · die Hose · das Kleid · die Jacke · der Schuh (Schuhe) ·
-\textbf{tragen} (trägt) · \textbf{blau} · \textbf{rot} · \textbf{grün} ·
-\textbf{schwarz}
+das T-Shirt · die Hose · das Kleid · die Jacke · der Schuh
+\emph{(Schuhe)} · \textbf{tragen} \emph{(trägt)} · \textbf{blau} ·
+\textbf{rot} · \textbf{grün} · \textbf{schwarz}
 
-\subsection{8.10 Shopping \& money}\label{shopping-money}
+\subsection{8.10 Shopping and money}\label{shopping-and-money}
 
 das Geld · der Preis · \textbf{kaufen} · \textbf{kosten} ·
-\textbf{teuer} · \textbf{billig} · die Tasche (Taschen)
+\textbf{teuer} · \textbf{billig} · die Tasche \emph{(Taschen)}
 
-\subsection{8.11 Adjectives \& adverbs}\label{adjectives-adverbs}
+\subsection{8.11 Adjectives and adverbs}\label{adjectives-and-adverbs}
 
-müde · glücklich · hungrig · gut · schön · lang · neu · \textbf{immer}
-(always) · \textbf{oft} (often) · \textbf{manchmal} (sometimes) ·
-\textbf{selten} (rarely) · \textbf{nie} (never)
+müde · glücklich · hungrig · gut · schön · lang · neu
+
+Frequency: \textbf{immer} \emph{(always)} · \textbf{oft} \emph{(often)}
+· \textbf{manchmal} \emph{(sometimes)} · \textbf{selten} \emph{(rarely)}
+· \textbf{nie} \emph{(never)}
 
 \subsection{8.12 Question words}\label{question-words}
 
-wer (who) · was (what) · wo (where) · wohin (where to) · wann (when) ·
-warum (why) · wie (how)
+wer \emph{(who)} · was \emph{(what)} · wo \emph{(where)} · wohin
+\emph{(where to)} · wann \emph{(when)} · warum \emph{(why)} · wie
+\emph{(how)}
 
 \subsection{8.13 Conjunctions}\label{conjunctions}
 
-\textbf{und} · \textbf{aber} · \textbf{oder} · \textbf{denn} (all keep
-normal word order) · \textbf{weil} (sends verb to the end)
+\textbf{und · aber · oder · denn} --- all keep normal word order
+\textbf{weil} --- sends the verb to the end of its clause
 
-\subsection{8.14 Numbers}\label{numbers}
+\subsection{8.14 Numbers 1--20}\label{numbers-120}
 
 eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf,
 zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn,
 neunzehn, zwanzig
 
-\textbf{!} With a number, \textbf{the article is dropped}: ``zwei
-Hunde,'' never ``zweinen Hunde.''
+\emph{With a number, the article disappears: \textbf{zwei Hunde}, never
+``zweinen Hunde''.}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\section{PART IX --- YOUR ERROR
-CATALOGUE}\label{part-ix-your-error-catalogue}
+\section{PART IX --- THE TRAPS}\label{part-ix-the-traps}
 
-\emph{The highest-value section. These are your actual recorded
-mistakes, grouped by pattern. Everything here has happened at least
-once.}
+Every item here is a mistake that is easy to make, hard to notice, and
+worth pre-empting. Grouped by why they happen.
 
-\subsection{\texorpdfstring{9.1 \textbf{{[}HIGH{]}} RECURRING --- the
-ones that keep coming
-back}{9.1 {[}HIGH{]} RECURRING --- the ones that keep coming back}}\label{high-recurring-the-ones-that-keep-coming-back}
+\subsection{9.1 Traps created by
+English}\label{traps-created-by-english}
+
+English habits that produce fluent-sounding, wrong German:
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}
-  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}
-  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}@{}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}@{}}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
-Pattern
+The instinct
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Times
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-The fix
+What German needs
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-\textbf{3rd-person conjugated as du-form} (er hast, er siehst, er
-arbeitest, er trägst, er magst) & \textbf{7+} & Load-dependent. Correct
-in isolation, breaks under pressure. Embed 3rd-person subjects in mixed
-practice --- do NOT drill in isolation \\
-\textbf{es/sie dative swap} (sie-\textgreater ihm instead of ihr) &
-\textbf{3} & es-\textgreater ihm, sie-\textgreater{}\textbf{ihr}. er and
-es share ihm \\
-\textbf{den used for das-words} (den Buch) & 3 & Load-dependent only;
-8/8 in writing. Not a knowledge gap \\
-\textbf{mein/meine gender slip} (mein Mutter) & 3 & Only in free
-production. die Mutter -\textgreater{} \textbf{meine} \\
-\textbf{Invented umlaut on singulars} (Bröt, Äpfel, Stühl) & 3 &
-Singular is the plain form. Umlaut is the plural's job \\
-\textbf{Separable prefix capitalized} (Fern, Schwimmen) & 3 & Lowercase
-unless nominalized \\
-\textbf{unseren used for accusative plural} & 2 & -en is \textbf{dative}
-plural only \\
-\textbf{Dative preposition loses its article} (von Arbeit, nach
-Wochenende) & 4+ & Dative prepositions ALWAYS keep the article \\
-\textbf{geben/gehen swap} & 2 & Both directions recorded \\
-\textbf{mögen used with a verb} (Ich mag kochen) & 2 & mögen+noun,
-gern+verb \\
-\textbf{Accusative after sein} (Ist das deinen Hund?) & 2 & sein never
-takes accusative \\
+``I help her'' -\textgreater{} object & helfen takes \textbf{dative} ---
+\emph{Ich helfe ihr} \\
+``it'' for things, ``him'' for people & Gender decides: \emph{der Apfel
+-\textgreater{} \textbf{ihn}}, \emph{das Kind -\textgreater{}
+\textbf{es}} \\
+``I like cooking'' & \textbf{gern} + verb, not mögen --- \emph{Ich koche
+gern} \\
+``from work'' --- drop the article & Dative prepositions keep it ---
+\emph{von \textbf{der} Arbeit} \\
+``to Berlin'' / ``to the doctor'' --- one word & \textbf{nach} Berlin
+\emph{(no article)} vs \textbf{zum} Arzt \emph{(has one)} \\
+``I'm going to Berlin today'' --- place, then time & German is
+\textbf{time, then place} \\
+``Is that your dog?'' --- feels like an object & \emph{sein} never takes
+accusative --- \emph{dein Hund} \\
 \end{longtable}
 }
 
-\subsection{\texorpdfstring{9.2 \textbf{{[}MED{]}} CLUSTER REGRESSIONS
---- were solid, then
-broke}{9.2 {[}MED{]} CLUSTER REGRESSIONS --- were solid, then broke}}\label{med-cluster-regressions-were-solid-then-broke}
+Also worth guarding against: writing \emph{Munich} rather than
+\emph{München}, and reaching for an English word mid-sentence when the
+German one won't come.
 
-\textbf{Dative-only verbs} --- 3/3 on 09-10 -\textgreater{} \textbf{1/3
-on 09-17} - (wrong) Ich danke \textbf{ihn} -\textgreater{} \textbf{ihm}
-- (wrong) Das Buch gehört \textbf{mich} -\textgreater{} \textbf{mir} -
-(wrong) Ich \textbf{hilfe} -\textgreater{} \textbf{helfe} (ich never
-takes the stem change)
+\begin{quote}
+\textbf{When a word won't come, write \texttt{???} rather than the
+English.} What you couldn't retrieve is the most useful information in
+the whole exercise --- substituting English hides it.
+\end{quote}
 
-\textbf{weil word order} --- the two halves fail in alternation - 09-11:
-main clause lost verb-second - 09-15: weil-clause lost verb-last
+\subsection{9.2 Traps created by over-applying a real
+rule}\label{traps-created-by-over-applying-a-real-rule}
 
-\textbf{Two-way prepositions} --- needed 4 separate refreshers (09-07,
-09-08, 09-10, 09-15). Concept lands; execution under pressure breaks.
+These are the hardest to unlearn, because the rule is genuinely correct
+somewhere else:
 
-\subsection{\texorpdfstring{9.3 \textbf{{[}OK{]}} RESOLVED --- confirmed
-fixed}{9.3 {[}OK{]} RESOLVED --- confirmed fixed}}\label{ok-resolved-confirmed-fixed}
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Over-application
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+The boundary
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{-en marks plural} & It marks \textbf{dative} plural. \emph{gegen
+unsere Eltern} takes no -en \\
+\textbf{Umlauts in plurals -\textgreater{} umlauts everywhere} &
+Singular stays plain: \emph{Apfel}, \emph{Stuhl}, \emph{Brot}. And
+ge\textbf{fahr}en has none despite \emph{er fährt} \\
+\textbf{Stem changes apply throughout} & Only du and er/sie/es.
+\emph{ich helfe}, never ``ich hilfe'' \\
+\textbf{Accusative for objects} & Not after \emph{sein}, and not for
+dative-only verbs \\
+\textbf{es and er share ihm, so sie must too} & \textbf{sie
+-\textgreater{} ihr.} This is the single most slippery cell in the
+pronoun table \\
+\textbf{Nouns are capitalized} & But not infinitives or separable
+prefixes: \emph{sehe fern}, \emph{kann schwimmen} \\
+\textbf{ge- goes at the front of a participle} & Separable verbs put it
+in the middle: \emph{ein\textbf{ge}schlafen} \\
+\end{longtable}
+}
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{geben conjugation (gibt)} --- resolved 09-07 across a genuine
-  overnight gap
-\item
-  \textbf{verb-second general rule} --- resolved 09-03
-\item
-  \textbf{nicht before pronoun objects} --- ``Er sieht uns nicht''
-  (correct)
-\item
-  \textbf{es/sie dative} --- resolved 09-10 (but recurred 09-17)
-\item
-  \textbf{helfen + dative} --- resolved 09-10 (but cluster recurred
-  09-17)
-\item
-  \textbf{Sie-form imperative} --- resolved 09-15
-\item
-  \textbf{an der Ecke} --- resolved 09-16
-\item
-  \textbf{nach after-vs-to} --- resolved 09-15
-\item
-  \textbf{nach vs two-way in} --- resolved 09-15
-\item
-  \textbf{ins/im location vs motion} --- resolved 09-07
-\end{itemize}
+\subsection{9.3 Plausible rules that are simply
+false}\label{plausible-rules-that-are-simply-false}
 
-\subsection{9.4 Misconceptions you invented and had
-corrected}\label{misconceptions-you-invented-and-had-corrected}
-
-These are worth naming because inventing a plausible-but-false rule is
-harder to unlearn than simply not knowing:
+Four shortcuts that feel like they should work and don't:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  (wrong) \emph{``nach is used when the noun is in infinitive form''}
-  --- nouns don't have infinitives. Real rule: no-article
-  -\textgreater{} nach, has-article -\textgreater{} zu.
+  \textbf{``Accusative is for action verbs, dative for non-action
+  verbs.''} Case comes from the noun's \emph{role}, not the verb's
+  character.
 \item
-  (wrong) \emph{``Accusative is for action verbs, dative for non-action
-  verbs''} --- case is decided by the noun's ROLE, not the verb's type.
+  \textbf{``Plural always takes -en.''} Dative plural does. Accusative
+  plural doesn't.
 \item
-  (wrong) \emph{``Plural always takes -en''} --- that's \textbf{dative}
-  plural specifically.
+  \textbf{``Irregular verbs use sein in the Perfekt.''} Entirely
+  unrelated systems --- \emph{arbeiten} is regular and takes haben;
+  \emph{bleiben} is irregular and takes sein.
 \item
-  (wrong) \emph{``Irregular verbs use sein in Perfekt''} --- completely
-  independent systems.
+  \textbf{``nach is for nouns in infinitive form.''} Nouns don't have
+  infinitives. The real split is article versus no article.
 \end{enumerate}
 
-\subsection{9.5 Anglicisms \& English
-interference}\label{anglicisms-english-interference}
+\subsection{9.4 Small forms that are easy to
+lose}\label{small-forms-that-are-easy-to-lose}
+
+Things that vanish under concentration:
 
 \begin{itemize}
 \tightlist
 \item
-  ``Chicken'', ``Rice'' written in English -\textgreater{} das Hähnchen,
-  der Reis
+  \textbf{The article after a dative preposition} --- \emph{von
+  \textbf{der} Arbeit}
 \item
-  ``ich stay die Haus'' -\textgreater{} ich \textbf{bleibe zu Hause}
+  \textbf{The pronoun in a Sie-imperative} --- \emph{Kommen \textbf{Sie}
+  herein}
 \item
-  ``sehe TV'' -\textgreater{} \textbf{fernsehen}
+  \textbf{The -e on a feminine possessive} --- \emph{Ihr\textbf{e}
+  Katze}
 \item
-  ``Er \textbf{is} nicht'' -\textgreater{} \textbf{ist}
+  \textbf{The umlaut in möchte} --- \emph{Möchtest du\ldots{}}
 \item
-  Writing \textbf{Munich} instead of \textbf{München}
+  \textbf{ist, not ``is''} --- English spelling leaking into German
+\item
+  \textbf{du forms} --- \emph{hast}, not \emph{habt}; \emph{bist}, not
+  \emph{seid}
 \end{itemize}
 
-\textbf{Tip:} \textbf{When you can't retrieve a word, write \texttt{???}
---- not the English word.} What you couldn't retrieve is the most
-valuable data in the exercise.
+\subsection{9.5 Words that sit too close
+together}\label{words-that-sit-too-close-together}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+Pair & Difference \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+geben / gehen & to give / to go \\
+Tisch / Stuhl & table / chair \\
+morgen / der Morgen & tomorrow / the morning \\
+leben / wohnen & to be alive, live with / to reside at an address \\
+aus / von & out of an enclosed space / back from a place you were \\
+an der Ecke / zur Ecke & at the corner / to the corner \\
+uns / unser- & us \emph{(pronoun)} / our \emph{(possessive)} \\
+ihr / ihre / Ihr & you all / her / your (formal) \\
+\end{longtable}
+}
+
+\subsection{9.6 Where errors actually come
+from}\label{where-errors-actually-come-from}
+
+Worth knowing, because it changes how to practise: most mistakes here
+are \textbf{not} knowledge gaps. The same forms that come out correctly
+in a focused drill break under load --- while producing free sentences,
+while juggling a new structure, while speaking in real time.
+
+Two consequences:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Isolated drilling can be misleading.} Something that passes
+  every isolated test can still fail in free production. Mixed practice,
+  where attention is divided, is the more honest test.
+\item
+  \textbf{A fast flawed answer teaches more than a slow careful one.}
+  Errors that only appear at speed are exactly the errors that appear in
+  conversation.
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\section{PART X --- TIPS, TRICKS \&
-METHOD}\label{part-x-tips-tricks-method}
+\section{PART X --- HOW TO STUDY THIS}\label{part-x-how-to-study-this}
 
 \subsection{10.1 Memory hooks}\label{memory-hooks}
 
@@ -1459,145 +1779,121 @@ Covers
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-\textbf{FUDGO} & für, um, durch, gegen, ohne (accusative preps) \\
-\textbf{\emph{aus, außer, bei, mit, nach, seit, von, zu}} & dative preps
-(rhyme it) \\
-\textbf{wohin? / wo?} & two-way prepositions --- the ONLY thing to
-memorise \\
-\textbf{der -\textgreater{} den -\textgreater{} dem} mirrors \textbf{er
--\textgreater{} ihn -\textgreater{} ihm} & if one is solid, the other
-follows \\
-Say the noun \textbf{with its article} before choosing a pronoun & der
-Apfel -\textgreater{} der -\textgreater{} ihn \\
+\textbf{FUDGO} & für, um, durch, gegen, ohne --- the accusative
+prepositions \\
+\emph{aus, außer, bei, mit, nach, seit, von, zu} & the dative
+prepositions --- say it as a rhythm \\
+\textbf{wohin? / wo?} & two-way prepositions --- the only thing worth
+memorising \\
+\textbf{der -\textgreater{} den -\textgreater{} dem} \emph{mirrors}
+\textbf{er -\textgreater{} ihn -\textgreater{} ihm} & articles and
+pronouns are one pattern \\
+Say the noun \emph{with} its article & der Apfel -\textgreater{} der
+-\textgreater{} \textbf{ihn} \\
+\textbf{es -\textgreater{} ihm, sie -\textgreater{} ihr} & the pronoun
+cell most likely to go wrong \\
 \end{longtable}
 }
 
-\subsection{10.2 The learning rules this repo runs
-on}\label{the-learning-rules-this-repo-runs-on}
+\subsection{10.2 Principles worth
+following}\label{principles-worth-following}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Nothing is FUNCTIONAL until it survives a real overnight gap.}
-  A clean first attempt is not retention --- this has been proven wrong
-  twice.
+  \textbf{Nothing counts as learned until it survives a night.} A clean
+  first attempt measures comprehension, not retention.
 \item
-  \textbf{Max 2 new grammar concepts per week.} Extra hours buy depth,
-  not scope.
+  \textbf{Two new grammar concepts a week.} Extra study time should buy
+  depth, not more topics.
 \item
-  \textbf{Every new word must appear in a sentence you produced the same
-  day.}
+  \textbf{Every new word gets used in a sentence the same day.}
+  Recognition and production are different skills.
 \item
   \textbf{Retrieval beats review.} Producing from memory beats
-  re-reading, always.
+  re-reading, every time.
 \item
-  \textbf{Errors under load are the real data.} A fast flawed answer
-  reveals more than a slow careful one.
+  \textbf{Learn nouns with their articles, always.} Without the article
+  you can't form the pronoun, the accusative, or the dative.
 \end{itemize}
 
-\subsection{10.3 Writing vs voice --- they measure different
-things}\label{writing-vs-voice-they-measure-different-things}
+\subsection{10.3 Writing and speaking test different
+things}\label{writing-and-speaking-test-different-things}
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
 \toprule\noalign{}
-& Writing tests & Voice tests \\
+& Writing shows & Speaking shows \\
 \midrule\noalign{}
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-Conjugation endings & (correct) & (wrong) STT silently repairs them \\
-Article endings & (correct) & (wrong) \\
-Spelling, umlauts & (correct) & (wrong) \\
-Word order & (correct) & (correct) \\
-\textbf{Retrieval speed} & (wrong) unlimited time & (correct) \\
-\textbf{Automaticity} & (wrong) & (correct) \\
+Conjugation and case endings & yes & no \\
+Spelling and umlauts & yes & no \\
+Word order & yes & yes \\
+Retrieval speed & no & yes \\
+Automaticity & no & yes \\
 \end{longtable}
 }
 
-\textbf{Rule: learn in writing, prove in voice.} Never infer grammar
-knowledge from a voice transcript --- on day one it both hid a real
-error and invented a competence that wasn't there.
+\textbf{Learn in writing, prove in speech.} Writing is where endings can
+actually be checked; speaking is where you find out what has become
+automatic. A form can be solid in one and shaky in the other --- that
+isn't a contradiction, it's the two skills separating.
 
-\subsection{10.4 Your demonstrated
-strengths}\label{your-demonstrated-strengths}
-
-Worth knowing, because they shape how to study:
+\subsection{10.4 What to work on next}\label{what-to-work-on-next}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \textbf{Self-correction is your strongest skill.} Across the 09-10/11
-  concepts test and the 09-15 review, you resolved most gaps yourself
-  once pointed at the right reference --- that's debugging your own
-  understanding, not memorising.
+  \textbf{Dative-only verbs} --- helfen, danken, gehören with
+  mir/dir/ihm/ihr
 \item
-  \textbf{You generalise patterns correctly to untaught material} ---
-  produced ``Setzen Sie sich,'' ``Öffnen Sie das Fenster,'' and ``Das
-  Buch gehört mir'' using verbs never formally taught.
+  \textbf{es -\textgreater{} ihm versus sie -\textgreater{} ihr}
 \item
-  \textbf{You notice real linguistic nuance unprompted} --- the
-  Heute-fronting emphasis observation (09-17) is a genuine insight, not
-  a taught rule.
+  \textbf{weil} --- verb last inside the clause, verb second in the main
+  clause, both at once
 \item
-  \textbf{You question things that don't add up} --- asking why
-  ``gegehen'' isn't the participle, catching untaught vocabulary in test
-  prompts.
-\end{enumerate}
-
-\subsection{10.5 What to prioritise right
-now}\label{what-to-prioritise-right-now}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
+  \textbf{unsere versus unseren} --- accusative versus dative plural
 \item
-  \textbf{{[}HIGH{]}} \textbf{Dative-only verbs} (helfen/danken/gehören
-  + mir/dir/ihm/ihr) --- active cluster regression
+  \textbf{Perfekt participles} --- pure memorisation, no shortcut exists
 \item
-  \textbf{{[}HIGH{]}} \textbf{es -\textgreater{} ihm, sie
-  -\textgreater{} ihr} --- 3rd recurrence
-\item
-  \textbf{{[}MED{]}} \textbf{weil}: verb-last inside the clause AND
-  verb-second in the main clause, both at once
-\item
-  \textbf{{[}MED{]}} \textbf{unsere (acc. pl.) vs unseren (dat. pl.)}
-  --- kill the ``-en means plural'' rule
-\item
-  \textbf{{[}MED{]}} \textbf{Perfekt participles} --- pure memorisation,
-  no shortcut exists
-\item
-  \textbf{{[}OK{]}} \textbf{aus vs von} --- never yet drilled in
-  isolation
+  \textbf{aus versus von}
 \end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\section{APPENDIX --- QUICK REFERENCE
-CARD}\label{appendix-quick-reference-card}
+\section{QUICK REFERENCE}\label{quick-reference}
 
-\textbf{Articles:} der/den/dem · die/die/der · das/das/dem ·
-die/die/den+n
+\textbf{Articles} der · den · dem --- die · die · der --- das · das ·
+dem --- \emph{plural:} die · die · den +n
 
-\textbf{Pronouns:} ich-mich-mir · du-dich-dir · er-ihn-ihm ·
-sie-sie-\textbf{ihr} · es-es-\textbf{ihm} · wir-uns-uns · ihr-euch-euch
-· sie-sie-ihnen
+\textbf{Pronouns} ich--mich--mir · du--dich--dir · er--ihn--ihm ·
+sie--sie--\textbf{ihr} · es--es--\textbf{ihm} wir--uns--uns ·
+ihr--euch--euch · sie--sie--ihnen · Sie--Sie--Ihnen
 
-\textbf{Dative preps:} aus, außer, bei, mit, nach, seit, von, zu
-\textbf{Accusative preps:} für, um, durch, gegen, ohne (FUDGO)
-\textbf{Two-way:} in, an, auf, über, unter, vor, hinter, neben, zwischen
--\textgreater{} \emph{wohin?} = accusative · \emph{wo?} = dative
+\textbf{Prepositions} \emph{Dative:} aus, außer, bei, mit, nach, seit,
+von, zu \emph{Accusative:} für, um, durch, gegen, ohne \textbf{(FUDGO)}
+\emph{Two-way:} in, an, auf, über, unter, vor, hinter, neben, zwischen
+-\textgreater{} \textbf{wohin?} = accusative · \textbf{wo?} = dative
 
-\textbf{Contractions:} ins (in+das) · im (in+dem) · ans · am · zum
-(zu+dem) · zur (zu+der) · vom (von+dem) --- \textbf{never with
-possessives}
+\textbf{Contractions} ins · im · ans · am · zum · zur · vom ---
+\textbf{never with a possessive}
 
-\textbf{Word order:} verb 2nd · yes/no question verb 1st · weil verb
-last · Time--Manner--Place · separable prefix to the end · nicht before
+\textbf{Word order} Verb second · yes/no questions verb first ·
+\emph{weil} verb last · time -\textgreater{} manner -\textgreater{}
+place · separable prefix to the end · \emph{nicht} immediately before
 what it negates
 
-\textbf{Perfekt:} haben/sein + participle at the end · sein =
-motion/state-change + sein/bleiben · haben = everything else
+\textbf{Perfekt} haben/sein + participle at the end \emph{sein} = motion
+or change of state, plus sein and bleiben \emph{haben} = everything else
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{This document is regenerated as the material grows --- the
+\texttt{.tex} and \texttt{.pdf} versions are built from this file by
+\texttt{build\_notes.sh}, so edit the Markdown rather than the generated
+copies.}
 
 \end{document}

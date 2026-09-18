@@ -1,30 +1,21 @@
-# COMPLETE NOTES — Everything, in study format
+# German — Complete Notes
 
-Generated 2026-09-18 from the whole repository: GRAMMAR.md, VOCABULARY.md,
-ANSWERS.md (Q1–Q23), ERROR_LOG.md (~70 entries), PRONOUN_TABLE.md,
-STUDY_PLAN.md and the daily notes.
+Everything covered so far, written to be studied rather than skimmed.
 
-**This file is a study document, not a tracker.** It does not replace the
-trackers — it is the thing to read and revise from. If you study only this
-file, you have covered everything taught so far.
+Parts I–VII are grammar, VIII is vocabulary, IX is the traps that catch
+people most often, X is method. The quick-reference card at the back is
+the thing to glance at before an exercise.
 
-**How to use it:** Part I–VII are the grammar. Part VIII is vocabulary.
-Part IX is the error catalogue (your actual mistakes — the highest-value
-section). Part X is tips, traps and method.
-
-**This file is kept live.** By standing rule, every time anything is logged
-to the trackers, this document is updated too and `build_notes.sh` is re-run
-to refresh `Complete Notes.tex` and `Complete Notes.pdf`. The PDF is the
-study copy — it should never lag behind the trackers. *(The .tex and .pdf
-are generated from this Markdown — don't edit them directly.)*
+*Kept in sync with the rest of the repo — see the note at the end.*
 
 ---
 
 # PART I — THE FOUNDATION
 
-## 1.1 The two core verbs
+## 1.1 The two verbs everything is built on
 
-**sein** (to be) — irregular, must be memorised.
+**sein** — to be. Irregular; there is no pattern to derive, it just has to
+be known cold.
 
 | | |
 |---|---|
@@ -32,7 +23,7 @@ are generated from this Markdown — don't edit them directly.)*
 | du **bist** | ihr **seid** |
 | er/sie/es **ist** | sie/Sie **sind** |
 
-**haben** (to have) — irregular in du/er forms.
+**haben** — to have. Regular except the du and er forms.
 
 | | |
 |---|---|
@@ -40,129 +31,161 @@ are generated from this Markdown — don't edit them directly.)*
 | du **hast** | ihr **habt** |
 | er/sie/es **hat** | sie/Sie **haben** |
 
-⚠️ **Your recorded mistakes here:** "Was haben du?" (→ hast), "habst"
-(→ hast), "Ich haben gegessen" (→ habe), "Er is nicht" (→ ist, English
-spelling leaking in), "Du bust" (→ bist).
+These two carry more weight than any other verbs in the language. Beyond
+their own meanings, **haben** and **sein** are what build the past tense
+later (Part VII), so time spent making them automatic pays twice.
 
-## 1.2 Feelings: two constructions, never mixed
+> **The slip to watch:** *du* takes **hast** and **bist** — never the
+> unchanged forms *haben*/*sein*. "Was hast du?", not "Was haben du?"
 
-German expresses feelings two ways, and they cannot be combined:
+## 1.2 Two ways to say how you feel — never mixed
 
-- **sein + adjective**: Ich bin hungrig. / Ich bin müde.
-- **haben + noun**: Ich habe Hunger. / Ich habe Durst.
+German has two constructions for states like hunger and tiredness, and
+they cannot be combined:
 
-❌ "Ich habe hungrig" — mixes the two. This was your first logged error.
+- **sein + adjective** — Ich **bin** hungrig. / Ich **bin** müde.
+- **haben + noun** — Ich **habe** Hunger. / Ich **habe** Durst.
 
-## 1.3 Noun capitalization
+English "I am hungry" maps onto the first pattern, which makes it the
+natural default. The second is equally correct but needs the noun form.
 
-**Every German noun is always capitalized**, everywhere in the sentence,
-not just proper names: das Buch, die Katze, der Hunger, die Zeit.
+> **Wrong:** *Ich habe hungrig* — this mixes the two patterns. Either *bin hungrig*
+> or *habe Hunger*, never a hybrid.
 
-⚠️ Recorded slips: "buch", "Hunger" written lowercase.
+## 1.3 Capitalization is grammar, not decoration
 
-But: **infinitives and separable prefixes stay lowercase** unless genuinely
-nominalized.
-- Ich sehe **fern**. (prefix, lowercase) vs das **Fernsehen** (the noun)
-- Ich kann **schwimmen**. (infinitive) vs das **Schwimmen** (the activity)
+**Every German noun is capitalized**, wherever it appears in the sentence:
+das Buch, die Katze, der Hunger, die Zeit.
 
-⚠️ Recorded 3× as a pattern: "Fern", "Schwimmen" wrongly capitalized.
+But **infinitives and separable prefixes stay lowercase** — unless the word
+has genuinely been turned into a noun:
 
-## 1.4 sie vs Sie — the capitalization that changes meaning
+| lowercase (verb) | capitalized (noun) |
+|---|---|
+| Ich sehe **fern**. | das **Fernsehen** (television) |
+| Ich kann **schwimmen**. | das **Schwimmen** (swimming, the activity) |
+
+The distinction is real: *fern* is a prefix doing verb work, *Fernsehen* is
+a thing. Same letters, different jobs.
+
+## 1.4 sie, sie, and Sie
+
+Three words, spelled almost identically, told apart by capitalization and
+by the verb:
 
 | Form | Meaning | Verb |
 |---|---|---|
-| sie (lowercase) | she | sie **ist** |
-| sie (lowercase) | they | sie **sind** |
-| **Sie** (always capital) | you (formal) | Sie **sind** |
+| sie | she | sie **ist** |
+| sie | they | sie **sind** |
+| **Sie** *(always capital)* | you (formal) | Sie **sind** |
 
-Mid-sentence, capitalization is the only thing distinguishing them:
-- "Die Frau ist glücklich, denn **sie** hat ein Buch." (she)
-- "**Sie** haben ein Buch." (you, formal)
+Mid-sentence, the capital is the only visible difference:
 
-**ihr** is never formal — it is informal plural "you all" only. Formal is
-always **Sie + sind**, singular or plural. *(ANSWERS Q1, Q2)*
+- "Die Frau ist glücklich, denn **sie** hat ein Buch." — *she*
+- "**Sie** haben ein Buch." — *you*, formal
+
+And **ihr** is never formal. It is informal plural "you all" only — for
+friends, family, a group of kids. Formal address is always **Sie + sind**,
+whether you are talking to one person or twenty.
 
 ---
 
-# PART II — ARTICLES, GENDER, AND THE CASE SYSTEM
+# PART II — ARTICLES, GENDER, AND CASE
 
-## 2.1 The article table — the single most load-bearing table in German
+## 2.1 The table everything else depends on
 
-| | der-word (masc) | die-word (fem) | das-word (neut) | plural |
+| | der-word | die-word | das-word | plural |
 |---|---|---|---|---|
-| **Nominative** (subject) | der | die | das | die |
-| **Accusative** (direct obj) | **den** | die | das | die |
-| **Dative** (indirect obj) | **dem** | **der** | **dem** | **den** (+ -n on noun) |
+| **Nominative** — subject | der | die | das | die |
+| **Accusative** — direct object | **den** | die | das | die |
+| **Dative** — indirect object | **dem** | **der** | **dem** | **den** *(+ -n on the noun)* |
 
-**Notice:** in accusative, ONLY the der-word changes. That single fact
-carries over everywhere — pronouns, possessives, everything.
+**The single most useful observation:** in the accusative, only the
+der-word changes. die and das sit still. That one asymmetry repeats
+everywhere — in pronouns, in possessives, in kein. Learn it once, and
+several other tables come free.
 
-Indefinite: ein (der/das) / eine (die) → accusative **einen** (der-word
-only) → dative **einem** (der/das) / **einer** (die).
+Indefinite articles follow the same shape:
 
-## 2.2 The four cases — what each one marks
+| | der-word | die-word | das-word |
+|---|---|---|---|
+| Nominative | ein | eine | ein |
+| Accusative | **einen** | eine | ein |
+| Dative | **einem** | **einer** | **einem** |
 
-1. **Nominative** — the subject. Who/what is doing the verb.
-2. **Accusative** — the direct object. What the verb is done TO.
-3. **Dative** — the indirect object. The receiver/beneficiary.
-4. **Genitive** — possession (not yet taught).
+## 2.2 What the cases actually mark
 
-⚠️ **The misconception you formed and had corrected (2026-09-10):** case is
-NOT decided by whether a verb is an "action verb" or not. It is decided by
-the noun's ROLE in the sentence. haben, sehen, geben — all take accusative
-direct objects. Nothing about "action-ness" is involved.
+1. **Nominative** — the subject. Who or what is doing the verb.
+2. **Accusative** — the direct object. What the verb is done *to*.
+3. **Dative** — the indirect object. Who *receives* it.
+4. **Genitive** — possession. Not yet covered.
 
-## 2.3 When accusative applies
+Case is decided by **the noun's role in the sentence**. It is not a
+property of the verb's type — there is no such thing as an
+"accusative verb" versus a "dative verb" in general. haben, sehen and
+geben all take accusative direct objects.
 
-**Accusative = direct object of a verb.** *(ANSWERS Q6)*
+## 2.3 When to use accusative
 
-Verbs that take accusative objects: haben, sehen, essen, trinken, kaufen,
-lesen, nehmen — most "doing" verbs.
+**Accusative marks the direct object of a verb.** Most "doing" verbs take
+one: haben, sehen, essen, trinken, kaufen, lesen, nehmen.
 
-**The one big exception: sein never takes accusative.** "To be" doesn't act
-on anything, it equates two things, so nouns after sein stay nominative.
+> **The test:** ask *what is the verb doing something to?* A clear answer
+> means that noun is accusative.
 
-- ✅ Das ist **mein** Hund. (not meinen — sein-sentence)
-- ✅ Ist das **dein** Hund? (same reason)
+**The one big exception is sein.** "To be" doesn't act on anything — it
+equates two things — so nouns after *sein* stay nominative:
 
-⚠️ Recorded 2×: "Ist das deinen Hund?" — accusative over-applied after sein.
-*(ANSWERS Q4)*
+- Das ist **mein** Hund. *(not meinen)*
+- Ist das **dein** Hund? *(same reason — still a sein-sentence)*
 
-**Modal verbs do not change any of this.** *(ANSWERS Q7)* The second verb
-(the infinitive at the end) decides the case, exactly as it would alone:
-- Ich möchte **den Hund** sehen. (sehen takes accusative)
-- Ich kann schlafen. (schlafen takes no object)
+> **Why this trips people:** "Ist das deinen Hund?" feels right because
+> *Hund* looks like an object. But nothing is being done to the dog; the
+> sentence is just saying *that = your dog*. No action, no accusative.
 
-## 2.4 When dative applies — TWO separate causes
+**Modal verbs change nothing here.** The infinitive at the end decides the
+case, exactly as it would on its own:
 
-**Cause 1: the indirect object** (the receiver, usually a person).
+- Ich möchte **den Hund** sehen. — *sehen* takes accusative, so den Hund.
+- Ich kann schlafen. — *schlafen* takes no object at all.
+
+## 2.4 Dative arrives by two separate routes
+
+This is worth separating clearly, because the endings look identical but
+the reasons are unrelated.
+
+**Route 1 — the indirect object.** The receiver, usually a person:
 
 > **Ich gebe dem Mann ein Buch.**
-> dem Mann = dative (receiver) · ein Buch = accusative (thing given)
+> *dem Mann* = dative (who receives) · *ein Buch* = accusative (what is given)
 
-**Cause 2: certain prepositions simply demand it**, regardless of role.
+**Route 2 — certain prepositions simply demand it**, with no object role
+involved at all:
 
-> **Er spielt mit mir.** — mir isn't receiving anything; *mit* forces dative.
+> **Er spielt mit mir.**
+> *mir* isn't receiving anything. *mit* just forces dative. Full list in Part V.
 
-These are genuinely two different mechanisms producing the same endings.
+## 2.5 Verbs that take dative and nothing else
 
-## 2.5 Dative-only verbs ⚠️ HIGH-PRIORITY WEAK SPOT
+A small group of verbs takes a **dative** object even though there is only
+one object, and even though English makes it look direct:
 
-Some verbs take a dative object even though there is only ONE object and it
-looks like a direct object in English:
+| Verb | Correct | Not |
+|---|---|---|
+| helfen — to help | Ich helfe **ihr**. | ~~Ich helfe sie~~ |
+| danken — to thank | Ich danke **ihm**. | ~~Ich danke ihn~~ |
+| gehören — to belong to | Das Buch gehört **mir**. | ~~gehört mich~~ |
 
-- **helfen** — Ich helfe **ihr**. (not sie)
-- **danken** — Ich danke **ihm**. (not ihn)
-- **gehören** — Das Buch gehört **mir**. (not mich)
-- gefallen, antworten (same family)
+Also in this family: *gefallen*, *antworten*.
 
-English "I help her" *looks* like a direct object. German treats the person
-as a recipient.
-
-⚠️ **This is a confirmed regression cluster.** 3/3 clean on 2026-09-10, then
-**1/3 on 2026-09-17** ("Ich danke ihn" ❌, "Das Buch gehört mich" ❌). You
-correctly identify the verbs as dative-only — you then pick the wrong form.
-**Drill: mir/dir/ihm/ihr, not mich/dich/ihn/sie.**
+> **Why it feels wrong:** "I help her" looks like a plain direct object in
+> English. German treats the helped person as a **recipient** of help, not
+> a thing being acted on. Once you hear it as "I give help *to* her," the
+> dative stops feeling arbitrary.
+>
+> **The practical trap:** it is easy to spot that these verbs *need* dative
+> and still reach for the accusative pronoun by reflex. The forms you want
+> are **mir, dir, ihm, ihr, uns, euch, ihnen** — never mich, dich, ihn, sie.
 
 ---
 
@@ -182,331 +205,392 @@ correctly identify the verbs as dative-only — you then pick the wrong form.
 | sie — they | sie | **ihnen** |
 | Sie — you (formal) | Sie | **Ihnen** |
 
-**What to notice:**
-1. Only four dative forms are genuinely new: mir, dir, ihm, ihnen.
-2. **er changes twice** (er→ihn→ihm), mirroring der→den→dem exactly.
-3. **es and sie barely move** — only the dative shifts them: es→**ihm**,
-   sie→**ihr**.
+**Three things make this much smaller than it looks:**
 
-⚠️ **es/sie dative swap — RECURRING, 3 occurrences** (2026-09-10, again
-2026-09-17). You give **ihm** for both es and sie. Correct: es→ihm,
-sie→**ihr**. This is your most persistent pronoun error.
+1. **Only four dative forms are genuinely new** — mir, dir, ihm, ihnen.
+   *uns* and *euch* are identical in both object cases; es/sie/Sie carry over.
+2. **er changes twice** — er → ihn → ihm, mirroring der → den → dem exactly.
+   The same shape, so if the articles are solid these follow.
+3. **es and sie barely move.** Both hold still in the accusative. Only the
+   dative shifts them — and that is where the one real trap lives:
 
-## 3.2 The "ihr" trap — three separate jobs
+> **es → ihm. sie → ihr.**
+>
+> *es* shares its dative form with *er*, which is counter-intuitive enough
+> that it is easy to over-apply and give **ihm** for both es and sie. If you
+> remember one thing from this table, make it this line.
+
+## 3.2 The three jobs of "ihr"
 
 | Form | Job | Example |
 |---|---|---|
-| ihr | "you all" (nominative) | **Ihr** habt ein Buch |
-| ihr | "to her" (dative) | Ich gebe **ihr** ein Buch |
-| ihr/ihre | "her" (possessive) | **Ihre** Katze ist müde |
-| **Ihr/Ihnen** (capital) | formal "your"/"to you" | Ist das **Ihr** Buch? |
+| ihr | "you all" — subject | **Ihr** habt ein Buch |
+| ihr | "to her" — dative | Ich gebe **ihr** ein Buch |
+| ihr / ihre | "her" — possessive | **Ihre** Katze ist müde |
+| **Ihr / Ihnen** *(capital)* | formal "your" / "to you" | Ist das **Ihr** Buch? |
 
-The verb form usually disambiguates: *ihr habt* (you all) vs *ihr gibt*
-(impossible as a subject → must be dative).
+Context resolves it, and usually the verb does the work: *ihr habt* can
+only be "you all", because a dative *ihr* could never be the subject of
+*habt*.
 
-## 3.3 THE BIG PRONOUN TRAP — gender, not meaning *(ANSWERS Q11)*
+## 3.3 The pronoun trap worth real attention
 
-**A German pronoun follows the noun's GRAMMATICAL GENDER, never the English
-meaning, never whether it is a person or a thing.**
+**A German pronoun follows the noun's grammatical gender — never the
+English meaning, never whether the thing is a person or an object.**
 
-Three-step method:
+Three steps, every time:
+
 1. Find the noun being replaced.
-2. Recall its article — der/die/das.
-3. Convert: der→er/ihn · die→sie/sie · das→es/es
+2. Recall its article — der, die, or das.
+3. Convert: der → er/ihn · die → sie/sie · das → es/es
 
-| Sentence | Pronoun | Why |
+| Sentence | Becomes | Why |
 |---|---|---|
-| Ich sehe **den Tisch** → Ich sehe **ihn** | ihn | der-word |
-| Ich habe **das Buch** → Ich habe **es** | es | das-word |
-| Sie kauft **die Milch** → Sie kauft **sie** | sie | die-word |
-| Ich esse **einen Apfel** → Ich esse **ihn** | ihn | der Apfel |
+| Ich sehe **den Tisch**. | Ich sehe **ihn**. | der Tisch |
+| Ich habe **das Buch**. | Ich habe **es**. | das Buch |
+| Sie kauft **die Milch**. | Sie kauft **sie**. | die Milch |
+| Ich esse **einen Apfel**. | Ich esse **ihn**. | der Apfel |
 
-**The trap, stated plainly:**
-- **der Apfel** is a thing, but takes **ihn** — literally "I eat him." Correct.
-- **das Kind** is a person, but takes **es** — "she sees it." Correct.
-- **das Mädchen** (girl) → **es**. Yes, really.
+**Now the part that feels wrong and is correct anyway:**
 
-If a German pronoun feels wrong to your English ear, that is expected and
-is not a sign of error.
+- **der Apfel** is an object, but takes **ihn** — literally "I eat him."
+- **das Kind** is a person, but takes **es** — "she sees it."
+- **das Mädchen** (girl) is also a das-word → **es**.
 
-**Practical self-check:** say the noun WITH its article first — *"der
-Apfel"* → der → ihn. Side effect: if you can't recall the article, you
-can't choose the pronoun. **That is why nouns must always be learned with
-der/die/das attached.**
+English picks *it* or *him/her* based on whether something is a thing or a
+person. German does not make that distinction at all. When a German pronoun
+sounds wrong to an English ear, that is expected — it is not a signal that
+you have made a mistake.
 
-⚠️ Recorded 2× (same check, opposite directions): pronouns chosen by
-English semantics instead of gender.
+> **Self-check that makes this automatic:** before choosing a pronoun, say
+> the noun *with its article* — "der Apfel" → der → ihn.
+>
+> This has a useful consequence: if you cannot recall a noun's article, you
+> cannot choose its pronoun. That is the strongest practical argument for
+> **always learning nouns together with der/die/das**. The article isn't
+> decoration; it is load-bearing information you will need repeatedly.
 
-## 3.4 Possessives take the same endings
+## 3.4 Possessives use the same endings
 
 | | der/das-word | die-word | plural |
 |---|---|---|---|
-| Nominative | mein Vater / **unser** Auto | mein**e** Mutter | mein**e** Eltern |
+| Nominative | mein Vater · **unser** Auto | mein**e** Mutter | mein**e** Eltern |
 | Accusative | mein**en** Vater | mein**e** Mutter | mein**e** Eltern |
 | Dative | mein**em** Vater | mein**er** Mutter | mein**en** Eltern |
 
-Same pattern for dein-, sein-, ihr-, unser-, Ihr-.
+Identical pattern for dein-, sein-, ihr-, unser-, Ihr-.
 
-⚠️ **Critical correction you needed twice:** the **-en** ending is
-**DATIVE plural**, not "plural in general."
-- ✅ mit **unseren** Eltern (dative — mit forces it)
-- ✅ gegen **unsere** Eltern (accusative plural — NO -en)
+> **The ending to be careful with: -en is DATIVE plural, not plural in
+> general.** This one is genuinely easy to over-generalise:
+>
+> - mit **unseren** Eltern — dative, because *mit* forces it → **-en**
+> - gegen **unsere** Eltern — accusative plural → **no -en**
+>
+> "Plural takes -en" is a tempting rule and a false one. The plural
+> accusative leaves the possessive unmarked, exactly like the singular
+> die-word form.
 
-You have twice stated the rule as "plural always takes -en" (2026-09-08,
-2026-09-17). That is the misconception to kill. *(ANSWERS Q14)*
+Note also that **neuter nominative stays bare**: *unser Auto*, not
+*unsere Auto* — same as *mein Buch*.
 
-## 3.5 uns vs unser- *(ANSWERS Q13)*
+## 3.5 uns versus unser-
 
-- **uns** = PRONOUN, "us" — Er sieht **uns**.
-- **unser-** = POSSESSIVE, "our" — **unsere** Eltern, mit **unseren** Eltern
+Two different words that look related:
 
-Same shape as the ihr/ihre confusion: a pronoun and its look-alike
-possessive are two different words with two different jobs.
+- **uns** — pronoun, "us": Er sieht **uns**.
+- **unser-** — possessive, "our": **unsere** Eltern, mit **unseren** Eltern
+
+Same shape of confusion as *ihr* (you all) versus *ihre* (her). A pronoun
+and its look-alike possessive do different jobs and take different endings.
 
 ---
 
 # PART IV — NEGATION
 
-## 4.1 nicht vs kein — the decision *(ANSWERS Q3, Q8, Q9, Q10)*
+## 4.1 Choosing between nicht and kein
 
-**Use kein/keine when** negating a noun that would otherwise take ein/eine
-or no article (indefinite/general):
-- Ich habe **keinen** Hund. (vs "ein Hund")
-- Ich habe **keine** Zeit. (Zeit normally takes no article)
+**kein** negates a noun that would otherwise take *ein/eine* or no article
+at all — something indefinite or general:
 
-**Use nicht when:**
-- Negating a verb: Ich arbeite **nicht**.
-- Negating an adjective: Ich bin **nicht** müde.
-- Negating a **specific/definite** noun (der/die/das): Ich sehe den Hund **nicht**.
+- Ich habe **keinen** Hund. *(versus "einen Hund")*
+- Ich habe **keine** Zeit. *(Zeit normally takes no article)*
 
-**kein takes the same endings as ein:** keinen Hund (acc. der-word), keine
-Zeit, kein Buch.
+**nicht** negates everything else:
 
-## 4.2 Why "kein den Hund" is impossible *(ANSWERS Q9)*
+- a verb — Ich arbeite **nicht**.
+- an adjective — Ich bin **nicht** müde.
+- a **specific, definite** noun — Ich sehe den Hund **nicht**.
 
-**kein and der/die/das are mutually exclusive** — kein REPLACES the article
-slot. nicht doesn't touch the article at all.
+*kein* takes the same endings as *ein*: keinen Hund, keine Zeit, kein Buch.
 
-- kein = article-equivalent → "Ich habe **keinen** Hund" (no separate ein)
-- nicht = separate word, article stays → "Ich sehe **den** Hund **nicht**"
+> **The test:** could the word be replaced with "no ___" naturally, as a
+> general thing? → kein. Is it a verb, an adjective, or a specific
+> already-identified noun? → nicht.
 
-Two articles cannot attach to one noun, which is what "kein den Hund"
-would be.
+## 4.2 Why "kein den Hund" cannot exist
 
-**The real trigger:** was there originally an ein/eine (or no article)? →
-kein replaces it. Was there a der/die/das? → keep it, add nicht.
+Because **kein and der/die/das are alternatives, not stackable**.
 
-## 4.3 Where nicht goes *(ANSWERS Q18)* ⚠️ RECURRING
+- **kein replaces the article slot entirely.** In *Ich habe keinen Hund*
+  there is no separate *ein* — kein *is* the article.
+- **nicht doesn't touch the article at all.** In *Ich sehe den Hund nicht*,
+  *den* stays exactly as it was and nicht sits separately, negating the
+  action.
 
-**nicht sits as close to the end as possible, but BEFORE whatever it
-negates** (verb, infinitive, or separable prefix):
+"kein den Hund" would put two articles on one noun.
+
+> **So the real question is always: what was there originally?**
+> An ein/eine (or nothing) → kein replaces it.
+> A der/die/das → keep it and add nicht.
+
+## 4.3 Where nicht goes
+
+**nicht sits as late in the sentence as it can, but immediately before
+whatever it negates** — a verb, an infinitive, or a separable prefix:
+
 - Ich sehe **nicht** fern.
 - Er kann **nicht** schwimmen.
 - Ich stehe um sieben Uhr **nicht** auf.
 
-**A definite object comes BEFORE nicht**, because the object is not what is
-being negated — it's established information:
-- ✅ Ich sehe **den Hund nicht**.
-- ❌ Ich sehe nicht den Hund.
-- ✅ So kann er **den Hund nicht** sehen.
+**A definite object comes before nicht**, because the object isn't what's
+being negated — it is established information:
 
-⚠️ You have forgotten this twice after gaps (2026-09-11, 2026-09-15) and
-self-corrected both times once pointed back to the rule.
+- **Right:** Ich sehe **den Hund nicht**.
+- **Wrong:** Ich sehe nicht den Hund.
+- **Right:** So kann er **den Hund nicht** sehen.
 
-## 4.4 keine Zeit vs nicht viel Zeit *(ANSWERS Q3)*
+> The logic is worth holding onto rather than memorising the order: you
+> aren't negating *the dog*, you're negating *the seeing*. So nicht attaches
+> to the verb, and the dog — already known information — stays in front.
 
-Not interchangeable:
-- **Wir haben keine Zeit.** — no time at all, complete negation.
-- **Wir haben nicht viel Zeit.** — some time exists, just not much. (nicht
-  negates *viel*, the quantifier — consistent with the rule, not an exception.)
+## 4.4 keine Zeit versus nicht viel Zeit
+
+Not two ways of saying one thing:
+
+- **Wir haben keine Zeit.** — no time at all.
+- **Wir haben nicht viel Zeit.** — some time exists, just not much.
+
+The second one uses *nicht* despite *Zeit* being a noun, because nicht is
+negating **viel** (the quantifier), not the noun. That is consistent with
+the rule in 4.1, not an exception to it.
 
 ---
 
 # PART V — PREPOSITIONS
 
-## 5.1 Dative prepositions — always dative, no exceptions
+## 5.1 Prepositions that always take dative
 
-**mit, nach, bei, von, zu, aus, seit** (+ außer)
+**aus · außer · bei · mit · nach · seit · von · zu**
 
-Mnemonic rhyme: *aus, außer, bei, mit, nach, seit, von, zu*
+Worth memorising as a rhythm — *"aus, außer, bei, mit, nach, seit, von,
+zu"* — because there is no logic to derive; membership in this list is the
+whole rule. Whatever follows goes into dative, regardless of its role:
 
-Every one of them forces dative on whatever follows:
-- mit **dem** Hund · bei **der** Arbeit · seit **dem** Jahr
-- von **der** Arbeit · aus **dem** Haus · zu **meiner** Mutter
+| | |
+|---|---|
+| mit **dem** Hund | bei **der** Arbeit |
+| von **der** Arbeit | aus **dem** Haus |
+| seit **dem** Jahr | zu **meiner** Mutter |
 
-⚠️ **Your recurring habit: dropping the article entirely** — "von Arbeit",
-"nach Wochenende", "von Schule". Logged 4+ times. A dative preposition
-ALWAYS keeps its article.
+> **The habit to guard against: dropping the article.** *von Arbeit*,
+> *nach Wochenende*, *von Schule* all feel acceptable because English drops
+> articles freely ("from work", "after the weekend"). German doesn't — a
+> dative preposition keeps its article every time.
 
-## 5.2 Accusative prepositions — always accusative
+## 5.2 Prepositions that always take accusative
 
-**FUDGO: für, um, durch, gegen, ohne**
+**für · um · durch · gegen · ohne** — the initials spell **FUDGO**.
 
 - Das Buch ist **für dich**.
 - Wir gehen **durch den** Park.
 - Ich esse Brot **ohne** Milch.
-- Wir spielen **gegen unsere** Eltern. ⚠️ (not unseren — see 3.4)
+- Wir spielen **gegen unsere** Eltern.
 - Ich stehe **um** sieben Uhr auf.
 
-## 5.3 Two-way prepositions ⚠️ NEEDED 4 REFRESHERS — your hardest topic
+## 5.3 Two-way prepositions — the hardest thing here so far
 
-**in, an, auf, über, unter, vor, hinter, neben, zwischen**
+**in · an · auf · über · unter · vor · hinter · neben · zwischen**
 
-**The ONLY thing to memorise — one question:**
+These take *either* case. Which one is decided by a single question:
 
-| Question | Meaning | Case |
+| Ask | Meaning | Case |
 |---|---|---|
-| **wohin?** (where TO?) | movement into/onto | **ACCUSATIVE** |
-| **wo?** (where?) | static location, no movement | **DATIVE** |
+| **wohin?** — where *to*? | movement into/onto | **accusative** |
+| **wo?** — where? | static location | **dative** |
 
-Worked pairs:
-- Ich gehe **ins** Zimmer. (motion → acc) / Ich bin **im** Zimmer. (location → dat)
-- Ich gehe **in den** Garten. (motion) / Der Hund ist **im** Garten. (location)
-- Er legt das Buch **auf den** Tisch. (motion) / Die Katze sitzt **auf dem** Tisch. (location)
+| Movement (accusative) | Location (dative) |
+|---|---|
+| Ich gehe **ins** Zimmer. | Ich bin **im** Zimmer. |
+| Ich gehe **in den** Garten. | Der Hund ist **im** Garten. |
+| Er legt das Buch **auf den** Tisch. | Die Katze sitzt **auf dem** Tisch. |
 
-**Contractions:** in+das → **ins** · in+dem → **im** · an+das → **ans** ·
-an+dem → **am**
+**Contractions:** in + das → **ins** · in + dem → **im** ·
+an + das → **ans** · an + dem → **am**
 
-⚠️ **Your actual friction points** (diagnosed 2026-09-15): the wohin/wo
-*concept* lands fine. What breaks is (a) matching the case to the right
-sentence under time pressure, and (b) der-word gender inside the phrase
-(der Garten → dem/den, not der).
+> **Why this one takes several passes to stick:** the *wohin/wo* question
+> itself is easy and lands almost immediately. What stays slippery is
+> applying it under time pressure — matching the right case to the right
+> sentence while also getting the noun's gender right (*der Garten* → dem
+> or den, never der).
+>
+> If it helps, ignore the list of nine words entirely. They all follow the
+> one question, so the question is the only thing worth memorising.
 
-⚠️ **New confusion (2026-09-15):** using **nach** for motion into a room.
-nach is NEVER used for entering an enclosed space. "Ich gehe **in den**
-Raum," not "nach der Raum."
+**A boundary worth being explicit about:** *nach* is never used for moving
+into an enclosed space. Going into a room is **in den Raum**, not
+"nach dem Raum". nach is for cities, countries, directions — and for
+"after" in time (below).
 
-## 5.4 nach vs zu — destinations *(ANSWERS Q15, Q16)*
+## 5.4 nach versus zu
 
-**nach** — destinations with NO article:
-- Cities/countries: nach Berlin, nach Deutschland, nach München, nach Spanien
+Both can mean "to". They split on whether the destination takes an article.
+
+**nach** — destinations with **no** article:
+- Cities and countries: nach Berlin, nach München, nach Deutschland, nach Indien
 - Directions: nach links, nach oben
-- **ALSO means "after" (time)** — nach dem Wochenende, nach dem Termin.
-  Completely different job, always dative.
+- **And separately, "after" in time:** nach dem Wochenende, nach dem Termin
 
-**zu** — destinations that DO take an article:
+**zu** — destinations that **do** take an article:
 - People: zu meiner Mutter
 - Places: zur Schule, zum Bahnhof, zum Arzt, zur Post
 - Events: zur Arbeit
 
-**Test:** does the destination normally take der/die/das? No → nach. Yes → zu.
+> **The test:** does the destination normally come with der/die/das?
+> No → nach. Yes → zu.
 
-**Contractions:** zu+dem → **zum** · zu+der → **zur**
+**Contractions:** zu + dem → **zum** · zu + der → **zur**
 
-⚠️ **Possessives never contract** *(ANSWERS Q20)*: "zu **meiner** Mutter,"
-never "zur Mutter" (that would mean "to THE mother").
+**But possessives never contract.** *zu meiner Mutter* stays spelled out —
+"zur Mutter" would mean "to *the* mother", a different sentence. Contractions
+only ever happen with the bare article.
 
-**Both prepositions can appear in one sentence doing different jobs:**
-> Wir gehen **nach dem Termin** (after — time) **zum Arzt** (to — destination).
+**Both can appear in one sentence doing different jobs:**
 
-Word order: **time before place** — see Part VI.
+> Wir gehen **nach dem Termin** *(after — time)* **zum Arzt** *(to — destination)*.
 
-**Exception for later:** some countries take an article and use "in" —
-in die Schweiz, in die USA.
+Time before place — see Part VI.
 
-## 5.5 aus vs von — both mean "from"
+*Later complication, not needed yet: a few countries take an article and use
+*in* instead — in die Schweiz, in die USA.*
 
-- **aus** = exiting an enclosed space, or origin/nationality
-  - Ich komme **aus** Indien. · Ich komme **aus dem** Haus.
-- **von** = the general "coming from [a place you were]"
-  - Sie kommt **von der** Arbeit. · Er kommt **von der** Schule.
+## 5.5 aus versus von — two kinds of "from"
 
-⚠️ Still ACTIVE, not yet drilled. "Er kommt aus die Schule" → should be
-**von der** Schule.
+- **aus** — out of an enclosed space, or origin/nationality
+  Ich komme **aus** Indien. · Ich komme **aus dem** Haus.
+- **von** — coming from a place you were at
+  Sie kommt **von der** Arbeit. · Er kommt **von der** Schule.
 
-## 5.6 Fixed idioms that break the rules
+Returning from work or school is *von*. Physically exiting a building is
+*aus*. The overlap is genuinely subtle and native speakers lean on feel.
 
-- **zu Hause** = "at home" — a fixed phrase, NOT zur Haus / im Haus / die Haus
-- **an der Ecke** = "on the corner" (location) — an, not in
-- **zur Ecke** = "to the corner" (destination)
+## 5.6 Fixed phrases that ignore the rules
+
+Some phrases are set expressions and don't decompose:
+
+- **zu Hause** — "at home". Not *zur Haus*, not *im Haus*.
+- **an der Ecke** — "on the corner" (location). *an*, not *in*.
+- **zur Ecke** — "to the corner" (destination).
 
 ---
 
 # PART VI — WORD ORDER
 
-## 6.1 Verb-second (V2) — the backbone rule
+## 6.1 Verb-second — the backbone
 
-**The conjugated verb is always in the SECOND POSITION** — second *slot*,
-not second *word*. Position 1 can hold a whole phrase.
+**The conjugated verb occupies the second position** — second *slot*, not
+second *word*. Position one can hold an entire phrase.
 
-| Position 1 | Position 2 (VERB) | Rest |
+| Position 1 | Position 2 — VERB | Rest |
 |---|---|---|
 | Ich | esse | heute einen Apfel |
 | **Heute** | **esse** | **ich** einen Apfel |
 | Am Wochenende | gehe | ich ins Kino |
 | Weil ich müde bin, | bleibe | ich zu Hause |
 
-When something else takes position 1, **the subject moves after the verb**.
+When something other than the subject takes position one, **the subject
+moves behind the verb**. The verb never moves.
 
-💡 **Your own insight (2026-09-17), and it's correct:** fronting changes
-emphasis. "Mein Vater arbeitet heute" foregrounds the father; "Heute
-arbeitet mein Vater" foregrounds the day.
+> **Fronting changes emphasis, not just order.** *Mein Vater arbeitet heute*
+> foregrounds the father; *Heute arbeitet mein Vater* foregrounds the day.
+> Both are correct — they answer different questions.
 
-## 6.2 Yes/no questions — verb FIRST
+## 6.2 Yes/no questions — verb first
 
-Verb and subject swap places:
-- Du bist müde. → **Bist du** müde?
-- Sie wohnt in Berlin. → **Wohnt sie** in Berlin?
-- Er kann schwimmen. → **Kann er** schwimmen?
-- Du hast Zeit. → **Hast du** Zeit? ⚠️ (not "Habt du")
+Verb and subject swap:
+
+| Statement | Question |
+|---|---|
+| Du bist müde. | **Bist du** müde? |
+| Sie wohnt in Berlin. | **Wohnt sie** in Berlin? |
+| Er kann schwimmen. | **Kann er** schwimmen? |
+| Du hast Zeit. | **Hast du** Zeit? |
 
 ## 6.3 W-questions — question word first, verb second
 
-Wer, was, wo, wann, warum, wie, wohin.
+**wer · was · wo · wohin · wann · warum · wie**
+
 > **Wo ist** der Mann? · **Was hast** du? · **Wie geht's** dir?
 
-## 6.4 Subordinate clauses — weil sends the verb to the END ⚠️ REGRESSED
+## 6.4 weil sends the verb to the end — and the main clause still needs V2
 
-**weil** (because) pushes its own clause's verb to the very end:
-- Weil ich müde **bin**, ...
-- Weil es **regnet**, ...
+Two rules apply at once here, which is what makes this construction
+genuinely tricky.
 
-**AND the main clause still needs verb-second** — because the entire
-weil-clause occupies position 1:
+**First:** *weil* pushes its own clause's verb to the very end.
+
+> Weil ich müde **bin**, … · Weil es **regnet**, …
+
+**Second:** the main clause that follows still needs verb-second — because
+the entire weil-clause counts as position one:
 
 > **Weil es regnet, bleibe ich zu Hause.**
-> ↑ position 1 (whole clause) ↑ position 2 (verb) ↑ subject third
+>
+> position 1 = the whole clause · position 2 = *bleibe* · subject third
 
-❌ "Weil bin ich müde, ich bleibe..." — both halves wrong.
+Getting one half right and the other wrong is the usual outcome. Both have
+to hold simultaneously.
 
-**denn** (because) is different — it's a coordinating conjunction like
-und/aber/oder, so it does NOT send the verb to the end:
-> Ich bleibe zu Hause, **denn ich bin** müde. (normal order both halves)
+**denn also means "because" but behaves completely differently.** It is a
+coordinating conjunction, like *und/aber/oder*, so word order stays normal
+in both halves:
 
-⚠️ **Status:** the two halves of this rule have failed in *alternation* —
-09-11 the main clause broke, 09-15 the weil-clause broke. Both halves need
-to hold at once.
+> Ich bleibe zu Hause, **denn ich bin** müde.
 
-## 6.5 Time — Manner — Place *(ANSWERS Q21)*
+## 6.5 Time — Manner — Place
 
-After the verb, elements order as **Time → Manner → Place**:
-> Ich gehe **heute** (time) **mit meiner Mutter** (manner) **nach Berlin** (place).
+After the verb, elements line up **time → manner → place**:
 
-Time words sit right after the conjugated verb:
-> Ich muss **heute** schlafen.
+> Ich gehe **heute** *(time)* **mit meiner Mutter** *(manner)* **nach Berlin** *(place)*.
 
-**This is the opposite of English**, which tends to put place before time.
-This is why "Wir gehen **nach dem Termin zum Arzt**" has the time phrase
-first.
+Time words sit right after the conjugated verb: *Ich muss **heute** schlafen.*
+
+> **This is the reverse of English**, which tends to put place before time
+> ("I'm going to Berlin today"). It is why *Wir gehen nach dem Termin zum
+> Arzt* puts the appointment before the doctor.
 
 ## 6.6 Separable verbs
 
-In a normal present-tense sentence, the **prefix splits off and goes to the
-very end**:
-- aufstehen → Ich **stehe** um sieben Uhr **auf**.
-- anrufen → Ich **rufe** dich **an**.
-- fernsehen → Ich **sehe** gern **fern**.
+In an ordinary present-tense sentence, the **prefix detaches and goes to
+the very end**:
 
-**With a modal verb, it does NOT split** — it goes to the end whole, as an
-infinitive:
-- Ich muss um sieben Uhr **aufstehen**.
+| Verb | In a sentence |
+|---|---|
+| aufstehen | Ich **stehe** um sieben Uhr **auf**. |
+| anrufen | Ich **rufe** dich **an**. |
+| fernsehen | Ich **sehe** gern **fern**. |
 
-**With nicht:** nicht goes right before the prefix.
-- Ich stehe um sieben Uhr **nicht auf**.
+**With a modal verb it does not split** — the whole infinitive goes to the
+end intact:
+
+> Ich muss um sieben Uhr **aufstehen**.
+
+**With nicht**, the negation sits immediately before the prefix:
+
+> Ich stehe um sieben Uhr **nicht auf**.
 
 ---
 
-# PART VII — VERBS BEYOND THE PRESENT
+# PART VII — BEYOND THE PRESENT TENSE
 
 ## 7.1 Modal verbs
 
@@ -519,70 +603,79 @@ infinitive:
 | ihr | könnt | müsst | möchtet |
 | sie/Sie | können | müssen | möchten |
 
-**Structure:** the modal conjugates and sits in **position 2**; the second
-verb goes to the **very end in plain infinitive form**.
+**Structure:** the modal conjugates and takes position two; the second verb
+goes to the very end **in plain infinitive form**.
+
 > Ich **muss** heute **schlafen**. · **Kann** er **schwimmen**?
 
-Modals never have their own object — see ANSWERS Q7 / section 2.3.
+Note that ich and er/sie/es are identical in all three — unusual, and worth
+noticing because it removes a conjugation decision rather than adding one.
 
-## 7.2 The imperative (commands)
+## 7.2 The imperative
 
-| Form | How | Example |
+| Addressing | How it's formed | Example |
 |---|---|---|
-| **du** | drop the -st ending | du gibst → **Gib** mir das Buch! |
-| **ihr** | plain ihr-form, no pronoun | ihr esst → **Esst** das Brot! |
-| **Sie** | infinitive + **Sie** stated, verb first | **Kommen Sie** herein! |
+| **du** | drop the -st | du gibst → **Gib** mir das Buch! |
+| **ihr** | plain ihr-form, drop the pronoun | ihr esst → **Esst** das Brot! |
+| **Sie** | infinitive + **Sie**, verb first | **Kommen Sie** herein! |
 
-- Stem-change e→i/ie **is kept**: geben → **Gib!** · sehen → **Sieh!**
-- Umlaut stem-changes are **dropped**: fahren → **Fahr!** (not Fähr!)
+Two details about stem changes:
 
-⚠️ Sie-form must keep the pronoun — "Kommen herein" ❌ → "Kommen **Sie**
-herein!" ✅
+- **e → i/ie changes are kept**: geben → **Gib!** · sehen → **Sieh!**
+- **umlaut changes are dropped**: fahren → **Fahr!** *(not Fähr)*
 
-**Object cases don't change in the imperative:** "Gib **mir** das Buch" —
-mir is dative (receiver), das Buch accusative. Same as any other sentence.
+> **The Sie-form keeps its pronoun.** "Kommen herein" is incomplete —
+> German doesn't drop *Sie* the way English drops "you" in commands.
 
-## 7.3 Perfekt — the conversational past ⚠️ NEWEST TOPIC
+Object cases work exactly as they always do: *Gib **mir** das Buch* —
+*mir* dative (receiver), *das Buch* accusative (thing given). The imperative
+changes the verb form and nothing else.
 
-**Structure:** helper verb (**haben** or **sein**, conjugated, position 2)
+## 7.3 Perfekt — the past tense of conversation
+
+**Structure:** helper verb (**haben** or **sein**, conjugated, position two)
 + **past participle at the very end**.
 
 > Ich **habe** gestern Fußball **gespielt**.
 > Ich **bin** ins Kino **gegangen**.
 
-### Which helper? *(ANSWERS Q22)*
+The shape should feel familiar — it is the same "conjugated verb second,
+other verb thrown to the end" pattern as modal verbs and separable verbs.
 
-**sein** for:
-- **Motion between two places**: gehen, kommen, fahren, fliegen, laufen
-- **Change of state**: aufstehen, einschlafen, sterben, werden
-- **Two memorised exceptions**: sein (ich bin gewesen), bleiben (ich bin geblieben)
+### Choosing haben or sein
 
-**haben** for everything else — including "static" verbs that feel physical:
-stehen, sitzen, schlafen, spielen, arbeiten.
+**sein** is used for:
+- **movement from one place to another** — gehen, kommen, fahren, fliegen, laufen
+- **change of state** — aufstehen, einschlafen, sterben, werden
+- **two exceptions to memorise** — *sein* itself (ich bin gewesen) and
+  *bleiben* (ich bin geblieben)
 
-**Test:** moving from place A to place B, or genuinely changing state? →
-sein. Otherwise → haben.
+**haben** covers everything else — which is the large majority.
 
-⚠️ **Counter-intuitive:** *stehen* is haben (you're not going anywhere).
-*spielen* is haben. *bleiben* is sein despite not being motion.
+> **The test:** does the verb describe moving between two places, or a
+> genuine change of state? → sein. Otherwise → haben.
+>
+> **Where intuition misleads:** *stehen* feels physical, but standing still
+> isn't going anywhere → **haben**. *spielen* is energetic but involves no
+> destination → **haben**. Meanwhile *bleiben* means staying put and takes
+> **sein** anyway, purely as an exception.
 
-### Participle formation
+### Building the participle
 
-- **Regular (weak):** ge + stem + **t** → machen → ge**mach**t, spielen →
-  ge**spiel**t, kaufen → ge**kauf**t
-- **Irregular (strong):** ge + (often changed) stem + **en** — must be
-  memorised per verb, like English go→went.
-- **Separable verbs:** ge- goes **BETWEEN prefix and stem** →
-  einschlafen → **ein·ge·schlafen** (NOT "geeinschlafen"),
-  aufstehen → **auf·ge·standen**
+- **Regular (weak):** ge + stem + **t**
+  machen → ge**mach**t · spielen → ge**spiel**t · kaufen → ge**kauf**t
+- **Irregular (strong):** ge + (often altered) stem + **en** — no rule,
+  memorised per verb, exactly like English *go → went*.
+- **Separable verbs:** the *ge-* goes **between prefix and stem**
+  einschlafen → **ein·ge·schlafen** · aufstehen → **auf·ge·standen**
 
-### Irregular participles covered so far
+### The irregular participles covered so far
 
 | Verb | Participle | Helper |
 |---|---|---|
-| gehen | ge**gang**en (e→a) | sein |
+| gehen | ge**gang**en *(e→a)* | sein |
 | kommen | gekommen | sein |
-| fahren | ge**fahr**en (no umlaut!) | sein |
+| fahren | ge**fahr**en *(no umlaut)* | sein |
 | fliegen | ge**flog**en | sein |
 | bleiben | ge**blieb**en | sein |
 | einschlafen | ein**ge**schlafen | sein |
@@ -592,14 +685,15 @@ sein. Otherwise → haben.
 | trinken | ge**trunk**en | haben |
 | stehen | ge**stand**en | haben |
 
-⚠️ **Your errors:** "gefähren" (invented umlaut → ge**fahr**en),
-"gebleibt" (regularised an irregular verb → ge**blieb**en),
-"gegeinschlafen" (ge- at the front → **ein**geschlafen).
+> **Three specific traps in that table:** *fahren* has an umlaut in the
+> present tense (*er fährt*) but **none** in the participle — ge**fahr**en.
+> *bleiben* looks like it should take the regular -t and doesn't. And
+> separable verbs hide the *ge-* in the middle, where it is easy to miss.
 
-### ⚠️ THE MISCONCEPTION TO KILL *(ANSWERS Q23)*
+### Two systems that are often confused, and shouldn't be
 
-**sein-vs-haben and regular-vs-irregular are COMPLETELY INDEPENDENT.**
-There is no correlation:
+**Choosing haben/sein and spelling the participle are completely
+independent questions.** There is no correlation whatsoever:
 
 | Verb | Regular? | Helper |
 |---|---|---|
@@ -609,13 +703,14 @@ There is no correlation:
 | kaufen | regular | **haben** |
 | kommen | irregular | sein |
 
-You proposed "irregular verbs need sein" — this is false. Helper choice is
-about **meaning** (motion/state-change). Participle spelling is about
-**memorisation**. Two separate systems.
+"Irregular verbs take sein" is a tempting shortcut and simply false. The
+helper depends on **meaning** (motion or state-change). The participle
+spelling depends on **memorisation**. Neither predicts the other.
 
-## 7.4 Stem-changing verbs (present tense)
+## 7.4 Stem-changing verbs in the present
 
-Some verbs change their stem vowel in **du** and **er/sie/es** forms only:
+Some verbs shift their stem vowel in the **du** and **er/sie/es** forms —
+and nowhere else:
 
 | Verb | du | er/sie/es |
 |---|---|---|
@@ -623,48 +718,50 @@ Some verbs change their stem vowel in **du** and **er/sie/es** forms only:
 | sehen | siehst | **sieht** |
 | lesen | liest | **liest** |
 | geben | gibst | **gibt** |
+| helfen | hilfst | **hilft** |
 | schlafen | schläfst | **schläft** |
 | tragen | trägst | **trägt** |
 | fahren | fährst | **fährt** |
-| helfen | hilfst | **hilft** |
 
-⚠️ **ich never changes:** ich esse, ich sehe, ich **helfe** (not "hilfe"),
-ich gebe.
+> **The ich form never changes.** ich esse, ich sehe, ich **helfe**, ich
+> gebe. Reaching for "ich hilfe" is over-applying a change that belongs
+> only to du and er.
 
-## 7.5 leben vs wohnen *(ANSWERS Q17)*
+## 7.5 leben versus wohnen
 
-- **wohnen** = to reside, have an address → Ich **wohne** in Würzburg.
-- **leben** = to be alive / lifestyle / to live WITH people → Er **lebt**
-  mit seiner Mutter.
+- **wohnen** — to reside, to have an address: Ich **wohne** in Würzburg.
+- **leben** — to be alive, a way of life, or living *with* people:
+  Er **lebt** mit seiner Mutter.
 
-Address question → wohnen. Living *with* someone, or life in general →
-leben.
+An address question takes *wohnen*. Living *with* someone, or life in
+general, takes *leben*.
 
-## 7.6 mögen vs gern
+## 7.6 mögen versus gern
 
-- **mögen** pairs with a **NOUN**: Ich **mag** Musik.
-- **gern** pairs with a **VERB**: Ich lese **gern**. / Ich sehe **gern** fern.
+- **mögen** pairs with a **noun** — Ich **mag** Musik.
+- **gern** pairs with a **verb** — Ich lese **gern**. · Ich sehe **gern** fern.
 
-⚠️ Recorded 2×: "Ich mag kochen" → should be "Ich koche **gern**."
+> "Ich mag kochen" is the natural English-shaped guess and the wrong one.
+> To like *doing* something, use **gern** + the verb: *Ich koche gern.*
 
-## 7.7 geben — the dative/accusative double-object verb
+## 7.7 geben — the double-object verb
 
-> **Ich gebe dem Mann ein Buch.** — dem Mann (dative receiver) + ein Buch
-> (accusative thing)
+> **Ich gebe dem Mann ein Buch.**
+> *dem Mann* dative (receiver) · *ein Buch* accusative (thing)
 
-Order: **dative before accusative** when both are nouns.
+When both objects are nouns, **dative comes first**.
 
-⚠️ **zu is redundant with geben** — the dative already means "to":
-❌ "Er gibt das Buch **zu** seiner Mutter" → ✅ "Er gibt **seiner Mutter**
-das Buch."
-
-⚠️ **geben/gehen swap** — recorded in both directions, 2 instances.
+> **Don't add *zu*.** The dative already carries "to": *Er gibt **seiner
+> Mutter** das Buch*, not "gibt das Buch zu seiner Mutter."
+>
+> Also worth keeping apart by sound: **geben** (to give) and **gehen**
+> (to go) are easy to swap when writing quickly.
 
 ---
 
 # PART VIII — VOCABULARY
 
-## 8.1 Greetings & phrases
+## 8.1 Greetings and everyday phrases
 
 | German | English |
 |---|---|
@@ -673,270 +770,290 @@ das Buch."
 | Gute Nacht | good night |
 | Tschüss | bye (informal) |
 | Auf Wiedersehen | goodbye (formal) |
-| Bis später / bis bald | see you later / soon |
+| Bis später · bis bald | see you later · see you soon |
 | Wie geht's? | how's it going? |
 | Mir geht's gut | I'm doing well |
-| Entschuldigung | excuse me / sorry |
+| Entschuldigung | excuse me · sorry |
 | bitte | please |
 | danke | thank you |
 | kein Problem | no problem |
-| noch mal | again / one more time |
+| noch mal | again · one more time |
 | Gute Reise | have a good trip |
 | Mach's gut | take care |
 
-⚠️ It is **Guten** Morgen (accusative-style set phrase), never "Guter Morgen."
+*It is **Guten** Morgen — a fixed accusative-shaped phrase, never "Guter".*
 
-## 8.2 People & family
+## 8.2 People and family
 
-der Mann (Männer) · die Frau (Frauen) · das Kind (Kinder) · die Familie ·
-die Mutter (Mütter) · der Vater (Väter) · die Eltern (pl. only) ·
-der Bruder (Brüder) · die Schwester (Schwestern) · der Freund (Freunde)
+der Mann *(Männer)* · die Frau *(Frauen)* · das Kind *(Kinder)* ·
+die Familie · die Mutter *(Mütter)* · der Vater *(Väter)* ·
+die Eltern *(plural only)* · der Bruder *(Brüder)* ·
+die Schwester *(Schwestern)* · der Freund *(Freunde)*
 
-## 8.3 Food & drink
+## 8.3 Food and drink
 
 das Brot · das Hähnchen · der Reis · die Suppe · der Käse · die Milch ·
-der Apfel (Äpfel) · das Wasser · **essen** (isst) · **trinken**
+der Apfel *(Äpfel)* · das Wasser · **essen** *(isst)* · **trinken**
 
-⚠️ "Äpfel" is the PLURAL. Singular is **Apfel** — don't invent umlauts.
+*Äpfel is the plural — the singular is plain **Apfel**, with no umlaut.*
 
-## 8.4 House & rooms
+## 8.4 House and rooms
 
-das Haus (Häuser) · das Zimmer (unchanged pl.) · der Raum (Räume) ·
-die Küche · das Schlafzimmer · das Bad · der Tisch (Tische) ·
-der Stuhl (Stühle) · das Fenster (unchanged pl.)
+das Haus *(Häuser)* · das Zimmer *(unchanged in plural)* ·
+der Raum *(Räume)* · die Küche · das Schlafzimmer · das Bad ·
+der Tisch *(Tische)* · der Stuhl *(Stühle)* · das Fenster *(unchanged)*
 
-⚠️ **Tisch = table, Stuhl = chair** — swapped once.
-⚠️ Singular is **Stuhl**, not "Stühl."
+*der **Tisch** is the table, der **Stuhl** is the chair.*
 
-**Compound nouns take the gender of the LAST part:** schlafen + das Zimmer
-= **das** Schlafzimmer.
+**Compound nouns take the gender of their last part:** schlafen + das
+Zimmer = **das** Schlafzimmer.
 
-## 8.5 Transport, directions & places in town
+## 8.5 Getting around town
 
-der Bus (Busse) · die Bahn / der Zug · die Straße (Straßen) ·
-die Ampel (Ampeln) · die Ecke (Ecken) · **rechts** · **links** ·
-**geradeaus** · die Bank (Banken) · der Park · das Rathaus · die Post ·
+der Bus *(Busse)* · die Bahn · der Zug · die Straße *(Straßen)* ·
+die Ampel *(Ampeln)* · die Ecke *(Ecken)* · **rechts** · **links** ·
+**geradeaus** · die Bank *(Banken)* · der Park · das Rathaus · die Post ·
 das Kino · das Geschäft · der Bahnhof · die Schule
 
-Phrases: **an der Ecke** (on the corner) · **zur Post** · **zum Bahnhof** ·
+Useful phrases: **an der Ecke** · **zur Post** · **zum Bahnhof** ·
 **ins Zentrum**
 
-## 8.6 Time & daily routine
+## 8.6 Time and daily routine
 
-die Zeit · die Uhr · **heute** (today) · **morgen** (tomorrow) ·
-**der Morgen** (the morning — capital M!) · das Wochenende · der Termin ·
-**aufstehen** (sep.) · **arbeiten** · **schlafen** (schläft) ·
-**wohnen** · **leben** · **um** (at, for times)
+die Zeit · die Uhr · **heute** · **morgen** *(tomorrow)* ·
+**der Morgen** *(the morning)* · das Wochenende · der Termin ·
+**aufstehen** *(separable)* · **arbeiten** · **schlafen** *(schläft)* ·
+**wohnen** · **leben** · **um** *(at, for clock times)*
 
-⚠️ morgen (tomorrow) vs **der Morgen** (the morning) — identical except
-capitalization.
+*Note **morgen** (tomorrow) versus **der Morgen** (the morning) — identical
+but for the capital.*
 
 ## 8.7 Weather
 
 das Wetter · die Sonne · der Regen · **kalt** · **warm** ·
-**regnen** (impersonal: *es regnet*)
+**regnen** *(impersonal — es regnet)*
 
-## 8.8 Hobbies & activities
+## 8.8 Hobbies
 
-das Hobby (Hobbys) · **lesen** (liest) · **spielen** · **schwimmen** ·
-die Musik · **gern** · **fernsehen** (sehe fern) · **mögen** (mag) ·
-das Fernsehen (the noun)
+das Hobby *(Hobbys)* · **lesen** *(liest)* · **spielen** · **schwimmen** ·
+die Musik · **gern** · **fernsehen** *(sehe fern)* · **mögen** *(mag)* ·
+das Fernsehen *(the noun)*
 
-## 8.9 Clothing & colours
+## 8.9 Clothing and colours
 
-das T-Shirt · die Hose · das Kleid · die Jacke · der Schuh (Schuhe) ·
-**tragen** (trägt) · **blau** · **rot** · **grün** · **schwarz**
+das T-Shirt · die Hose · das Kleid · die Jacke · der Schuh *(Schuhe)* ·
+**tragen** *(trägt)* · **blau** · **rot** · **grün** · **schwarz**
 
-## 8.10 Shopping & money
+## 8.10 Shopping and money
 
 das Geld · der Preis · **kaufen** · **kosten** · **teuer** · **billig** ·
-die Tasche (Taschen)
+die Tasche *(Taschen)*
 
-## 8.11 Adjectives & adverbs
+## 8.11 Adjectives and adverbs
 
-müde · glücklich · hungrig · gut · schön · lang · neu ·
-**immer** (always) · **oft** (often) · **manchmal** (sometimes) ·
-**selten** (rarely) · **nie** (never)
+müde · glücklich · hungrig · gut · schön · lang · neu
+
+Frequency: **immer** *(always)* · **oft** *(often)* ·
+**manchmal** *(sometimes)* · **selten** *(rarely)* · **nie** *(never)*
 
 ## 8.12 Question words
 
-wer (who) · was (what) · wo (where) · wohin (where to) · wann (when) ·
-warum (why) · wie (how)
+wer *(who)* · was *(what)* · wo *(where)* · wohin *(where to)* ·
+wann *(when)* · warum *(why)* · wie *(how)*
 
 ## 8.13 Conjunctions
 
-**und** · **aber** · **oder** · **denn** (all keep normal word order) ·
-**weil** (sends verb to the end)
+**und · aber · oder · denn** — all keep normal word order
+**weil** — sends the verb to the end of its clause
 
-## 8.14 Numbers
+## 8.14 Numbers 1–20
 
 eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn,
 elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn,
 achtzehn, neunzehn, zwanzig
 
-⚠️ With a number, **the article is dropped**: "zwei Hunde," never
-"zweinen Hunde."
+*With a number, the article disappears: **zwei Hunde**, never "zweinen Hunde".*
 
 ---
 
-# PART IX — YOUR ERROR CATALOGUE
+# PART IX — THE TRAPS
 
-*The highest-value section. These are your actual recorded mistakes,
-grouped by pattern. Everything here has happened at least once.*
+Every item here is a mistake that is easy to make, hard to notice, and
+worth pre-empting. Grouped by why they happen.
 
-## 9.1 🔴 RECURRING — the ones that keep coming back
+## 9.1 Traps created by English
 
-| Pattern | Times | The fix |
-|---|---|---|
-| **3rd-person conjugated as du-form** (er hast, er siehst, er arbeitest, er trägst, er magst) | **7+** | Load-dependent. Correct in isolation, breaks under pressure. Embed 3rd-person subjects in mixed practice — do NOT drill in isolation |
-| **es/sie dative swap** (sie→ihm instead of ihr) | **3** | es→ihm, sie→**ihr**. er and es share ihm |
-| **den used for das-words** (den Buch) | 3 | Load-dependent only; 8/8 in writing. Not a knowledge gap |
-| **mein/meine gender slip** (mein Mutter) | 3 | Only in free production. die Mutter → **meine** |
-| **Invented umlaut on singulars** (Bröt, Äpfel, Stühl) | 3 | Singular is the plain form. Umlaut is the plural's job |
-| **Separable prefix capitalized** (Fern, Schwimmen) | 3 | Lowercase unless nominalized |
-| **unseren used for accusative plural** | 2 | -en is **dative** plural only |
-| **Dative preposition loses its article** (von Arbeit, nach Wochenende) | 4+ | Dative prepositions ALWAYS keep the article |
-| **geben/gehen swap** | 2 | Both directions recorded |
-| **mögen used with a verb** (Ich mag kochen) | 2 | mögen+noun, gern+verb |
-| **Accusative after sein** (Ist das deinen Hund?) | 2 | sein never takes accusative |
+English habits that produce fluent-sounding, wrong German:
 
-## 9.2 🟡 CLUSTER REGRESSIONS — were solid, then broke
+| The instinct | What German needs |
+|---|---|
+| "I help her" → object | helfen takes **dative** — *Ich helfe ihr* |
+| "it" for things, "him" for people | Gender decides: *der Apfel → **ihn***, *das Kind → **es*** |
+| "I like cooking" | **gern** + verb, not mögen — *Ich koche gern* |
+| "from work" — drop the article | Dative prepositions keep it — *von **der** Arbeit* |
+| "to Berlin" / "to the doctor" — one word | **nach** Berlin *(no article)* vs **zum** Arzt *(has one)* |
+| "I'm going to Berlin today" — place, then time | German is **time, then place** |
+| "Is that your dog?" — feels like an object | *sein* never takes accusative — *dein Hund* |
 
-**Dative-only verbs** — 3/3 on 09-10 → **1/3 on 09-17**
-- ❌ Ich danke **ihn** → **ihm**
-- ❌ Das Buch gehört **mich** → **mir**
-- ❌ Ich **hilfe** → **helfe** (ich never takes the stem change)
+Also worth guarding against: writing *Munich* rather than *München*, and
+reaching for an English word mid-sentence when the German one won't come.
 
-**weil word order** — the two halves fail in alternation
-- 09-11: main clause lost verb-second
-- 09-15: weil-clause lost verb-last
+> **When a word won't come, write `???` rather than the English.** What you
+> couldn't retrieve is the most useful information in the whole exercise —
+> substituting English hides it.
 
-**Two-way prepositions** — needed 4 separate refreshers (09-07, 09-08,
-09-10, 09-15). Concept lands; execution under pressure breaks.
+## 9.2 Traps created by over-applying a real rule
 
-## 9.3 🟢 RESOLVED — confirmed fixed
+These are the hardest to unlearn, because the rule is genuinely correct
+somewhere else:
 
-- **geben conjugation (gibt)** — resolved 09-07 across a genuine overnight gap
-- **verb-second general rule** — resolved 09-03
-- **nicht before pronoun objects** — "Er sieht uns nicht" ✅
-- **es/sie dative** — resolved 09-10 (but recurred 09-17)
-- **helfen + dative** — resolved 09-10 (but cluster recurred 09-17)
-- **Sie-form imperative** — resolved 09-15
-- **an der Ecke** — resolved 09-16
-- **nach after-vs-to** — resolved 09-15
-- **nach vs two-way in** — resolved 09-15
-- **ins/im location vs motion** — resolved 09-07
+| Over-application | The boundary |
+|---|---|
+| **-en marks plural** | It marks **dative** plural. *gegen unsere Eltern* takes no -en |
+| **Umlauts in plurals → umlauts everywhere** | Singular stays plain: *Apfel*, *Stuhl*, *Brot*. And ge**fahr**en has none despite *er fährt* |
+| **Stem changes apply throughout** | Only du and er/sie/es. *ich helfe*, never "ich hilfe" |
+| **Accusative for objects** | Not after *sein*, and not for dative-only verbs |
+| **es and er share ihm, so sie must too** | **sie → ihr.** This is the single most slippery cell in the pronoun table |
+| **Nouns are capitalized** | But not infinitives or separable prefixes: *sehe fern*, *kann schwimmen* |
+| **ge- goes at the front of a participle** | Separable verbs put it in the middle: *ein**ge**schlafen* |
 
-## 9.4 Misconceptions you invented and had corrected
+## 9.3 Plausible rules that are simply false
 
-These are worth naming because inventing a plausible-but-false rule is
-harder to unlearn than simply not knowing:
+Four shortcuts that feel like they should work and don't:
 
-1. ❌ *"nach is used when the noun is in infinitive form"* — nouns don't
-   have infinitives. Real rule: no-article → nach, has-article → zu.
-2. ❌ *"Accusative is for action verbs, dative for non-action verbs"* —
-   case is decided by the noun's ROLE, not the verb's type.
-3. ❌ *"Plural always takes -en"* — that's **dative** plural specifically.
-4. ❌ *"Irregular verbs use sein in Perfekt"* — completely independent
-   systems.
+1. **"Accusative is for action verbs, dative for non-action verbs."**
+   Case comes from the noun's *role*, not the verb's character.
+2. **"Plural always takes -en."** Dative plural does. Accusative plural
+   doesn't.
+3. **"Irregular verbs use sein in the Perfekt."** Entirely unrelated
+   systems — *arbeiten* is regular and takes haben; *bleiben* is irregular
+   and takes sein.
+4. **"nach is for nouns in infinitive form."** Nouns don't have
+   infinitives. The real split is article versus no article.
 
-## 9.5 Anglicisms & English interference
+## 9.4 Small forms that are easy to lose
 
-- "Chicken", "Rice" written in English → das Hähnchen, der Reis
-- "ich stay die Haus" → ich **bleibe zu Hause**
-- "sehe TV" → **fernsehen**
-- "Er **is** nicht" → **ist**
-- Writing **Munich** instead of **München**
+Things that vanish under concentration:
 
-💡 **When you can't retrieve a word, write `???` — not the English word.**
-What you couldn't retrieve is the most valuable data in the exercise.
+- **The article after a dative preposition** — *von **der** Arbeit*
+- **The pronoun in a Sie-imperative** — *Kommen **Sie** herein*
+- **The -e on a feminine possessive** — *Ihr**e** Katze*
+- **The umlaut in möchte** — *Möchtest du…*
+- **ist, not "is"** — English spelling leaking into German
+- **du forms** — *hast*, not *habt*; *bist*, not *seid*
+
+## 9.5 Words that sit too close together
+
+| Pair | Difference |
+|---|---|
+| geben / gehen | to give / to go |
+| Tisch / Stuhl | table / chair |
+| morgen / der Morgen | tomorrow / the morning |
+| leben / wohnen | to be alive, live with / to reside at an address |
+| aus / von | out of an enclosed space / back from a place you were |
+| an der Ecke / zur Ecke | at the corner / to the corner |
+| uns / unser- | us *(pronoun)* / our *(possessive)* |
+| ihr / ihre / Ihr | you all / her / your (formal) |
+
+## 9.6 Where errors actually come from
+
+Worth knowing, because it changes how to practise: most mistakes here are
+**not** knowledge gaps. The same forms that come out correctly in a focused
+drill break under load — while producing free sentences, while juggling a
+new structure, while speaking in real time.
+
+Two consequences:
+
+- **Isolated drilling can be misleading.** Something that passes every
+  isolated test can still fail in free production. Mixed practice, where
+  attention is divided, is the more honest test.
+- **A fast flawed answer teaches more than a slow careful one.** Errors that
+  only appear at speed are exactly the errors that appear in conversation.
 
 ---
 
-# PART X — TIPS, TRICKS & METHOD
+# PART X — HOW TO STUDY THIS
 
 ## 10.1 Memory hooks
 
 | Hook | Covers |
 |---|---|
-| **FUDGO** | für, um, durch, gegen, ohne (accusative preps) |
-| ***aus, außer, bei, mit, nach, seit, von, zu*** | dative preps (rhyme it) |
-| **wohin? / wo?** | two-way prepositions — the ONLY thing to memorise |
-| **der → den → dem** mirrors **er → ihn → ihm** | if one is solid, the other follows |
-| Say the noun **with its article** before choosing a pronoun | der Apfel → der → ihn |
+| **FUDGO** | für, um, durch, gegen, ohne — the accusative prepositions |
+| *aus, außer, bei, mit, nach, seit, von, zu* | the dative prepositions — say it as a rhythm |
+| **wohin? / wo?** | two-way prepositions — the only thing worth memorising |
+| **der → den → dem** *mirrors* **er → ihn → ihm** | articles and pronouns are one pattern |
+| Say the noun *with* its article | der Apfel → der → **ihn** |
+| **es → ihm, sie → ihr** | the pronoun cell most likely to go wrong |
 
-## 10.2 The learning rules this repo runs on
+## 10.2 Principles worth following
 
-- **Nothing is FUNCTIONAL until it survives a real overnight gap.** A clean
-  first attempt is not retention — this has been proven wrong twice.
-- **Max 2 new grammar concepts per week.** Extra hours buy depth, not scope.
-- **Every new word must appear in a sentence you produced the same day.**
-- **Retrieval beats review.** Producing from memory beats re-reading, always.
-- **Errors under load are the real data.** A fast flawed answer reveals more
-  than a slow careful one.
+- **Nothing counts as learned until it survives a night.** A clean first
+  attempt measures comprehension, not retention.
+- **Two new grammar concepts a week.** Extra study time should buy depth,
+  not more topics.
+- **Every new word gets used in a sentence the same day.** Recognition and
+  production are different skills.
+- **Retrieval beats review.** Producing from memory beats re-reading, every time.
+- **Learn nouns with their articles, always.** Without the article you can't
+  form the pronoun, the accusative, or the dative.
 
-## 10.3 Writing vs voice — they measure different things
+## 10.3 Writing and speaking test different things
 
-| | Writing tests | Voice tests |
+| | Writing shows | Speaking shows |
 |---|---|---|
-| Conjugation endings | ✅ | ❌ STT silently repairs them |
-| Article endings | ✅ | ❌ |
-| Spelling, umlauts | ✅ | ❌ |
-| Word order | ✅ | ✅ |
-| **Retrieval speed** | ❌ unlimited time | ✅ |
-| **Automaticity** | ❌ | ✅ |
+| Conjugation and case endings | yes | no |
+| Spelling and umlauts | yes | no |
+| Word order | yes | yes |
+| Retrieval speed | no | yes |
+| Automaticity | no | yes |
 
-**Rule: learn in writing, prove in voice.** Never infer grammar knowledge
-from a voice transcript — on day one it both hid a real error and invented
-a competence that wasn't there.
+**Learn in writing, prove in speech.** Writing is where endings can actually
+be checked; speaking is where you find out what has become automatic. A
+form can be solid in one and shaky in the other — that isn't a
+contradiction, it's the two skills separating.
 
-## 10.4 Your demonstrated strengths
+## 10.4 What to work on next
 
-Worth knowing, because they shape how to study:
-
-1. **Self-correction is your strongest skill.** Across the 09-10/11 concepts
-   test and the 09-15 review, you resolved most gaps yourself once pointed
-   at the right reference — that's debugging your own understanding, not
-   memorising.
-2. **You generalise patterns correctly to untaught material** — produced
-   "Setzen Sie sich," "Öffnen Sie das Fenster," and "Das Buch gehört mir"
-   using verbs never formally taught.
-3. **You notice real linguistic nuance unprompted** — the Heute-fronting
-   emphasis observation (09-17) is a genuine insight, not a taught rule.
-4. **You question things that don't add up** — asking why "gegehen" isn't
-   the participle, catching untaught vocabulary in test prompts.
-
-## 10.5 What to prioritise right now
-
-1. 🔴 **Dative-only verbs** (helfen/danken/gehören + mir/dir/ihm/ihr) — active
-   cluster regression
-2. 🔴 **es → ihm, sie → ihr** — 3rd recurrence
-3. 🟡 **weil**: verb-last inside the clause AND verb-second in the main clause,
+1. **Dative-only verbs** — helfen, danken, gehören with mir/dir/ihm/ihr
+2. **es → ihm versus sie → ihr**
+3. **weil** — verb last inside the clause, verb second in the main clause,
    both at once
-4. 🟡 **unsere (acc. pl.) vs unseren (dat. pl.)** — kill the "-en means plural"
-   rule
-5. 🟡 **Perfekt participles** — pure memorisation, no shortcut exists
-6. 🟢 **aus vs von** — never yet drilled in isolation
+4. **unsere versus unseren** — accusative versus dative plural
+5. **Perfekt participles** — pure memorisation, no shortcut exists
+6. **aus versus von**
 
 ---
 
-# APPENDIX — QUICK REFERENCE CARD
+# QUICK REFERENCE
 
-**Articles:** der/den/dem · die/die/der · das/das/dem · die/die/den+n
+**Articles**
+der · den · dem — die · die · der — das · das · dem — *plural:* die · die · den +n
 
-**Pronouns:** ich-mich-mir · du-dich-dir · er-ihn-ihm · sie-sie-**ihr** ·
-es-es-**ihm** · wir-uns-uns · ihr-euch-euch · sie-sie-ihnen
+**Pronouns**
+ich–mich–mir · du–dich–dir · er–ihn–ihm · sie–sie–**ihr** · es–es–**ihm**
+wir–uns–uns · ihr–euch–euch · sie–sie–ihnen · Sie–Sie–Ihnen
 
-**Dative preps:** aus, außer, bei, mit, nach, seit, von, zu
-**Accusative preps:** für, um, durch, gegen, ohne (FUDGO)
-**Two-way:** in, an, auf, über, unter, vor, hinter, neben, zwischen
-→ *wohin?* = accusative · *wo?* = dative
+**Prepositions**
+*Dative:* aus, außer, bei, mit, nach, seit, von, zu
+*Accusative:* für, um, durch, gegen, ohne **(FUDGO)**
+*Two-way:* in, an, auf, über, unter, vor, hinter, neben, zwischen
+ → **wohin?** = accusative · **wo?** = dative
 
-**Contractions:** ins (in+das) · im (in+dem) · ans · am · zum (zu+dem) ·
-zur (zu+der) · vom (von+dem) — **never with possessives**
+**Contractions**
+ins · im · ans · am · zum · zur · vom — **never with a possessive**
 
-**Word order:** verb 2nd · yes/no question verb 1st · weil verb last ·
-Time–Manner–Place · separable prefix to the end · nicht before what it negates
+**Word order**
+Verb second · yes/no questions verb first · *weil* verb last ·
+time → manner → place · separable prefix to the end ·
+*nicht* immediately before what it negates
 
-**Perfekt:** haben/sein + participle at the end ·
-sein = motion/state-change + sein/bleiben · haben = everything else
+**Perfekt**
+haben/sein + participle at the end
+*sein* = motion or change of state, plus sein and bleiben
+*haben* = everything else
+
+---
+
+*This document is regenerated as the material grows — the `.tex` and `.pdf`
+versions are built from this file by `build_notes.sh`, so edit the Markdown
+rather than the generated copies.*
