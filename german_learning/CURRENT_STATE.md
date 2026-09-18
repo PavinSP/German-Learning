@@ -19,12 +19,20 @@ it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
 order. Update it (mark lessons covered) after any vocabulary session that draws
 from the Anki deck.
 
-**HARD RULE — Complete Notes must never go stale (added 2026-09-18):**
-Every time you log anything to a tracker (GRAMMAR.md, ERROR_LOG.md,
-VOCABULARY.md, ANSWERS.md, daily notes), you must ALSO (1) update
-[Complete Notes.md](Complete%20Notes.md) with whatever is new, (2) run
-`cd german_learning && ./build_notes.sh` to regenerate `Complete Notes.tex`
-and `Complete Notes.pdf`, and (3) commit all of it together in the same push.
+**HARD RULE — Complete Notes and MASTER_PROGRESS must never go stale
+(added 2026-09-18):** Every time you log anything to a tracker (GRAMMAR.md,
+ERROR_LOG.md, VOCABULARY.md, ANSWERS.md, daily notes), you must ALSO
+(1) update [Complete Notes.md](Complete%20Notes.md) with whatever is new,
+(2) refresh [MASTER_PROGRESS.md](MASTER_PROGRESS.md) — at minimum its Current
+Status table, and any section the new material actually changes,
+(3) run `cd german_learning && ./build_notes.sh` to regenerate
+`Complete Notes.tex` and `Complete Notes.pdf`, and (4) commit all of it
+together in the same push.
+
+*MASTER_PROGRESS.md was allowed to sit 13 days stale (Session 7 while the
+real count was 15), claiming listening and speaking were "not yet practiced"
+long after both had started. A stale status file is worse than no status file
+— it can mislead a future session into re-teaching finished material.*
 The learner studies from the PDF — a tracker update not reflected there
 means they're revising an outdated picture of their own progress.
 **The .tex and .pdf are generated artefacts — never hand-edit them**, edit the

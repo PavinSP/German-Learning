@@ -19,7 +19,9 @@ To resume at any time, open a Claude Code session in this workspace and say **"c
 ```
 german_learning/
 ├── CURRENT_STATE.md          # Read FIRST each session — level, topic, weaknesses, exact NEXT ACTION
-├── MASTER_PROGRESS.md        # Single source of truth: CEFR level, modules, skills, assessments
+├── Complete Notes.md         # THE STUDY DOCUMENT — everything covered, written to revise from
+├── Complete Notes.pdf        # Generated from the above by build_notes.sh (with .tex)
+├── MASTER_PROGRESS.md        # Long-arc view: CEFR level, skills, weak areas, assessments
 ├── VOCABULARY.md             # Persistent vocab database (article, plural, examples, review status)
 ├── GRAMMAR.md                # Grammar topics with status: NOT_STARTED → ... → MASTERED (table per CEFR level)
 ├── ERROR_LOG.md              # Recurring mistakes — automatically become revision material
@@ -32,6 +34,9 @@ german_learning/
 ├── PRONOUN_TABLE.md          # Reference: nominative / accusative / dative pronouns + possessive endings
 ├── VOICE_PROMPT.md           # Context prompt to paste into Claude app voice mode for speaking practice
 ├── ANKI_A1_A2_REFERENCE.md   # Plain-text export of a 1367-word Anki A1/A2 deck, for planning
+├── build_notes.sh            # Rebuilds Complete Notes.tex/.pdf from the Markdown (pandoc + xelatex)
+├── Listening/                 # Nicos Weg episodes + locally-generated transcripts
+├── archive/                   # Resolved errors and older sessions — not read at session start
 └── daily_notes/               # One file per study date (YYYY-MM-DD.md) — everything covered that day
 ```
 
@@ -58,15 +63,21 @@ gitignored (one exceeds GitHub's 100MB file limit) — not backed up to GitHub.
 
 ## Current status
 
-📍 **PRE-A1 / Foundation, 7 sessions in.** Diagnostic confirmed a true-beginner
-restart. FUNCTIONAL (retested across gaps): sein/haben, articles, negation,
-W-questions, conjunctions, plurals, possessive articles (incl. formal Ihr),
-accusative case (incl. pronouns), verb-second word order. Currently LEARNING:
-dative case (articles + pronouns), modal verbs (müssen/möchten), separable verbs.
-Reading comprehension is the strongest modality so far, ahead of production.
-Vocabulary: ~95 words across 11 everyday themes.
+📍 **PRE-A1 / Foundation moving into A2, 15 sessions in.** Diagnostic confirmed
+a true-beginner restart. FUNCTIONAL (retested across real gaps): sein/haben,
+articles, negation (nicht and kein, incl. placement), accusative case and
+pronouns, possessive articles (incl. formal Ihr), plurals, W-questions and
+yes/no questions, conjunctions, modal verbs, separable verbs, the imperative
+(du/ihr/Sie), dative prepositions and the nach-vs-zu rule — plus, at A2, the
+haben/sein choice in the Perfekt.
 
-Study time increases to **~3 hours/day from 2026-09-07** — see STUDY_PLAN.md.
+Currently LEARNING: Perfekt participle formation, two-way prepositions, dative
+pronouns and dative-only verbs, verb-second in subordinate clauses.
+Vocabulary: 142 entries, 110 confirmed through production, across 13 themes.
+Reading remains the strongest modality; listening (Nicos Weg A1) and speaking
+(voice mode) have both been active since early September.
+
+Study time increased to **~3 hours/day from 2026-09-07** — see STUDY_PLAN.md.
 The added hours go to depth per concept, not more concepts: a hard cap of two
 new grammar points per week, with the rest spent on retrieval, mixed practice,
 daily free writing, and the newly added listening and speaking work. See

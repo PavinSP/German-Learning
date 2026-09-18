@@ -4,215 +4,251 @@
 **Started:** 2026-08-28
 **Assumption:** Previously studied German, but treat all prior knowledge as unverified.
 
+> **Scope note.** This file is the long-arc view: what has been covered, what is
+> strong, what keeps breaking, and where things are heading. For "what do I do
+> right now", read [CURRENT_STATE.md](CURRENT_STATE.md) — that is the
+> session-to-session file and always takes precedence if the two disagree.
+> This file must be refreshed whenever the trackers are updated (see the hard
+> rule in CURRENT_STATE.md).
+
 ---
 
 ## Current Status
 
 | Field | Value |
 |---|---|
-| Current CEFR level | PRE-A1 / Foundation |
-| Current module | Foundation |
-| Current lesson | Dative case — articles + pronouns (2026-09-04), LEARNING |
-| Current topic | Dative fresh-day check due 2026-09-06. Then two deferred explanations in DOUBTS.md (nicht placement; dative prepositions) |
-| Last session date | 2026-09-05 |
-| Session count | 7 |
-| Study load | Rising to ~3 hrs/day from 2026-09-07 — see STUDY_PLAN.md |
-| Last full review | 50-question deep dive 2026-09-04 — 37/50 (74%) |
+| Current CEFR level | PRE-A1 / Foundation, with A2 material in progress |
+| Current module | Foundation → early A2 |
+| Current lesson | Perfekt (past tense) — helper-verb selection FUNCTIONAL, participle spelling LEARNING |
+| Current topic | Comprehensive 100+ question review, Parts 1–2 complete (25/30), Part 3 in progress |
+| Last session date | 2026-09-17 (Session 15 running 2026-09-18) |
+| Session count | 15 |
+| Study load | ~3 hrs/day since 2026-09-07 — see [STUDY_PLAN.md](STUDY_PLAN.md) |
+| Last full review | 37-question review 2026-09-15 — 25/37 (68%) first-pass, most resolved on self-directed retest |
+| Study document | [Complete Notes.md](Complete%20Notes.md) + generated PDF — the thing to revise from |
 
 ## Completed Topics
-- Greetings (Hallo, Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen)
-- sein (present tense, all persons)
-- haben (present tense, all persons)
-- Definite articles (der/die/das) with first nouns (Mann, Frau, Buch, Katze, Haus)
-- Indefinite articles (ein/eine)
-- Negation: nicht
-- Negation: kein/keine
-- W-questions (wer/was/wo/wann/warum/wie) + verb-second word order (incl. general
-  statements, not just questions)
-- Basic conjunctions (und/aber/oder/denn)
-- Plurals (die + memorized singular/plural pairs)
-- sie vs Sie / noun capitalization
-- Possessive articles (mein/dein/sein/ihr/Ihr — full set incl. formal)
-- Accusative case (der→den, ein→einen, kein→keinen for der-words; das/die-words unchanged)
-- Accusative pronouns (mich/dich/ihn/uns/euch; sie/es/Sie unchanged)
-- Modal verbs (können, müssen, möchten)
-- Separable verbs (aufstehen)
-- kein vs nicht (full mechanics, incl. why kein and der/die/das never combine)
-- Compound nouns (final part sets the gender) — introduced in passing 2026-09-03
-- Vocabulary: family, numbers 1-20, food, daily routine/time, weather, shopping,
-  house & rooms
 
-Note: "completed" = introduced and correctly produced at least once. FUNCTIONAL
-(retested clean, holding across gaps): sein, haben, articles, nicht, kein/keine,
-W-questions, conjunctions, plurals, sie/Sie & noun capitalization, possessive
-articles, accusative case, verb-second (general), mein/meine gender agreement,
-modal verb können. LEARNING (correct but not yet gap-tested to FUNCTIONAL):
-müssen/möchten, separable verbs, accusative pronouns. None are MASTERED yet (needs
-correct spontaneous use across many future sessions).
+**Foundation / A1 — FUNCTIONAL** (correct in writing, holding across real gaps)
+
+- sein and haben, present tense, all persons
+- Definite and indefinite articles (der/die/das, ein/eine)
+- Negation: nicht (incl. placement and the definite-object rule) and kein/keine
+- Accusative case, and accusative pronoun selection by grammatical gender
+- Possessive articles (mein/dein/sein/ihr/unser/Ihr, incl. formal)
+- Plurals · noun capitalization · sie vs Sie
+- W-questions and yes/no questions (verb-first inversion)
+- Basic conjunctions (und, aber, oder, denn)
+- Modal verbs (können, müssen, möchten)
+- Separable verbs — the structural rule (split in present, whole with a modal)
+- Imperative — all three forms (du, ihr, Sie)
+- Dative prepositions (mit, nach, bei, von, zu, aus, seit) and the nach-vs-zu rule
+
+**A2 — FUNCTIONAL**
+
+- Perfekt: choosing haben vs sein (incl. the counter-intuitive cases —
+  *stehen* and *spielen* take haben, *bleiben* takes sein)
+
+**Vocabulary** — 142 entries logged, 110 confirmed KNOWN through production.
+Themes: greetings, family, food, daily routine and time, weather, shopping,
+house and rooms, hobbies, clothing and colours, accusative pronouns,
+transport and directions, places in town, everyday phrases.
+
+*"Completed" means introduced and correctly produced. FUNCTIONAL means it has
+survived a real overnight gap. Nothing is MASTERED yet — that requires correct
+spontaneous use in speech, under real-time pressure, across a gap.*
 
 ## Topics In Progress
-- **Dative case** — introduced 2026-09-04 (articles + pronouns), 8/8 clean on
-  first attempt, a notably smoother start than accusative had. Fresh-day check
-  due 2026-09-06. Also produced possessive dative endings unprompted on
-  2026-09-05 ("meiner Mutter") before they were ever taught — pattern transfer,
-  now documented in PRONOUN_TABLE.md.
-- Accusative pronouns — RESOLVED. The gender-selection concern (choosing by
-  English semantics rather than grammatical gender) was cold-checked 2026-09-04
-  and went 5/5 across all three genders. Now FUNCTIONAL. *euch* still never produced.
-- Modal verbs (müssen, möchten), separable verbs — LEARNING, holding clean.
 
-## Topics Requiring Revision
-- Dative case (articles + pronouns) — LEARNING, fresh-day check 2026-09-06
-- Modal verbs (müssen, möchten), separable verbs, kein vs nicht — LEARNING, next
-  check 2026-09-05/06
-- Vocabulary (all 11 themes) — KNOWN, next check 2026-09-08
-- Two explanations deferred at the learner's request, queued in DOUBTS.md:
-  nicht placement with definite objects; the full dative-preposition list
+- **Perfekt — participle formation** (LEARNING). Helper-verb choice is solid;
+  spelling the participles is the open work. Regular ones are reliable; the
+  irregulars are pure memorisation, and three specific traps have surfaced:
+  false umlauts (*gefähren* for gefahren), regularising an irregular
+  (*gebleibt* for geblieben), and misplacing the *ge-* in separable verbs
+  (*ein**ge**schlafen*, not at the front).
+- **Two-way prepositions** (LEARNING). The *wohin/wo* question itself lands
+  easily and has been re-explained several times; what stays difficult is
+  applying it at speed while also getting the noun's gender right.
+- **Dative pronouns and dative-only verbs** (both LEARNING, both regressed —
+  see Weak Areas).
+- **Accusative prepositions** (für/durch/ohne/gegen/um — INTRODUCED). Concept
+  landed immediately since the accusative endings were already secure.
+- **Verb-second in subordinate clauses** (LEARNING). See Weak Areas.
+- **Basic dative articles** (LEARNING) — the mechanics are largely there; the
+  friction is in pronoun forms rather than articles.
 
 ## Weak Areas
-- **3rd-person vs du conjugation — IMPROVING, confirmed load-dependent.** The most
-  persistent error in the log (6 instances), but the shape is now unambiguous: three
-  focused drills produced three clean sweeps (5/5, 3/3, 4/4), while all six failures
-  occurred under cognitive load — a new case, new vocabulary, a new modal structure,
-  a new pronoun object. Not a conceptual gap. Method change as of 2026-09-03: stop
-  drilling it in isolation (that only re-confirms known material) and instead embed
-  a 3rd-person subject in every mixed round, so it is exercised where it degrades.
-  FIRST RESULT under the new method (2026-09-03 part four): four 3rd-person subjects
-  correct while simultaneously carrying new pronouns, new vocabulary, accusative,
-  verb-second and possessives — the first time it has held under genuine load. One
-  round is not proof, but it is the right kind of evidence.
-- Umlauts, split into two distinct patterns as of 2026-09-03 — ADDED where none
-  belongs (Bröt, Äpfel, Stühl: a real knowledge issue, since a phone keyboard cannot
-  produce it) vs OMITTED where one belongs (konnen: likely keyboard friction). Kept
-  separate on purpose; merging them would destroy the diagnostic value of the first.
-- Light, newly consolidated: invented umlaut on singular nouns — 3 instances
-  (Bröt, Äpfel, Stühl). Corrected on retry each time; rule of thumb given (singular
-  is the plain form, the umlaut is the plural's job).
-- No other items currently flagged as a real weak area.
+
+**Two active regressions — things that were solid and then broke:**
+
+- **Dative-only verbs** (helfen, danken, gehören). Clean 3/3 on 2026-09-10,
+  then 1/3 on 2026-09-17. The diagnosis is precise and encouraging: the verbs
+  are *correctly identified* as needing dative every time — no accusative
+  reasoning is attempted — but the accusative pronoun gets reached for by
+  reflex anyway (*danke ihn*, *gehört mich*). The fix is the forms, not the
+  concept: mir/dir/ihm/ihr, never mich/dich/ihn/sie.
+- **es → ihm versus sie → ihr.** Three occurrences now, always in the same
+  direction: *ihm* given for both. *es* shares its dative form with *er*,
+  which is counter-intuitive enough to over-apply. This is the single most
+  slippery cell in the pronoun table and needs spaced repetition rather than
+  another one-off correction.
+
+**One rule whose two halves fail in alternation:**
+
+- **weil.** It requires verb-last inside its own clause *and* verb-second in
+  the main clause that follows. On 2026-09-11 the main clause broke; on
+  2026-09-15 the weil-clause broke. Each half has been corrected in isolation;
+  they have not yet held simultaneously.
+
+**Long-running, load-dependent — not knowledge gaps:**
+
+- **3rd-person conjugated as du-form** (er hast, er siehst, er trägt→trägst).
+  The most persistent error in the log by count, but every failure has occurred
+  under cognitive load and every isolated drill has been clean. Standing method
+  since 2026-09-03: do not drill this in isolation — embed a 3rd-person subject
+  in mixed rounds, where it actually degrades.
+- **den used for das-words**, **mein/meine gender agreement**. Same shape:
+  reliable in focused work, slips in free production.
+
+**Misconceptions that have been corrected but recur in stated reasoning:**
+
+- *"-en marks plural"* — it marks **dative** plural. *gegen unsere Eltern*
+  takes no -en. Corrected twice and still resurfaces.
+- *"Accusative is for action verbs"* — case comes from the noun's role.
+- *"Irregular verbs take sein in the Perfekt"* — unrelated systems.
+
+*These are worth tracking separately from ordinary errors: an invented rule
+that feels coherent is harder to displace than a simple gap.*
 
 ## Strong Areas
-- sein, haben conjugation, all persons — retested clean multiple times
-- Accusative case — resolved from initial overgeneralization to fully FUNCTIONAL
-  within one session, including the subject-vs-object distinction
-- Possessive articles incl. formal Ihr — FUNCTIONAL, correctly disambiguates ihr's
-  double meaning using context
-- W-questions, conjunctions, plurals, negation (nicht/kein-keine) — all FUNCTIONAL
-- Verb-second (general, beyond questions) and mein/meine gender agreement — both
-  regressed once on a fresh-day check, were re-taught and drilled, then held clean
-  on a genuine second overnight retest — now FUNCTIONAL
-- Vocabulary uptake is fast: picked up an irregular verb form (isst) correctly
-  after a single mention
-- Reading comprehension — on first ever exposure (2026-09-03) parsed denn causality,
-  a separable verb, kein/keine and a modal+infinitive without difficulty, none of
-  which are yet fully reliable in production. Receptive skill is ahead of productive
-  skill, so richer input is likely to be absorbed than the output level suggests.
-  Also infers unknown words from context, including non-cognates (deduced groß from
-  an "acht Zimmer" anchor).
-- Responds extremely well to an explicitly stated rule. The recurring pattern across
-  the whole log is that errors are MISSING RULES rather than conceptual difficulty:
-  stated once, applied cleanly and immediately (accusative pronoun selection went
-  0/2 → 4/4 the moment the gender rule was made explicit).
+
+- **Self-correction is the standout skill.** Across the concepts test
+  (2026-09-10/11) and the review (2026-09-15), most gaps were resolved by the
+  learner unaided once pointed at the right reference. That is debugging one's
+  own understanding rather than memorising, and it is why pointing back to
+  ANSWERS.md has become the default response to a wrong answer.
+- **Pattern transfer to untaught material.** Produced *Setzen Sie sich*,
+  *Öffnen Sie das Fenster* and *Das Buch gehört mir* using verbs never formally
+  taught, and produced an irregular participle (*gegangen*) correctly on first
+  exposure to the Perfekt.
+- **Responds immediately to an explicitly stated rule.** The recurring shape of
+  the whole log is missing rules rather than conceptual difficulty — stated
+  once, applied cleanly (accusative pronoun selection went 0/2 → 4/4 the moment
+  the gender rule was made explicit).
+- **Notices real linguistic nuance unprompted** — observed that fronting
+  *Heute* shifts emphasis onto the day rather than the subject, which was never
+  taught.
+- **Questions things that do not add up**, including catching untaught
+  vocabulary used in test prompts, and asking why *gegehen* is not the
+  participle of gehen.
+- Core grammar — sein/haben, articles, negation, accusative, possessives,
+  questions, conjunctions — is stable and no longer a source of errors.
 
 ## Skill Progress
 
 | Skill | Status |
 |---|---|
-| Grammar | Foundation — through accusative case (incl. pronouns), modal verbs, separable verbs, verb-second generalization, kein/nicht mechanics |
-| Vocabulary | ~78+ words/phrases introduced across greetings, family, numbers, food, daily routine, weather, shopping, house & rooms, plus the accusative pronoun set (see VOCABULARY.md) |
-| Listening | Not yet practiced |
-| Reading | FIRST PRACTICED 2026-09-03, and immediately the strongest modality. Two passages, 7/8 comprehension points. Handles marked AND unmarked causality, cross-sentence pronoun reference (resolved *es* → *das Haus*, requiring gender tracking), modals, separable verbs and negation — several of which remain imperfect in production. Comprehension runs AHEAD of production; now a standing component of sessions, with headroom for denser passages and a few unknown words in context |
-| Writing | Practiced via translation/production exercises every session |
-| Speaking | Not yet practiced (voice mode workflow discussed but not used) |
-
-## Recurring Mistakes
-- See ERROR_LOG.md — pattern of momentary slips (conjugation, gender agreement)
-  under the cognitive load of brand-new structures, consistently resolved via
-  retry, either same-session or after a re-teach + second retest. The two
-  longest-running watch-items (verb-second generalization, mein/meine gender
-  agreement) regressed once on a fresh-day check (2026-09-02) but have since held
-  clean across a genuine overnight retest (2026-09-03) — resolved. Remaining
-  light/recurring item: 3rd-person vs du conjugation (see Weak Areas).
+| Grammar | Foundation complete through the A1 set; A2 in progress (Perfekt, two-way and accusative prepositions). Remaining A1 gaps: regular verb conjugation as an explicit pattern, key irregular verbs, nominative as a named concept |
+| Vocabulary | 142 entries, 110 KNOWN. Thirteen themes covered; A1-L7 (transport/directions) most recent |
+| Listening | **Active since 2026-09-08.** All three Nicos Weg A1 episodes watched and comprehension-checked, transcribed locally with whisper.cpp. Consistent pattern: plot and content tracked well; corrections land on character attribution rather than misunderstood German |
+| Reading | Strongest modality. Comprehension consistently runs ahead of production — parses structures not yet reliable in output, and infers unknown words from context including non-cognates |
+| Writing | Practiced every session; the primary medium for anything ending-sensitive |
+| Speaking | **Active since 2026-09-06.** Voice mode configured and working. Most recent session confirmed dative-preposition + possessive combinations holding under real-time speech |
 
 ## Recent Assessment Results
-- 2026-08-28: Diagnostic — "no idea" to all 10 questions → confirmed true beginner, PRE-A1
-- 2026-08-29: Lesson 1 exercises, retrieval check, conjunctions/plurals — all strong
-- 2026-09-01: 3-day retest (5/5), intensive review #1 (13.5/15), accusative case
-  intro→FUNCTIONAL, intensive review #2 (12.5/15), conjugation drill (5/5),
-  possessives retest (3/3, →FUNCTIONAL), vocabulary sets (family/numbers/food, ~20
-  items, near-perfect), modal verbs intro (2/4 then 2/2 clean retry)
-- 2026-09-02: fresh-day retest caught 2 genuine retention gaps (verb-second beyond
-  questions, mein/meine gender agreement) — both re-taught and drilled extensively
-  (10-11 clean same-day instances); modals extended to müssen/möchten; ~21
-  vocabulary words added (daily routine/time, weather, shopping); 5 learner
-  questions (Q6-Q10) answered on accusative-taking verbs, modals+accusative, and
-  kein-vs-nicht mechanics
-- 2026-09-03: genuine overnight retest confirmed both 2026-09-02 watch-items solid
-  — verb-second held 4/4 (incl. after "so"), mein/meine held 4/4 — both promoted to
-  FUNCTIONAL
-- 2026-09-03 (continued): house & rooms vocabulary, 7 words — main set 4/5,
-  confirmation round 2/3, targeted a/the check 2/2. All grammar under test correct
-  (accusative, gender agreement, verb-second, kein-vs-nicht, plurals with numbers);
-  both errors surface-level (invented umlaut, definite-for-indefinite) and
-  corrected on retry
-- 2026-09-03 (part three): accusative pronouns — intro set 4/5, focused drill 4/4.
-  Every pronoun form correct throughout; the one bad sentence carried a conjugation
-  slip and a nicht-placement slip around a correctly chosen pronoun
-- 2026-09-03 (part four): mixed consolidation round 4/5 — four 3rd-person subjects
-  all correct under genuine load; only error an omitted umlaut (konnen)
-- 2026-09-03 (parts five-seven): three reading passages, the first reading practice
-  in five sessions — 3/4, 4/4, 3/4. Inferred all four seeded unknown words in the
-  third passage including the non-cognate groß. Part seven also produced the day's
-  key finding: accusative pronoun SELECTION was being done by English semantics, an
-  error that 9/9 form-recall answers had concealed
+
+- **2026-09-04** — 50-question deep dive: 37/50 (74%). Surfaced the geben
+  conjugation gap that had been mistaken for a dative problem.
+- **2026-09-08** — 52-question exhaustive review: 46.5/52 (~89%), on a larger
+  and harder set than the previous one. Closed out two long-deferred
+  explanations (nicht placement, two-way prepositions).
+- **2026-09-10/11** — Grammar *concepts* test (Q1–Q9): tested the rules
+  themselves rather than sentence production. 4/9 clean unaided, 3/9 resolved
+  via self-directed reference checks, 2/9 needed a genuine re-teach. Different
+  and more informative signal than sentence-based review, because it exposes
+  whether the reasoning is right even when the answer is.
+- **2026-09-15** — 37-question review after a 4-day gap: 25/37 (68%)
+  first-pass, with most of the remainder resolved on immediate retest. Lower
+  than 09-08 largely because of the gap and a harder question set.
+- **2026-09-16** — Perfekt introduced: 9/10 across three rounds on first
+  exposure, including irregular participles produced unprompted.
+- **2026-09-17/18** — Comprehensive 100+ question review in progress.
+  Part 1 (core verbs and basics): **15/15 clean.** Part 2 (dative): 10/15,
+  surfacing the two regressions in Weak Areas. Part 3 pending.
 
 ## Last Session Summary
-2026-09-03 (Session 5, in two parts). Part one: genuine overnight fresh-day retest
-on verb-second and mein/meine gender agreement — both held 4/4, confirming the
-re-teaching from Session 4 produced real retention rather than a same-day fix; both
-promoted to FUNCTIONAL. Part two: learner chose vocabulary over new grammar, so
-house & rooms was introduced (7 words), with the set deliberately built to double as
-accusative and gender-agreement practice — all of that held clean. Compound nouns
-mentioned in passing and applied correctly first try. Two surface slips (Stühl for
-Stuhl; den where einen was asked), both corrected immediately. The old "zweinen
-Hunde" error from 2026-09-01 confirmed resolved. Part three: accusative pronouns
-introduced, taught by parallel to the already-FUNCTIONAL der→den pattern (er→ihn
-changes; sie/es do not), cutting the new material to five forms — absorbed
-immediately, with every pronoun form correct in every sentence. Also produced the
-session's most useful finding: the long-running 3rd-person/du conjugation error is
-confirmed load-dependent, so isolated drilling has been retired in favour of
-embedding 3rd-person subjects in mixed rounds. See daily_notes/2026-09-03.md.
+
+Sessions 14–15 covered the introduction of the Perfekt and the start of the
+comprehensive review. The Perfekt landed unusually well for a first exposure —
+9/10 across three rounds, with helper-verb selection correct even in the
+counter-intuitive cases, and the only real errors being participle spellings,
+which is the part that can only be memorised. A dedicated sein/haben test
+confirmed the selection logic is genuinely solid.
+
+The comprehensive review then produced a clean 15/15 on the foundation
+material and a more mixed Part 2, where two previously-resolved items had
+regressed. Both regressions are narrow and well-characterised rather than
+broad: the dative-only verbs are correctly identified and then given the wrong
+pronoun form, and the es/sie swap is a single table cell.
+
+Also in this stretch: all three Nicos Weg episodes completed, voice practice
+resumed after a gap, A1-L7 vocabulary started, and the repository itself
+restructured — resolved entries archived to cut the per-session read cost, and
+[Complete Notes.md](Complete%20Notes.md) created as a single study document
+with a LaTeX/PDF build.
 
 ## Exact Next Step
-**Top priority 2026-09-05: cold check on accusative pronoun SELECTION.** Give German
-nouns and require the learner to derive the pronoun (der Apfel → ihn, das Kind → es,
-die Milch → sie). Do NOT use English-prompt exercises for this — every prompt on
-2026-09-03 named the pronoun in English, which is why a semantic-mapping error went
-undetected through 9/9 correct answers. A full reference on this was written at the
-learner's request: **ANSWERS.md Q11**. The rule was taught at the very end of
-2026-09-03 and a same-round drill went 4/4, which per the 2026-09-02 verb-second
-precedent demonstrates nothing about retention.
 
-Also due 2026-09-05: accusative pronouns embedded in mixed sentences with 3rd-person
-subjects (the load condition where conjugation fails). euch still never produced.
+**Finish Part 3 of the comprehensive review** (Q31–45: two-way prepositions,
+accusative prepositions, word order, and one explain-the-rule question), then
+continue through the remaining parts to the full 100+.
 
-Recommended next new topic: **dative case**, deliberately saved for a session where
-the learner can focus (declined 2026-09-03 because they were on a phone with
-distractions, and the 2026-09-02 verb-second regression shows what happens to
-material first met under high load). Alternatives if preferred: accusative
-prepositions (für/durch), or more vocabulary (hobbies, clothing, transport).
+**Then, in priority order:**
 
-Keep pace slow, one new concept at a time, per learner's stated preference.
+1. **Dative-only verbs** — isolated drill on the pronoun forms, not the
+   concept. The concept is already understood.
+2. **es → ihm / sie → ihr** — spaced repetition; three corrections have not
+   made it stick, so another single correction will not either.
+3. **weil** — both halves in one sentence, repeatedly.
+4. **unsere vs unseren** — kill the "-en means plural" rule directly.
+5. **Perfekt participles** — accumulate irregulars; no shortcut exists.
+6. **aus vs von** — never yet drilled in isolation.
 
-Standing method notes:
-- No more isolated conjugation drills (see Weak Areas) — embed 3rd-person subjects
-  in mixed rounds instead.
-- Strict typing correction was requested by the learner on 2026-09-03: umlauts,
-  capitalization and spelling count as real errors, not typos to be waved through.
+**Remaining A1 gaps** to close at some point: regular verb conjugation as an
+explicit pattern, key irregular verbs as a set, nominative as a named concept.
 
-## Recommended Revision Schedule
-- Accusative case, possessive articles, Lessons 1-3, modal verb (können): FUNCTIONAL, next check 2026-09-08
-- Verb-second (general), mein/meine gender agreement: FUNCTIONAL (newly confirmed), next check 2026-09-10
-- Modal verbs (müssen, möchten), separable verbs, kein vs nicht: LEARNING/confirmed clean, next check 2026-09-05
-- Vocabulary (family, numbers, food, daily routine/time, weather, shopping): KNOWN, next check 2026-09-08
-- Vocabulary (house & rooms) + compound nouns: KNOWN/INTRODUCED, next check 2026-09-08 — probe Stuhl/Stühle specifically
-- Accusative pronouns (mich/dich/ihn/uns/euch): LEARNING, next check 2026-09-05 — embed in mixed sentences; euch still untested
+## Standing Method Notes
+
+- **No isolated conjugation drills** for the 3rd-person/du error — embed
+  3rd-person subjects in mixed rounds instead. Isolated drilling only
+  re-confirms what is already known.
+- **Strict typing correction** was requested 2026-09-03: umlauts,
+  capitalization and spelling count as real errors, not typos to wave through.
+- **Learn in writing, prove in speech.** Never infer grammar knowledge from a
+  voice transcript — speech-to-text silently repairs endings, and on day one it
+  both hid a real error and invented a competence that was not there.
+- **Point back to ANSWERS.md rather than re-teaching** when something is
+  forgotten. This learner self-corrects reliably from a reference, and doing so
+  builds the habit of checking rather than guessing.
+- **Nothing is promoted past LEARNING without surviving a real overnight gap.**
+  This has been proven necessary twice.
+- **Maximum two new grammar concepts per week**; extra study time buys depth.
+- **Vocabulary every session** — teach new words and retest old ones, by
+  standing rule.
+
+## Revision Schedule
+
+| Item | Status | Next check |
+|---|---|---|
+| Dative-only verbs (helfen/danken/gehören) | LEARNING — regressed | 2026-09-19 |
+| Dative pronouns (es/sie especially) | LEARNING — regressed | 2026-09-19 |
+| Two-way prepositions | LEARNING | 2026-09-17 → overdue |
+| weil / verb-second in subordinate clauses | LEARNING | 2026-09-17 → overdue |
+| Perfekt — participle formation | LEARNING | 2026-09-18 |
+| Perfekt — haben/sein selection | FUNCTIONAL | 2026-09-20 |
+| Accusative prepositions | INTRODUCED | due |
+| nicht placement | FUNCTIONAL | 2026-09-20 |
+| Imperative · yes/no questions · separable verbs | FUNCTIONAL | 2026-09-22 |
+| Possessive articles | FUNCTIONAL | 2026-09-22 |
+| Accusative case · dative prepositions · nach vs zu | FUNCTIONAL | 2026-09-18 |
+| Vocabulary — all themes | 110 KNOWN | rolling, every session |
