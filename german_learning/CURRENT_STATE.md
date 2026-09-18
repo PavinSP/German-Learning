@@ -19,6 +19,18 @@ it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
 order. Update it (mark lessons covered) after any vocabulary session that draws
 from the Anki deck.
 
+**HARD RULE — Complete Notes must never go stale (added 2026-09-18):**
+Every time you log anything to a tracker (GRAMMAR.md, ERROR_LOG.md,
+VOCABULARY.md, ANSWERS.md, daily notes), you must ALSO (1) update
+[Complete Notes.md](Complete%20Notes.md) with whatever is new, (2) run
+`cd german_learning && ./build_notes.sh` to regenerate `Complete Notes.tex`
+and `Complete Notes.pdf`, and (3) commit all of it together in the same push.
+The learner studies from the PDF — a tracker update not reflected there
+means they're revising an outdated picture of their own progress.
+**The .tex and .pdf are generated artefacts — never hand-edit them**, edit the
+Markdown and rebuild. Build needs pandoc + xelatex (both present). If the
+build fails, say so rather than pushing a stale PDF next to fresh notes.
+
 **Token-efficiency convention (added 2026-09-15):** ERROR_LOG.md and SESSION_LOG.md
 now hold only ACTIVE/IMPROVING entries and the last 3 sessions respectively.
 Resolved entries and older sessions live in `archive/ERROR_LOG_ARCHIVE.md` and

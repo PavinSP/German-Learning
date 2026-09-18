@@ -1,0 +1,55 @@
+% Preamble for Complete Notes PDF build (used by build_notes.sh via pandoc + xelatex)
+% XeLaTeX is required: the notes contain umlauts, arrows and symbols.
+
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+% --- Fonts -------------------------------------------------------------
+% Main text: a serif face with full German coverage.
+\setmainfont{Palatino}
+\setsansfont{Helvetica Neue}
+\setmonofont[Scale=0.9]{Menlo}
+
+% Fallback for symbols the main font lacks (arrows, check marks).
+% Emoji are stripped by build_notes.sh before pandoc runs, so no emoji font
+% is declared here — declaring one that may be absent breaks the build.
+\newfontfamily\symbolfont{Apple Symbols}
+
+% --- Colours -----------------------------------------------------------
+\definecolor{headingblue}{HTML}{1F4E79}
+\definecolor{warnred}{HTML}{B03A2E}
+\definecolor{rulegrey}{HTML}{BBBBBB}
+
+% --- Headings ----------------------------------------------------------
+\titleformat{\section}{\Large\bfseries\color{headingblue}}{}{0em}{}
+\titleformat{\subsection}{\large\bfseries\color{headingblue}}{}{0em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries}{}{0em}{}
+\titlespacing*{\section}{0pt}{2.2ex plus 1ex minus .2ex}{1.2ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{1.8ex plus 1ex minus .2ex}{0.9ex plus .2ex}
+
+% --- Page furniture ----------------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyhead[L]{\small\textcolor{headingblue}{German — Complete Notes}}
+\fancyhead[R]{\small\thepage}
+
+% --- Tables ------------------------------------------------------------
+% Pandoc emits longtable; give the rows a little air.
+\renewcommand{\arraystretch}{1.25}
+
+% --- Lists -------------------------------------------------------------
+\setlist[itemize]{itemsep=2pt, parsep=0pt, topsep=4pt}
+\setlist[enumerate]{itemsep=2pt, parsep=0pt, topsep=4pt}
+
+% --- Misc --------------------------------------------------------------
+\setlength{\parskip}{0.6em}
+\setlength{\parindent}{0pt}
+\sloppy
+\emergencystretch=2em

@@ -12,6 +12,12 @@ file, you have covered everything taught so far.
 Part IX is the error catalogue (your actual mistakes — the highest-value
 section). Part X is tips, traps and method.
 
+**This file is kept live.** By standing rule, every time anything is logged
+to the trackers, this document is updated too and `build_notes.sh` is re-run
+to refresh `Complete Notes.tex` and `Complete Notes.pdf`. The PDF is the
+study copy — it should never lag behind the trackers. *(The .tex and .pdf
+are generated from this Markdown — don't edit them directly.)*
+
 ---
 
 # PART I — THE FOUNDATION
