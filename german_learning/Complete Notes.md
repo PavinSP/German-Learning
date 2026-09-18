@@ -356,12 +356,26 @@ whatever it negates** — a verb, an infinitive, or a separable prefix:
 being negated — it is established information:
 
 - **Right:** Ich sehe **den Hund nicht**.
-- **Wrong:** Ich sehe nicht den Hund.
 - **Right:** So kann er **den Hund nicht** sehen.
 
 > The logic is worth holding onto rather than memorising the order: you
 > aren't negating *the dog*, you're negating *the seeing*. So nicht attaches
 > to the verb, and the dog — already known information — stays in front.
+>
+> **A shorter version of the same idea:** nicht pushes as far right as it can,
+> and a definite object gets out of its way.
+
+**"Ich sehe nicht den Hund" is not wrong — it is a different sentence.**
+Putting nicht *before* the object makes it **contrastive**: it sets up a
+correction, and sounds unfinished without one.
+
+| Sentence | Meaning |
+|---|---|
+| Ich sehe **den Hund nicht**. | I don't see the dog. *(plain negation)* |
+| Ich sehe **nicht den Hund**, sondern die Katze. | It's not the dog I see, but the cat. |
+
+Worth knowing as a tool rather than just avoiding — but for ordinary
+negation, the object goes first.
 
 ## 4.4 keine Zeit versus nicht viel Zeit
 
@@ -407,7 +421,7 @@ whole rule. Whatever follows goes into dative, regardless of its role:
 - Wir spielen **gegen unsere** Eltern.
 - Ich stehe **um** sieben Uhr auf.
 
-## 5.3 Two-way prepositions — the hardest thing here so far
+## 5.3 Two-way prepositions
 
 **in · an · auf · über · unter · vor · hinter · neben · zwischen**
 
@@ -427,14 +441,11 @@ These take *either* case. Which one is decided by a single question:
 **Contractions:** in + das → **ins** · in + dem → **im** ·
 an + das → **ans** · an + dem → **am**
 
-> **Why this one takes several passes to stick:** the *wohin/wo* question
-> itself is easy and lands almost immediately. What stays slippery is
-> applying it under time pressure — matching the right case to the right
-> sentence while also getting the noun's gender right (*der Garten* → dem
-> or den, never der).
->
-> If it helps, ignore the list of nine words entirely. They all follow the
-> one question, so the question is the only thing worth memorising.
+> **Ignore the list of nine words.** They all follow the one question, so the
+> question is the only thing worth memorising. The usual difficulty isn't the
+> concept — it's applying it at speed while also getting the noun's gender
+> right (*der Garten* → dem or den, never der). Both parts have to happen at
+> once, which is why this takes practice rather than understanding.
 
 **A boundary worth being explicit about:** *nach* is never used for moving
 into an enclosed space. Going into a room is **in den Raum**, not
@@ -1014,13 +1025,19 @@ contradiction, it's the two skills separating.
 
 ## 10.4 What to work on next
 
-1. **Dative-only verbs** — helfen, danken, gehören with mir/dir/ihm/ihr
-2. **es → ihm versus sie → ihr**
-3. **weil** — verb last inside the clause, verb second in the main clause,
-   both at once
-4. **unsere versus unseren** — accusative versus dative plural
+1. **weil** — verb last inside the clause, verb second in the main clause.
+   The two halves have a habit of failing in alternation: get one right, lose
+   the other. Practise them **together in one sentence**, not separately —
+   each half alone is already understood.
+2. **Dative-only verbs** — helfen, danken, gehören with mir/dir/ihm/ihr. The
+   concept is secure; it's the pronoun form that slips.
+3. **es → ihm versus sie → ihr**
+4. **nicht with a definite object** — object first, nicht at the end
 5. **Perfekt participles** — pure memorisation, no shortcut exists
 6. **aus versus von**
+
+*Recently cleared: two-way prepositions (5/5 with reasoning, after four
+passes) and the unsere/unseren accusative-plural ending.*
 
 ---
 

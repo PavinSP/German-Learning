@@ -784,6 +784,12 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
   own theory ("plural always takes -en") is the actual misconception to
   correct directly: -en is specifically DATIVE-plural, not plural-in-general;
   accusative plural possessives stay unmarked (unsere)
+- **RESOLVED 2026-09-18.** "Wir spielen gegen unsere Eltern" produced correctly
+  with the reasoning volunteered unprompted: "not unseren cuz it's not dativ
+  plural, it's accusativ plural." The misconception is now explicitly
+  disavowed in the learner's own words, which is a stronger resolution than a
+  correct answer alone — the previous correct answers (09-08) came with wrong
+  reasoning attached and the error recurred anyway.
 
 ### [pattern] repeated need for a nudge back to already-answered material
 - Three instances in two days, each on a DIFFERENT topic:
@@ -831,10 +837,17 @@ adjective-ending | plural | tense | anglicism | vocab-confusion | spelling | oth
              after the weil-clause — that piece actually held correctly this time
              ("bleibe ich" both attempts, unprompted). So the specific fragile
              point flipped to the other half of the same rule.
-- Frequency: 2 (both attempts in the same exhaustive review before landing)
-- First seen / last seen: 2026-09-15
-- Status: ACTIVE — needs a shorter revision interval; also English leaked in
-  ("ich stay") on the first attempt
+- Frequency: 3 (2026-09-15 twice, recurred 2026-09-18 in the comprehensive review)
+- First seen / last seen: 2026-09-11 / 2026-09-18
+- Status: ACTIVE — **the defining feature of this error is now clear: the two
+  halves fail in ALTERNATION, never together.** 09-11: weil-clause correct,
+  main clause wrong. 09-15: main clause correct, weil-clause wrong. 09-18:
+  same as 09-15 — "Weil bin ich müde, bleibe ich zu Hause" (main clause
+  right, weil-clause wrong). Each half is well understood in isolation and
+  each isolated retest has been clean, including 2026-09-18. What has never
+  happened is both halves correct in a first, unprompted attempt. Practice
+  should therefore stop treating these as two separate rules to fix and
+  instead require both in one sentence, repeatedly.
 
 ### [phrase] zu Hause treated as der/das-word contraction (zur/die Haus)
 - Incorrect: zur Haus / die Haus

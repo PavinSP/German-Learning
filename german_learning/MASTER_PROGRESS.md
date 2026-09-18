@@ -20,8 +20,8 @@
 | Current CEFR level | PRE-A1 / Foundation, with A2 material in progress |
 | Current module | Foundation → early A2 |
 | Current lesson | Perfekt (past tense) — helper-verb selection FUNCTIONAL, participle spelling LEARNING |
-| Current topic | Comprehensive 100+ question review, Parts 1–2 complete (25/30), Part 3 in progress |
-| Last session date | 2026-09-17 (Session 15 running 2026-09-18) |
+| Current topic | Comprehensive 100+ question review, Parts 1–3 complete (38/45); nicht-placement drill pending |
+| Last session date | 2026-09-18 (Session 15) |
 | Session count | 15 |
 | Study load | ~3 hrs/day since 2026-09-07 — see [STUDY_PLAN.md](STUDY_PLAN.md) |
 | Last full review | 37-question review 2026-09-15 — 25/37 (68%) first-pass, most resolved on self-directed retest |
@@ -48,6 +48,10 @@
 
 - Perfekt: choosing haben vs sein (incl. the counter-intuitive cases —
   *stehen* and *spielen* take haben, *bleiben* takes sein)
+- Two-way prepositions (in/an/auf… — *wohin?* accusative vs *wo?* dative).
+  Took four passes to consolidate; 5/5 with correct reasoning on 2026-09-18
+- Accusative prepositions (für/durch/ohne/gegen/um), including the
+  accusative-plural possessive ending (*gegen unsere Eltern*)
 
 **Vocabulary** — 142 entries logged, 110 confirmed KNOWN through production.
 Themes: greetings, family, food, daily routine and time, weather, shopping,
@@ -66,13 +70,8 @@ spontaneous use in speech, under real-time pressure, across a gap.*
   false umlauts (*gefähren* for gefahren), regularising an irregular
   (*gebleibt* for geblieben), and misplacing the *ge-* in separable verbs
   (*ein**ge**schlafen*, not at the front).
-- **Two-way prepositions** (LEARNING). The *wohin/wo* question itself lands
-  easily and has been re-explained several times; what stays difficult is
-  applying it at speed while also getting the noun's gender right.
 - **Dative pronouns and dative-only verbs** (both LEARNING, both regressed —
   see Weak Areas).
-- **Accusative prepositions** (für/durch/ohne/gegen/um — INTRODUCED). Concept
-  landed immediately since the accusative endings were already secure.
 - **Verb-second in subordinate clauses** (LEARNING). See Weak Areas.
 - **Basic dative articles** (LEARNING) — the mechanics are largely there; the
   friction is in pronoun forms rather than articles.
@@ -95,10 +94,13 @@ spontaneous use in speech, under real-time pressure, across a gap.*
 
 **One rule whose two halves fail in alternation:**
 
-- **weil.** It requires verb-last inside its own clause *and* verb-second in
-  the main clause that follows. On 2026-09-11 the main clause broke; on
-  2026-09-15 the weil-clause broke. Each half has been corrected in isolation;
-  they have not yet held simultaneously.
+- **weil — and the pattern is now unmistakable.** It requires verb-last inside
+  its own clause *and* verb-second in the main clause that follows. Three
+  attempts, three times exactly one half correct: 09-11 the main clause broke,
+  09-15 the weil-clause broke, 09-18 the weil-clause broke again. Every
+  isolated retest has been clean. **Both halves have never yet held together
+  in a first unprompted attempt** — so this should be practised as one
+  sentence requiring both, not as two rules to fix separately.
 
 **Long-running, load-dependent — not knowledge gaps:**
 
@@ -112,10 +114,13 @@ spontaneous use in speech, under real-time pressure, across a gap.*
 
 **Misconceptions that have been corrected but recur in stated reasoning:**
 
-- *"-en marks plural"* — it marks **dative** plural. *gegen unsere Eltern*
-  takes no -en. Corrected twice and still resurfaces.
 - *"Accusative is for action verbs"* — case comes from the noun's role.
 - *"Irregular verbs take sein in the Perfekt"* — unrelated systems.
+- ~~*"-en marks plural"*~~ — **resolved 2026-09-18.** Corrected twice before
+  without sticking; this time the learner disavowed it unprompted while
+  answering ("not unseren cuz it's not dativ plural, it's accusativ plural"),
+  which is a stronger signal than a correct answer alone — the earlier correct
+  answers came with the wrong reasoning attached and the error recurred anyway.
 
 *These are worth tracking separately from ordinary errors: an invented rule
 that feels coherent is harder to displace than a simple gap.*
@@ -172,9 +177,14 @@ that feels coherent is harder to displace than a simple gap.*
   than 09-08 largely because of the gap and a harder question set.
 - **2026-09-16** — Perfekt introduced: 9/10 across three rounds on first
   exposure, including irregular participles produced unprompted.
-- **2026-09-17/18** — Comprehensive 100+ question review in progress.
-  Part 1 (core verbs and basics): **15/15 clean.** Part 2 (dative): 10/15,
-  surfacing the two regressions in Weak Areas. Part 3 pending.
+- **2026-09-17/18** — Comprehensive 100+ question review in progress, **38/45
+  so far.** Part 1 (core verbs and basics): **15/15 clean.** Part 2 (dative):
+  10/15, surfacing the two regressions in Weak Areas. Part 3 (prepositions and
+  word order): **13/15** — two-way prepositions 5/5 with correct reasoning on
+  every item, closing out a topic that had needed four refreshers, and
+  accusative prepositions 5/5 including the unsere/unseren ending with the
+  misconception explicitly disavowed. Both misses were the known recurring
+  items: weil, and nicht with a definite object.
 
 ## Last Session Summary
 
@@ -206,18 +216,22 @@ rule extended so status files refresh whenever anything is logged.
 
 ## Exact Next Step
 
-**Finish Part 3 of the comprehensive review** (Q31–45: two-way prepositions,
-accusative prepositions, word order, and one explain-the-rule question), then
-continue through the remaining parts to the full 100+.
+**Pick up the nicht-placement drill (Q46–52)** — issued at the end of
+2026-09-18 but not attempted. Covers definite objects, indefinite objects,
+modal + infinitive, separable verbs, adjectives and definite plurals. Then
+continue to Part 4 onward of the comprehensive review — the remaining
+vocabulary sweep and the Perfekt material.
 
 **Then, in priority order:**
 
-1. **Dative-only verbs** — isolated drill on the pronoun forms, not the
+1. **weil** — both halves in one sentence, repeatedly. Three attempts have
+   each produced exactly one correct half; drilling them separately has not
+   worked and is unlikely to.
+2. **Dative-only verbs** — isolated drill on the pronoun forms, not the
    concept. The concept is already understood.
-2. **es → ihm / sie → ihr** — spaced repetition; three corrections have not
+3. **es → ihm / sie → ihr** — spaced repetition; three corrections have not
    made it stick, so another single correction will not either.
-3. **weil** — both halves in one sentence, repeatedly.
-4. **unsere vs unseren** — kill the "-en means plural" rule directly.
+4. **nicht with a definite object** — object first, nicht at the end.
 5. **Perfekt participles** — accumulate irregulars; no shortcut exists.
 6. **aus vs von** — never yet drilled in isolation.
 
@@ -249,11 +263,11 @@ explicit pattern, key irregular verbs as a set, nominative as a named concept.
 |---|---|---|
 | Dative-only verbs (helfen/danken/gehören) | LEARNING — regressed | 2026-09-19 |
 | Dative pronouns (es/sie especially) | LEARNING — regressed | 2026-09-19 |
-| Two-way prepositions | LEARNING | 2026-09-17 → overdue |
+| Two-way prepositions | FUNCTIONAL — 5/5 on 2026-09-18 | 2026-09-25 |
+| Accusative prepositions | FUNCTIONAL — 5/5 on 2026-09-18 | 2026-09-25 |
 | weil / verb-second in subordinate clauses | LEARNING | 2026-09-17 → overdue |
 | Perfekt — participle formation | LEARNING | 2026-09-18 |
 | Perfekt — haben/sein selection | FUNCTIONAL | 2026-09-20 |
-| Accusative prepositions | INTRODUCED | due |
 | nicht placement | FUNCTIONAL | 2026-09-20 |
 | Imperative · yes/no questions · separable verbs | FUNCTIONAL | 2026-09-22 |
 | Possessive articles | FUNCTIONAL | 2026-09-22 |

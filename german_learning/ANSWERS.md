@@ -476,3 +476,47 @@ the verb stem, not at the very front. einschlafen → **ein-ge-schlafen**
 (not "ge-einschlafen"). Same idea as aufstehen → **auf-ge-standen** if it
 comes up. This wasn't explicitly taught before it was tested — flagged
 as new ground to revisit.
+
+
+### 2026-09-18 — Q24: nicht placement, in full (extends Q18)
+
+Requested after producing *"Ich sehe nicht den Hund"* for "I don't see the
+dog". Q18 already covered the rule; this adds the part that makes it click.
+
+**Half 1 — nicht goes immediately before what it negates.** If that's a verb,
+an infinitive, or a separable prefix, nicht ends up at or near the end:
+
+- Ich sehe **nicht** fern. *(the prefix)*
+- Er kann **nicht** schwimmen. *(the infinitive)*
+- Ich bin **nicht** müde. *(the adjective)*
+
+**Half 2 — a definite object slides in FRONT of nicht.** This is the half that
+catches people. A definite object (der/die/das, or a possessive) is
+already-established information — the listener knows which dog is meant — so
+it isn't what's being negated:
+
+> **Ich sehe den Hund nicht.**
+
+You aren't saying "it's not the dog I see", you're saying you don't see it at
+all. The negation targets the *seeing*.
+
+**A useful way to hold it:** nicht pushes as far right as it can, and a
+definite object gets out of its way.
+
+**Why the wrong version isn't actually wrong — it's a different sentence.**
+*"Ich sehe nicht den Hund"* is the **contrastive** structure. It's grammatical,
+but it sets up a correction and sounds unfinished without one:
+
+| Sentence | Meaning |
+|---|---|
+| Ich sehe **den Hund nicht**. | I don't see the dog. *(plain negation)* |
+| Ich sehe **nicht den Hund**, sondern die Katze. | It's not the dog I see, but the cat. |
+
+That is worth knowing rather than just avoiding — the word order is a real
+tool, it simply means something more specific than intended here.
+
+**And with an indefinite object, nicht doesn't appear at all** — *kein*
+replaces the article instead. Two separate systems (see Q8, Q9):
+
+> Ich sehe **den Hund nicht**. — I don't see the dog.
+> Ich sehe **keinen Hund**. — I see no dog.
