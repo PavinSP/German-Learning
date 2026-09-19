@@ -21,7 +21,7 @@
 | Current module | Foundation → early A2 |
 | Current lesson | Perfekt (past tense) — helper-verb selection FUNCTIONAL, participle spelling LEARNING |
 | Current topic | Comprehensive 100+ question review, Parts 1–3 complete (38/45); nicht-placement drill pending |
-| Last session date | 2026-09-18 (Session 15) |
+| Last session date | 2026-09-18 (Session 15); repo audit 2026-09-19 |
 | Session count | 15 |
 | Study load | ~3 hrs/day since 2026-09-07 — see [STUDY_PLAN.md](STUDY_PLAN.md) |
 | Last full review | 37-question review 2026-09-15 — 25/37 (68%) first-pass, most resolved on self-directed retest |
@@ -53,7 +53,7 @@
 - Accusative prepositions (für/durch/ohne/gegen/um), including the
   accusative-plural possessive ending (*gegen unsere Eltern*)
 
-**Vocabulary** — 142 entries logged, 110 confirmed KNOWN through production.
+**Vocabulary** — 143 entries logged, 112 confirmed KNOWN through production.
 Themes: greetings, family, food, daily routine and time, weather, shopping,
 house and rooms, hobbies, clothing and colours, accusative pronouns,
 transport and directions, places in town, everyday phrases.

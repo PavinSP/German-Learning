@@ -19,15 +19,26 @@ it tracks coverage against the Anki A1/A2 reference deck and gives a prioritized
 order. Update it (mark lessons covered) after any vocabulary session that draws
 from the Anki deck.
 
-**HARD RULE — Complete Notes and MASTER_PROGRESS must never go stale
-(added 2026-09-18):** Every time you log anything to a tracker (GRAMMAR.md,
+**HARD RULE — no status file may go stale (added 2026-09-18, widened
+2026-09-19):** Every time you log anything to a tracker (GRAMMAR.md,
 ERROR_LOG.md, VOCABULARY.md, ANSWERS.md, daily notes), you must ALSO
-(1) update [Complete Notes.md](Complete%20Notes.md) with whatever is new,
-(2) refresh [MASTER_PROGRESS.md](MASTER_PROGRESS.md) — at minimum its Current
-Status table, and any section the new material actually changes,
-(3) run `cd german_learning && ./build_notes.sh` to regenerate
-`Complete Notes.tex` and `Complete Notes.pdf`, and (4) commit all of it
+(1) update **this file** — the Quick summary table, and the weakness table or
+revision schedule if the new material changes either;
+(2) update [Complete Notes.md](Complete%20Notes.md) with whatever is new;
+(3) refresh [MASTER_PROGRESS.md](MASTER_PROGRESS.md) — at minimum its Current
+Status table, plus any section the material actually changes;
+(4) run `cd german_learning && ./build_notes.sh` to regenerate
+`Complete Notes.tex` and `Complete Notes.pdf`; and (5) commit all of it
 together in the same push.
+
+**The general form of the rule, which matters more than the list:** any file
+that states the learner's *current* position must be re-read and corrected
+whenever that position changes. The 09-18 version of this rule named Complete
+Notes and MASTER_PROGRESS but not CURRENT_STATE — and CURRENT_STATE was found
+stale the very next morning, still claiming Session 14 with a revision
+schedule whose every date had passed. **A rule that enumerates files will miss
+whatever is not enumerated.** When auditing, check content against reality,
+not commit dates: a file can be freshly committed and still wrong.
 
 *MASTER_PROGRESS.md was allowed to sit 13 days stale (Session 7 while the
 real count was 15), claiming listening and speaking were "not yet practiced"
@@ -55,16 +66,19 @@ with a one-line summary rather than letting it grow unbounded.
 |---|---|
 | **Level** | PRE-A1 / Foundation |
 | **Module** | Foundation |
-| **Lesson** | Perfekt (past tense) introduced — 3/4 clean on first exposure, incl. an irregular sein-verb participle (gegangen) produced correctly unprompted |
-| **Last session** | 2026-09-16 (Session 14) — vocab warmup (2/3, Bus/Straße promoted to KNOWN), then Perfekt introduced |
-| **Next action** | **Learner requested a 100+ question full-coverage test next session** — every concept in GRAMMAR.md, every word in VOCABULARY.md, nothing skipped. Build it fresh from those files, don't reuse an old question set. After that: separable-verb participle rule (ge- goes mid-word), more Perfekt, then Präteritum. Still open: an-vs-zu for "corner," aus-vs-von drill, two-way prepositions 2-day recheck |
+| **Lesson** | Comprehensive review in progress. Perfekt: helper-verb selection FUNCTIONAL, participle spelling LEARNING. Two-way + accusative prepositions both promoted FUNCTIONAL 09-18 |
+| **Last session** | 2026-09-18 (Session 15) — comprehensive review Parts 1–3 (38/45); two-way and accusative prepositions both promoted to FUNCTIONAL |
+| **Next action** | **Pick up the nicht-placement drill (Q46–52)** — issued at the end of 09-18, not attempted. Then Part 4 onward of the comprehensive review (38/45 so far): the vocabulary sweep and the Perfekt material. Priority fixes after that, in order: weil (both halves in ONE sentence — drilling them separately has failed three times), dative-only verb pronoun forms, es→ihm/sie→ihr, nicht with definite objects |
 | **Blocking?** | No |
-| **Last full review** | 37-question exhaustive review 2026-09-15 — **25/37 (~68%) clean on first pass**, nearly all rest resolved on self-directed retest. Lower % than 09-08's 89% mainly reflects the 4-day gap and harder word-order/preposition-nuance questions, not new material — see full breakdown in daily_notes/2026-09-15.md |
+| **Last full review** | **In progress** — 100+ question full-coverage review, Parts 1–3 done: **38/45.** Part 1 (basics) 15/15, Part 2 (dative) 10/15, Part 3 (prepositions/word order) 13/15. Previous completed review: 37 questions on 2026-09-15, 25/37 |
 
 ## Known weaknesses (watch list)
 
 | Item | Status | Note |
 |---|---|---|
+| **Dative-only verbs** (helfen/danken/gehören) | **ACTIVE REGRESSION** — 3/3 on 09-10, 1/3 on 09-17 | The verbs are *correctly identified* as dative-taking every time — no accusative reasoning is attempted — but the accusative pronoun is reached for anyway (*danke ihn*, *gehört mich*). Drill the FORMS (mir/dir/ihm/ihr), not the concept |
+| **es → ihm vs sie → ihr** | **ACTIVE, 3rd occurrence** (09-10, 09-17) | Always the same direction: *ihm* given for both. es shares its dative with er, which is counter-intuitive enough to over-apply. Single slipperiest cell in the pronoun table; needs spaced repetition, not another one-off correction |
+| **weil — both halves at once** | **ACTIVE, 3 failures in alternation** | Needs verb-last in its own clause AND verb-second in the main clause. 09-11 the main clause broke; 09-15 and 09-18 the weil-clause broke. Every isolated retest clean. **Both halves have never held together unprompted** — practise them in ONE sentence, not separately |
 | den used for das-words | **LOAD-DEPENDENT, not a gap** (reclassified 2026-09-06) | Broke twice by voice ("den Buch"), then a written 8-question accusative check the same day went **8/8**, including two direct probes ("kein Buch" ✅, "das Buch" ✅). He knows the rule cold in writing. Do NOT re-teach — exercise it under load, like the conjugation pattern |
 | geben conjugation (gibt) | **RESOLVED — 2026-09-07, real gap, in writing** | 5/5 written, camouflaged among 4 other sentences, after a genuine overnight gap. First check to actually meet the bar (previous two "resolutions" were same-day or voice-only and both reversed). Holds until an equally rigorous check contradicts it |
 | Dative: person vs thing case assignment | **CONFIRMED 2026-09-06** | The exact inverted sentence ("Ich gebe ihn dem Hund") came back correct in a written 5/5 round: "Ich gebe ihr den Hund". Still worth one fresh-day probe |
@@ -93,44 +107,65 @@ with a one-line summary rather than letting it grow unbounded.
 
 ## Revision schedule
 
+*Rebuilt 2026-09-19 — the previous version had every date in the past.
+Dates here are derived from GRAMMAR.md's own next-revision column.*
+
 | Topic | Status | Next check due |
 |---|---|---|
-| Accusative case, Possessive articles, Lessons 1-3, Modal verbs (können) | FUNCTIONAL | 2026-09-08 |
-| Verb-second (general), mein/meine gender agreement | FUNCTIONAL | 2026-09-10 |
-| Accusative pronouns — SELECTION by gender | FUNCTIONAL (confirmed 2026-09-04) | 2026-09-11 |
-| Accusative pronouns — FORM recall | FUNCTIONAL | 2026-09-11 — **euch finally produced by voice 2026-09-06** |
-| Modal verbs (müssen, möchten), Separable verbs, kein vs nicht | LEARNING/confirmed clean | 2026-09-08 |
-| Dative — articles, pronouns, preposition mit | LEARNING | Fresh-day check DONE 2026-09-06 by voice: articles ✅, mit ✅, gibt ✅ |
-| Dative — person vs thing case assignment | CONFIRMED (written 5/5, 2026-09-06) | 2026-09-09 — one more probe for form |
-| geben — gibt vs gebt | **FUNCTIONAL, confirmed 2026-09-07** | 2026-09-14 — next spaced check |
-| Vocabulary: family, numbers, food, daily routine/time, weather, shopping | KNOWN | 2026-09-08 |
-| Vocabulary: house & rooms (+ compound nouns) | KNOWN | 2026-09-08 — probe Stuhl/Stühle specifically |
+| **Dative-only verbs** (helfen/danken/gehören) | LEARNING — regressed 09-17 | **2026-09-19 — overdue** |
+| **Dative pronouns** (es→ihm / sie→ihr especially) | LEARNING — regressed 09-17 | **2026-09-19 — overdue** |
+| **weil / verb-second in subordinate clauses** | LEARNING — 3 alternating failures | **2026-09-19 — overdue** |
+| Perfekt — participle formation | LEARNING | 2026-09-19 |
+| Perfekt — haben/sein selection | FUNCTIONAL | 2026-09-20 |
+| nicht placement (definite objects) | FUNCTIONAL — slipped 09-18 | 2026-09-20 |
+| Accusative case · dative prepositions · nach vs zu | FUNCTIONAL | 2026-09-22 |
+| Two-way prepositions | FUNCTIONAL — 5/5 on 09-18 | 2026-09-25 |
+| Accusative prepositions | FUNCTIONAL — 5/5 on 09-18 | 2026-09-25 |
+| Imperative · yes/no questions · separable verbs | FUNCTIONAL | 2026-09-22 |
+| Possessive articles | FUNCTIONAL | 2026-09-22 |
+| Modal verbs · conjunctions · plurals · capitalization | FUNCTIONAL | 2026-09-25 |
+| Vocabulary — all 13 themes (110 KNOWN) | KNOWN | rolling, every session per standing rule |
 
 ## Next action (detail)
 
-**Session 9 (2026-09-07) closed out the pending items:**
+**Where the comprehensive review stands (38/45 through Part 3):**
 
-- `geben` genuinely resolved: 5/5 written, camouflaged, after a real overnight
-  gap. First check to actually meet the bar — two earlier "resolutions" were
-  same-day or voice-only and both reversed. Promoted to FUNCTIONAL.
-- Dative prepositions (mit/nach/bei/von/zu/aus/seit) introduced: rocky start
-  (2/6, mostly redundant-zu-with-geben and geben/gehen mix-ups) but closed
-  3/3 clean, including unprompted full dative-plural mastery
-  ("Er spielt mit seinen Freunden").
-- Free writing volume jumped from 2 sentences to 7, with a real narrative
-  structure — the "constraint is vocabulary/willingness, not grammar" reading
-  from 09-06 looks directionally correct.
-- One light nuance still shaky: choosing **aus vs von** for "coming from a
-  place" (aus = out of an enclosed space; von = general source/return-from).
-  Not urgent, genuinely subtle even for careful learners.
+- **Part 1 — basics: 15/15.** sein/haben, accusative, yes/no questions,
+  possessives, numbers, separable and modal verbs, irregular conjugations.
+  Nothing to follow up.
+- **Part 2 — dative: 10/15.** Surfaced the two active regressions below.
+- **Part 3 — prepositions and word order: 13/15.** Two-way prepositions 5/5
+  *with correct reasoning stated on every item*, closing out a topic that had
+  needed four separate refreshers. Accusative prepositions 5/5, including
+  *gegen unsere Eltern* with the "-en means plural" misconception explicitly
+  disavowed unprompted — which is why it is finally treated as resolved rather
+  than merely answered correctly.
 
-**Next session:** a fresh-day check on dative prepositions (aus/von choice
-specifically), then learner's choice — extend dative further, accusative
-prepositions (für/durch), or more vocabulary (VOCAB_PLAN.md: transport/
-directions is next). Consider reading or a voice check for Block 3 variety,
-since recent Block 3 sessions have all been free writing.
+**Immediately pending:** the nicht-placement drill (Q46–52), issued at the end
+of 2026-09-18 but not attempted. Covers definite objects, indefinite objects,
+modal + infinitive, separable verbs, adjectives, definite plurals.
 
-Standing method notes:
+**Then Part 4 onward** — the vocabulary sweep and the Perfekt material.
+
+**Two active regressions, both narrow and well-characterised:**
+
+1. **Dative-only verbs** (helfen/danken/gehören) — 3/3 on 09-10, then 1/3 on
+   09-17. The verbs are *correctly identified* as dative-taking every time;
+   the accusative pronoun gets reached for anyway (*danke ihn*, *gehört mich*).
+   Drill the forms, not the concept.
+2. **es → ihm versus sie → ihr** — three occurrences, always the same
+   direction (*ihm* for both). Single slipperiest cell in the pronoun table.
+
+**And one rule whose halves fail in alternation:** *weil* needs verb-last in
+its own clause AND verb-second in the main clause. Three attempts, each with
+exactly one half right (09-11 main clause, 09-15 and 09-18 the weil-clause).
+Every isolated retest has been clean. **Practise both halves in one sentence** —
+fixing them separately has demonstrably not worked.
+
+**Note for when the future tense comes up:** the learner wrote *"ich will
+morgen machen"* for "I'll do it tomorrow". *wollen* means "to want" — the
+future is *werden* (Ich werde es morgen machen), still NOT_STARTED.
+
 Standing method notes:
 - **Reading is now a standing component of sessions, not an extra.** Two passages on
   2026-09-03 scored 7/8, making it immediately the learner's strongest modality —

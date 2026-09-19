@@ -168,7 +168,8 @@ A word is only MASTERED after correct recall across multiple sessions.
 
 **House & rooms**
 - das Zimmer | the room | plural: die Zimmer (unchanged) | noun | Mein Vater ist im Zimmer. | KNOWN | 2026-09-07 | confirmed via im/ins location-vs-motion check
-- der Raum | room / space (more general than Zimmer) | plural: die Räume | noun | Mein Vater ist im Raum. | NEW | 2026-09-07 | he used it correctly unprompted, before being taught
+- der Raum | room / space (more general than Zimmer) | plural: die Räume | noun | Ich gehe in den Raum. | KNOWN | 2026-09-18 | used correctly unprompted before being taught (09-07); confirmed twice more in the two-way preposition round (in den Raum / im Raum), both cases correct
+- der Garten | the garden | plural: die Gärten | noun | Der Hund ist im Garten. | KNOWN | 2026-09-18 | was being USED in test prompts since 09-15 without ever being logged here — a vocabulary-hard-rule violation, caught in the 09-19 audit. Produced correctly in both cases (im Garten / in den Garten)
 - die Küche | the kitchen | plural: die Küchen | noun | Die Küche ist warm. | KNOWN | 2026-09-03
 - das Schlafzimmer | the bedroom | plural: die Schlafzimmer | noun | Mein Schlafzimmer ist kalt. | KNOWN | 2026-09-03 | compound noun (schlafen + Zimmer); final part sets the gender
 - das Bad | the bathroom | plural: die Bäder | noun | Das Bad ist nicht warm. | KNOWN | 2026-09-03

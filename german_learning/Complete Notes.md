@@ -812,7 +812,8 @@ der Apfel *(Äpfel)* · das Wasser · **essen** *(isst)* · **trinken**
 
 das Haus *(Häuser)* · das Zimmer *(unchanged in plural)* ·
 der Raum *(Räume)* · die Küche · das Schlafzimmer · das Bad ·
-der Tisch *(Tische)* · der Stuhl *(Stühle)* · das Fenster *(unchanged)*
+der Tisch *(Tische)* · der Stuhl *(Stühle)* · das Fenster *(unchanged)* ·
+der Garten *(Gärten)*
 
 *der **Tisch** is the table, der **Stuhl** is the chair.*
 

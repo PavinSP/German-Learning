@@ -264,13 +264,24 @@ introduced.
 
 ---
 
-## Immediate next steps (first week, 2026-09-07 onward)
+## Plan review — due 2026-09-21
 
-Carried over from current state — these come first before new material:
+This plan was set 2026-09-04 with a two-week review point. That review is now
+due. Worth assessing against real session data:
 
-1. **Focused pass on `geben`** (gebe/gibst/**gibt**/geben/gebt/geben) — flagged
-   2026-09-04 as the cause of Part F's 2/6, mistaken for a dative problem
-2. **Dative fresh-day check** — due 2026-09-06, will land in the first block
-3. **Two deferred explanations in DOUBTS.md** — nicht placement; dative
-   prepositions (mit/nach/bei/von/zu/aus/seit) and the two distinct causes of dative
-4. **Then** resume new grammar at the 2-per-week cadence
+- **Did the three-block structure actually happen?** Sessions have in practice
+  been single longer stretches rather than three spaced hours. If the spacing
+  isn't real, the retention argument for it doesn't apply and the plan should
+  say what is actually happening.
+- **Is the 2-new-concepts-per-week cap holding?** Roughly, yes — and where
+  material was introduced faster, it produced the regressions now visible in
+  ERROR_LOG.
+- **Has the writing/voice split worked?** Yes. Voice has stayed on fluency and
+  listening; endings have stayed in writing, as intended.
+- **Reading** was called the strongest modality and a standing component, but
+  has had little time since early September. Either reinstate it or drop the
+  claim.
+
+*(The original "immediate next steps" list that stood here — a geben pass, a
+dative fresh-day check, and two deferred DOUBTS.md explanations — was all
+completed by 2026-09-08 and has been removed.)*
